@@ -6,11 +6,11 @@ toc: true
 
 ## Basic Information
 
-Instructor
-:   David Sanson
-
 PHI 101-003 [Honors]
 :   MW 3:35PM -- 4:50PM, Stevenson 0229 
+
+Instructor
+:   David Sanson
 
 Office Hours
 :   Stevenson 341, TBA
