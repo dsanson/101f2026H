@@ -1,0 +1,320 @@
+---
+title: |
+  Course Syllabus
+toc: true
+---
+
+## Basic Information
+
+Instructor
+:   David Sanson
+
+PHI 101-003 [Honors]
+:   MW 3:35PM -- 4:50PM, Stevenson 0229 
+
+Office Hours
+:   Stevenson 341, TBA
+
+## Course Description
+
+
+This is a course about doing philosophy. We will spend the next 15 weeks doing
+philosophy together. Topics we will cover include: the existence of God, the
+nature of the self, death, free will, our knowledge of external world, the
+justification of political authority, the morality of abortion, the morality of
+eating meat, and the relationship between happiness, doing what is good, and
+doing what it is right. I have left space for additional topics at the end of
+the term. We will decide together what other topics we want to cover.
+
+This is also an "honors" section. That means that our class size is a bit
+smaller, so I can give each of you a bit more attention. It also means that I
+expect a bit more from you than I expect from a typical ISU student. I am not
+going to assign you *more work*, but I expect you to *do more* with the work
+assigned. Hopefully, our our discussions will reflect this, and we will be able,
+collectively, to dig deeper into the material than would be possible in a
+non-honors section.
+
+## Why bother doing philosophy?
+
+Philosophy tackles basic questions about existence, identity, knowledge, and
+value. These questions are important, but they are also hard to approach and
+hard to answer. Other fields balk at these questions or approach them obliquely.
+In Philosophy, we learn to face them head on.
+
+It turns out that doing this is one of the best ways to train your mind to think
+clearly and carefully about hard problems. If you want to learn how to think
+clearly and carefully about hard *quantitative* problems, you should take more
+math classes. But if you want to learn how to think clearly and carefully about
+hard *non-quantitative* problems, you should study philosophy.
+
+What I am describing here is not an abstract academic skill. Studying philosophy
+will make you better at thinking about anything than most other people, and this
+has enormous practical value. Contrary to the "flipping burgers" stereotype,
+philosophy majors, on average, [make better money than other humanities
+majors](https://www.forbes.com/sites/jeffreydorfman/2014/11/20/surprise-humanities-degrees-provide-great-return-on-investment/),
+and [better money than most "applied"
+majors](https://www.wsj.com/public/resources/documents/info-Degrees_that_Pay_you_Back-sort.html)
+as well (sort by "Mid-Career Median Salary"). Philosophy is one of [the most
+"AI-proof" majors](https://dailynous.com/?p=57429). And Philosophy majors
+routinely [outperform other majors on graduate entrance
+exams](https://dailynous.com/?p=8587), including the GRE (graduate school), LSAT
+(law school), MCAT (medical school), and GMAT (business school). Turns out that
+being good at thinking about stuff is useful no matter how you hope to sell your
+labor in the future.
+
+But what I am describing here are not (just) "transferable job skills".
+To quote [Ángel Pinillos](https://napinillos.substack.com/p/the-honest-case-for-the-humanities) (Arizona State University):
+
+> You will, at some point, need to advocate for your child at her school. You
+> will need to read a teacher's email carefully enough to notice what it is and
+> is not saying, and write a response that is firm without being inflammatory,
+> and recognize when an administrator is performing concern rather than offering
+> it. You will need to talk to a doctor about a parent's care, or your own, and
+> follow an argument about risk and tradeoff that the doctor is making quickly
+> and imperfectly, and ask the question that exposes the assumption the doctor
+> has not examined. You will need to understand the context of someone who grew
+> up in a place very different from you, with radically different values and
+> experiences. You will need to read a contract. You will need to read a ballot
+> measure. You will need to argue, in public or in private, for the candidate or
+> the policy you believe in, and you will need to do this against people who are
+> themselves trained, motivated and may not have your best interest at heart.
+>
+> These are not the higher reaches of the soul. They are not transcendental
+> encounters with truth and beauty. They are ordinary citizenship and ordinary
+> parenthood and ordinary adulthood, and they have material consequences --- for
+> your kid, for your parent, for your community, for the decisions that get made
+> about you when you are not in the room.
+
+Studying Philosophy teaches these skills better than anything else in the
+university curriculum.
+
+## Learning from Arguments
+
+Our textbook is a free, online, open-source text, *[Learning from Arguments](https://www.davidsanson.com/learning-from-arguments-remix/)*.
+
+The book is opinionated, but the opinions are not the opinions of the author.
+Each chapter presents, as clearly and powerfully as possible, an argument for a
+controversial philosophical position: The first presents an argument that God
+does not exist; the second, an argument that you should believe in God; the
+third, that you are neither your body nor your mind; the fourth, that you
+shouldn't fear death; the fifth, that we do not have free will; the sixth, that
+we know nothing about the external world; the seventh, that no government has
+the right to tax or incarcerate its citizens; the eighth, that abortion is
+morally wrong; the ninth, that eating meat is morally wrong; and the tenth
+chapter defends *Utilitarianism*---the idea that what makes an action right or
+wrong is ultimately a matter of how much it increases or decreases our overall
+happiness.
+
+The point here is not to convince you of each these positions. Nor is the point
+to "spark debate" by "playing devil's advocate".
+
+The point is to present you with the strongest and clearest possible argument
+for each position. Your job, as a reader, is to think carefully and hard about
+these arguments. If you think they go wrong, your job is to figure out and
+articulate how they go wrong. Through this process, you will gain deeper insight
+into what you believe and why you believe it, and you will gain better
+understanding of the underlying philosophical puzzles and problems that might
+lead to disagreement on these issues.
+
+## Schedule
+
+In a typical week, I will ask you to read one chapter from the textbook. I will
+spend part of Monday's class lecturing on the material from that chapter, before
+opening things up to discussion and in-class activities, focused primarily on
+understanding the arguments from the chapter. After class, you should then
+*re-read* that chapter, and think more about the issues it raises in light of
+the class lecture and discussion. On Wednesday, we will continue our discussion,
+shifting our focus from the task of understanding the arguments to the task of
+articulating objections and alternatives to the position defended in the text.
+
+## Grades
+
+Your grade for this course is based on three graded exams---two midterms and a
+final---and an indeterminate number of ungraded pass/fail in-class writing
+exercises. Each exam is worth 25% of your grade, so, together, the exams make up
+75% of your grade. In-class exercises make up the remaining 25%.
+
+### Exams
+
+Exams are in-class, handwritten, closed book and closed notes, and comprise a
+mix of short answer and essay questions. You can find the dates for the midterms
+on the course [schedule](schedule.md). The date and time of the final exam is
+has not yet been fixed: the registrar sets these dates for all of your classes
+at some point later in the term.
+
+Midterms will be returned to you with comments, a score, and a letter grade. The
+first midterm will cover material from the first third of the class; the second
+midterm, material from the second third. The final exam will be cumulative, but
+weighted toward material from the last third of the class. 
+
+### In-class Exercises
+
+Classes will often include in-class exercises. These exercises are not announced
+ahead of time: they flow from whatever it is we are doing that day, and are closely
+tied to the readings, lecture, and discussion. They are turned in and graded pass/fail.
+Failed exercises will be returned with a brief comment explaining why what was done was
+not sufficient to receive a pass.
+
+Missed in-class exercises cannot be made up. An in-class exercise missed due to
+an excused absence does not count against your grade.
+
+### Calculating Your Grade
+
+Because each exam is worth 25% of your course grade, and the exercises are also worth 25%, 
+you can calculate your course grade by taking the average of each of your these grades:
+
+
+$$\mathrm{Course\ \%} = \dfrac{\mathrm{Exercises\ \%} + \mathrm{Midterm\ \%} + \mathrm{Midterm\ \%} + \mathrm{Final\ \%}}{4}$$
+
+You can also use this formula to answer questions like, "How well do I have to do on the final to get an A?"
+
+$$\mathrm{93\%} \ge \dfrac{\mathrm{Exercises\ \%} + \mathrm{Midterm\ \%} + \mathrm{Midterm\ \%} + \mathrm{?\ \%}}{4}$$
+
+And, if you want to calculate your "grade so far", you can simply take the average of your current exercises percentage and whatever midterms are completed. For example, if you have received grades for the two midterms but have not yet taken the final:
+
+
+$$\mathrm{Grade\ so\ far\ \%} = \dfrac{\mathrm{Exercises\ so\ far\ \%} + \mathrm{Midterm\ \%} + \mathrm{Midterm\ \%}}{3}$$
+
+To do these calculations, you need to know the percentage of exercises you have
+passed and the letter grade you received on each exam and how to convert that
+letter grade to a percentage. You also need to know how to convert that
+calculated percentage into a course letter grade. 
+
+Use @tbl-1 to convert your exam letter grades into percentages, and
+use @tbl-2 to convert the average percentage back into a letter grade.
+Note that I will not typically use the percentages in @tbl-2 when assigning letter grades for the exams. Instead, I will apply a more flexible and generous conversion scale that reflects my judgment of what grade a given exam score deserves, given the construction of the exam, my scoring system, and the class's overall performance. (This is one thing professors sometimes mean when they say that they say that the exams will be "graded on a curve.") So when it comes to exams, what matters for your course grade is the **letter grade** you receive, not your numeric score or percentage.
+
+:::{#tbl-1 .list-table}
+Converting Letter Grades to Percentages
+
+- - Letter Grade
+  - Percentage
+- - A
+  - 95%
+- - A-
+  - 91.5%
+- - B+
+  - 88.5%
+- - B
+  - 85%
+- - B-
+  - 81.5%
+- - C+
+  - 78.5%
+- - C
+  - 75%
+- - C-
+  - 71.5%
+- - D+
+  - 68.5%
+- - D
+  - 65%
+- - D-
+  - 61.5%
+- - F
+  - 0%
+:::
+
+
+:::{#tbl-2 .list-table}
+Converting Percentages to Letter Grades
+
+- - Percentage Complete
+  - Letter Grade
+- - 93% and above
+  - A
+- - 90% and above
+  - A-
+- - 87% and above
+  - B+
+- - 83% and above
+  - B
+- - 80% and above
+  - B-
+- - 77% and above
+  - C+
+- - 73% and above
+  - C
+- - 70% and above
+  - C-
+- - 67% and above
+  - D+
+- - 63% and above
+  - D
+- - 60% and above
+  - D-
+- - below 60%
+  - F
+:::
+
+
+## Attendance
+
+You are responsible for attending class and completing all assigned academic
+work. You should familiarize yourself with University policy to
+understand which absences are excused and which are not. If you need advice on
+how to manage an extended absence or want notification of your absence sent to
+your instructors, contact the [Dean of Students
+Office](https://deanofstudents.illinoisstate.edu/contact/absence/).
+
+## Consequences of Absence
+
+Formally, absence will impact your grade by depriving you of the opportunity to
+complete in-class exercises. Informally, absence deprives you of the opportunity
+to learn from lecture, discussion, and in-class exercises.
+
+## Accommodations
+
+Any student needing to arrange a reasonable accommodation for a documented
+disability and/or medical/mental health condition should contact Student
+Access and Accommodation Services at 308 Fell Hall, Office Phone (309)
+438-5853, Video Phone (309) 319-7682 or visit the website at
+\<StudentAccess.IllinoisState.edu\>.
+
+I am also open to arranging reasonable accommodation regardless of
+documentation. If there is something that would help you, ask.
+
+## Academic Integrity
+
+You are expected to be honest in all academic work, consistent with the
+academic integrity policy as outlined in the Code of Student Conduct and any
+additional syllabus language. All work is to be appropriately cited when it is
+borrowed, directly or indirectly, from another source. Unauthorized and/or
+unacknowledged collaboration on any work, or the presentation of someone
+else's work as your own, is a form of academic dishonesty under the Code of
+Student Conduct.
+
+Content generated by an Artificial Intelligence third-party service or site
+(AI-generated content) without proper authorization and attribution is a form
+of academic dishonesty. If you are unsure about whether something used in your
+work requires attribution, please reach out to me to discuss it as soon as
+possible. Allegations of academic dishonesty will be referred to Student
+Conduct and Community Responsibilities, for review under the Student Code of
+Conduct. Students found responsible for academic dishonesty may also be
+assigned a grade penalty by the instructor.
+
+##  Generative AI Use Not Permitted
+
+In this course, the use of generative AI tools such as ChatGPT, Microsoft
+Copilot, Adobe Firefly, Google AI Mode, or Apple Intelligence is not permitted
+to support the completion of any assigned work. This includes, but is not
+limited to, using generative AI tools to ideate, pre-plan, edit, translate, or
+otherwise create original material you claim to be solely your creation. Use
+of a generative AI tool to complete assigned work in whole or in part may be
+referred under the Code of Student Conduct academic dishonesty provisions for
+further action by the Dean of Students Office.
+
+## Permission Required to Record 
+
+Students who wish to use phones or other audio or video devices to record
+classroom lectures/discussions or take photographs must obtain written
+permission from the instructor except with an approved accommodation
+from Student Access and Accommodations Services. Approved recordings are to be
+used solely for the purposes of individual or group study with other students
+enrolled in the class. They may not be reproduced, shared with those not
+enrolled in the class, or uploaded to publicly accessible web environments.
+Violation of this classroom rule may result in referral to the Student Conduct
+and Community Responsibilities (SCCR) office for disciplinary action.
+
+
+
