@@ -31,8 +31,6 @@ metadata:
 
 callout-appearance: minimal
 
-tbl-cap-location: bottom
-
 format:
   html:
     axe: true
