@@ -35,12 +35,14 @@ tbl-cap-location: bottom
 
 format:
   html:
+    axe: true
+    respect-user-color-scheme: true
     template-partials:
       - title-metadata.html
-    respect-user-color-scheme: true
     theme:
       light: 
         - flatly
+        - theme-light.scss
         - custom.scss
       dark: 
         - darkly
