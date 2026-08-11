@@ -1,5 +1,19 @@
 [
   {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Basic Issues in Philosophy",
+    "section": "",
+    "text": "This is the course website for:\n\nPHI 101-003 [Honors]\n\nMW 3:35PM – 4:50PM, Stevenson Hall 0229.\n\n\nI will not be using Canvas. To keep on top of readings and assignments, you need to check the schedule, come to class, and pay attention to in-class announcements. If you are worried about your grade, you can either calculate it for yourself or come to my office hours and ask me."
+  },
+  {
+    "objectID": "schedule.html",
+    "href": "schedule.html",
+    "title": "Schedule",
+    "section": "",
+    "text": "Week\nDate\nTopic\nReading\n\n\n\n\n 1\nM 8/17\nWelcome!\n\n\n\nW 8/19\nArguments and Thought Experiments\nIntroduction\n\n\n 2\nM 8/24\n The Problem of Evil\n Can God Allow Suffering?\n\n\nW 8/26\n\n\n 3\nM 8/31\n Pascal’s Wager\n Why You Should Bet on God\n\n\nW 9/2\n\n\n 4\nM 9/7\nLabor Day — No Class\n\n\n\nW 9/9\n Personal Identity\n What Makes You You\n\n\n 5\nM 9/14\n\n\nW 9/16\nMidterm 1\n\n\n\n 6\nM 9/21\n Death\n Don’t Fear the Reaper\n\n\nW 9/23\n\n\n 7\nM 9/28\n Free Will\n No Freedom\n\n\nW 9/30\n\n\n 8\nM 10/5\n Skepticism\n You Know Nothing\n\n\nW 10/7\n\n\n 9\nM 10/12\n Political Authority\n Against Prisons and Taxes\n\n\nW 10/14\n\n\n 10\nM 10/19\nTBD\n\n\n\nW 10/21\nMidterm 2\n\n\n\n 11\nM 10/26\n Abortion\n The Ethics of Abortion\n\n\nW 10/28\n\n\n 12\nM 11/2\n Eating Animals\n Eating Animals is Immoral\n\n\nW 11/4\n\n\n 13\nM 11/9\n Utilitarianism\n What Makes Things Right\n\n\nW 11/11\n\n\n 14\nM 11/16\nTBD by class\n\n\n\nW 11/18\nTBD by class\n\n\n\n  \nM 11/23\n Thanksgiving Break — No Class\n  \n\n\nW 11/25\n\n\n 15\nM 11/30\nTBD by class\n\n\n\nW 12/2\nTBD by class\n\n\n\n Final\nM 12/7 – 12/12\nDate and time of final exam TBD by registrar"
+  },
+  {
     "objectID": "syllabus.html",
     "href": "syllabus.html",
     "title": "Course Syllabus",
@@ -89,103 +103,5 @@
     "title": "Course Syllabus",
     "section": "Permission Required to Record",
     "text": "Permission Required to Record\nStudents who wish to use phones or other audio or video devices to record classroom lectures/discussions or take photographs must obtain written permission from the instructor except with an approved accommodation from Student Access and Accommodations Services. Approved recordings are to be used solely for the purposes of individual or group study with other students enrolled in the class. They may not be reproduced, shared with those not enrolled in the class, or uploaded to publicly accessible web environments. Violation of this classroom rule may result in referral to the Student Conduct and Community Responsibilities (SCCR) office for disciplinary action."
-  },
-  {
-    "objectID": "grade_calculator.html",
-    "href": "grade_calculator.html",
-    "title": "PHI 101-003",
-    "section": "",
-    "text": "Grade Calculator\nThis doesn’t work quite right. It doesn’t distinguish minimum cut-off values from the values that should be assigned to letter grades.\n\ngradeValues = new Map([\n  [\"A\", 93],\n  [\"A-\", 90],\n  [\"B+\", 87],\n  [\"B\", 83],\n  [\"B-\", 80],\n  [\"C+\", 77],\n  [\"C\", 73],\n  [\"C-\", 70],\n  [\"D+\", 67],\n  [\"D\", 63],\n  [\"D-\", 60],\n  [\"F\", 0]\n])\n\ngradeOptionsWithNull = [null, \"A\", \"A-\", \"B+\", \"B\", \"B-\", \"C+\", \"C\", \"C-\", \"D+\", \"D\", \"D-\", \"F\"]\n\nviewof gradeInputs = Inputs.form({\n  assignment1: Inputs.select(gradeOptionsWithNull, { label: \"Exercises\", value: null }),\n  assignment2: Inputs.select(gradeOptionsWithNull, { label: \"Midterm 1\", value: null }),\n  assignment3: Inputs.select(gradeOptionsWithNull, { label: \"Midterm 2\", value: null }),\n  assignment4: Inputs.select(gradeOptionsWithNull, { label: \"Final Exam\", value: null })\n})\n\ngradesArray = [\n  gradeInputs.assignment1,\n  gradeInputs.assignment2,\n  gradeInputs.assignment3,\n  gradeInputs.assignment4\n]\n\n// Average of grades entered so far\naveragePercentToDate = {\n  const validGrades = gradesArray\n    .filter(grade =&gt; grade !== null && grade !== \"\")\n    .map(grade =&gt; gradeValues.get(grade));\n  \n  if (validGrades.length === 0) return 0;\n  \n  const sum = validGrades.reduce((a, b) =&gt; a + b, 0);\n  return (sum / validGrades.length).toFixed(1);\n}\n\n// Average assuming remaining grades are 0\naveragePercentFinal = {\n  const validGrades = gradesArray\n    .filter(grade =&gt; grade !== null && grade !== \"\")\n    .map(grade =&gt; gradeValues.get(grade));\n  \n  const sum = validGrades.reduce((a, b) =&gt; a + b, 0);\n  const average = sum / 4; // Always divide by 4\n  return average.toFixed(1);\n}\n\nletterGradeToDate = {\n  const percent = parseFloat(averagePercentToDate);\n  \n  if (percent &gt;= 90) return \"A-\";\n  if (percent &gt;= 80) return \"B-\";\n  if (percent &gt;= 70) return \"C-\";\n  if (percent &gt;= 60) return \"D-\";\n  if (percent &gt; 0) return \"F\";\n  return \"—\";\n}\n\nletterGradeFinal = {\n  const percent = parseFloat(averagePercentFinal);\n  \n  if (percent &gt;= 90) return \"A-\";\n  if (percent &gt;= 80) return \"B-\";\n  if (percent &gt;= 70) return \"C-\";\n  if (percent &gt;= 60) return \"D-\";\n  if (percent &gt; 0) return \"F\";\n  return \"F\";\n}\n\nhtml`\n  &lt;div style=\"\n    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;\n    max-width: 600px;\n    margin: 2rem auto;\n    padding: 2rem;\n    border-radius: 8px;\n    background: #f8f9fa;\n    box-shadow: 0 2px 8px rgba(0,0,0,0.1);\n  \"&gt;\n    &lt;h2 style=\"margin-top: 0; color: #333;\"&gt;📊 Course Grade Calculator&lt;/h2&gt;\n    \n    &lt;p style=\"color: #666; margin-bottom: 1.5rem;\"&gt;\n      Select your letter grade for each assignment (each worth 25%).\n    &lt;/p&gt;\n    \n    &lt;div style=\"margin-bottom: 1.5rem;\"&gt;\n      ${gradeInputs}\n    &lt;/div&gt;\n    \n    &lt;div style=\"\n      margin-top: 2rem;\n      display: grid;\n      grid-template-columns: 1fr 1fr;\n      gap: 1.5rem;\n    \"&gt;\n      &lt;div style=\"\n        padding: 1.5rem;\n        border: 2px solid #ddd;\n        background: white;\n        border-radius: 4px;\n        text-align: center;\n      \"&gt;\n        &lt;p style=\"color: #666; margin: 0 0 0.5rem 0; font-size: 0.9rem;\"&gt;\n          How You're Doing So Far\n        &lt;/p&gt;\n        &lt;p style=\"\n          margin: 0;\n          font-size: 2rem;\n          font-weight: bold;\n          color: ${averagePercentToDate &gt;= 90 ? '#28a745' : averagePercentToDate &gt;= 80 ? '#17a2b8' : averagePercentToDate &gt;= 70 ? '#ffc107' : averagePercentToDate &gt;= 60 ? '#ff9800' : averagePercentToDate &gt; 0 ? '#dc3545' : '#999'};\n        \"&gt;\n          ${letterGradeToDate}\n        &lt;/p&gt;\n        &lt;p style=\"\n          margin: 0.5rem 0 0 0;\n          font-size: 0.85rem;\n          color: #666;\n        \"&gt;\n          ${averagePercentToDate}%\n        &lt;/p&gt;\n        &lt;p style=\"\n          margin: 0.5rem 0 0 0;\n          font-size: 0.75rem;\n          color: #999;\n        \"&gt;\n          Based on ${gradesArray.filter(g =&gt; g !== null && g !== \"\").length} grade(s)\n        &lt;/p&gt;\n      &lt;/div&gt;\n\n      &lt;div style=\"\n        padding: 1.5rem;\n        border: 2px solid #ddd;\n        background: white;\n        border-radius: 4px;\n        text-align: center;\n      \"&gt;\n        &lt;p style=\"color: #666; margin: 0 0 0.5rem 0; font-size: 0.9rem;\"&gt;\n          Final Grade (if no more work)\n        &lt;/p&gt;\n        &lt;p style=\"\n          margin: 0;\n          font-size: 2rem;\n          font-weight: bold;\n          color: ${averagePercentFinal &gt;= 90 ? '#28a745' : averagePercentFinal &gt;= 80 ? '#17a2b8' : averagePercentFinal &gt;= 70 ? '#ffc107' : averagePercentFinal &gt;= 60 ? '#ff9800' : '#dc3545'};\n        \"&gt;\n          ${letterGradeFinal}\n        &lt;/p&gt;\n        &lt;p style=\"\n          margin: 0.5rem 0 0 0;\n          font-size: 0.85rem;\n          color: #666;\n        \"&gt;\n          ${averagePercentFinal}%\n        &lt;/p&gt;\n        &lt;p style=\"\n          margin: 0.5rem 0 0 0;\n          font-size: 0.75rem;\n          color: #999;\n        \"&gt;\n          Assuming 0s for missing work\n        &lt;/p&gt;\n      &lt;/div&gt;\n    &lt;/div&gt;\n  &lt;/div&gt;\n`"
-  },
-  {
-    "objectID": "slides.html",
-    "href": "slides.html",
-    "title": "Slides",
-    "section": "",
-    "text": "These are the slides from class. As you will discover, they are not “lecture notes”, and they do not take the place of taking your own notes during and after class discussion.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGetting Started\n\n\n\n\n\n\n\n\nAug 19, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nThe Problem of Evil\n\n\n\n\n\n\n\n\nAug 21, 2026\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "schedule.html",
-    "href": "schedule.html",
-    "title": "Schedule",
-    "section": "",
-    "text": "Week\nDate\nTopic\nReading\n\n\n\n\n 1\nM 8/17\nWelcome!\n\n\n\nW 8/19\nArguments and Thought Experiments\nIntroduction\n\n\n 2\nM 8/24\n The Problem of Evil\n Can God Allow Suffering?\n\n\nW 8/26\n\n\n 3\nM 8/31\n Pascal’s Wager\n Why You Should Bet on God\n\n\nW 9/2\n\n\n 4\nM 9/7\nLabor Day — No Class\n\n\n\nW 9/9\n Personal Identity\n What Makes You You\n\n\n 5\nM 9/14\n\n\nW 9/16\nMidterm 1\n\n\n\n 6\nM 9/21\n Death\n Don’t Fear the Reaper\n\n\nW 9/23\n\n\n 7\nM 9/28\n Free Will\n No Freedom\n\n\nW 9/30\n\n\n 8\nM 10/5\n Skepticism\n You Know Nothing\n\n\nW 10/7\n\n\n 9\nM 10/12\n Political Authority\n Against Prisons and Taxes\n\n\nW 10/14\n\n\n 10\nM 10/19\nTBD\n\n\n\nW 10/21\nMidterm 2\n\n\n\n 11\nM 10/26\n Abortion\n The Ethics of Abortion\n\n\nW 10/28\n\n\n 12\nM 11/2\n Eating Animals\n Eating Animals is Immoral\n\n\nW 11/4\n\n\n 13\nM 11/9\n Utilitarianism\n What Makes Things Right\n\n\nW 11/11\n\n\n 14\nM 11/16\nTBD by class\n\n\n\nW 11/18\nTBD by class\n\n\n\n  \nM 11/23\n Thanksgiving Break — No Class\n  \n\n\nW 11/25\n\n\n 15\nM 11/30\nTBD by class\n\n\n\nW 12/2\nTBD by class\n\n\n\n Final\nM 12/7 – 12/12\nDate and time of final exam TBD by registrar"
-  },
-  {
-    "objectID": "slides/evil.html#the-argument-from-suffering",
-    "href": "slides/evil.html#the-argument-from-suffering",
-    "title": "The Problem of Evil",
-    "section": "The Argument from Suffering",
-    "text": "The Argument from Suffering\n\nAS1. There is suffering in the world\nAS2. If there is suffering in the world, then God does not exist\nAS3. So, God does not exist"
-  },
-  {
-    "objectID": "slides/evil.html#first-premise",
-    "href": "slides/evil.html#first-premise",
-    "title": "The Problem of Evil",
-    "section": "First Premise",
-    "text": "First Premise\n\nAS1. There is suffering in the world\n\nTODO: add image"
-  },
-  {
-    "objectID": "slides/evil.html#conceptions-of-god",
-    "href": "slides/evil.html#conceptions-of-god",
-    "title": "The Problem of Evil",
-    "section": "Conceptions of God",
-    "text": "Conceptions of God\n\nClassical Theism\n\nGod is a *perfect person**: omnipotent, omniscient, and omnibenevolent.\n\nOpen Theism\n\nEven God cannot know everything about the future.\n\nDeism\n\nGod is a supreme being and creator, but not a person. God does not care."
-  },
-  {
-    "objectID": "slides/evil.html#omnibenevolent",
-    "href": "slides/evil.html#omnibenevolent",
-    "title": "The Problem of Evil",
-    "section": "Omnibenevolent",
-    "text": "Omnibenevolent"
-  },
-  {
-    "objectID": "slides/evil.html#omniscient",
-    "href": "slides/evil.html#omniscient",
-    "title": "The Problem of Evil",
-    "section": "Omniscient",
-    "text": "Omniscient\nTODO: add image"
-  },
-  {
-    "objectID": "slides/evil.html#omnipotent",
-    "href": "slides/evil.html#omnipotent",
-    "title": "The Problem of Evil",
-    "section": "Omnipotent",
-    "text": "Omnipotent\nTODO: add image"
-  },
-  {
-    "objectID": "slides/evil.html#defending-the-second-premise",
-    "href": "slides/evil.html#defending-the-second-premise",
-    "title": "The Problem of Evil",
-    "section": "Defending the Second Premise",
-    "text": "Defending the Second Premise\n\nOB1. If there is suffering, either (a) God doesn’t have the power to stop it, or (b) she doesn’t know about it, or (c) she knows about it and has the power to stop it, but decides not to or (d) God does to exist.\nOB2. God is omnipotent, so (a) is impossible.\nOB3. God is omniscient, so (b) is impossible.\nOB4. God is omnibenevolent, so (c) is impossible.\nAS2. So, if there is suffering in the world, then (d) God does not exist"
-  },
-  {
-    "objectID": "slides/evil.html#necessary-suffering",
-    "href": "slides/evil.html#necessary-suffering",
-    "title": "The Problem of Evil",
-    "section": "Necessary Suffering",
-    "text": "Necessary Suffering\nTODO: find image"
-  },
-  {
-    "objectID": "slides/evil.html#revised-argument",
-    "href": "slides/evil.html#revised-argument",
-    "title": "The Problem of Evil",
-    "section": "Revised Argument",
-    "text": "Revised Argument\n\nPS1. There is pointless suffering in the world\nPS2. If there is pointless suffering in the world, then there is no omnibeing\nPS3. So, there is no omnibeing"
-  },
-  {
-    "objectID": "slides/evil.html#objections-to-ps1",
-    "href": "slides/evil.html#objections-to-ps1",
-    "title": "The Problem of Evil",
-    "section": "Objections to PS1",
-    "text": "Objections to PS1"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Basic Issues in Philosophy",
-    "section": "",
-    "text": "This is the course website for:\n\nPHI 101-003 [Honors]\n\nMW 3:35PM – 4:50PM, Stevenson Hall 0229.\n\n\nI will not be using Canvas. To keep on top of readings and assignments, you need to check the schedule, come to class, and pay attention to in-class announcements. If you are worried about your grade, you can either calculate it for yourself or come to my office hours and ask me."
   }
 ]
