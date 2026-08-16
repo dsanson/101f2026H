@@ -7,6 +7,10 @@ image-title: "Le Faux Miroir, by René Magritte, 1928"
 about:
   id: about-this-course
   template: broadside
+format:
+  html:
+    format-links:
+      - html
 ---
 
 :::{#about-this-course}
@@ -21,4 +25,6 @@ about your grade, you can either [calculate it for yourself](syllabus.html#calcu
 
 :::
 
-Artwork: René Magritte,  "[Le Faux Miroir](https://en.wikipedia.org/wiki/The_False_Mirror)", 1928
+:::{style="text-align:center; font-size: small"}
+René Magritte,  "[Le Faux Miroir](https://en.wikipedia.org/wiki/The_False_Mirror)", 1928
+:::
