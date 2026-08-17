@@ -113,6 +113,12 @@ window.Quarto = {
 };
 </script>
 
+<meta property="og:title" content="Syllabus: Basic Issues in Philosophy (PHI 101.003, Honors) – PHI 101-003">
+<meta property="og:description" content="Illinois State, Fall 2026">
+<meta property="og:site_name" content="PHI 101-003">
+<meta name="twitter:title" content="Syllabus: Basic Issues in Philosophy (PHI 101.003, Honors) – PHI 101-003">
+<meta name="twitter:description" content="Illinois State, Fall 2026">
+<meta name="twitter:card" content="summary">
 </head>
 
 <body class="nav-fixed quarto-light"><script id="quarto-html-before-body" type="application/javascript">
@@ -354,7 +360,7 @@ window.Quarto = {
   <li><a href="#generative-ai-use-not-permitted" id="toc-generative-ai-use-not-permitted" class="nav-link" data-scroll-target="#generative-ai-use-not-permitted">Generative AI Use Not Permitted</a></li>
   <li><a href="#permission-required-to-record" id="toc-permission-required-to-record" class="nav-link" data-scroll-target="#permission-required-to-record">Permission Required to Record</a></li>
   </ul>
-<div class="quarto-alternate-formats"><h2>Other Formats</h2><ul><li><a href="syllabus.pdf"><i class="bi bi-file-pdf"></i>PDF</a></li></ul></div></nav>
+<div class="toc-actions"><ul><li><a href="https://github.com/dsanson/101f2026H/blob/main/syllabus.qmd" class="toc-action"><i class="bi bi-github"></i>View source</a></li><li><a href="https://github.com/dsanson/101f2026H/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div><div class="quarto-alternate-formats"><h2>Other Formats</h2><ul><li><a href="syllabus.pdf"><i class="bi bi-file-pdf"></i>PDF</a></li></ul></div></nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
@@ -709,7 +715,7 @@ Table&nbsp;2: Converting Percentages to Letter Grades
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp("https:\/\/www\.davidsanson\.com\/101");
+        var filterRegex = new RegExp("https:\/\/www\.davidsanson\.com\/101f2026H");
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }
@@ -723,6 +729,13 @@ Table&nbsp;2: Converting Percentages to Letter Grades
           if (link.dataset.originalHref !== undefined) {
             link.href = link.dataset.originalHref;
           }
+            // target, if specified
+            link.setAttribute("target", "_blank");
+            if (link.getAttribute("rel") === null) {
+              link.setAttribute("rel", "noopener");
+            }
+            // default icon
+            link.classList.add("external");
         }
       }
     function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
@@ -1044,7 +1057,7 @@ Table&nbsp;2: Converting Percentages to Letter Grades
     </div>   
     <div class="nav-footer-center">
 <p>© 2026 David Sanson. Created using <a href="https://quarto.org/">Quarto</a>.</p>
-</div>
+<div class="toc-actions d-sm-block d-md-none"><ul><li><a href="https://github.com/dsanson/101f2026H/blob/main/syllabus.qmd" class="toc-action"><i class="bi bi-github"></i>View source</a></li><li><a href="https://github.com/dsanson/101f2026H/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></div>
     <div class="nav-footer-right">
       &nbsp;
     </div>
