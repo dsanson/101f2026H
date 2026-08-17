@@ -24,6 +24,7 @@ format:
       x: 1in
       y: 1in
     papersize: us-letter
+    pdf-standard: [ ua-1 ]
 ---
 
 ## Basic Information
@@ -203,17 +204,23 @@ an excused absence does not count against your grade.
 Because each exam is worth 25% of your course grade, and the exercises are also worth 25%, 
 you can calculate your course grade by taking the average of each of your these grades:
 
+$$
+\mathrm{Course\ \%} = \dfrac{\mathrm{Exercises\ \%} + \mathrm{Midterm\ \%} + \mathrm{Midterm\ \%} + \mathrm{Final\ \%}}{4}
+$$ {#eq-grade alt="course percentage equals the sum of exercise percentage and the percentages earned on each exam, divided by four"}
 
-$$\mathrm{Course\ \%} = \dfrac{\mathrm{Exercises\ \%} + \mathrm{Midterm\ \%} + \mathrm{Midterm\ \%} + \mathrm{Final\ \%}}{4}$$
 
 You can also use this formula to answer questions like, "How well do I have to do on the final to get an A?"
 
-$$\mathrm{93\%} \ge \dfrac{\mathrm{Exercises\ \%} + \mathrm{Midterm\ \%} + \mathrm{Midterm\ \%} + \mathrm{?\ \%}}{4}$$
+$$
+\mathrm{93\%} \ge \dfrac{\mathrm{Exercises\ \%} + \mathrm{Midterm\ \%} + \mathrm{Midterm\ \%} + \mathrm{?\ \%}}{4}
+$$ {#eq-grade-needed-on-final alt="93% is greater or equal to the sum of known exercise percentage, known midterm percentages, and unknown final percentage, divided by four"}
+
 
 And, if you want to calculate your "grade so far", you can simply take the average of your current exercises percentage and whatever midterms are completed. For example, if you have received grades for the two midterms but have not yet taken the final:
 
-
-$$\mathrm{Grade\ so\ far\ \%} = \dfrac{\mathrm{Exercises\ so\ far\ \%} + \mathrm{Midterm\ \%} + \mathrm{Midterm\ \%}}{3}$$
+$$
+\mathrm{Grade\ so\ far\ \%} = \dfrac{\mathrm{Exercises\ so\ far\ \%} + \mathrm{Midterm\ \%} + \mathrm{Midterm\ \%}}{3}
+$$ {#eq-grade-so-far alt="Grade so far equals the sum of exercises so far and both midterms, divided by three"}
 
 To do these calculations, you need to know the percentage of exercises you have
 passed and the letter grade you received on each exam and how to convert that
