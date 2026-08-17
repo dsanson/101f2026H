@@ -1,19 +1,59 @@
 ---
-title: |
-  Course Syllabus
-toc: true
+title: 'Syllabus: Basic Issues in Philosophy (Honors)'
+subtitle: Illinois State, Fall 2026
+type: syllabus
+
+format:
+  html:
+    toc: true
+
+    format-links:
+    - html
+    - format: typst
+      icon: file-pdf
+      text: PDF
+
+  typst:
+    citeproc: true
+    template-partials:
+    - typst-template.typ
+    fontsize: 10pt
+    mainfont: "libertinus serif"
+    sansfont: "libertinus sans"
+    margin:
+      x: 1in
+      y: 1in
+    papersize: us-letter
 ---
 
 ## Basic Information
 
-PHI 101-003 [Honors]
-:   MW 3:35PM -- 4:50PM, Stevenson 0229 
+::::{.columns}
+
+:::{.column}
 
 Instructor
 :   David Sanson
 
+Office
+:   Stevenson 341
+
+:::
+:::{.column}
+
+Class Meetings
+:   MW 3:35PM -- 4:50PM, Stevenson 0229 
+
 Office Hours
-:   Stevenson 341, TBA
+:   TBD
+
+
+
+:::
+::::
+
+
+
 
 ## Course Description
 
@@ -63,7 +103,7 @@ being good at thinking about stuff is useful no matter how you hope to sell your
 labor in the future.
 
 But what I am describing here are not (just) "transferable job skills".
-To quote [Ángel Pinillos](https://napinillos.substack.com/p/the-honest-case-for-the-humanities) (Arizona State University):
+To quote Ángel Pinillos  (Philosophy, Arizona State University), "[The Honest Case for the Humanities](https://napinillos.substack.com/p/the-honest-case-for-the-humanities)":
 
 > You will, at some point, need to advocate for your child at her school. You
 > will need to read a teacher's email carefully enough to notice what it is and
