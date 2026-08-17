@@ -5,6 +5,7 @@ project:
 website:
   title: "PHI 101-003"
   site-url: "https://www.davidsanson.com/101"
+  favicon: media/favicon.png
   page-footer: |
     © 2026 David Sanson. Created using [Quarto](https://quarto.org/).
   navbar:
