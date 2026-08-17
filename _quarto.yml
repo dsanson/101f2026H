@@ -4,8 +4,13 @@ project:
 
 website:
   title: "PHI 101-003"
-  site-url: "https://www.davidsanson.com/101"
+  description: "Course webpage for PHI 101 at Illinois State"
+  site-url: "https://www.davidsanson.com/101f2026H"
+  repo-url: https://github.com/dsanson/101f2026H
+  repo-actions: [source, issue]
   favicon: media/favicon.png
+  twitter-card: true
+  open-graph: true
   page-footer: |
     © 2026 David Sanson. Created using [Quarto](https://quarto.org/).
   navbar:
@@ -46,6 +51,11 @@ format:
       dark: 
         - darkly
         - custom.scss
+    link-external-icon: true
+    link-external-newwindow: true
+    citations-hover: true
+    footnotes-hover: true
+
 
     # format-links:
     # - html
