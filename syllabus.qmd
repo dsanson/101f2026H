@@ -1,5 +1,5 @@
 ---
-title: 'Syllabus: Basic Issues in Philosophy (Honors)'
+title: 'Syllabus: Basic Issues in Philosophy (PHI 101.003, Honors)'
 subtitle: Illinois State, Fall 2026
 type: syllabus
 
