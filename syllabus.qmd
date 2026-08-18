@@ -13,6 +13,9 @@ format:
       icon: file-pdf
       text: PDF
 
+  # pdf:
+  #   pdf-standard: [ ua-2 ]
+
   typst:
     citeproc: true
     template-partials:
@@ -46,9 +49,7 @@ Class Meetings
 :   MW 3:35PM -- 4:50PM, Stevenson 0229 
 
 Office Hours
-:   TBD
-
-
+:   M noon--1:00PM; W 11:00AM--noon
 
 :::
 ::::
