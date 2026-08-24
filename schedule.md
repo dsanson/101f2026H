@@ -8,6 +8,7 @@ title: Schedule
   - Date
   - Topic
   - Reading
+  - Slides
 
 - - []{rowspan=2} 1
   - M 8/17
@@ -21,6 +22,7 @@ title: Schedule
   - M 8/24
   - []{rowspan=2} The Problem of Evil
   - []{rowspan=2} [Can God Allow Suffering?](https://www.davidsanson.com/learning-from-arguments-remix/evil.html)
+  - [Slides](slides/evil.md)
 
 - - W 8/26
 
