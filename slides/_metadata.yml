@@ -9,6 +9,7 @@ format:
       - roughnotation
       - cascade
       - custom-callout
+      - timer
 custom-callout:
   argument:
     icon-symbol: "🥊"

@@ -231,7 +231,7 @@ Objection: some bad things are necessary to bring about good things, and the goo
 :::::
 
 -   We concede the objection to the original Argument from Suffering.
--   **Pointless** suffering is suffering that does not serve some greater purpose, bringing about some greater good.
+-   **Pointless** suffering is suffering that does not serve some greater purpose: it is not the inevitable consequence of some greater good, and it does not bring out some greater good.
 
 . . .
 
