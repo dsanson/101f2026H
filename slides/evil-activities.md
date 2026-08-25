@@ -114,11 +114,14 @@ But:
 
 ## An All-But-Omnibeing?
 
--  Maybe there is no omnibeing, no being that is all-knowing, all-powerful, and all-good/morally perfect.
--  There are other reasons to worry about the possibility of an omnibeing: nobody can have the power to bring about someone else's free choice; nobody can know beforehand what that free choice will be; even the best possible being would have to make moral compromises, e.g., between justice and forgiveness.
--  What if God is not an omnibeing, but an all-but-omnibeing? Someone who is *very very* powerful, knows *everything that can be known*, and is *very very* good?
+-  Perhaps God is not an omnibeing. 
+-  Perhaps an omnibeing is impossible?
+   -  no one can bring about someone else's free choice; 
+   -  no one can know what that free choice will be before it is made;
+   -  morality requires compromises (e.g., between justice and forgiveness).
+-  Perhaps God is an **all-but-omnibeing**: someone *very very* powerful, who knows *everything that can be known*, and is *very very* good...
 
-## The Argument from Pointless Suffering Against an All-But-Omnibeing
+## A Revised Argument
 
 ::: {#argument-AS .argument}
 - (PV1) There is **pointless** suffering in the world that an all-but-omnibeing could have prevented.
@@ -127,19 +130,25 @@ But:
 - (PV3) So, there is no all-but-omnibeing.
 :::
 
-PV1 is harder to defend than PS1. But you might agree that, upon reflection, surely an all-but-omnibeing could have prevented at least some of the pointless suffering we find in the world, was in a position to know about it, and would have cared to do so.
+PV1 is harder to defend than PS1. The idea behind PV1 is that, even if an all-but-omnibeing cannot prevent *all* pointless suffering, there is *some* pointless suffering in our world that they could have and should have prevented.
 
 
 # Your Thoughts 
 
-## Overview of Writing Exercise (approx 35-40 minutes)
+## Overview of Writing Exercise
 
 -   Spend a moment gathering your thoughts.
--   Spend three minutes sharing your thoughts with someone else.
+-   Share your thoughts with someone else.
 -   Spend ten minutes writing up your thoughts in a paragraph.
 -   Share what you have written and get/give constructive feedback.
 -   Revise.
 -   Share what you have written to get/give critical feedback.
+
+---
+
+-   Don't worry about perfection! It is fine to be confused. It is fine to be uncertain. It is fine to make mistakes.
+-   The point here is the exercise, not the product.
+-   What you write will be collected and graded pass-fail for credit.
 
 ## Gather Your Thoughts
 
@@ -281,7 +290,16 @@ Pass the papers back to their authors. Pick one author to "go first". Share your
 -   How did the writing process work? Examples of especially useful or unexpected feedback? Were there things that only became clear to you when you tried to write things down?
 -   Were there problems with the process? Are there guardrails we should agree to for future exercises to mitigate those problems?
 
+## Private Share
 
+Write up a short reflection on where you stand now, after the exercise, compared to where you were before the exercise.
 
+::: {.column width="20%"}
+:::{.timer #reflection seconds=180 starton=interaction}
+:::
+:::
 
+## Turn in your Work
+
+-   Make sure to put your name at the top!
 
