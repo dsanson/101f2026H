@@ -25,6 +25,7 @@ title: Schedule
   - [Slides](slides/evil.md)
 
 - - W 8/26
+  - [Slides](slides/evil-activities.md)
 
 - - []{rowspan=2} 3
   - M 8/31
