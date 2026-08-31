@@ -273,18 +273,18 @@
     "text": "Uncertain Benefits\n\nWhen a benefit is uncertain, the actual value of that benefit depends on how likely you are to receive it.\nWe measure likelihood by assigning probabilities:\n\na probability of 0 means it absolutely won’t happen.\na probability of .5 means it has a 50% chance of happening.\na probability of 1 means it absolutely will happen."
   },
   {
-    "objectID": "slides/wager.html#expected-utility",
-    "href": "slides/wager.html#expected-utility",
+    "objectID": "slides/wager.html#expected-utility-1",
+    "href": "slides/wager.html#expected-utility-1",
     "title": "The Wager",
     "section": "Expected Utility",
     "text": "Expected Utility\n\nExpected Utility is a mathematical measurement of this: multiply the value of the benefit by the probability—represented as a number between 0 and 1—of receiving it\nSuppose your laptop has a 5% chance of breaking in the next year. Then the expected utility of my payout is:\n\nExpected Utility of Sanson’s Laptop Insurance\n\n$100 \\(\\times\\) .05 = $5\n\n\nSo, if you pay $5 for my insurance, you can expect, on average, to get $5 back."
   },
   {
-    "objectID": "slides/wager.html#decision-matrices",
-    "href": "slides/wager.html#decision-matrices",
+    "objectID": "slides/wager.html#factors-that-matter",
+    "href": "slides/wager.html#factors-that-matter",
     "title": "The Wager",
-    "section": "Decision Matrices",
-    "text": "Decision Matrices\nWhen you make a decision, you need to consider:\n\neach action available to you.\nfor each action, every possible outcome.\nfor each outcome, both its value to you should it occur and the likelihood of that it will occur.\n\nTo keep track of all this, we can use a decision matrix."
+    "section": "Factors that Matter",
+    "text": "Factors that Matter\nWhen you make a decision, you need to consider:\n\neach action available to you.\nfor each action, every possible outcome.\nfor each outcome, both its value to you should it occur and the likelihood of that it will occur.\n\nTo keep track of all this, we can use a decision matrix."
   },
   {
     "objectID": "slides/wager.html#decision-matrix-for-laptop-insurance",
@@ -371,11 +371,11 @@
     "text": "The Argument for Trying to Believe\n\n\n\nArgument\n\n\n\nTB1. One should always choose the option with the greatest expected utility.\nTB2. Making an effort to believe in God has greater expected utility than not making an effort to believe in God.\nTB3. So, one should make an effort to believe in God."
   },
   {
-    "objectID": "slides/wager.html#decision-matrix",
-    "href": "slides/wager.html#decision-matrix",
+    "objectID": "slides/wager.html#decision-matrix-for-trying-to-believe",
+    "href": "slides/wager.html#decision-matrix-for-trying-to-believe",
     "title": "The Wager",
-    "section": "Decision Matrix",
-    "text": "Decision Matrix\n\n\n\n\nGod?\nNo God?\nExpected Utility\n\n\n\n\nTry to Believe and Succeed\n?\n?\n?\n\n\nTry to Believe and Fail\n?\n?\n?\n\n\nDon’t Try to Believe\n?\n?\n?"
+    "section": "Decision Matrix for Trying to Believe",
+    "text": "Decision Matrix for Trying to Believe\n\n\n\n\nGod?\nNo God?\nExpected Utility\n\n\n\n\nTry to Believe and Succeed\n?\n?\n?\n\n\nTry to Believe and Fail\n?\n?\n?\n\n\nDon’t Try to Believe\n?\n?\n?"
   },
   {
     "objectID": "schedule.html",
