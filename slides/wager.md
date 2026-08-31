@@ -87,6 +87,8 @@ Defense of GH1:
 
 What is expected utility?
 
+# Expected Utility
+
 ## Insurance Costs{contenteditable=true}
 
 I offer you a deal:
@@ -129,7 +131,9 @@ Actually, it's more complicated. People buy insurance because they are worried t
 
 Also, we haven't considered other ways you might spend that $5.
 
-## Decision Matrices
+# Decision Matrices
+
+## Factors that Matter
 
 When you make a decision, you need to consider:
 
@@ -226,6 +230,7 @@ Need more columns:
 Probability of combined independent outcomes is the product of probability of each.
 :::
 
+# Betting on God
 
 ## The Argument for Betting on God 
 
@@ -263,6 +268,8 @@ Why believe (BG2)?
 -   Change the probabilities to lower probability that God exists. Note that, if it gets low enough, believe in God loses.
 -   Change payout for believing in God to infinity.
 :::
+
+# Objections
 
 ## Objections Discussed in the Chapter
 
@@ -387,7 +394,7 @@ I will give you $10 if you believe that there is a sheep in the room, standing n
 
 :::
 
-## Decision Matrix
+## Decision Matrix for Trying to Believe
 
 
 :::{.list-table contenteditable=true aligns="l,r,r,r"}
