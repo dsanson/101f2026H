@@ -31,6 +31,7 @@ title: Schedule
   - M 8/31
   - []{rowspan=2} Pascal's Wager
   - []{rowspan=2} [Why You Should Bet on God](https://www.davidsanson.com/learning-from-arguments-remix/wager.html)
+  - [Slides](slides/wager.md)
 
 - - W 9/2
 
