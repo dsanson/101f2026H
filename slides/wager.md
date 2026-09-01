@@ -399,14 +399,10 @@ I will give you $10 if you believe that there is a sheep in the room, standing n
 
 :::{.list-table contenteditable=true aligns="l,r,r,r"}
 - - []{.dummy} 
-  - God<br/>?
-  - No\ God<br/>?
+  - God exists<br/>?
+  - God doesn't exist<br/>?
   - Expected Utility
-- - Try to Believe and Succeed
-  - ?
-  - ? 
-  - ? 
-- - Try to Believe and Fail
+- - Try to Believe
   - ?
   - ? 
   - ? 
@@ -415,3 +411,32 @@ I will give you $10 if you believe that there is a sheep in the room, standing n
   - ?
   - ?
 :::
+
+But this doesn't work. The outcome depends on whether or not you *succeed* at believing.
+
+## Decision Matrix for Trying to Believe {.smaller}
+
+:::{.list-table contenteditable=true aligns="l,r,r,r,r,r" }
+- - []{.dummy} 
+  - God +<br/> belief<br/>?
+  - God +<br/> no belief<br/>?
+  - no God +<br/> belief<br/>?
+  - no God +<br/> no belief<br/>?
+  - Expected Utility
+- - Try\ to\ Believe
+  - ?
+  - ? 
+  - ? 
+  - ?
+  - ?
+- - Don't Try
+  - ?
+  - ?
+  - ?
+  - ?
+  - ?
+:::
+
+'God' is short for 'God exists'; 'no God' for 'God does not exist'. 'belief' is short for 'you end up believing God exists'; 'no belief' is short for 'you end up not believing that God exists'.
+
+Notice that there is a non-zero probability that you end up believing in God even if you don't try. That is interesting.
