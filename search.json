@@ -238,6 +238,139 @@
     "text": "Turn in your Work\n\nMake sure to put your name at the top!"
   },
   {
+    "objectID": "slides/wager-activities.html#reminders",
+    "href": "slides/wager-activities.html#reminders",
+    "title": "The Wager: Review and Activities",
+    "section": "Reminders",
+    "text": "Reminders\n\n\nI have your paragraphs from last week if you haven’t picked them up yet\nno comments. \nFor today, we continue to discuss Chapter 2, “Why You Should Bet on God”\nFor next week, the reading is Chapter 3, “What Makes You You?”"
+  },
+  {
+    "objectID": "slides/wager-activities.html#expected-utility",
+    "href": "slides/wager-activities.html#expected-utility",
+    "title": "The Wager: Review and Activities",
+    "section": "Expected Utility",
+    "text": "Expected Utility\nThe Expected Utility of an outcome is the value of that outcome multiplied by its probability:\n\nIf a raffle gives you a 1% chance of winning $100, the expected utility of playing is $100 \\(\\times\\) 0.01 = $1.\nIf you pay $1 for a ticket:\n\n99 out of 100 times you will be out $1.\nBut 1 out 100 times you will be up $99."
+  },
+  {
+    "objectID": "slides/wager-activities.html#mega-millions",
+    "href": "slides/wager-activities.html#mega-millions",
+    "title": "The Wager: Review and Activities",
+    "section": "Mega Millions",
+    "text": "Mega Millions\n\nThe current cash jackpot for the “Mega Millions” lottery is $68.9 million and the odds of winning are 1 in 290,472,336. A ticket costs $5. Is that a good deal?"
+  },
+  {
+    "objectID": "slides/wager-activities.html#decision-matrices",
+    "href": "slides/wager-activities.html#decision-matrices",
+    "title": "The Wager: Review and Activities",
+    "section": "Decision Matrices",
+    "text": "Decision Matrices\nYou should choose the action that maximizes your expected utility. To figure out what action this is, you need to consider:\n\neach action available to you,\nand, for each action, each possible outcome of that action,\nand, for each outcome, its expected utility that is,\nits value times its probability."
+  },
+  {
+    "objectID": "slides/wager-activities.html#plea-bargain-or-trial",
+    "href": "slides/wager-activities.html#plea-bargain-or-trial",
+    "title": "The Wager: Review and Activities",
+    "section": "Plea Bargain or Trial?",
+    "text": "Plea Bargain or Trial?\n\n\n\n\nwin50%\nlose50%\nExpected Utility\n\n\n\n\nfight it\n0 years\n-15 years\n?\n\n\ntake the plea\n-5 years\n-5 years\n?\n\n\n\nYou have been arrested and charged with a crime that carries a 15 year sentence. You can take a plea deal and get that reduced to 5 years, or you can fight it in court. Your lawyer tells you your chances in court are a toss up. Calculate the expected utilities. What should you do?"
+  },
+  {
+    "objectID": "slides/wager-activities.html#el-abuelo-esta-loco",
+    "href": "slides/wager-activities.html#el-abuelo-esta-loco",
+    "title": "The Wager: Review and Activities",
+    "section": "El Abuelo Esta Loco",
+    "text": "El Abuelo Esta Loco\n\n\nYou want to watch the 1967 live-action film The Gnome-Mobile. You can stream it for $4. Or you can download a pirated copy. There is a one in a million chance you will get caught, and you live in a country with draconian anti-piracy laws, so if you do get caught, you will be fined $100,000.\nCreate a decision matrix and calculate the expected utility of each possible action. What should you do?"
+  },
+  {
+    "objectID": "slides/wager-activities.html#the-argument-for-betting-on-god",
+    "href": "slides/wager-activities.html#the-argument-for-betting-on-god",
+    "title": "The Wager: Review and Activities",
+    "section": "The Argument for Betting on God",
+    "text": "The Argument for Betting on God\n\n\n\n\nGod (\\(p_1\\))\nNo God (\\(p_2\\))\nExpected Utility\n\n\n\n\nBelieve\n\\(\\infty\\)\n\\(f_1\\)\n\\(\\infty\\)\n\n\nDon’t\n\\(f_2\\)\n\\(f_3\\)\n\\(f_4\\)\n\n\n\n\n\n\nArgument\n\n\n\nBG1. One should always choose the option with the greatest expected utility.\nBG2. Believing in God has a greater expected utility than not believing in God.\nBG3. So you should believe in God."
+  },
+  {
+    "objectID": "slides/wager-activities.html#believing-in-god",
+    "href": "slides/wager-activities.html#believing-in-god",
+    "title": "The Wager: Review and Activities",
+    "section": "Believing in God",
+    "text": "Believing in God\n\n\n\n\nGod (\\(p_1\\))\nNo God (\\(p_2\\))\nExpected Utility\n\n\n\n\nBelieve\n\\(\\infty\\)\n\\(f_1\\)\n\\(\\infty\\)\n\n\nDon’t\n\\(f_2\\)\n\\(f_3\\)\n\\(f_4\\)\n\n\n\nObjections:\n\n\n\nInfinite good doesn’t make sense.\nThe probabilities are unknowable.\nBelieving in God isn’t enough to get heaven.\n\n\n\nThe rewards of heaven could finite.\nThere are many Gods.\nBelief isn’t voluntary."
+  },
+  {
+    "objectID": "slides/wager-activities.html#infinite-goods",
+    "href": "slides/wager-activities.html#infinite-goods",
+    "title": "The Wager: Review and Activities",
+    "section": "Infinite Goods?",
+    "text": "Infinite Goods?\n\nIf your capacity to enjoy goods is finite, then receiving more goods than can possibly enjoy is not better for you.\nFor many goods, the more goods of that type you enjoy, the less value each one has.\n\nA yacht would make me happier. A second would also increase my happiness, but by a bit less.\nLet \\(y\\) be the boost from the first yacht, and suppose each additional yacht boosts my happiness by half as much as the one before:\n\\[y + \\frac{y}{2} + \\frac{y}{4} + \\frac{y}{8} + \\frac{y}{16} ... = 2y\\]\nThe benefit of infinitely many yachts is not \\(\\infty\\), but just \\(2y\\)."
+  },
+  {
+    "objectID": "slides/wager-activities.html#unknowable-odds",
+    "href": "slides/wager-activities.html#unknowable-odds",
+    "title": "The Wager: Review and Activities",
+    "section": "Unknowable Odds",
+    "text": "Unknowable Odds\n\n\n\n\nGod (\\(p_1\\))\nNo God (\\(p_2\\))\nExpected Utility\n\n\n\n\nBelieve\n\\(\\infty\\)\n\\(f_1\\)\n\\(\\infty\\)\n\n\nDon’t\n\\(f_2\\)\n\\(f_3\\)\n\\(f_4\\)\n\n\n\nHow do we assign probabilities \\(p_1\\) and \\(p_2\\)?"
+  },
+  {
+    "objectID": "slides/wager-activities.html#other-conditions",
+    "href": "slides/wager-activities.html#other-conditions",
+    "title": "The Wager: Review and Activities",
+    "section": "Other Conditions",
+    "text": "Other Conditions\n\n\n\n\nGod (\\(p_1\\))\nNo God (\\(p_2\\))\nExpected Utility\n\n\n\n\nBelieve and Pray\n\\(\\infty\\)\n\\(f_1\\)\n\\(\\infty\\)\n\n\nBelieve and Don’t Pray\n\\(f_2\\)\n\\(f_3\\)\n\\(f_4\\)\n\n\nDon’t Believe or Pray\n\\(f_5\\)\n\\(f_6\\)\n\\(f_7\\)"
+  },
+  {
+    "objectID": "slides/wager-activities.html#stingy-god",
+    "href": "slides/wager-activities.html#stingy-god",
+    "title": "The Wager: Review and Activities",
+    "section": "Stingy God",
+    "text": "Stingy God\n\n\n\n\nGenerous God25%\nStingy God25%\nNo God 50%\nExpected Utility\n\n\n\n\nBelieve\n\\(\\infty\\)\n\\(f_1\\)\n\\(f_2\\)\n\\(\\infty\\)\n\n\nDon’t Believe\n\\(f_3\\)\n\\(f_4\\)\n\\(f_5\\)\n\\(f_6\\)"
+  },
+  {
+    "objectID": "slides/wager-activities.html#many-gods",
+    "href": "slides/wager-activities.html#many-gods",
+    "title": "The Wager: Review and Activities",
+    "section": "Many Gods",
+    "text": "Many Gods\n\n\n\n\nGod120%\nGod220%\nGod320%\nNo God40%\nExpected Utility\n\n\n\n\nBelieve in God1\n\\(\\infty\\)\n\\(f_1\\)\n\\(f_2\\)\n\\(f_3\\)\n\\(\\infty\\)\n\n\nBelieve in God2\n\\(f_4\\)\n\\(\\infty\\)\n\\(f_5\\)\n\\(f_6\\)\n\\(\\infty\\)\n\n\nBelieve in God3\n\\(f_7\\)\n\\(f_8\\)\n\\(\\infty\\)\n\\(f_9\\)\n\\(\\infty\\)\n\n\nDon’t Believe\n\\(f_{10}\\)\n\\(f_{11}\\)\n\\(f_{12}\\)\n\\(f_{13}\\)\n\\(f_{14}\\)"
+  },
+  {
+    "objectID": "slides/wager-activities.html#believing-isnt-voluntary",
+    "href": "slides/wager-activities.html#believing-isnt-voluntary",
+    "title": "The Wager: Review and Activities",
+    "section": "Believing isn’t Voluntary",
+    "text": "Believing isn’t Voluntary\nThe book argues that, even though belief isn’t voluntary, you can still adopt the strategy of trying to get yourself to believe: go to church, avoid spending time with atheists, pray, read religious texts, etc.\nOf course, if you try, there is a chance you will succeed and a chance you will fail:\n\n\n\n\nGod exists and you succeed25%\nGod exists and you fail25%\nGod doesn’t exist50%\nExpected Utility\n\n\n\n\nTry to Believe\n\\(\\infty\\)\n\\(f_1\\)\n\\(f_2\\)\n\\(\\infty\\)\n\n\n\nWhat is the expected utility if you don’t try?"
+  },
+  {
+    "objectID": "slides/wager-activities.html#prompt",
+    "href": "slides/wager-activities.html#prompt",
+    "title": "The Wager: Review and Activities",
+    "section": "Prompt",
+    "text": "Prompt\nThis is not an essay. This is a thinking-through-writing exercise. I want you to write about whatever it is that you find most puzzling or confusing about the Argument for Betting on God. Try to put your puzzlement or confusion into words, as if you were explaining it to a classmate. If there is something you are struggling to understand, think about what it might mean or how it might work, and explain those different possibilities, and think about which, if any, seems promising."
+  },
+  {
+    "objectID": "slides/wager-activities.html#gather-your-thoughts",
+    "href": "slides/wager-activities.html#gather-your-thoughts",
+    "title": "The Wager: Review and Activities",
+    "section": "Gather Your Thoughts",
+    "text": "Gather Your Thoughts\n\n\nThink about whatever it is that you find most puzzling or confusing about the argument. What do you find puzzling or confusing about it? Are there ways you might try to understand it? What are those? Why are they not quite working out?"
+  },
+  {
+    "objectID": "slides/wager-activities.html#share-your-thoughts",
+    "href": "slides/wager-activities.html#share-your-thoughts",
+    "title": "The Wager: Review and Activities",
+    "section": "Share Your Thoughts",
+    "text": "Share Your Thoughts\n\n\nTurn to someone, and share your thoughts."
+  },
+  {
+    "objectID": "slides/wager-activities.html#writing",
+    "href": "slides/wager-activities.html#writing",
+    "title": "The Wager: Review and Activities",
+    "section": "Writing",
+    "text": "Writing\n\n\nThis is not an essay. This is a thinking-through-writing exercise. I want you to write about whatever it is that you find most puzzling or confusing about the argument. Try to put your puzzlement or confusion into words, as if you were explaining it to a classmate. If there is something you are struggling to understand, think about what it might mean or how it might work, and explain those different possibilities, and think about which, if any, seems promising."
+  },
+  {
+    "objectID": "slides/wager-activities.html#sharing",
+    "href": "slides/wager-activities.html#sharing",
+    "title": "The Wager: Review and Activities",
+    "section": "Sharing",
+    "text": "Sharing\n\n\nSwap papers with someone. Read each other’s papers, then discuss."
+  },
+  {
     "objectID": "slides/wager.html#reminders",
     "href": "slides/wager.html#reminders",
     "title": "The Wager",
