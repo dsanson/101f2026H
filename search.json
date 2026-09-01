@@ -375,7 +375,14 @@
     "href": "slides/wager.html#decision-matrix-for-trying-to-believe",
     "title": "The Wager",
     "section": "Decision Matrix for Trying to Believe",
-    "text": "Decision Matrix for Trying to Believe\n\n\n\n\nGod?\nNo God?\nExpected Utility\n\n\n\n\nTry to Believe and Succeed\n?\n?\n?\n\n\nTry to Believe and Fail\n?\n?\n?\n\n\nDon’t Try to Believe\n?\n?\n?"
+    "text": "Decision Matrix for Trying to Believe\n\n\n\n\nGod exists?\nGod doesn’t exist?\nExpected Utility\n\n\n\n\nTry to Believe\n?\n?\n?\n\n\nDon’t Try to Believe\n?\n?\n?\n\n\n\nBut this doesn’t work. The outcome depends on whether or not you succeed at believing."
+  },
+  {
+    "objectID": "slides/wager.html#decision-matrix-for-trying-to-believe-1",
+    "href": "slides/wager.html#decision-matrix-for-trying-to-believe-1",
+    "title": "The Wager",
+    "section": "Decision Matrix for Trying to Believe",
+    "text": "Decision Matrix for Trying to Believe\n\n\n\n\nGod + belief?\nGod + no belief?\nno God + belief?\nno God + no belief?\nExpected Utility\n\n\n\n\nTry to Believe\n?\n?\n?\n?\n?\n\n\nDon’t Try\n?\n?\n?\n?\n?\n\n\n\n‘God’ is short for ‘God exists’; ‘no God’ for ‘God does not exist’. ‘belief’ is short for ‘you end up believing God exists’; ‘no belief’ is short for ‘you end up not believing that God exists’.\nNotice that there is a non-zero probability that you end up believing in God even if you don’t try. That is interesting."
   },
   {
     "objectID": "schedule.html",
