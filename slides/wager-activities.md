@@ -49,7 +49,8 @@ include-in-header:
 
 - I have your paragraphs from last week if you haven't picked them up yet (no comments)
 - For today, we continue to discuss Chapter 2, "Why You Should Bet on God"
-- For next week, the reading is Chapter 3, "What Makes You You?"
+- No class on Monday (Labor Day)
+- For next Wednesday, the reading is Chapter 3, "What Makes You You?"
 
 # Review
 
