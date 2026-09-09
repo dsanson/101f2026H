@@ -34,6 +34,7 @@ title: Schedule
   - [Slides](slides/wager.md)
 
 - - W 9/2
+  - [Slides](slides/wager-activities.md)
 
 - - []{rowspan=2} 4
   - M 9/7
@@ -42,6 +43,7 @@ title: Schedule
 - - W 9/9
   - []{rowspan=2} Personal Identity
   - []{rowspan=2} [What Makes You You](https://www.davidsanson.com/learning-from-arguments-remix/personal-identity.html)
+  - [Slides](slides/personal_identity.qmd)
 
 - - []{rowspan=2} 5
   - M 9/14

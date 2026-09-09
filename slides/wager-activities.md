@@ -204,6 +204,9 @@ Objections:
 
 ## Infinite Goods? {.smaller}
 
+> Suppose you’re choosing between two offers for free movie tickets. One gives you free entry to twenty movies. The other gives you limitless free entry: no matter how many times you go for free, you can always go for free again. Do you throw your hands up and say “How could I possibly decide?? It makes no sense to talk about limitless tickets!” No, you accept the second offer. And it makes perfect sense why you would: because the second offer, despite involving an infinite quantity, gives you more of a good thing than the first.
+
+
 -   If your capacity to enjoy goods is finite, then receiving more goods than can possibly enjoy is not better for you.
 -   For many goods, the more goods of that type you enjoy, the less value each one has.
     -   A yacht would make me happier. A second would also increase my happiness, but by a bit less.
