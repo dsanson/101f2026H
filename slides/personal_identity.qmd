@@ -86,15 +86,10 @@ The puzzles we are going to be thinking about all have to do with numerical iden
 ::: {.r-hstack}
 ::: {data-id="num-id" style="width:300px; margin: 10px; text-align: center; align-content:baseline"}
 ![](media/baby_photo.jpg){height="300" .lightbox}
-
-$A$ at $t$
-
 :::
 ::: {data-id="qual-id" style="width: 300px; margin: 10px; text-align: center; align-content:baseline"}
 
 ![](media/adult_photo.jpg){height="300" .lightbox}
-
-$B$ at $t^*$
 :::
 :::
 
@@ -107,9 +102,9 @@ to the next. I'm not even the same person as the person who started this
 sentence!" 
 
 
--   You are not **qualitatively the same**, but you are **numerically the same**.
--   Change just is **numerical identity** despite **qualitative difference**, over time: 
-    -   you now are the *(numerically) same thing* as you as a kid, even though you are *(qualitatively) different* from how you were.
+-   Confused: You and the kid are the same but different.
+-   Clear: You and the kid are **numerically** the same, but  **qualitatively** different.
+-   That's what change is: **numerical identity** despite **qualitative difference** over time.
 
 
 # Necessary and Sufficient Conditions
