@@ -1,24 +1,94 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Basic Issues in Philosophy",
+    "objectID": "syllabus.html",
+    "href": "syllabus.html",
+    "title": "Syllabus: Basic Issues in Philosophy (PHI 101.003, Honors)",
     "section": "",
-    "text": "This is the course website for:\n\nPHI 101-003 [Honors]\n\nMW 3:35PM – 4:50PM, Stevenson Hall 0229.\n\n\nI will not be using Canvas. To keep on top of readings and assignments, you need to check the schedule, come to class, and pay attention to in-class announcements. If you are worried about your grade, you can either calculate it for yourself or come to my office hours and ask me.\n\n    \n    \n  \n\n\n\n\n\n\nJoseph Badger, “Portrait of Two Children”, ca. 1760"
+    "text": "Instructor\n\nDavid Sanson\n\nOffice\n\nStevenson 341\n\n\n\n\nClass Meetings\n\nMW 3:35PM – 4:50PM, Stevenson 0229\n\nOffice Hours\n\nM noon–1:00PM; W 11:00AM–noon"
   },
   {
-    "objectID": "403.html",
-    "href": "403.html",
-    "title": "Access Forbidden!",
+    "objectID": "syllabus.html#basic-information",
+    "href": "syllabus.html#basic-information",
+    "title": "Syllabus: Basic Issues in Philosophy (PHI 101.003, Honors)",
     "section": "",
-    "text": "This is, but is not for you. Not all being is for browsing."
+    "text": "Instructor\n\nDavid Sanson\n\nOffice\n\nStevenson 341\n\n\n\n\nClass Meetings\n\nMW 3:35PM – 4:50PM, Stevenson 0229\n\nOffice Hours\n\nM noon–1:00PM; W 11:00AM–noon"
   },
   {
-    "objectID": "403.html#error",
-    "href": "403.html#error",
-    "title": "Access Forbidden!",
-    "section": "",
-    "text": "This is, but is not for you. Not all being is for browsing."
+    "objectID": "syllabus.html#course-description",
+    "href": "syllabus.html#course-description",
+    "title": "Syllabus: Basic Issues in Philosophy (PHI 101.003, Honors)",
+    "section": "Course Description",
+    "text": "Course Description\nThis is a course about doing philosophy. We will spend the next 15 weeks doing philosophy together. Topics we will cover include: the existence of God, the nature of the self, death, free will, our knowledge of external world, the justification of political authority, the morality of abortion, the morality of eating meat, and the relationship between happiness, doing what is good, and doing what it is right. I have left space for additional topics at the end of the term. We will decide together what other topics we want to cover.\nThis is also an “honors” section. That means that our class size is a bit smaller, so I can give each of you a bit more attention. It also means that I expect a bit more from you than I expect from a typical ISU student. I am not going to assign you more work, but I expect you to do more with the work assigned. Hopefully, our our discussions will reflect this, and we will be able, collectively, to dig deeper into the material than would be possible in a non-honors section."
+  },
+  {
+    "objectID": "syllabus.html#why-bother-doing-philosophy",
+    "href": "syllabus.html#why-bother-doing-philosophy",
+    "title": "Syllabus: Basic Issues in Philosophy (PHI 101.003, Honors)",
+    "section": "Why bother doing philosophy?",
+    "text": "Why bother doing philosophy?\nPhilosophy tackles basic questions about existence, identity, knowledge, and value. These questions are important, but they are also hard to approach and hard to answer. Other fields balk at these questions or approach them obliquely. In Philosophy, we learn to face them head on.\nIt turns out that doing this is one of the best ways to train your mind to think clearly and carefully about hard problems. If you want to learn how to think clearly and carefully about hard quantitative problems, you should take more math classes. But if you want to learn how to think clearly and carefully about hard non-quantitative problems, you should study philosophy.\nWhat I am describing here is not an abstract academic skill. Studying philosophy will make you better at thinking about anything than most other people, and this has enormous practical value. Contrary to the “flipping burgers” stereotype, philosophy majors, on average, make better money than other humanities majors, and better money than most “applied” majors as well (sort by “Mid-Career Median Salary”). Philosophy is one of the most “AI-proof” majors. And Philosophy majors routinely outperform other majors on graduate entrance exams, including the GRE (graduate school), LSAT (law school), MCAT (medical school), and GMAT (business school). Turns out that being good at thinking about stuff is useful no matter how you hope to sell your labor in the future.\nBut what I am describing here are not (just) “transferable job skills”. To quote Ángel Pinillos (Philosophy, Arizona State University), “The Honest Case for the Humanities”:\n\nYou will, at some point, need to advocate for your child at her school. You will need to read a teacher’s email carefully enough to notice what it is and is not saying, and write a response that is firm without being inflammatory, and recognize when an administrator is performing concern rather than offering it. You will need to talk to a doctor about a parent’s care, or your own, and follow an argument about risk and tradeoff that the doctor is making quickly and imperfectly, and ask the question that exposes the assumption the doctor has not examined. You will need to understand the context of someone who grew up in a place very different from you, with radically different values and experiences. You will need to read a contract. You will need to read a ballot measure. You will need to argue, in public or in private, for the candidate or the policy you believe in, and you will need to do this against people who are themselves trained, motivated and may not have your best interest at heart.\nThese are not the higher reaches of the soul. They are not transcendental encounters with truth and beauty. They are ordinary citizenship and ordinary parenthood and ordinary adulthood, and they have material consequences — for your kid, for your parent, for your community, for the decisions that get made about you when you are not in the room.\n\nStudying Philosophy teaches these skills better than anything else in the university curriculum."
+  },
+  {
+    "objectID": "syllabus.html#learning-from-arguments",
+    "href": "syllabus.html#learning-from-arguments",
+    "title": "Syllabus: Basic Issues in Philosophy (PHI 101.003, Honors)",
+    "section": "Learning from Arguments",
+    "text": "Learning from Arguments\nOur textbook is a free, online, open-source text, Learning from Arguments.\nThe book is opinionated, but the opinions are not the opinions of the author. Each chapter presents, as clearly and powerfully as possible, an argument for a controversial philosophical position: The first presents an argument that God does not exist; the second, an argument that you should believe in God; the third, that you are neither your body nor your mind; the fourth, that you shouldn’t fear death; the fifth, that we do not have free will; the sixth, that we know nothing about the external world; the seventh, that no government has the right to tax or incarcerate its citizens; the eighth, that abortion is morally wrong; the ninth, that eating meat is morally wrong; and the tenth chapter defends Utilitarianism—the idea that what makes an action right or wrong is ultimately a matter of how much it increases or decreases our overall happiness.\nThe point here is not to convince you of each these positions. Nor is the point to “spark debate” by “playing devil’s advocate”.\nThe point is to present you with the strongest and clearest possible argument for each position. Your job, as a reader, is to think carefully and hard about these arguments. If you think they go wrong, your job is to figure out and articulate how they go wrong. Through this process, you will gain deeper insight into what you believe and why you believe it, and you will gain better understanding of the underlying philosophical puzzles and problems that might lead to disagreement on these issues."
+  },
+  {
+    "objectID": "syllabus.html#schedule",
+    "href": "syllabus.html#schedule",
+    "title": "Syllabus: Basic Issues in Philosophy (PHI 101.003, Honors)",
+    "section": "Schedule",
+    "text": "Schedule\nIn a typical week, I will ask you to read one chapter from the textbook. I will spend part of Monday’s class lecturing on the material from that chapter, before opening things up to discussion and in-class activities, focused primarily on understanding the arguments from the chapter. After class, you should then re-read that chapter, and think more about the issues it raises in light of the class lecture and discussion. On Wednesday, we will continue our discussion, shifting our focus from the task of understanding the arguments to the task of articulating objections and alternatives to the position defended in the text."
+  },
+  {
+    "objectID": "syllabus.html#grades",
+    "href": "syllabus.html#grades",
+    "title": "Syllabus: Basic Issues in Philosophy (PHI 101.003, Honors)",
+    "section": "Grades",
+    "text": "Grades\nYour grade for this course is based on three graded exams—two midterms and a final—and an indeterminate number of ungraded pass/fail in-class writing exercises. Each exam is worth 25% of your grade, so, together, the exams make up 75% of your grade. In-class exercises make up the remaining 25%.\n\nExams\nExams are in-class, handwritten, closed book and closed notes, and comprise a mix of short answer and essay questions. You can find the dates for the midterms on the course schedule. The date and time of the final exam is has not yet been fixed: the registrar sets these dates for all of your classes at some point later in the term.\nMidterms will be returned to you with comments, a score, and a letter grade. The first midterm will cover material from the first third of the class; the second midterm, material from the second third. The final exam will be cumulative, but weighted toward material from the last third of the class.\n\n\nIn-class Exercises\nClasses will often include in-class exercises. These exercises are not announced ahead of time: they flow from whatever it is we are doing that day, and are closely tied to the readings, lecture, and discussion. They are turned in and graded pass/fail. Failed exercises will be returned with a brief comment explaining why what was done was not sufficient to receive a pass.\nMissed in-class exercises cannot be made up. An in-class exercise missed due to an excused absence does not count against your grade.\n\n\nCalculating Your Grade\nBecause each exam is worth 25% of your course grade, and the exercises are also worth 25%, you can calculate your course grade by taking the average of each of your these grades:\n\\[\n\\mathrm{Course\\ \\%} = \\dfrac{\\mathrm{Exercises\\ \\%} + \\mathrm{Midterm\\ \\%} + \\mathrm{Midterm\\ \\%} + \\mathrm{Final\\ \\%}}{4}\n\\tag{1}\\]\nYou can also use this formula to answer questions like, “How well do I have to do on the final to get an A?”\n\\[\n\\mathrm{93\\%} \\ge \\dfrac{\\mathrm{Exercises\\ \\%} + \\mathrm{Midterm\\ \\%} + \\mathrm{Midterm\\ \\%} + \\mathrm{?\\ \\%}}{4}\n\\tag{2}\\]\nAnd, if you want to calculate your “grade so far”, you can simply take the average of your current exercises percentage and whatever midterms are completed. For example, if you have received grades for the two midterms but have not yet taken the final:\n\\[\n\\mathrm{Grade\\ so\\ far\\ \\%} = \\dfrac{\\mathrm{Exercises\\ so\\ far\\ \\%} + \\mathrm{Midterm\\ \\%} + \\mathrm{Midterm\\ \\%}}{3}\n\\tag{3}\\]\nTo do these calculations, you need to know the percentage of exercises you have passed and the letter grade you received on each exam and how to convert that letter grade to a percentage. You also need to know how to convert that calculated percentage into a course letter grade.\nUse Table 1 to convert your exam letter grades into percentages, and use Table 2 to convert the average percentage back into a letter grade. Note that I will not typically use the percentages in Table 2 when assigning letter grades for the exams. Instead, I will apply a more flexible and generous conversion scale that reflects my judgment of what grade a given exam score deserves, given the construction of the exam, my scoring system, and the class’s overall performance. (This is one thing professors sometimes mean when they say that they say that the exams will be “graded on a curve.”) So when it comes to exams, what matters for your course grade is the letter grade you receive, not your numeric score or percentage.\n\n\n\nTable 1: Converting Letter Grades to Percentages\n\n\n\n\n\nLetter Grade\nPercentage\n\n\n\n\nA\n95%\n\n\nA-\n91.5%\n\n\nB+\n88.5%\n\n\nB\n85%\n\n\nB-\n81.5%\n\n\nC+\n78.5%\n\n\nC\n75%\n\n\nC-\n71.5%\n\n\nD+\n68.5%\n\n\nD\n65%\n\n\nD-\n61.5%\n\n\nF\n0%\n\n\n\n\n\n\n\n\n\nTable 2: Converting Percentages to Letter Grades\n\n\n\n\n\nPercentage Complete\nLetter Grade\n\n\n\n\n93% and above\nA\n\n\n90% and above\nA-\n\n\n87% and above\nB+\n\n\n83% and above\nB\n\n\n80% and above\nB-\n\n\n77% and above\nC+\n\n\n73% and above\nC\n\n\n70% and above\nC-\n\n\n67% and above\nD+\n\n\n63% and above\nD\n\n\n60% and above\nD-\n\n\nbelow 60%\nF"
+  },
+  {
+    "objectID": "syllabus.html#attendance",
+    "href": "syllabus.html#attendance",
+    "title": "Syllabus: Basic Issues in Philosophy (PHI 101.003, Honors)",
+    "section": "Attendance",
+    "text": "Attendance\nYou are responsible for attending class and completing all assigned academic work. You should familiarize yourself with University policy to understand which absences are excused and which are not. If you need advice on how to manage an extended absence or want notification of your absence sent to your instructors, contact the Dean of Students Office."
+  },
+  {
+    "objectID": "syllabus.html#consequences-of-absence",
+    "href": "syllabus.html#consequences-of-absence",
+    "title": "Syllabus: Basic Issues in Philosophy (PHI 101.003, Honors)",
+    "section": "Consequences of Absence",
+    "text": "Consequences of Absence\nFormally, absence will impact your grade by depriving you of the opportunity to complete in-class exercises. Informally, absence deprives you of the opportunity to learn from lecture, discussion, and in-class exercises."
+  },
+  {
+    "objectID": "syllabus.html#accommodations",
+    "href": "syllabus.html#accommodations",
+    "title": "Syllabus: Basic Issues in Philosophy (PHI 101.003, Honors)",
+    "section": "Accommodations",
+    "text": "Accommodations\nAny student needing to arrange a reasonable accommodation for a documented disability and/or medical/mental health condition should contact Student Access and Accommodation Services at 308 Fell Hall, Office Phone (309) 438-5853, Video Phone (309) 319-7682 or visit the website at &lt;StudentAccess.IllinoisState.edu&gt;.\nI am also open to arranging reasonable accommodation regardless of documentation. If there is something that would help you, ask."
+  },
+  {
+    "objectID": "syllabus.html#academic-integrity",
+    "href": "syllabus.html#academic-integrity",
+    "title": "Syllabus: Basic Issues in Philosophy (PHI 101.003, Honors)",
+    "section": "Academic Integrity",
+    "text": "Academic Integrity\nYou are expected to be honest in all academic work, consistent with the academic integrity policy as outlined in the Code of Student Conduct and any additional syllabus language. All work is to be appropriately cited when it is borrowed, directly or indirectly, from another source. Unauthorized and/or unacknowledged collaboration on any work, or the presentation of someone else’s work as your own, is a form of academic dishonesty under the Code of Student Conduct.\nContent generated by an Artificial Intelligence third-party service or site (AI-generated content) without proper authorization and attribution is a form of academic dishonesty. If you are unsure about whether something used in your work requires attribution, please reach out to me to discuss it as soon as possible. Allegations of academic dishonesty will be referred to Student Conduct and Community Responsibilities, for review under the Student Code of Conduct. Students found responsible for academic dishonesty may also be assigned a grade penalty by the instructor."
+  },
+  {
+    "objectID": "syllabus.html#generative-ai-use-not-permitted",
+    "href": "syllabus.html#generative-ai-use-not-permitted",
+    "title": "Syllabus: Basic Issues in Philosophy (PHI 101.003, Honors)",
+    "section": "Generative AI Use Not Permitted",
+    "text": "Generative AI Use Not Permitted\nIn this course, the use of generative AI tools such as ChatGPT, Microsoft Copilot, Adobe Firefly, Google AI Mode, or Apple Intelligence is not permitted to support the completion of any assigned work. This includes, but is not limited to, using generative AI tools to ideate, pre-plan, edit, translate, or otherwise create original material you claim to be solely your creation. Use of a generative AI tool to complete assigned work in whole or in part may be referred under the Code of Student Conduct academic dishonesty provisions for further action by the Dean of Students Office."
+  },
+  {
+    "objectID": "syllabus.html#permission-required-to-record",
+    "href": "syllabus.html#permission-required-to-record",
+    "title": "Syllabus: Basic Issues in Philosophy (PHI 101.003, Honors)",
+    "section": "Permission Required to Record",
+    "text": "Permission Required to Record\nStudents who wish to use phones or other audio or video devices to record classroom lectures/discussions or take photographs must obtain written permission from the instructor except with an approved accommodation from Student Access and Accommodations Services. Approved recordings are to be used solely for the purposes of individual or group study with other students enrolled in the class. They may not be reproduced, shared with those not enrolled in the class, or uploaded to publicly accessible web environments. Violation of this classroom rule may result in referral to the Student Conduct and Community Responsibilities (SCCR) office for disciplinary action."
   },
   {
     "objectID": "slides/evil.html#reminders",
@@ -98,146 +168,6 @@
     "text": "The Argument for Disbelief\n\n\n\nThe Argument for Disbelief\n\n\n\nDB1. You should not believe that all the suffering in Nornia is necessary for some unknown greater good that its ruler has in mind.\nDB2. If you should not believe that all the suffering in Nornia is necessary for some unknown greater good that its ruler has in mind, then you should not believe that all the suffering in the actual world is necessary for some unknown greater good that an omnibeing has in mind.\nDB3. So, you should not believe that all the suffering in the actual world is necessary for some unknown greater good that an omnibeing has in mind.\n\n\n\n\nObjections?"
   },
   {
-    "objectID": "slides/evil-activities.html#reminders",
-    "href": "slides/evil-activities.html#reminders",
-    "title": "The Problem of Evil",
-    "section": "Reminders",
-    "text": "Reminders\n\n\nFor today, we are continuing our examination of the arguments from Chapter 1, “Can God Allow Suffering?”\nFor next week, read Chapter 2, “Why You Should Bet on God.”\nRemember, your goal should be, after reading, to be able to articulate claims like,\n\n“I disagree because…” is a sign that you did engage.\n“I agree even though…” is also a sign that you engaged."
-  },
-  {
-    "objectID": "slides/evil-activities.html#the-argument-from-pointless-suffering",
-    "href": "slides/evil-activities.html#the-argument-from-pointless-suffering",
-    "title": "The Problem of Evil",
-    "section": "The Argument from Pointless Suffering",
-    "text": "The Argument from Pointless Suffering\n\n\n\nArgument\n\n\n\nPS1. There is pointless suffering in the world\nPS2. If there is pointless suffering in the world, then there is no omnibeing.\nPS3. So, there is no omnibeing.\n\n\n\n\n\nFour objections to PS1: Appreciated Goods, Building Character, Free Will, Hidden Reasons."
-  },
-  {
-    "objectID": "slides/evil-activities.html#appreciated-goods",
-    "href": "slides/evil-activities.html#appreciated-goods",
-    "title": "The Problem of Evil",
-    "section": "Appreciated Goods",
-    "text": "Appreciated Goods\n\nPS1 is false. The point of suffering is that it allows us to appreciate good things.\nFirst objection: someone who experiences less pleasure and then a lot more pleasure can appreciate how much better the greater pleasure is, without ever suffering.\nSecond objection: We endure more suffering than is needed to appreciate good things.\n\n\n\novercast day vs. midwestern winter\nsore back vs. chronic back pain"
-  },
-  {
-    "objectID": "slides/evil-activities.html#building-character",
-    "href": "slides/evil-activities.html#building-character",
-    "title": "The Problem of Evil",
-    "section": "Building Character",
-    "text": "Building Character\n\nPS1 is false. The point of suffering is to build character (courage, empathy, loyalty, perseverance, self-control, forgiveness, trustworthiness, …)\nObjection: Not all suffering builds character.\n\n\n\nwithout suffering, there is no danger. Without facing danger, cannot develop courage.\nWithout profound acts of betrayal, there could be no profound acts of forgiveness.\nWithout the horrors and hardships of war, no one could reach the levels of courage and selflessness that soldiers attain.\nSince these sufferings are necessary in order to have the best kind of world—one with courageous and forgiving people—we can see why God would allow them.\n\nBut:\n\nsoliders who develop PTSD instead of courage.\ntorture followed by death without chance to build character."
-  },
-  {
-    "objectID": "slides/evil-activities.html#free-will",
-    "href": "slides/evil-activities.html#free-will",
-    "title": "The Problem of Evil",
-    "section": "Free Will",
-    "text": "Free Will\n\nPS1 is false. Suffering is an inevitable consequence of free will, and the value free will outweighs the badness of suffering.\nFirst objection: Not all suffering: disease, natural disaster, wolves.\nSecond objection: Why couldn’t God intervene to block the worst consequences of free will? (Toddler, chainsaw)\nThird objection: If God is omniscient, we don’t have free will anyway."
-  },
-  {
-    "objectID": "slides/evil-activities.html#hidden-reasons",
-    "href": "slides/evil-activities.html#hidden-reasons",
-    "title": "The Problem of Evil",
-    "section": "Hidden Reasons",
-    "text": "Hidden Reasons\n\nPS1 is false. All suffering serves a greater purpose, but often that purpose is hidden to us.\nObjection: This is possible—we cannot rule it out with 100% certainty. But it is wildly implausible, and something you should not believe. (Nornia analogy)"
-  },
-  {
-    "objectID": "slides/evil-activities.html#an-all-but-omnibeing",
-    "href": "slides/evil-activities.html#an-all-but-omnibeing",
-    "title": "The Problem of Evil",
-    "section": "An All-But-Omnibeing?",
-    "text": "An All-But-Omnibeing?\n\nPerhaps God is not an omnibeing.\nPerhaps an omnibeing is impossible?\n\nno one can bring about someone else’s free choice;\nno one can know what that free choice will be before it is made;\nmorality requires compromises (e.g., between justice and forgiveness).\n\nPerhaps God is an all-but-omnibeing: someone very very powerful, who knows everything that can be known, and is very very good…"
-  },
-  {
-    "objectID": "slides/evil-activities.html#a-revised-argument",
-    "href": "slides/evil-activities.html#a-revised-argument",
-    "title": "The Problem of Evil",
-    "section": "A Revised Argument",
-    "text": "A Revised Argument\n\n\n\nArgument\n\n\n\nPV1. There is pointless suffering in the world that an all-but-omnibeing could have prevented.\nPV2. If there is pointless suffering in the world of this sort, then there is no all-but-omnibeing.\nPV3. So, there is no all-but-omnibeing.\n\n\n\n\nPV1 is harder to defend than PS1. The idea behind PV1 is that, even if an all-but-omnibeing cannot prevent all pointless suffering, there is some pointless suffering in our world that they could have and should have prevented."
-  },
-  {
-    "objectID": "slides/evil-activities.html#overview-of-writing-exercise",
-    "href": "slides/evil-activities.html#overview-of-writing-exercise",
-    "title": "The Problem of Evil",
-    "section": "Overview of Writing Exercise",
-    "text": "Overview of Writing Exercise\n\nSpend a moment gathering your thoughts.\nShare your thoughts with someone else.\nSpend ten minutes writing up your thoughts in a paragraph.\nShare what you have written and get/give constructive feedback.\nRevise.\nShare what you have written to get/give critical feedback."
-  },
-  {
-    "objectID": "slides/evil-activities.html#gather-your-thoughts",
-    "href": "slides/evil-activities.html#gather-your-thoughts",
-    "title": "The Problem of Evil",
-    "section": "Gather Your Thoughts",
-    "text": "Gather Your Thoughts\n\n\nWhat do you see as the strongest possible objection to the Argument from Pointless Suffering? Which premise should someone who believes in an omnibeing (or an all-but-omnibeing) deny, and why? Is your objection the same as one of the four discussed? If so, how do you respond to the objection(s) from the book? If not, what objections do you anticipate?\n(You can do this in your head, or you can jot down notes for yourself.)"
-  },
-  {
-    "objectID": "slides/evil-activities.html#share-your-thoughts",
-    "href": "slides/evil-activities.html#share-your-thoughts",
-    "title": "The Problem of Evil",
-    "section": "Share Your Thoughts",
-    "text": "Share Your Thoughts\n\n\nTurn to someone sitting next to you, compare notes, and discuss. (If needed, three of you should form a group of three.) Don’t let one person dominate. Be sure that each person gets a chance to share their thoughts."
-  },
-  {
-    "objectID": "slides/evil-activities.html#put-your-thoughts-in-writing",
-    "href": "slides/evil-activities.html#put-your-thoughts-in-writing",
-    "title": "The Problem of Evil",
-    "section": "Put Your Thoughts in Writing",
-    "text": "Put Your Thoughts in Writing\n\n\nWrite a short argumentative paragraph, in which you state your objection as clearly as possible, present the strongest anticipated response to your objection, and explain why you think that response does not work.\nIf you have time, revise your paragraph for clarity and concision: omit needless words; try to say exactly what you mean; explain everything as explicitly as possible."
-  },
-  {
-    "objectID": "slides/evil-activities.html#share-your-writing",
-    "href": "slides/evil-activities.html#share-your-writing",
-    "title": "The Problem of Evil",
-    "section": "Share Your Writing",
-    "text": "Share Your Writing\n\n\nTurn to somebody else sitting near you, and exchange essays. (If our number is odd, three of you need to do a three-way share: A shares with B, B with C, and C with A.)\nAs you read your peer’s writing, focus first on understanding and constructive ideas. If there is something you don’t understand, or find unclear, mark it as unclear. If you have an idea about how they could develop their point further, jot it down. Avoid, for the moment, raising objections."
-  },
-  {
-    "objectID": "slides/evil-activities.html#receive-feedback",
-    "href": "slides/evil-activities.html#receive-feedback",
-    "title": "The Problem of Evil",
-    "section": "Receive Feedback",
-    "text": "Receive Feedback\n\n\nPass the papers back to their authors. Pick one author to “go first”. Share your feedback with the author and discuss for one minute. Then switch roles for the second minute. If you are in a three-way share, switch roles after 45 seconds, and then again at 1 minute and 30 seconds."
-  },
-  {
-    "objectID": "slides/evil-activities.html#revise",
-    "href": "slides/evil-activities.html#revise",
-    "title": "The Problem of Evil",
-    "section": "Revise",
-    "text": "Revise\n\n\nRevise your writing in light of the feedback you just received."
-  },
-  {
-    "objectID": "slides/evil-activities.html#share-your-revisions",
-    "href": "slides/evil-activities.html#share-your-revisions",
-    "title": "The Problem of Evil",
-    "section": "Share Your Revisions",
-    "text": "Share Your Revisions\n\n\nTurn to somebody else sitting near you, and exchange essays. (If needed, some other group of three should do a three-way share this time.)\nThis time, I want you to focus on objections. Think about what your peer is arguing, and try to come up with at least two possible objections. Think about which of those objections you think is the strongest."
-  },
-  {
-    "objectID": "slides/evil-activities.html#share-objections",
-    "href": "slides/evil-activities.html#share-objections",
-    "title": "The Problem of Evil",
-    "section": "Share Objections",
-    "text": "Share Objections\n\n\nPass the papers back to their authors. Pick one author to “go first”. Share your objections with the author. Discuss. After two minutes, switch roles. If you are in a three-way share, switch roles after 1 minute and 30 seconds, and again after 3 minutes."
-  },
-  {
-    "objectID": "slides/evil-activities.html#open-share",
-    "href": "slides/evil-activities.html#open-share",
-    "title": "The Problem of Evil",
-    "section": "Open Share",
-    "text": "Open Share\n\nWhat did you learn about the problem of evil? Thoughts now about which objection(s) seem most promising?\nHow did the writing process work? Examples of especially useful or unexpected feedback? Were there things that only became clear to you when you tried to write things down?\nWere there problems with the process? Are there guardrails we should agree to for future exercises to mitigate those problems?"
-  },
-  {
-    "objectID": "slides/evil-activities.html#private-share",
-    "href": "slides/evil-activities.html#private-share",
-    "title": "The Problem of Evil",
-    "section": "Private Share",
-    "text": "Private Share\nWrite up a short reflection on where you stand now, after the exercise, compared to where you were before the exercise."
-  },
-  {
-    "objectID": "slides/evil-activities.html#turn-in-your-work",
-    "href": "slides/evil-activities.html#turn-in-your-work",
-    "title": "The Problem of Evil",
-    "section": "Turn in your Work",
-    "text": "Turn in your Work\n\nMake sure to put your name at the top!"
-  },
-  {
     "objectID": "slides/wager-activities.html#reminders",
     "href": "slides/wager-activities.html#reminders",
     "title": "The Wager: Review and Activities",
@@ -298,7 +228,7 @@
     "href": "slides/wager-activities.html#infinite-goods",
     "title": "The Wager: Review and Activities",
     "section": "Infinite Goods?",
-    "text": "Infinite Goods?\n\nIf your capacity to enjoy goods is finite, then receiving more goods than can possibly enjoy is not better for you.\nFor many goods, the more goods of that type you enjoy, the less value each one has.\n\nA yacht would make me happier. A second would also increase my happiness, but by a bit less.\nLet \\(y\\) be the boost from the first yacht, and suppose each additional yacht boosts my happiness by half as much as the one before:\n\\[y + \\frac{y}{2} + \\frac{y}{4} + \\frac{y}{8} + \\frac{y}{16} ... = 2y\\]\nThe benefit of infinitely many yachts is not \\(\\infty\\), but just \\(2y\\)."
+    "text": "Infinite Goods?\n\nSuppose you’re choosing between two offers for free movie tickets. One gives you free entry to twenty movies. The other gives you limitless free entry: no matter how many times you go for free, you can always go for free again. Do you throw your hands up and say “How could I possibly decide?? It makes no sense to talk about limitless tickets!” No, you accept the second offer. And it makes perfect sense why you would: because the second offer, despite involving an infinite quantity, gives you more of a good thing than the first.\n\n\nIf your capacity to enjoy goods is finite, then receiving more goods than can possibly enjoy is not better for you.\nFor many goods, the more goods of that type you enjoy, the less value each one has.\n\nA yacht would make me happier. A second would also increase my happiness, but by a bit less.\nLet \\(y\\) be the boost from the first yacht, and suppose each additional yacht boosts my happiness by half as much as the one before:\n\\[y + \\frac{y}{2} + \\frac{y}{4} + \\frac{y}{8} + \\frac{y}{16} ... = 2y\\]\nThe benefit of infinitely many yachts is not \\(\\infty\\), but just \\(2y\\)."
   },
   {
     "objectID": "slides/wager-activities.html#unknowable-odds",
@@ -369,6 +299,27 @@
     "title": "The Wager: Review and Activities",
     "section": "Sharing",
     "text": "Sharing\n\n\nSwap papers with someone. Read each other’s papers, then discuss."
+  },
+  {
+    "objectID": "403.html",
+    "href": "403.html",
+    "title": "Access Forbidden!",
+    "section": "",
+    "text": "This is, but is not for you. Not all being is for browsing."
+  },
+  {
+    "objectID": "403.html#error",
+    "href": "403.html#error",
+    "title": "Access Forbidden!",
+    "section": "",
+    "text": "This is, but is not for you. Not all being is for browsing."
+  },
+  {
+    "objectID": "schedule.html",
+    "href": "schedule.html",
+    "title": "Schedule",
+    "section": "",
+    "text": "Week\nDate\nTopic\nReading\nSlides\n\n\n\n\n 1\nM 8/17\nWelcome!\n\n\n\n\nW 8/19\nArguments and Thought Experiments\nIntroduction\n\n\n\n 2\nM 8/24\n The Problem of Evil\n Can God Allow Suffering?\nSlides\n\n\nW 8/26\nSlides\n\n\n 3\nM 8/31\n Pascal’s Wager\n Why You Should Bet on God\nSlides\n\n\nW 9/2\nSlides\n\n\n 4\nM 9/7\nLabor Day — No Class\n\n\n\n\nW 9/9\n Personal Identity\n What Makes You You\nSlides\n\n\n 5\nM 9/14\n\n\n\nW 9/16\nMidterm 1\n\n\n\n\n 6\nM 9/21\n Death\n Don’t Fear the Reaper\n\n\n\nW 9/23\n\n\n\n 7\nM 9/28\n Free Will\n No Freedom\n\n\n\nW 9/30\n\n\n\n 8\nM 10/5\n Skepticism\n You Know Nothing\n\n\n\nW 10/7\n\n\n\n 9\nM 10/12\n Political Authority\n Against Prisons and Taxes\n\n\n\nW 10/14\n\n\n\n 10\nM 10/19\nTBD\n\n\n\n\nW 10/21\nMidterm 2\n\n\n\n\n 11\nM 10/26\n Abortion\n The Ethics of Abortion\n\n\n\nW 10/28\n\n\n\n 12\nM 11/2\n Eating Animals\n Eating Animals is Immoral\n\n\n\nW 11/4\n\n\n\n 13\nM 11/9\n Utilitarianism\n What Makes Things Right\n\n\n\nW 11/11\n\n\n\n 14\nM 11/16\nTBD by class\n\n\n\n\nW 11/18\nTBD by class\n\n\n\n\n  \nM 11/23\n Thanksgiving Break — No Class\n  \n  \n\n\nW 11/25\n\n\n 15\nM 11/30\nTBD by class\n\n\n\n\nW 12/2\nTBD by class\n\n\n\n\n Final\nM 12/7 – 12/12\nDate and time of final exam TBD by registrar"
   },
   {
     "objectID": "slides/wager.html#reminders",
@@ -518,101 +469,374 @@
     "text": "Decision Matrix for Trying to Believe\n\n\n\n\nGod + belief?\nGod + no belief?\nno God + belief?\nno God + no belief?\nExpected Utility\n\n\n\n\nTry to Believe\n?\n?\n?\n?\n?\n\n\nDon’t Try\n?\n?\n?\n?\n?\n\n\n\n‘God’ is short for ‘God exists’; ‘no God’ for ‘God does not exist’. ‘belief’ is short for ‘you end up believing God exists’; ‘no belief’ is short for ‘you end up not believing that God exists’.\nNotice that there is a non-zero probability that you end up believing in God even if you don’t try. That is interesting."
   },
   {
-    "objectID": "schedule.html",
-    "href": "schedule.html",
-    "title": "Schedule",
+    "objectID": "slides/personal_identity.html#reminders",
+    "href": "slides/personal_identity.html#reminders",
+    "title": "Personal Identity",
+    "section": "Reminders",
+    "text": "Reminders\n\nFor today, the reading was Chapter 3, “What Makes You You?”\nBecause of Labor Day, we are shifted: today is the day that I will mostly lecture; next Monday will be more activity based.\nNext Wednesday, Sep 16th, is our first midterm."
+  },
+  {
+    "objectID": "slides/personal_identity.html#an-ambiguity",
+    "href": "slides/personal_identity.html#an-ambiguity",
+    "title": "Personal Identity",
+    "section": "An Ambiguity",
+    "text": "An Ambiguity\nThe word ‘same’ is used to express identity. But it is ambiguous, and so is the word ‘identical’.1\n\n“We wore the same sweater to the party.”\n“Your sweater is identical to mine.”\n\nWhat are the two possible meanings of ‘same’ or ‘identical’ here?\nAn ambiguous word is a word with more than one meaning."
+  },
+  {
+    "objectID": "slides/personal_identity.html#the-same-sweater",
+    "href": "slides/personal_identity.html#the-same-sweater",
+    "title": "Personal Identity",
+    "section": "“the same sweater”",
+    "text": "“the same sweater”\n\n\n\nqualitative sameness\n\n\n\nnumerical sameness"
+  },
+  {
+    "objectID": "slides/personal_identity.html#numerical-identity",
+    "href": "slides/personal_identity.html#numerical-identity",
+    "title": "Personal Identity",
+    "section": "Numerical Identity",
+    "text": "Numerical Identity\n\nThis is a relation between a thing and itself, never between a thing and something else.\nWhen we say that \\(a\\) is numerically identical to \\(b\\), we are using two different labels for one thing.\nWhen we say that Superman is numerically identical to Clark Kent, we are using two different names for one thing.\nA difference in labels or names does not imply a different in objects: one object can have more than one label or name."
+  },
+  {
+    "objectID": "slides/personal_identity.html#qualitative-identity",
+    "href": "slides/personal_identity.html#qualitative-identity",
+    "title": "Personal Identity",
+    "section": "Qualitative Identity",
+    "text": "Qualitative Identity\n\nThis is a relation that can hold between a thing and itself, but can also hold between a thing and something else.\nWhen we say that \\(a\\) is qualitatively identical to \\(b\\), we are saying that they are very similar to each other."
+  },
+  {
+    "objectID": "slides/personal_identity.html#numerical-or-qualitative",
+    "href": "slides/personal_identity.html#numerical-or-qualitative",
+    "title": "Personal Identity",
+    "section": "Numerical or Qualitative?",
+    "text": "Numerical or Qualitative?\n\nHannah Montana is identical to Miley Stewart.\nEvery box of cheerios is the same as every other.\nSamuel Clemens is identical to Mark Twain.\nEveryone you date is the same—stop dating losers!\nDarth Vader is Luke’s father.\nSnoop Dogg is the same as Snoop Lion."
+  },
+  {
+    "objectID": "slides/personal_identity.html#identity-over-time-1",
+    "href": "slides/personal_identity.html#identity-over-time-1",
+    "title": "Personal Identity",
+    "section": "Identity over Time",
+    "text": "Identity over Time\nThe puzzles we are going to be thinking about all have to do with numerical identity over time. What makes the kid in the photo on the left the same person as the adult in the photo on the right?\n\n\n\n\\(A\\) at \\(t\\)\n\n\n\n\\(B\\) at \\(t^*\\)"
+  },
+  {
+    "objectID": "slides/personal_identity.html#change-and-identity-over-time",
+    "href": "slides/personal_identity.html#change-and-identity-over-time",
+    "title": "Personal Identity",
+    "section": "Change and Identity over Time",
+    "text": "Change and Identity over Time\n\nYou might think: “Wait a minute! I’m not the same as that kid in the photo. We’re different in all sorts of ways. In fact, I’m changing every second, so I’m not even the same from one moment to the next. I’m not even the same person as the person who started this sentence!”\n\n\nYou are not qualitatively the same, but you are numerically the same.\nChange just is numerical identity despite qualitative difference, over time:\n\nyou now are the (numerically) same thing as you as a kid, even though you are (qualitatively) different from how you were."
+  },
+  {
+    "objectID": "slides/personal_identity.html#template-of-an-account",
+    "href": "slides/personal_identity.html#template-of-an-account",
+    "title": "Personal Identity",
+    "section": "Template of an Account",
+    "text": "Template of an Account\nWe are looking for a way to fill in the blank in the following template:\n\n\\(A\\) at time \\(t\\) is the same person as \\(B\\) at time \\(t^*\\) if and only if\n\n  proposed condition   .\n\n\nThat is, we are looking for a condition that is both necessary and sufficient for being the same person at two different times."
+  },
+  {
+    "objectID": "slides/personal_identity.html#if-and-only-if",
+    "href": "slides/personal_identity.html#if-and-only-if",
+    "title": "Personal Identity",
+    "section": "‘if and only if’",
+    "text": "‘if and only if’"
+  },
+  {
+    "objectID": "slides/personal_identity.html#if-and-only-if-1",
+    "href": "slides/personal_identity.html#if-and-only-if-1",
+    "title": "Personal Identity",
+    "section": "‘if and only if’",
+    "text": "‘if and only if’\nThis is a logical phrase that is often used when given definitions, or when attempting to analyze something. For example:\n\n\\(S\\) is a rectangle if and only if\n\n\\(S\\) is a four-sided polygon with equal interior angles.\n\n\nThe condition that occurs on the right-hand side of ‘if and only if’ is a necessary and sufficient condition for being a rectangle."
+  },
+  {
+    "objectID": "slides/personal_identity.html#if-and-only-if-2",
+    "href": "slides/personal_identity.html#if-and-only-if-2",
+    "title": "Personal Identity",
+    "section": "‘if’ and ‘only if’",
+    "text": "‘if’ and ‘only if’\n\nSufficient Condition\n\n\\(S\\) is a rectangle if \\(S\\) is a four-sided polygon with equal interior angles.\n\nNecessary Condition\n\n\\(S\\) is a rectangle only if \\(S\\) is a four-sided polygon with equal interior angles.\n\n\nThe first says that being a four-sided polygon with equal interior angles is enough to make \\(S\\) a rectangle.\nThe second says that it is required for \\(S\\) to be a rectangle."
+  },
+  {
+    "objectID": "slides/personal_identity.html#sufficient-conditions",
+    "href": "slides/personal_identity.html#sufficient-conditions",
+    "title": "Personal Identity",
+    "section": "Sufficient Conditions",
+    "text": "Sufficient Conditions\nHere is an example of a sufficient condition for being a rectangle that is not a necessary condition:\n\n\\(S\\) is a rectangle if \\(S\\) is a square.\n\nTo be a rectangle, being a square is enough, but not required.\n\n\nrectangles\n\n\nsquares"
+  },
+  {
+    "objectID": "slides/personal_identity.html#necessary-conditions",
+    "href": "slides/personal_identity.html#necessary-conditions",
+    "title": "Personal Identity",
+    "section": "Necessary Conditions",
+    "text": "Necessary Conditions\nHere is an example of a necessary condition that is not sufficient:\n\n\\(S\\) is a rectangle only if \\(S\\) is a four-sided polygon.\n\nBeing four-sided is required, but not enough.\n\n\nrectangles\n\n\nfour-sided polygons"
+  },
+  {
+    "objectID": "slides/personal_identity.html#necessary-and-sufficient-conditions-1",
+    "href": "slides/personal_identity.html#necessary-and-sufficient-conditions-1",
+    "title": "Personal Identity",
+    "section": "Necessary and Sufficient Conditions",
+    "text": "Necessary and Sufficient Conditions\n\n\\(S\\) is a rectangle if and only if\n\n\\(S\\) is a four-sided polygon with equal interior angles.\n\n\nFinally, a feature that is both required and enough.\n\n\nrectangles\n\n\nfour-sided polygons with equal interior angles"
+  },
+  {
+    "objectID": "slides/personal_identity.html#template-of-an-account-1",
+    "href": "slides/personal_identity.html#template-of-an-account-1",
+    "title": "Personal Identity",
+    "section": "Template of an Account",
+    "text": "Template of an Account\n\n\\(A\\) at time \\(t\\) is the same person as \\(B\\) at time \\(t^*\\) if and only if\n\n  proposed condition  \n\n\nCan we come up with a condition that is both required and enough?\n\n\nsame person\n\n\nproposed condition"
+  },
+  {
+    "objectID": "slides/personal_identity.html#the-fingerprints-account",
+    "href": "slides/personal_identity.html#the-fingerprints-account",
+    "title": "Personal Identity",
+    "section": "The Fingerprints Account",
+    "text": "The Fingerprints Account\n\n\\(A\\) at time \\(t\\) is the same person as \\(B\\) at time \\(t^*\\) if and only if\n\n\\(A\\) and \\(B\\) have indistinguishable fingerprints.\n\n\nObjections?\n\n\nThe same person could have different fingerprints at different times. So this is not a necessary condition.\nTwo distinct people could have the same fingerprints. So this is not sufficient either.\n\n\n\nBekah, who robs the mansion and then burns off her fingerprints.\nSomeone who steals your fingerprints and grafts them on their own fingers.\nUnlikely case of two people who happen to have the same fingerprints."
+  },
+  {
+    "objectID": "slides/personal_identity.html#the-dna-account",
+    "href": "slides/personal_identity.html#the-dna-account",
+    "title": "Personal Identity",
+    "section": "The DNA Account",
+    "text": "The DNA Account\n\n\\(A\\) at \\(t\\) is the same person as \\(B\\) at \\(t^*\\) if and only if\n\n\\(A\\) and \\(B\\) have indistinguishable DNA.\n\n\nObjections?\n\n\nIdentical twins have indistinguishable DNA. So not a sufficient condition.\nGene therapy can be used to edit and alter your DNA. So not a necessary condition."
+  },
+  {
+    "objectID": "slides/personal_identity.html#the-same-body-account",
+    "href": "slides/personal_identity.html#the-same-body-account",
+    "title": "Personal Identity",
+    "section": "The Same Body Account",
+    "text": "The Same Body Account\n\n\\(A\\) at \\(t\\) is the same person as \\(B\\) at \\(t^*\\) if and only if\n\n\\(A\\) has the same body as \\(B\\).\n\n\n\nThis avoids the obvious objections of the sort we saw for the Fingerprints and DNA accounts.\nNote that it raises the further question: when is a body at \\(t\\) the same body as a body at \\(t^*\\)?"
+  },
+  {
+    "objectID": "slides/personal_identity.html#physical-features-and-psychological-features",
+    "href": "slides/personal_identity.html#physical-features-and-psychological-features",
+    "title": "Personal Identity",
+    "section": "Physical Features and Psychological Features",
+    "text": "Physical Features and Psychological Features\nPhysical accounts of identity focus on physical features:\n\nfingerprints, DNA, body parts…\n\nPsychological accounts instead focus on psychological features:\n\npersonality, likes and dislikes, beliefs, emotions, current perceptual experiences, memories, expectations…"
+  },
+  {
+    "objectID": "slides/personal_identity.html#the-psychological-matching-account",
+    "href": "slides/personal_identity.html#the-psychological-matching-account",
+    "title": "Personal Identity",
+    "section": "The Psychological Matching Account",
+    "text": "The Psychological Matching Account\n\n\\(A\\) at \\(t\\) is the same person as \\(B\\) at \\(t^*\\) if and only if\n\n\\(A\\)’s psychological features are exactly the same as \\(B\\)’s psychological features.\n\n\nObjections?\n\n\nThe same person can have different psychological features—memories, perceptual experiences, emotions, beliefs—from moment to moment. So not a necessary condition.\nDo you think it is sufficient?"
+  },
+  {
+    "objectID": "slides/personal_identity.html#the-psychological-overlap-account",
+    "href": "slides/personal_identity.html#the-psychological-overlap-account",
+    "title": "Personal Identity",
+    "section": "The Psychological Overlap Account",
+    "text": "The Psychological Overlap Account\n\n\\(A\\) at \\(t\\) is the same person as \\(B\\) at \\(t^*\\) if and only if\n\n\\(A\\)’s psychological features are mostly the same as \\(B\\)’s psychological features.\n\n\nImagine each circle contains all the memories, perceptual experiences, emotions, etc., of \\(A\\) at \\(t\\) and \\(B\\) at \\(t^*\\). The account says that they are the same person when they share most of these features:\n\n\n\n\n\n\\(A\\) at \\(t\\)\n\n\n\n\n\n\\(B\\) at \\(t^*\\)\n\n\nObjections?\n\n\nYour psychological features have changes a lot since you were a little kid. So not a necessary condition.\nIs it a sufficient condition?"
+  },
+  {
+    "objectID": "slides/personal_identity.html#the-psychological-descendant-account",
+    "href": "slides/personal_identity.html#the-psychological-descendant-account",
+    "title": "Personal Identity",
+    "section": "The Psychological Descendant Account",
+    "text": "The Psychological Descendant Account\n\n\\(A\\) at \\(t\\) is the same person as \\(B\\) at \\(t^*\\) if and only if\n\n\\(A\\) is either a psychological ancestor or a psychological descendant of \\(B\\).\n\n\n\n\n\n\n\n\\(A\\) at \\(t\\)\n\n\n\n\n\n\\(B\\) at \\(t^*\\)"
+  },
+  {
+    "objectID": "slides/personal_identity.html#conjoined-twins",
+    "href": "slides/personal_identity.html#conjoined-twins",
+    "title": "Personal Identity",
+    "section": "Conjoined Twins",
+    "text": "Conjoined Twins\n\nAbby and Brittany Hensel"
+  },
+  {
+    "objectID": "slides/personal_identity.html#two-bodies",
+    "href": "slides/personal_identity.html#two-bodies",
+    "title": "Personal Identity",
+    "section": "Two Bodies?",
+    "text": "Two Bodies?\n\nAbby’s body\n\nthe right arm, right leg, right lung, the right head and so on.\n\nBrittany’s body\n\nthe left arm, left leg, left lung, left head, and so on.\n\n\nObjection:\n\nOn this way of dividing things, Brittany has no liver (the one liver is on the right side).\nBut that is wrong: Brittany has a liver, which she shares with Abby."
+  },
+  {
+    "objectID": "slides/personal_identity.html#one-person",
+    "href": "slides/personal_identity.html#one-person",
+    "title": "Personal Identity",
+    "section": "One Person?",
+    "text": "One Person?\n\n\n\nCONJOINED DRAMA\n\n\nAbby is dating Arie. Brittany is secretly in love with Arie and has always been jealous of their relationship. One night, while Abby is sleeping, Brittany confesses her feelings to Arie, and Arie kisses her. Later, when Abby finds out, she strangles Brittany.\n\n\n\n\n\n\nArgument\n\n\n\nIf Abby and Brittany are one person, then no cheating occurred, and Abby didn’t kill anyone, she just removed one of her two heads.\nCheating did occur, and Abby did kill someone.\nSo Abby and Brittany are not one person, but two."
+  },
+  {
+    "objectID": "slides/personal_identity.html#body-swaps",
+    "href": "slides/personal_identity.html#body-swaps",
+    "title": "Personal Identity",
+    "section": "Body Swaps",
+    "text": "Body Swaps\n\n\n\nFreaky Friday\n\n\nOn Friday morning, something happens. The person in Anna’s body looks in the mirror in disbelief. “Why,” she thinks to herself, “am I in my teenage daughter’s body?” Meanwhile, the person in Tess’s body looks in the mirror in horror. “Why,” she thinks to herself, “am I in my mom’s middle-aged body?” Predictable hijinks ensue.\n\n\n\nThere are different ways to fill in how this happened. It could be magic. It could be the result of a “neural state” off-loading and up-loading device. It could be the result of a literal brain transplant."
+  },
+  {
+    "objectID": "slides/personal_identity.html#body-swaps-1",
+    "href": "slides/personal_identity.html#body-swaps-1",
+    "title": "Personal Identity",
+    "section": "Body Swaps",
+    "text": "Body Swaps\n\nCall the person in the mom body on Thursday, before the freaky thing happens, \\(A\\).\nCall the person in the mom body on Friday, after the freaky thing happens, \\(B\\).\n\n\n\n\nThe Body Swap Argument\n\n\n\nBS1. \\(A\\) on Thursday has the same body as \\(B\\) on Friday.\nBS2. If \\(A\\) on Thursday has the same body as \\(B\\) on Friday and the Same Body Account is true, then \\(A\\) is the same person as \\(B\\).\nBS3. \\(A\\) is not the same person as \\(B\\).\nBS4. So, the Same Body Account is false.\n\n\n\n\n\n\nWe all agree with BS3. The movie is about how the mom has to go to school in the daughter’s body, and the daughter has to do adult things in her mom’s body.\nNotice that the psychological descecndant account gets this case right."
+  },
+  {
+    "objectID": "slides/personal_identity.html#amnesia",
+    "href": "slides/personal_identity.html#amnesia",
+    "title": "Personal Identity",
+    "section": "Amnesia",
+    "text": "Amnesia\n\n\n\nTOTAL AMNESIA\n\n\nJiwoo is stranded on a deserted island. Adding injury to insult, a coconut fell on Jiwoo’s head at noon today, instantly resulting in total amnesia. She can’t remember how she got on the island or anything else about her past. She can’t even remember her own name.\n\n\n\n\n\n\nArgument\n\n\n\nThe person with total amnesia is not a psychological descendant of the person before the injury.\nBut she is the same person as the person before the injury.\nSo, the PDA is false.\n\n\n\n\n\npossible reponse: (1) is false, because there is still substantial overlap of other psychological features."
+  },
+  {
+    "objectID": "slides/personal_identity.html#total-blackout",
+    "href": "slides/personal_identity.html#total-blackout",
+    "title": "Personal Identity",
+    "section": "Total Blackout",
+    "text": "Total Blackout\n\n\n\nExample\n\n\nMinjun is stranded on a deserted island. Adding injury to insult, a coconut fell on Minjun’s head at noon today, temporarily knocking him unconscious. While unconscious, he is not dreaming, nor does he have any thoughts or experiences or any physical sensations whatsoever. He is completely blacked out. When he finally awakens hours later, it will feel as if no time has passed.\n\n\n\n\n\n\nThe Blackout Argument\n\n\n\nBL1. The unconscious man is not a psychological descendant of the conscious man.\nBL2. If the unconscious man is not a psychological descendant of the conscious man, then: if the Psychological Descendant Account is true, then the conscious man is not the same person as the unconscious man.\nBL3. The conscious man is the same person as the unconscious man.\nBL4. So, the Psychological Descendant Account is false."
+  },
+  {
+    "objectID": "slides/personal_identity.html#fission",
+    "href": "slides/personal_identity.html#fission",
+    "title": "Personal Identity",
+    "section": "Fission",
+    "text": "Fission\n\n\n\nDOUBLE TROUBLE\n\n\nRachel uploads JoJo’s neural states to Chad’s brain, and also accidentally uploads them to Alex’s brain as well. As a result, both the person with Chad’s original body and the person with Alex’s original body wake up and say ‘My name is JoJo’. Both can tell you all about JoJo’s past; neither can tell you anything about Chad or Alex’s past. She also obliterates JoJo’s original body.\n\n\n\n\nDraw a diagram. Label the people before the rewiring as ‘JoJo’, ‘Chad’, and ‘Alex’. Then label the people after as ‘A’ and ‘B’.\nAsk them to try to figure out who is who."
+  },
+  {
+    "objectID": "slides/personal_identity.html#the-same-soul-account",
+    "href": "slides/personal_identity.html#the-same-soul-account",
+    "title": "Personal Identity",
+    "section": "The Same Soul Account",
+    "text": "The Same Soul Account\n\n\\(A\\) at \\(t\\) is the same person as \\(B\\) at \\(t^*\\) if and only if\n\n\\(A\\) has the same soul as \\(B\\).\n\n\nTwo interpretations:\n\nYou are your soul.\n\nbut then, soul-talk is just person-talk, and this account is uninformative.\n\nYour soul is not you, but an immaterial part of you.\n\nbut then, how can we ever know whether or not \\(A\\) at \\(t\\) and \\(A\\) at \\(t^*\\) have the same soul?\n\n\n\n\nsuggest soul swap cases where psych continuity doesn’t follow the soul.\nlead them to the view that the soul is what accounts for psych continuity."
+  },
+  {
+    "objectID": "slides/evil-activities.html#reminders",
+    "href": "slides/evil-activities.html#reminders",
+    "title": "The Problem of Evil",
+    "section": "Reminders",
+    "text": "Reminders\n\n\nFor today, we are continuing our examination of the arguments from Chapter 1, “Can God Allow Suffering?”\nFor next week, read Chapter 2, “Why You Should Bet on God.”\nRemember, your goal should be, after reading, to be able to articulate claims like,\n\n“I disagree because…” is a sign that you did engage.\n“I agree even though…” is also a sign that you engaged."
+  },
+  {
+    "objectID": "slides/evil-activities.html#the-argument-from-pointless-suffering",
+    "href": "slides/evil-activities.html#the-argument-from-pointless-suffering",
+    "title": "The Problem of Evil",
+    "section": "The Argument from Pointless Suffering",
+    "text": "The Argument from Pointless Suffering\n\n\n\nArgument\n\n\n\nPS1. There is pointless suffering in the world\nPS2. If there is pointless suffering in the world, then there is no omnibeing.\nPS3. So, there is no omnibeing.\n\n\n\n\n\nFour objections to PS1: Appreciated Goods, Building Character, Free Will, Hidden Reasons."
+  },
+  {
+    "objectID": "slides/evil-activities.html#appreciated-goods",
+    "href": "slides/evil-activities.html#appreciated-goods",
+    "title": "The Problem of Evil",
+    "section": "Appreciated Goods",
+    "text": "Appreciated Goods\n\nPS1 is false. The point of suffering is that it allows us to appreciate good things.\nFirst objection: someone who experiences less pleasure and then a lot more pleasure can appreciate how much better the greater pleasure is, without ever suffering.\nSecond objection: We endure more suffering than is needed to appreciate good things.\n\n\n\novercast day vs. midwestern winter\nsore back vs. chronic back pain"
+  },
+  {
+    "objectID": "slides/evil-activities.html#building-character",
+    "href": "slides/evil-activities.html#building-character",
+    "title": "The Problem of Evil",
+    "section": "Building Character",
+    "text": "Building Character\n\nPS1 is false. The point of suffering is to build character (courage, empathy, loyalty, perseverance, self-control, forgiveness, trustworthiness, …)\nObjection: Not all suffering builds character.\n\n\n\nwithout suffering, there is no danger. Without facing danger, cannot develop courage.\nWithout profound acts of betrayal, there could be no profound acts of forgiveness.\nWithout the horrors and hardships of war, no one could reach the levels of courage and selflessness that soldiers attain.\nSince these sufferings are necessary in order to have the best kind of world—one with courageous and forgiving people—we can see why God would allow them.\n\nBut:\n\nsoliders who develop PTSD instead of courage.\ntorture followed by death without chance to build character."
+  },
+  {
+    "objectID": "slides/evil-activities.html#free-will",
+    "href": "slides/evil-activities.html#free-will",
+    "title": "The Problem of Evil",
+    "section": "Free Will",
+    "text": "Free Will\n\nPS1 is false. Suffering is an inevitable consequence of free will, and the value free will outweighs the badness of suffering.\nFirst objection: Not all suffering: disease, natural disaster, wolves.\nSecond objection: Why couldn’t God intervene to block the worst consequences of free will? (Toddler, chainsaw)\nThird objection: If God is omniscient, we don’t have free will anyway."
+  },
+  {
+    "objectID": "slides/evil-activities.html#hidden-reasons",
+    "href": "slides/evil-activities.html#hidden-reasons",
+    "title": "The Problem of Evil",
+    "section": "Hidden Reasons",
+    "text": "Hidden Reasons\n\nPS1 is false. All suffering serves a greater purpose, but often that purpose is hidden to us.\nObjection: This is possible—we cannot rule it out with 100% certainty. But it is wildly implausible, and something you should not believe. (Nornia analogy)"
+  },
+  {
+    "objectID": "slides/evil-activities.html#an-all-but-omnibeing",
+    "href": "slides/evil-activities.html#an-all-but-omnibeing",
+    "title": "The Problem of Evil",
+    "section": "An All-But-Omnibeing?",
+    "text": "An All-But-Omnibeing?\n\nPerhaps God is not an omnibeing.\nPerhaps an omnibeing is impossible?\n\nno one can bring about someone else’s free choice;\nno one can know what that free choice will be before it is made;\nmorality requires compromises (e.g., between justice and forgiveness).\n\nPerhaps God is an all-but-omnibeing: someone very very powerful, who knows everything that can be known, and is very very good…"
+  },
+  {
+    "objectID": "slides/evil-activities.html#a-revised-argument",
+    "href": "slides/evil-activities.html#a-revised-argument",
+    "title": "The Problem of Evil",
+    "section": "A Revised Argument",
+    "text": "A Revised Argument\n\n\n\nArgument\n\n\n\nPV1. There is pointless suffering in the world that an all-but-omnibeing could have prevented.\nPV2. If there is pointless suffering in the world of this sort, then there is no all-but-omnibeing.\nPV3. So, there is no all-but-omnibeing.\n\n\n\n\nPV1 is harder to defend than PS1. The idea behind PV1 is that, even if an all-but-omnibeing cannot prevent all pointless suffering, there is some pointless suffering in our world that they could have and should have prevented."
+  },
+  {
+    "objectID": "slides/evil-activities.html#overview-of-writing-exercise",
+    "href": "slides/evil-activities.html#overview-of-writing-exercise",
+    "title": "The Problem of Evil",
+    "section": "Overview of Writing Exercise",
+    "text": "Overview of Writing Exercise\n\nSpend a moment gathering your thoughts.\nShare your thoughts with someone else.\nSpend ten minutes writing up your thoughts in a paragraph.\nShare what you have written and get/give constructive feedback.\nRevise.\nShare what you have written to get/give critical feedback."
+  },
+  {
+    "objectID": "slides/evil-activities.html#gather-your-thoughts",
+    "href": "slides/evil-activities.html#gather-your-thoughts",
+    "title": "The Problem of Evil",
+    "section": "Gather Your Thoughts",
+    "text": "Gather Your Thoughts\n\n\nWhat do you see as the strongest possible objection to the Argument from Pointless Suffering? Which premise should someone who believes in an omnibeing (or an all-but-omnibeing) deny, and why? Is your objection the same as one of the four discussed? If so, how do you respond to the objection(s) from the book? If not, what objections do you anticipate?\n(You can do this in your head, or you can jot down notes for yourself.)"
+  },
+  {
+    "objectID": "slides/evil-activities.html#share-your-thoughts",
+    "href": "slides/evil-activities.html#share-your-thoughts",
+    "title": "The Problem of Evil",
+    "section": "Share Your Thoughts",
+    "text": "Share Your Thoughts\n\n\nTurn to someone sitting next to you, compare notes, and discuss. (If needed, three of you should form a group of three.) Don’t let one person dominate. Be sure that each person gets a chance to share their thoughts."
+  },
+  {
+    "objectID": "slides/evil-activities.html#put-your-thoughts-in-writing",
+    "href": "slides/evil-activities.html#put-your-thoughts-in-writing",
+    "title": "The Problem of Evil",
+    "section": "Put Your Thoughts in Writing",
+    "text": "Put Your Thoughts in Writing\n\n\nWrite a short argumentative paragraph, in which you state your objection as clearly as possible, present the strongest anticipated response to your objection, and explain why you think that response does not work.\nIf you have time, revise your paragraph for clarity and concision: omit needless words; try to say exactly what you mean; explain everything as explicitly as possible."
+  },
+  {
+    "objectID": "slides/evil-activities.html#share-your-writing",
+    "href": "slides/evil-activities.html#share-your-writing",
+    "title": "The Problem of Evil",
+    "section": "Share Your Writing",
+    "text": "Share Your Writing\n\n\nTurn to somebody else sitting near you, and exchange essays. (If our number is odd, three of you need to do a three-way share: A shares with B, B with C, and C with A.)\nAs you read your peer’s writing, focus first on understanding and constructive ideas. If there is something you don’t understand, or find unclear, mark it as unclear. If you have an idea about how they could develop their point further, jot it down. Avoid, for the moment, raising objections."
+  },
+  {
+    "objectID": "slides/evil-activities.html#receive-feedback",
+    "href": "slides/evil-activities.html#receive-feedback",
+    "title": "The Problem of Evil",
+    "section": "Receive Feedback",
+    "text": "Receive Feedback\n\n\nPass the papers back to their authors. Pick one author to “go first”. Share your feedback with the author and discuss for one minute. Then switch roles for the second minute. If you are in a three-way share, switch roles after 45 seconds, and then again at 1 minute and 30 seconds."
+  },
+  {
+    "objectID": "slides/evil-activities.html#revise",
+    "href": "slides/evil-activities.html#revise",
+    "title": "The Problem of Evil",
+    "section": "Revise",
+    "text": "Revise\n\n\nRevise your writing in light of the feedback you just received."
+  },
+  {
+    "objectID": "slides/evil-activities.html#share-your-revisions",
+    "href": "slides/evil-activities.html#share-your-revisions",
+    "title": "The Problem of Evil",
+    "section": "Share Your Revisions",
+    "text": "Share Your Revisions\n\n\nTurn to somebody else sitting near you, and exchange essays. (If needed, some other group of three should do a three-way share this time.)\nThis time, I want you to focus on objections. Think about what your peer is arguing, and try to come up with at least two possible objections. Think about which of those objections you think is the strongest."
+  },
+  {
+    "objectID": "slides/evil-activities.html#share-objections",
+    "href": "slides/evil-activities.html#share-objections",
+    "title": "The Problem of Evil",
+    "section": "Share Objections",
+    "text": "Share Objections\n\n\nPass the papers back to their authors. Pick one author to “go first”. Share your objections with the author. Discuss. After two minutes, switch roles. If you are in a three-way share, switch roles after 1 minute and 30 seconds, and again after 3 minutes."
+  },
+  {
+    "objectID": "slides/evil-activities.html#open-share",
+    "href": "slides/evil-activities.html#open-share",
+    "title": "The Problem of Evil",
+    "section": "Open Share",
+    "text": "Open Share\n\nWhat did you learn about the problem of evil? Thoughts now about which objection(s) seem most promising?\nHow did the writing process work? Examples of especially useful or unexpected feedback? Were there things that only became clear to you when you tried to write things down?\nWere there problems with the process? Are there guardrails we should agree to for future exercises to mitigate those problems?"
+  },
+  {
+    "objectID": "slides/evil-activities.html#private-share",
+    "href": "slides/evil-activities.html#private-share",
+    "title": "The Problem of Evil",
+    "section": "Private Share",
+    "text": "Private Share\nWrite up a short reflection on where you stand now, after the exercise, compared to where you were before the exercise."
+  },
+  {
+    "objectID": "slides/evil-activities.html#turn-in-your-work",
+    "href": "slides/evil-activities.html#turn-in-your-work",
+    "title": "The Problem of Evil",
+    "section": "Turn in your Work",
+    "text": "Turn in your Work\n\nMake sure to put your name at the top!"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Basic Issues in Philosophy",
     "section": "",
-    "text": "Week\nDate\nTopic\nReading\nSlides\n\n\n\n\n 1\nM 8/17\nWelcome!\n\n\n\n\nW 8/19\nArguments and Thought Experiments\nIntroduction\n\n\n\n 2\nM 8/24\n The Problem of Evil\n Can God Allow Suffering?\nSlides\n\n\nW 8/26\nSlides\n\n\n 3\nM 8/31\n Pascal’s Wager\n Why You Should Bet on God\nSlides\n\n\nW 9/2\n\n\n\n 4\nM 9/7\nLabor Day — No Class\n\n\n\n\nW 9/9\n Personal Identity\n What Makes You You\n\n\n\n 5\nM 9/14\n\n\n\nW 9/16\nMidterm 1\n\n\n\n\n 6\nM 9/21\n Death\n Don’t Fear the Reaper\n\n\n\nW 9/23\n\n\n\n 7\nM 9/28\n Free Will\n No Freedom\n\n\n\nW 9/30\n\n\n\n 8\nM 10/5\n Skepticism\n You Know Nothing\n\n\n\nW 10/7\n\n\n\n 9\nM 10/12\n Political Authority\n Against Prisons and Taxes\n\n\n\nW 10/14\n\n\n\n 10\nM 10/19\nTBD\n\n\n\n\nW 10/21\nMidterm 2\n\n\n\n\n 11\nM 10/26\n Abortion\n The Ethics of Abortion\n\n\n\nW 10/28\n\n\n\n 12\nM 11/2\n Eating Animals\n Eating Animals is Immoral\n\n\n\nW 11/4\n\n\n\n 13\nM 11/9\n Utilitarianism\n What Makes Things Right\n\n\n\nW 11/11\n\n\n\n 14\nM 11/16\nTBD by class\n\n\n\n\nW 11/18\nTBD by class\n\n\n\n\n  \nM 11/23\n Thanksgiving Break — No Class\n  \n  \n\n\nW 11/25\n\n\n 15\nM 11/30\nTBD by class\n\n\n\n\nW 12/2\nTBD by class\n\n\n\n\n Final\nM 12/7 – 12/12\nDate and time of final exam TBD by registrar"
-  },
-  {
-    "objectID": "syllabus.html",
-    "href": "syllabus.html",
-    "title": "Syllabus: Basic Issues in Philosophy (PHI 101.003, Honors)",
-    "section": "",
-    "text": "Instructor\n\nDavid Sanson\n\nOffice\n\nStevenson 341\n\n\n\n\nClass Meetings\n\nMW 3:35PM – 4:50PM, Stevenson 0229\n\nOffice Hours\n\nM noon–1:00PM; W 11:00AM–noon"
-  },
-  {
-    "objectID": "syllabus.html#basic-information",
-    "href": "syllabus.html#basic-information",
-    "title": "Syllabus: Basic Issues in Philosophy (PHI 101.003, Honors)",
-    "section": "",
-    "text": "Instructor\n\nDavid Sanson\n\nOffice\n\nStevenson 341\n\n\n\n\nClass Meetings\n\nMW 3:35PM – 4:50PM, Stevenson 0229\n\nOffice Hours\n\nM noon–1:00PM; W 11:00AM–noon"
-  },
-  {
-    "objectID": "syllabus.html#course-description",
-    "href": "syllabus.html#course-description",
-    "title": "Syllabus: Basic Issues in Philosophy (PHI 101.003, Honors)",
-    "section": "Course Description",
-    "text": "Course Description\nThis is a course about doing philosophy. We will spend the next 15 weeks doing philosophy together. Topics we will cover include: the existence of God, the nature of the self, death, free will, our knowledge of external world, the justification of political authority, the morality of abortion, the morality of eating meat, and the relationship between happiness, doing what is good, and doing what it is right. I have left space for additional topics at the end of the term. We will decide together what other topics we want to cover.\nThis is also an “honors” section. That means that our class size is a bit smaller, so I can give each of you a bit more attention. It also means that I expect a bit more from you than I expect from a typical ISU student. I am not going to assign you more work, but I expect you to do more with the work assigned. Hopefully, our our discussions will reflect this, and we will be able, collectively, to dig deeper into the material than would be possible in a non-honors section."
-  },
-  {
-    "objectID": "syllabus.html#why-bother-doing-philosophy",
-    "href": "syllabus.html#why-bother-doing-philosophy",
-    "title": "Syllabus: Basic Issues in Philosophy (PHI 101.003, Honors)",
-    "section": "Why bother doing philosophy?",
-    "text": "Why bother doing philosophy?\nPhilosophy tackles basic questions about existence, identity, knowledge, and value. These questions are important, but they are also hard to approach and hard to answer. Other fields balk at these questions or approach them obliquely. In Philosophy, we learn to face them head on.\nIt turns out that doing this is one of the best ways to train your mind to think clearly and carefully about hard problems. If you want to learn how to think clearly and carefully about hard quantitative problems, you should take more math classes. But if you want to learn how to think clearly and carefully about hard non-quantitative problems, you should study philosophy.\nWhat I am describing here is not an abstract academic skill. Studying philosophy will make you better at thinking about anything than most other people, and this has enormous practical value. Contrary to the “flipping burgers” stereotype, philosophy majors, on average, make better money than other humanities majors, and better money than most “applied” majors as well (sort by “Mid-Career Median Salary”). Philosophy is one of the most “AI-proof” majors. And Philosophy majors routinely outperform other majors on graduate entrance exams, including the GRE (graduate school), LSAT (law school), MCAT (medical school), and GMAT (business school). Turns out that being good at thinking about stuff is useful no matter how you hope to sell your labor in the future.\nBut what I am describing here are not (just) “transferable job skills”. To quote Ángel Pinillos (Philosophy, Arizona State University), “The Honest Case for the Humanities”:\n\nYou will, at some point, need to advocate for your child at her school. You will need to read a teacher’s email carefully enough to notice what it is and is not saying, and write a response that is firm without being inflammatory, and recognize when an administrator is performing concern rather than offering it. You will need to talk to a doctor about a parent’s care, or your own, and follow an argument about risk and tradeoff that the doctor is making quickly and imperfectly, and ask the question that exposes the assumption the doctor has not examined. You will need to understand the context of someone who grew up in a place very different from you, with radically different values and experiences. You will need to read a contract. You will need to read a ballot measure. You will need to argue, in public or in private, for the candidate or the policy you believe in, and you will need to do this against people who are themselves trained, motivated and may not have your best interest at heart.\nThese are not the higher reaches of the soul. They are not transcendental encounters with truth and beauty. They are ordinary citizenship and ordinary parenthood and ordinary adulthood, and they have material consequences — for your kid, for your parent, for your community, for the decisions that get made about you when you are not in the room.\n\nStudying Philosophy teaches these skills better than anything else in the university curriculum."
-  },
-  {
-    "objectID": "syllabus.html#learning-from-arguments",
-    "href": "syllabus.html#learning-from-arguments",
-    "title": "Syllabus: Basic Issues in Philosophy (PHI 101.003, Honors)",
-    "section": "Learning from Arguments",
-    "text": "Learning from Arguments\nOur textbook is a free, online, open-source text, Learning from Arguments.\nThe book is opinionated, but the opinions are not the opinions of the author. Each chapter presents, as clearly and powerfully as possible, an argument for a controversial philosophical position: The first presents an argument that God does not exist; the second, an argument that you should believe in God; the third, that you are neither your body nor your mind; the fourth, that you shouldn’t fear death; the fifth, that we do not have free will; the sixth, that we know nothing about the external world; the seventh, that no government has the right to tax or incarcerate its citizens; the eighth, that abortion is morally wrong; the ninth, that eating meat is morally wrong; and the tenth chapter defends Utilitarianism—the idea that what makes an action right or wrong is ultimately a matter of how much it increases or decreases our overall happiness.\nThe point here is not to convince you of each these positions. Nor is the point to “spark debate” by “playing devil’s advocate”.\nThe point is to present you with the strongest and clearest possible argument for each position. Your job, as a reader, is to think carefully and hard about these arguments. If you think they go wrong, your job is to figure out and articulate how they go wrong. Through this process, you will gain deeper insight into what you believe and why you believe it, and you will gain better understanding of the underlying philosophical puzzles and problems that might lead to disagreement on these issues."
-  },
-  {
-    "objectID": "syllabus.html#schedule",
-    "href": "syllabus.html#schedule",
-    "title": "Syllabus: Basic Issues in Philosophy (PHI 101.003, Honors)",
-    "section": "Schedule",
-    "text": "Schedule\nIn a typical week, I will ask you to read one chapter from the textbook. I will spend part of Monday’s class lecturing on the material from that chapter, before opening things up to discussion and in-class activities, focused primarily on understanding the arguments from the chapter. After class, you should then re-read that chapter, and think more about the issues it raises in light of the class lecture and discussion. On Wednesday, we will continue our discussion, shifting our focus from the task of understanding the arguments to the task of articulating objections and alternatives to the position defended in the text."
-  },
-  {
-    "objectID": "syllabus.html#grades",
-    "href": "syllabus.html#grades",
-    "title": "Syllabus: Basic Issues in Philosophy (PHI 101.003, Honors)",
-    "section": "Grades",
-    "text": "Grades\nYour grade for this course is based on three graded exams—two midterms and a final—and an indeterminate number of ungraded pass/fail in-class writing exercises. Each exam is worth 25% of your grade, so, together, the exams make up 75% of your grade. In-class exercises make up the remaining 25%.\n\nExams\nExams are in-class, handwritten, closed book and closed notes, and comprise a mix of short answer and essay questions. You can find the dates for the midterms on the course schedule. The date and time of the final exam is has not yet been fixed: the registrar sets these dates for all of your classes at some point later in the term.\nMidterms will be returned to you with comments, a score, and a letter grade. The first midterm will cover material from the first third of the class; the second midterm, material from the second third. The final exam will be cumulative, but weighted toward material from the last third of the class.\n\n\nIn-class Exercises\nClasses will often include in-class exercises. These exercises are not announced ahead of time: they flow from whatever it is we are doing that day, and are closely tied to the readings, lecture, and discussion. They are turned in and graded pass/fail. Failed exercises will be returned with a brief comment explaining why what was done was not sufficient to receive a pass.\nMissed in-class exercises cannot be made up. An in-class exercise missed due to an excused absence does not count against your grade.\n\n\nCalculating Your Grade\nBecause each exam is worth 25% of your course grade, and the exercises are also worth 25%, you can calculate your course grade by taking the average of each of your these grades:\n\\[\n\\mathrm{Course\\ \\%} = \\dfrac{\\mathrm{Exercises\\ \\%} + \\mathrm{Midterm\\ \\%} + \\mathrm{Midterm\\ \\%} + \\mathrm{Final\\ \\%}}{4}\n\\tag{1}\\]\nYou can also use this formula to answer questions like, “How well do I have to do on the final to get an A?”\n\\[\n\\mathrm{93\\%} \\ge \\dfrac{\\mathrm{Exercises\\ \\%} + \\mathrm{Midterm\\ \\%} + \\mathrm{Midterm\\ \\%} + \\mathrm{?\\ \\%}}{4}\n\\tag{2}\\]\nAnd, if you want to calculate your “grade so far”, you can simply take the average of your current exercises percentage and whatever midterms are completed. For example, if you have received grades for the two midterms but have not yet taken the final:\n\\[\n\\mathrm{Grade\\ so\\ far\\ \\%} = \\dfrac{\\mathrm{Exercises\\ so\\ far\\ \\%} + \\mathrm{Midterm\\ \\%} + \\mathrm{Midterm\\ \\%}}{3}\n\\tag{3}\\]\nTo do these calculations, you need to know the percentage of exercises you have passed and the letter grade you received on each exam and how to convert that letter grade to a percentage. You also need to know how to convert that calculated percentage into a course letter grade.\nUse Table 1 to convert your exam letter grades into percentages, and use Table 2 to convert the average percentage back into a letter grade. Note that I will not typically use the percentages in Table 2 when assigning letter grades for the exams. Instead, I will apply a more flexible and generous conversion scale that reflects my judgment of what grade a given exam score deserves, given the construction of the exam, my scoring system, and the class’s overall performance. (This is one thing professors sometimes mean when they say that they say that the exams will be “graded on a curve.”) So when it comes to exams, what matters for your course grade is the letter grade you receive, not your numeric score or percentage.\n\n\n\nTable 1: Converting Letter Grades to Percentages\n\n\n\n\n\nLetter Grade\nPercentage\n\n\n\n\nA\n95%\n\n\nA-\n91.5%\n\n\nB+\n88.5%\n\n\nB\n85%\n\n\nB-\n81.5%\n\n\nC+\n78.5%\n\n\nC\n75%\n\n\nC-\n71.5%\n\n\nD+\n68.5%\n\n\nD\n65%\n\n\nD-\n61.5%\n\n\nF\n0%\n\n\n\n\n\n\n\n\n\nTable 2: Converting Percentages to Letter Grades\n\n\n\n\n\nPercentage Complete\nLetter Grade\n\n\n\n\n93% and above\nA\n\n\n90% and above\nA-\n\n\n87% and above\nB+\n\n\n83% and above\nB\n\n\n80% and above\nB-\n\n\n77% and above\nC+\n\n\n73% and above\nC\n\n\n70% and above\nC-\n\n\n67% and above\nD+\n\n\n63% and above\nD\n\n\n60% and above\nD-\n\n\nbelow 60%\nF"
-  },
-  {
-    "objectID": "syllabus.html#attendance",
-    "href": "syllabus.html#attendance",
-    "title": "Syllabus: Basic Issues in Philosophy (PHI 101.003, Honors)",
-    "section": "Attendance",
-    "text": "Attendance\nYou are responsible for attending class and completing all assigned academic work. You should familiarize yourself with University policy to understand which absences are excused and which are not. If you need advice on how to manage an extended absence or want notification of your absence sent to your instructors, contact the Dean of Students Office."
-  },
-  {
-    "objectID": "syllabus.html#consequences-of-absence",
-    "href": "syllabus.html#consequences-of-absence",
-    "title": "Syllabus: Basic Issues in Philosophy (PHI 101.003, Honors)",
-    "section": "Consequences of Absence",
-    "text": "Consequences of Absence\nFormally, absence will impact your grade by depriving you of the opportunity to complete in-class exercises. Informally, absence deprives you of the opportunity to learn from lecture, discussion, and in-class exercises."
-  },
-  {
-    "objectID": "syllabus.html#accommodations",
-    "href": "syllabus.html#accommodations",
-    "title": "Syllabus: Basic Issues in Philosophy (PHI 101.003, Honors)",
-    "section": "Accommodations",
-    "text": "Accommodations\nAny student needing to arrange a reasonable accommodation for a documented disability and/or medical/mental health condition should contact Student Access and Accommodation Services at 308 Fell Hall, Office Phone (309) 438-5853, Video Phone (309) 319-7682 or visit the website at &lt;StudentAccess.IllinoisState.edu&gt;.\nI am also open to arranging reasonable accommodation regardless of documentation. If there is something that would help you, ask."
-  },
-  {
-    "objectID": "syllabus.html#academic-integrity",
-    "href": "syllabus.html#academic-integrity",
-    "title": "Syllabus: Basic Issues in Philosophy (PHI 101.003, Honors)",
-    "section": "Academic Integrity",
-    "text": "Academic Integrity\nYou are expected to be honest in all academic work, consistent with the academic integrity policy as outlined in the Code of Student Conduct and any additional syllabus language. All work is to be appropriately cited when it is borrowed, directly or indirectly, from another source. Unauthorized and/or unacknowledged collaboration on any work, or the presentation of someone else’s work as your own, is a form of academic dishonesty under the Code of Student Conduct.\nContent generated by an Artificial Intelligence third-party service or site (AI-generated content) without proper authorization and attribution is a form of academic dishonesty. If you are unsure about whether something used in your work requires attribution, please reach out to me to discuss it as soon as possible. Allegations of academic dishonesty will be referred to Student Conduct and Community Responsibilities, for review under the Student Code of Conduct. Students found responsible for academic dishonesty may also be assigned a grade penalty by the instructor."
-  },
-  {
-    "objectID": "syllabus.html#generative-ai-use-not-permitted",
-    "href": "syllabus.html#generative-ai-use-not-permitted",
-    "title": "Syllabus: Basic Issues in Philosophy (PHI 101.003, Honors)",
-    "section": "Generative AI Use Not Permitted",
-    "text": "Generative AI Use Not Permitted\nIn this course, the use of generative AI tools such as ChatGPT, Microsoft Copilot, Adobe Firefly, Google AI Mode, or Apple Intelligence is not permitted to support the completion of any assigned work. This includes, but is not limited to, using generative AI tools to ideate, pre-plan, edit, translate, or otherwise create original material you claim to be solely your creation. Use of a generative AI tool to complete assigned work in whole or in part may be referred under the Code of Student Conduct academic dishonesty provisions for further action by the Dean of Students Office."
-  },
-  {
-    "objectID": "syllabus.html#permission-required-to-record",
-    "href": "syllabus.html#permission-required-to-record",
-    "title": "Syllabus: Basic Issues in Philosophy (PHI 101.003, Honors)",
-    "section": "Permission Required to Record",
-    "text": "Permission Required to Record\nStudents who wish to use phones or other audio or video devices to record classroom lectures/discussions or take photographs must obtain written permission from the instructor except with an approved accommodation from Student Access and Accommodations Services. Approved recordings are to be used solely for the purposes of individual or group study with other students enrolled in the class. They may not be reproduced, shared with those not enrolled in the class, or uploaded to publicly accessible web environments. Violation of this classroom rule may result in referral to the Student Conduct and Community Responsibilities (SCCR) office for disciplinary action."
+    "text": "This is the course website for:\n\nPHI 101-003 [Honors]\n\nMW 3:35PM – 4:50PM, Stevenson Hall 0229.\n\n\nI will not be using Canvas. To keep on top of readings and assignments, you need to check the schedule, come to class, and pay attention to in-class announcements. If you are worried about your grade, you can either calculate it for yourself or come to my office hours and ask me.\n\n    \n    \n  \n\n\n\n\n\n\nJoseph Badger, “Portrait of Two Children”, ca. 1760"
   }
 ]
