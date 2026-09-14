@@ -47,6 +47,7 @@ title: Schedule
 
 - - []{rowspan=2} 5
   - M 9/14
+  - [Slides](slides/personal_identity-activities.md)
 
 - - W 9/16
   - Midterm 1
