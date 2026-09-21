@@ -56,6 +56,7 @@ title: Schedule
   - M 9/21 
   - []{rowspan=2} Death
   - []{rowspan=2} [Don't Fear the Reaper](https://www.davidsanson.com/learning-from-arguments-remix/death.html)
+  - [Slides](slides/death.md)
 
 - - W 9/23
 
