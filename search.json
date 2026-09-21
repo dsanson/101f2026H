@@ -301,6 +301,160 @@
     "text": "Identity, Death, and Survival\nSuppose Jojo agreed to be part of Rachel’s experiment because she had terminal cancer. And suppose Rachel uploaded Jojo’s states to both Chad’s brain and Alex’s brain because the procedure only works half the time, and she wanted to increase Jojo’s chances of survival.\nDoes this seem right to you?\n\nIf Jojo’s states are successfully uploaded to Chad’s brain (but not Alex’s) Jojo survives.\nIf Jojo’s states are successfully uploaded to Alex’s brain (but not Chads’s) Jojo survives.\nIf Jojo’s states are successfully uploaded to both Alex and Chad’s brain, Jojo does not survive."
   },
   {
+    "objectID": "slides/wager-activities.html#reminders",
+    "href": "slides/wager-activities.html#reminders",
+    "title": "The Wager: Review and Activities",
+    "section": "Reminders",
+    "text": "Reminders\n\n\nI have your paragraphs from last week if you haven’t picked them up yet (no comments)\nFor today, we continue to discuss Chapter 2, “Why You Should Bet on God”\nNo class on Monday (Labor Day)\nFor next Wednesday, the reading is Chapter 3, “What Makes You You?”"
+  },
+  {
+    "objectID": "slides/wager-activities.html#expected-utility",
+    "href": "slides/wager-activities.html#expected-utility",
+    "title": "The Wager: Review and Activities",
+    "section": "Expected Utility",
+    "text": "Expected Utility\nThe Expected Utility of an outcome is the value of that outcome multiplied by its probability:\n\nIf a raffle gives you a 1% chance of winning $100, the expected utility of playing is $100 \\(\\times\\) 0.01 = $1.\nIf you pay $1 for a ticket:\n\n99 out of 100 times you will be out $1.\nBut 1 out 100 times you will be up $99."
+  },
+  {
+    "objectID": "slides/wager-activities.html#mega-millions",
+    "href": "slides/wager-activities.html#mega-millions",
+    "title": "The Wager: Review and Activities",
+    "section": "Mega Millions",
+    "text": "Mega Millions\n\nThe current cash jackpot for the “Mega Millions” lottery is $68.9 million and the odds of winning are 1 in 290,472,336. A ticket costs $5. Is that a good deal?"
+  },
+  {
+    "objectID": "slides/wager-activities.html#decision-matrices",
+    "href": "slides/wager-activities.html#decision-matrices",
+    "title": "The Wager: Review and Activities",
+    "section": "Decision Matrices",
+    "text": "Decision Matrices\nYou should choose the action that maximizes your expected utility. To figure out what action this is, you need to consider:\n\neach action available to you,\nand, for each action, each possible outcome of that action,\nand, for each outcome, its expected utility (that is, its value times its probability)"
+  },
+  {
+    "objectID": "slides/wager-activities.html#plea-bargain-or-trial",
+    "href": "slides/wager-activities.html#plea-bargain-or-trial",
+    "title": "The Wager: Review and Activities",
+    "section": "Plea Bargain or Trial?",
+    "text": "Plea Bargain or Trial?\n\n\n\n\nwin50%\nlose50%\nExpected Utility\n\n\n\n\nfight it\n0 years\n-15 years\n?\n\n\ntake the plea\n-5 years\n-5 years\n?\n\n\n\nYou have been arrested and charged with a crime that carries a 15 year sentence. You can take a plea deal and get that reduced to 5 years, or you can fight it in court. Your lawyer tells you your chances in court are a toss up. Calculate the expected utilities. What should you do?"
+  },
+  {
+    "objectID": "slides/wager-activities.html#el-abuelo-esta-loco",
+    "href": "slides/wager-activities.html#el-abuelo-esta-loco",
+    "title": "The Wager: Review and Activities",
+    "section": "El Abuelo Esta Loco",
+    "text": "El Abuelo Esta Loco\n\n\nYou want to watch the 1967 live-action film The Gnome-Mobile. You can stream it for $4. Or you can download a pirated copy. There is a one in a million chance you will get caught, and you live in a country with draconian anti-piracy laws, so if you do get caught, you will be fined $100,000.\nCreate a decision matrix and calculate the expected utility of each possible action. What should you do?"
+  },
+  {
+    "objectID": "slides/wager-activities.html#the-argument-for-betting-on-god",
+    "href": "slides/wager-activities.html#the-argument-for-betting-on-god",
+    "title": "The Wager: Review and Activities",
+    "section": "The Argument for Betting on God",
+    "text": "The Argument for Betting on God\n\n\n\n\nGod (\\(p_1\\))\nNo God (\\(p_2\\))\nExpected Utility\n\n\n\n\nBelieve\n\\(\\infty\\)\n\\(f_1\\)\n\\(\\infty\\)\n\n\nDon’t\n\\(f_2\\)\n\\(f_3\\)\n\\(f_4\\)\n\n\n\n\n\n\nArgument\n\n\n\nBG1. One should always choose the option with the greatest expected utility.\nBG2. Believing in God has a greater expected utility than not believing in God.\nBG3. So you should believe in God."
+  },
+  {
+    "objectID": "slides/wager-activities.html#believing-in-god",
+    "href": "slides/wager-activities.html#believing-in-god",
+    "title": "The Wager: Review and Activities",
+    "section": "Believing in God",
+    "text": "Believing in God\n\n\n\n\nGod (\\(p_1\\))\nNo God (\\(p_2\\))\nExpected Utility\n\n\n\n\nBelieve\n\\(\\infty\\)\n\\(f_1\\)\n\\(\\infty\\)\n\n\nDon’t\n\\(f_2\\)\n\\(f_3\\)\n\\(f_4\\)\n\n\n\nObjections:\n\n\n\nInfinite good doesn’t make sense.\nThe probabilities are unknowable.\nBelieving in God isn’t enough to get heaven.\n\n\n\nThe rewards of heaven could finite.\nThere are many Gods.\nBelief isn’t voluntary."
+  },
+  {
+    "objectID": "slides/wager-activities.html#infinite-goods",
+    "href": "slides/wager-activities.html#infinite-goods",
+    "title": "The Wager: Review and Activities",
+    "section": "Infinite Goods?",
+    "text": "Infinite Goods?\n\nSuppose you’re choosing between two offers for free movie tickets. One gives you free entry to twenty movies. The other gives you limitless free entry: no matter how many times you go for free, you can always go for free again. Do you throw your hands up and say “How could I possibly decide?? It makes no sense to talk about limitless tickets!” No, you accept the second offer. And it makes perfect sense why you would: because the second offer, despite involving an infinite quantity, gives you more of a good thing than the first.\n\n\nIf your capacity to enjoy goods is finite, then receiving more goods than can possibly enjoy is not better for you.\nFor many goods, the more goods of that type you enjoy, the less value each one has.\n\nA yacht would make me happier. A second would also increase my happiness, but by a bit less.\nLet \\(y\\) be the boost from the first yacht, and suppose each additional yacht boosts my happiness by half as much as the one before:\n\\[y + \\frac{y}{2} + \\frac{y}{4} + \\frac{y}{8} + \\frac{y}{16} ... = 2y\\]\nThe benefit of infinitely many yachts is not \\(\\infty\\), but just \\(2y\\)."
+  },
+  {
+    "objectID": "slides/wager-activities.html#unknowable-odds",
+    "href": "slides/wager-activities.html#unknowable-odds",
+    "title": "The Wager: Review and Activities",
+    "section": "Unknowable Odds",
+    "text": "Unknowable Odds\n\n\n\n\nGod (\\(p_1\\))\nNo God (\\(p_2\\))\nExpected Utility\n\n\n\n\nBelieve\n\\(\\infty\\)\n\\(f_1\\)\n\\(\\infty\\)\n\n\nDon’t\n\\(f_2\\)\n\\(f_3\\)\n\\(f_4\\)\n\n\n\nHow do we assign probabilities \\(p_1\\) and \\(p_2\\)?"
+  },
+  {
+    "objectID": "slides/wager-activities.html#other-conditions",
+    "href": "slides/wager-activities.html#other-conditions",
+    "title": "The Wager: Review and Activities",
+    "section": "Other Conditions",
+    "text": "Other Conditions\n\n\n\n\nGod (\\(p_1\\))\nNo God (\\(p_2\\))\nExpected Utility\n\n\n\n\nBelieve and Pray\n\\(\\infty\\)\n\\(f_1\\)\n\\(\\infty\\)\n\n\nBelieve and Don’t Pray\n\\(f_2\\)\n\\(f_3\\)\n\\(f_4\\)\n\n\nDon’t Believe or Pray\n\\(f_5\\)\n\\(f_6\\)\n\\(f_7\\)"
+  },
+  {
+    "objectID": "slides/wager-activities.html#stingy-god",
+    "href": "slides/wager-activities.html#stingy-god",
+    "title": "The Wager: Review and Activities",
+    "section": "Stingy God",
+    "text": "Stingy God\n\n\n\n\nGenerous God25%\nStingy God25%\nNo God 50%\nExpected Utility\n\n\n\n\nBelieve\n\\(\\infty\\)\n\\(f_1\\)\n\\(f_2\\)\n\\(\\infty\\)\n\n\nDon’t Believe\n\\(f_3\\)\n\\(f_4\\)\n\\(f_5\\)\n\\(f_6\\)"
+  },
+  {
+    "objectID": "slides/wager-activities.html#many-gods",
+    "href": "slides/wager-activities.html#many-gods",
+    "title": "The Wager: Review and Activities",
+    "section": "Many Gods",
+    "text": "Many Gods\n\n\n\n\nGod120%\nGod220%\nGod320%\nNo God40%\nExpected Utility\n\n\n\n\nBelieve in God1\n\\(\\infty\\)\n\\(f_1\\)\n\\(f_2\\)\n\\(f_3\\)\n\\(\\infty\\)\n\n\nBelieve in God2\n\\(f_4\\)\n\\(\\infty\\)\n\\(f_5\\)\n\\(f_6\\)\n\\(\\infty\\)\n\n\nBelieve in God3\n\\(f_7\\)\n\\(f_8\\)\n\\(\\infty\\)\n\\(f_9\\)\n\\(\\infty\\)\n\n\nDon’t Believe\n\\(f_{10}\\)\n\\(f_{11}\\)\n\\(f_{12}\\)\n\\(f_{13}\\)\n\\(f_{14}\\)"
+  },
+  {
+    "objectID": "slides/wager-activities.html#believing-isnt-voluntary",
+    "href": "slides/wager-activities.html#believing-isnt-voluntary",
+    "title": "The Wager: Review and Activities",
+    "section": "Believing isn’t Voluntary",
+    "text": "Believing isn’t Voluntary\nThe book argues that, even though belief isn’t voluntary, you can still adopt the strategy of trying to get yourself to believe: go to church, avoid spending time with atheists, pray, read religious texts, etc.\nOf course, if you try, there is a chance you will succeed and a chance you will fail:\n\n\n\n\nGod exists and you succeed25%\nGod exists and you fail25%\nGod doesn’t exist50%\nExpected Utility\n\n\n\n\nTry to Believe\n\\(\\infty\\)\n\\(f_1\\)\n\\(f_2\\)\n\\(\\infty\\)\n\n\n\nWhat is the expected utility if you don’t try?"
+  },
+  {
+    "objectID": "slides/wager-activities.html#prompt",
+    "href": "slides/wager-activities.html#prompt",
+    "title": "The Wager: Review and Activities",
+    "section": "Prompt",
+    "text": "Prompt\nThis is not an essay. This is a thinking-through-writing exercise. I want you to write about whatever it is that you find most puzzling or confusing about the Argument for Betting on God. Try to put your puzzlement or confusion into words, as if you were explaining it to a classmate. If there is something you are struggling to understand, think about what it might mean or how it might work, and explain those different possibilities, and think about which, if any, seems promising."
+  },
+  {
+    "objectID": "slides/wager-activities.html#gather-your-thoughts",
+    "href": "slides/wager-activities.html#gather-your-thoughts",
+    "title": "The Wager: Review and Activities",
+    "section": "Gather Your Thoughts",
+    "text": "Gather Your Thoughts\n\n\nThink about whatever it is that you find most puzzling or confusing about the argument. What do you find puzzling or confusing about it? Are there ways you might try to understand it? What are those? Why are they not quite working out?"
+  },
+  {
+    "objectID": "slides/wager-activities.html#share-your-thoughts",
+    "href": "slides/wager-activities.html#share-your-thoughts",
+    "title": "The Wager: Review and Activities",
+    "section": "Share Your Thoughts",
+    "text": "Share Your Thoughts\n\n\nTurn to someone, and share your thoughts."
+  },
+  {
+    "objectID": "slides/wager-activities.html#writing",
+    "href": "slides/wager-activities.html#writing",
+    "title": "The Wager: Review and Activities",
+    "section": "Writing",
+    "text": "Writing\n\n\nThis is not an essay. This is a thinking-through-writing exercise. I want you to write about whatever it is that you find most puzzling or confusing about the argument. Try to put your puzzlement or confusion into words, as if you were explaining it to a classmate. If there is something you are struggling to understand, think about what it might mean or how it might work, and explain those different possibilities, and think about which, if any, seems promising."
+  },
+  {
+    "objectID": "slides/wager-activities.html#sharing",
+    "href": "slides/wager-activities.html#sharing",
+    "title": "The Wager: Review and Activities",
+    "section": "Sharing",
+    "text": "Sharing\n\n\nSwap papers with someone. Read each other’s papers, then discuss."
+  },
+  {
+    "objectID": "403.html",
+    "href": "403.html",
+    "title": "Access Forbidden!",
+    "section": "",
+    "text": "This is, but is not for you. Not all being is for browsing."
+  },
+  {
+    "objectID": "403.html#error",
+    "href": "403.html#error",
+    "title": "Access Forbidden!",
+    "section": "",
+    "text": "This is, but is not for you. Not all being is for browsing."
+  },
+  {
+    "objectID": "schedule.html",
+    "href": "schedule.html",
+    "title": "Schedule",
+    "section": "",
+    "text": "Week\nDate\nTopic\nReading\nSlides\n\n\n\n\n 1\nM 8/17\nWelcome!\n\n\n\n\nW 8/19\nArguments and Thought Experiments\nIntroduction\n\n\n\n 2\nM 8/24\n The Problem of Evil\n Can God Allow Suffering?\nSlides\n\n\nW 8/26\nSlides\n\n\n 3\nM 8/31\n Pascal’s Wager\n Why You Should Bet on God\nSlides\n\n\nW 9/2\nSlides\n\n\n 4\nM 9/7\nLabor Day — No Class\n\n\n\n\nW 9/9\n Personal Identity\n What Makes You You\nSlides\n\n\n 5\nM 9/14\nSlides\n\n\nW 9/16\nMidterm 1\n\n\n\n\n 6\nM 9/21\n Death\n Don’t Fear the Reaper\nSlides\n\n\nW 9/23\n\n\n\n 7\nM 9/28\n Free Will\n No Freedom\n\n\n\nW 9/30\n\n\n\n 8\nM 10/5\n Skepticism\n You Know Nothing\n\n\n\nW 10/7\n\n\n\n 9\nM 10/12\n Political Authority\n Against Prisons and Taxes\n\n\n\nW 10/14\n\n\n\n 10\nM 10/19\nTBD\n\n\n\n\nW 10/21\nMidterm 2\n\n\n\n\n 11\nM 10/26\n Abortion\n The Ethics of Abortion\n\n\n\nW 10/28\n\n\n\n 12\nM 11/2\n Eating Animals\n Eating Animals is Immoral\n\n\n\nW 11/4\n\n\n\n 13\nM 11/9\n Utilitarianism\n What Makes Things Right\n\n\n\nW 11/11\n\n\n\n 14\nM 11/16\nTBD by class\n\n\n\n\nW 11/18\nTBD by class\n\n\n\n\n  \nM 11/23\n Thanksgiving Break — No Class\n  \n  \n\n\nW 11/25\n\n\n 15\nM 11/30\nTBD by class\n\n\n\n\nW 12/2\nTBD by class\n\n\n\n\n Final\nM 12/7 – 12/12\nDate and time of final exam TBD by registrar"
+  },
+  {
     "objectID": "slides/wager.html#reminders",
     "href": "slides/wager.html#reminders",
     "title": "The Wager",
@@ -448,158 +602,116 @@
     "text": "Decision Matrix for Trying to Believe\n\n\n\n\nGod + belief?\nGod + no belief?\nno God + belief?\nno God + no belief?\nExpected Utility\n\n\n\n\nTry to Believe\n?\n?\n?\n?\n?\n\n\nDon’t Try\n?\n?\n?\n?\n?\n\n\n\n‘God’ is short for ‘God exists’; ‘no God’ for ‘God does not exist’. ‘belief’ is short for ‘you end up believing God exists’; ‘no belief’ is short for ‘you end up not believing that God exists’.\nNotice that there is a non-zero probability that you end up believing in God even if you don’t try. That is interesting."
   },
   {
-    "objectID": "schedule.html",
-    "href": "schedule.html",
-    "title": "Schedule",
-    "section": "",
-    "text": "Week\nDate\nTopic\nReading\nSlides\n\n\n\n\n 1\nM 8/17\nWelcome!\n\n\n\n\nW 8/19\nArguments and Thought Experiments\nIntroduction\n\n\n\n 2\nM 8/24\n The Problem of Evil\n Can God Allow Suffering?\nSlides\n\n\nW 8/26\nSlides\n\n\n 3\nM 8/31\n Pascal’s Wager\n Why You Should Bet on God\nSlides\n\n\nW 9/2\nSlides\n\n\n 4\nM 9/7\nLabor Day — No Class\n\n\n\n\nW 9/9\n Personal Identity\n What Makes You You\nSlides\n\n\n 5\nM 9/14\nSlides\n\n\nW 9/16\nMidterm 1\n\n\n\n\n 6\nM 9/21\n Death\n Don’t Fear the Reaper\n\n\n\nW 9/23\n\n\n\n 7\nM 9/28\n Free Will\n No Freedom\n\n\n\nW 9/30\n\n\n\n 8\nM 10/5\n Skepticism\n You Know Nothing\n\n\n\nW 10/7\n\n\n\n 9\nM 10/12\n Political Authority\n Against Prisons and Taxes\n\n\n\nW 10/14\n\n\n\n 10\nM 10/19\nTBD\n\n\n\n\nW 10/21\nMidterm 2\n\n\n\n\n 11\nM 10/26\n Abortion\n The Ethics of Abortion\n\n\n\nW 10/28\n\n\n\n 12\nM 11/2\n Eating Animals\n Eating Animals is Immoral\n\n\n\nW 11/4\n\n\n\n 13\nM 11/9\n Utilitarianism\n What Makes Things Right\n\n\n\nW 11/11\n\n\n\n 14\nM 11/16\nTBD by class\n\n\n\n\nW 11/18\nTBD by class\n\n\n\n\n  \nM 11/23\n Thanksgiving Break — No Class\n  \n  \n\n\nW 11/25\n\n\n 15\nM 11/30\nTBD by class\n\n\n\n\nW 12/2\nTBD by class\n\n\n\n\n Final\nM 12/7 – 12/12\nDate and time of final exam TBD by registrar"
-  },
-  {
-    "objectID": "403.html",
-    "href": "403.html",
-    "title": "Access Forbidden!",
-    "section": "",
-    "text": "This is, but is not for you. Not all being is for browsing."
-  },
-  {
-    "objectID": "403.html#error",
-    "href": "403.html#error",
-    "title": "Access Forbidden!",
-    "section": "",
-    "text": "This is, but is not for you. Not all being is for browsing."
-  },
-  {
-    "objectID": "slides/wager-activities.html#reminders",
-    "href": "slides/wager-activities.html#reminders",
-    "title": "The Wager: Review and Activities",
+    "objectID": "slides/death.html#reminders",
+    "href": "slides/death.html#reminders",
+    "title": "Fearing Death",
     "section": "Reminders",
-    "text": "Reminders\n\n\nI have your paragraphs from last week if you haven’t picked them up yet (no comments)\nFor today, we continue to discuss Chapter 2, “Why You Should Bet on God”\nNo class on Monday (Labor Day)\nFor next Wednesday, the reading is Chapter 3, “What Makes You You?”"
+    "text": "Reminders\n\nFor today and next time, we are discussing Chapter 4, “Don’t Fear the Reaper”\nI am working on your exams. I will return them with comments."
   },
   {
-    "objectID": "slides/wager-activities.html#expected-utility",
-    "href": "slides/wager-activities.html#expected-utility",
-    "title": "The Wager: Review and Activities",
-    "section": "Expected Utility",
-    "text": "Expected Utility\nThe Expected Utility of an outcome is the value of that outcome multiplied by its probability:\n\nIf a raffle gives you a 1% chance of winning $100, the expected utility of playing is $100 \\(\\times\\) 0.01 = $1.\nIf you pay $1 for a ticket:\n\n99 out of 100 times you will be out $1.\nBut 1 out 100 times you will be up $99."
+    "objectID": "slides/death.html#against-fearing-death",
+    "href": "slides/death.html#against-fearing-death",
+    "title": "Fearing Death",
+    "section": "Against Fearing Death",
+    "text": "Against Fearing Death\n\n\n\nArgument\n\n\n\nFD1. You cease to be conscious when you die.\nFD2. If you cease to be conscious when you die, then being dead is not bad for you.\nFD3. So, being dead is not bad for you.\nFD4. If being dead is not bad for you, then you should not fear death.\nFD5. So, you should not fear death.\n\n\n\n\n(We’ve talked about this one before!)\n\nGive them a chance to provide objections. Locate each objection."
   },
   {
-    "objectID": "slides/wager-activities.html#mega-millions",
-    "href": "slides/wager-activities.html#mega-millions",
-    "title": "The Wager: Review and Activities",
-    "section": "Mega Millions",
-    "text": "Mega Millions\n\nThe current cash jackpot for the “Mega Millions” lottery is $68.9 million and the odds of winning are 1 in 290,472,336. A ticket costs $5. Is that a good deal?"
+    "objectID": "slides/death.html#fd2",
+    "href": "slides/death.html#fd2",
+    "title": "Fearing Death",
+    "section": "FD2",
+    "text": "FD2\n\n\n\nArgument\n\n\n\nFD1. You cease to be conscious when you die.\nFD2. If you cease to be conscious when you die, then being dead is not bad for you.\nFD3. So, being dead is not bad for you.\nFD4. If being dead is not bad for you, then you should not fear death.\nFD5. So, you should not fear death."
   },
   {
-    "objectID": "slides/wager-activities.html#decision-matrices",
-    "href": "slides/wager-activities.html#decision-matrices",
-    "title": "The Wager: Review and Activities",
-    "section": "Decision Matrices",
-    "text": "Decision Matrices\nYou should choose the action that maximizes your expected utility. To figure out what action this is, you need to consider:\n\neach action available to you,\nand, for each action, each possible outcome of that action,\nand, for each outcome, its expected utility (that is, its value times its probability)"
+    "objectID": "slides/death.html#hedonism",
+    "href": "slides/death.html#hedonism",
+    "title": "Fearing Death",
+    "section": "Hedonism",
+    "text": "Hedonism\n\nHD\n\nSomething is bad for you if and only if it’s painful.\n\n\n\n‘Painful’ should be understood in a broad sense, to include psychological and emotional pain, in addition to physical pain and discomfort.\n\nCounterexamples?\n\n\neating a whole large pizza in one sitting is bad for you.\ndeep tissue massage is painful, but not bad for you."
   },
   {
-    "objectID": "slides/wager-activities.html#plea-bargain-or-trial",
-    "href": "slides/wager-activities.html#plea-bargain-or-trial",
-    "title": "The Wager: Review and Activities",
-    "section": "Plea Bargain or Trial?",
-    "text": "Plea Bargain or Trial?\n\n\n\n\nwin50%\nlose50%\nExpected Utility\n\n\n\n\nfight it\n0 years\n-15 years\n?\n\n\ntake the plea\n-5 years\n-5 years\n?\n\n\n\nYou have been arrested and charged with a crime that carries a 15 year sentence. You can take a plea deal and get that reduced to 5 years, or you can fight it in court. Your lawyer tells you your chances in court are a toss up. Calculate the expected utilities. What should you do?"
+    "objectID": "slides/death.html#hedonism-1",
+    "href": "slides/death.html#hedonism-1",
+    "title": "Fearing Death",
+    "section": "Hedonism*",
+    "text": "Hedonism*\n\nHD*\n\nSomething is bad for you if and only if it results in more pain than you would otherwise have had.\n\n\nCounterexamples?"
   },
   {
-    "objectID": "slides/wager-activities.html#el-abuelo-esta-loco",
-    "href": "slides/wager-activities.html#el-abuelo-esta-loco",
-    "title": "The Wager: Review and Activities",
-    "section": "El Abuelo Esta Loco",
-    "text": "El Abuelo Esta Loco\n\n\nYou want to watch the 1967 live-action film The Gnome-Mobile. You can stream it for $4. Or you can download a pirated copy. There is a one in a million chance you will get caught, and you live in a country with draconian anti-piracy laws, so if you do get caught, you will be fined $100,000.\nCreate a decision matrix and calculate the expected utility of each possible action. What should you do?"
+    "objectID": "slides/death.html#argument-from-hedonism",
+    "href": "slides/death.html#argument-from-hedonism",
+    "title": "Fearing Death",
+    "section": "Argument from Hedonism",
+    "text": "Argument from Hedonism\n\n\n\nArgument\n\n\n\nAH1. If you cease to be conscious when you die, then being dead doesn’t result in more pain than you would otherwise have had.\nHD*. Something is bad for you if and only if it results in more pain than you would otherwise have had.\nFD2. So, if you cease to be conscious when you die, then being dead isn’t bad for you.\n\n\n\n\nObjections?\n\nexpect objections to focus on HD*."
   },
   {
-    "objectID": "slides/wager-activities.html#the-argument-for-betting-on-god",
-    "href": "slides/wager-activities.html#the-argument-for-betting-on-god",
-    "title": "The Wager: Review and Activities",
-    "section": "The Argument for Betting on God",
-    "text": "The Argument for Betting on God\n\n\n\n\nGod (\\(p_1\\))\nNo God (\\(p_2\\))\nExpected Utility\n\n\n\n\nBelieve\n\\(\\infty\\)\n\\(f_1\\)\n\\(\\infty\\)\n\n\nDon’t\n\\(f_2\\)\n\\(f_3\\)\n\\(f_4\\)\n\n\n\n\n\n\nArgument\n\n\n\nBG1. One should always choose the option with the greatest expected utility.\nBG2. Believing in God has a greater expected utility than not believing in God.\nBG3. So you should believe in God."
+    "objectID": "slides/death.html#objections-to-hd-from-the-book",
+    "href": "slides/death.html#objections-to-hd-from-the-book",
+    "title": "Fearing Death",
+    "section": "Objections to HD* from the Book",
+    "text": "Objections to HD* from the Book\n\nCongenital analgesia\n\nA condition which involves the inability to experience physical pain.\n\n\n\n\n\nArgument\n\n\n\nCA1. Someone who suffers from congenital analgesia cannot feel any pain.\nCA2. So, if HD* is true, nothing can ever be bad for such a person.\nCA3. But things can be bad for such a person.\nCA4. So, HD* is false.\n\n\n\n\nObjections?\n\nreply from the book: ‘pain’ includes psychological and emotional pain, and those suffering from congential analgesia can still suffer these kinds of pain."
   },
   {
-    "objectID": "slides/wager-activities.html#believing-in-god",
-    "href": "slides/wager-activities.html#believing-in-god",
-    "title": "The Wager: Review and Activities",
-    "section": "Believing in God",
-    "text": "Believing in God\n\n\n\n\nGod (\\(p_1\\))\nNo God (\\(p_2\\))\nExpected Utility\n\n\n\n\nBelieve\n\\(\\infty\\)\n\\(f_1\\)\n\\(\\infty\\)\n\n\nDon’t\n\\(f_2\\)\n\\(f_3\\)\n\\(f_4\\)\n\n\n\nObjections:\n\n\n\nInfinite good doesn’t make sense.\nThe probabilities are unknowable.\nBelieving in God isn’t enough to get heaven.\n\n\n\nThe rewards of heaven could finite.\nThere are many Gods.\nBelief isn’t voluntary."
+    "objectID": "slides/death.html#hedonism-2",
+    "href": "slides/death.html#hedonism-2",
+    "title": "Fearing Death",
+    "section": "Hedonism**",
+    "text": "Hedonism**\n\nHD**\n\nSomething is bad for you if and only if it results in more pain or less pleasure than you would otherwise have had.\n\n\nThis would undermine the Argument from Hedonism: death can deprive you of future pleasure, even if it cannot cause future pain."
   },
   {
-    "objectID": "slides/wager-activities.html#infinite-goods",
-    "href": "slides/wager-activities.html#infinite-goods",
-    "title": "The Wager: Review and Activities",
-    "section": "Infinite Goods?",
-    "text": "Infinite Goods?\n\nSuppose you’re choosing between two offers for free movie tickets. One gives you free entry to twenty movies. The other gives you limitless free entry: no matter how many times you go for free, you can always go for free again. Do you throw your hands up and say “How could I possibly decide?? It makes no sense to talk about limitless tickets!” No, you accept the second offer. And it makes perfect sense why you would: because the second offer, despite involving an infinite quantity, gives you more of a good thing than the first.\n\n\nIf your capacity to enjoy goods is finite, then receiving more goods than can possibly enjoy is not better for you.\nFor many goods, the more goods of that type you enjoy, the less value each one has.\n\nA yacht would make me happier. A second would also increase my happiness, but by a bit less.\nLet \\(y\\) be the boost from the first yacht, and suppose each additional yacht boosts my happiness by half as much as the one before:\n\\[y + \\frac{y}{2} + \\frac{y}{4} + \\frac{y}{8} + \\frac{y}{16} ... = 2y\\]\nThe benefit of infinitely many yachts is not \\(\\infty\\), but just \\(2y\\)."
+    "objectID": "slides/death.html#fd1",
+    "href": "slides/death.html#fd1",
+    "title": "Fearing Death",
+    "section": "FD1",
+    "text": "FD1\n\n\n\nArgument\n\n\n\nFD1. You cease to be conscious when you die.\nFD2. If you cease to be conscious when you die, then being dead is not bad for you.\nFD3. So, being dead is not bad for you.\nFD4. If being dead is not bad for you, then you should not fear death.\nFD5. So, you should not fear death."
   },
   {
-    "objectID": "slides/wager-activities.html#unknowable-odds",
-    "href": "slides/wager-activities.html#unknowable-odds",
-    "title": "The Wager: Review and Activities",
-    "section": "Unknowable Odds",
-    "text": "Unknowable Odds\n\n\n\n\nGod (\\(p_1\\))\nNo God (\\(p_2\\))\nExpected Utility\n\n\n\n\nBelieve\n\\(\\infty\\)\n\\(f_1\\)\n\\(\\infty\\)\n\n\nDon’t\n\\(f_2\\)\n\\(f_3\\)\n\\(f_4\\)\n\n\n\nHow do we assign probabilities \\(p_1\\) and \\(p_2\\)?"
+    "objectID": "slides/death.html#you-and-animal",
+    "href": "slides/death.html#you-and-animal",
+    "title": "Fearing Death",
+    "section": "You and Animal",
+    "text": "You and Animal\nRight where you are, there is a living, breathing, flesh-and-blood human animal. For simplicity, I’ll refer to it as ‘Animal’."
   },
   {
-    "objectID": "slides/wager-activities.html#other-conditions",
-    "href": "slides/wager-activities.html#other-conditions",
-    "title": "The Wager: Review and Activities",
-    "section": "Other Conditions",
-    "text": "Other Conditions\n\n\n\n\nGod (\\(p_1\\))\nNo God (\\(p_2\\))\nExpected Utility\n\n\n\n\nBelieve and Pray\n\\(\\infty\\)\n\\(f_1\\)\n\\(\\infty\\)\n\n\nBelieve and Don’t Pray\n\\(f_2\\)\n\\(f_3\\)\n\\(f_4\\)\n\n\nDon’t Believe or Pray\n\\(f_5\\)\n\\(f_6\\)\n\\(f_7\\)"
+    "objectID": "slides/death.html#against-post-mortem-consciousness",
+    "href": "slides/death.html#against-post-mortem-consciousness",
+    "title": "Fearing Death",
+    "section": "Against Post-Mortem Consciousness",
+    "text": "Against Post-Mortem Consciousness\n\n\n\nArgument\n\n\n\nPC1. If Animal ceases to be conscious when you die and you are Animal, then you cease to be conscious when you die.\nPC2. Animal ceases to be conscious when you die.\nPC3. You are Animal.\nFD1. So, you cease to be conscious when you die.\n\n\n\n\nObjections?\n\nNote how ‘you are animal’ relates to ‘you are your body’ and ‘you are your mind’ from last chapter."
   },
   {
-    "objectID": "slides/wager-activities.html#stingy-god",
-    "href": "slides/wager-activities.html#stingy-god",
-    "title": "The Wager: Review and Activities",
-    "section": "Stingy God",
-    "text": "Stingy God\n\n\n\n\nGenerous God25%\nStingy God25%\nNo God 50%\nExpected Utility\n\n\n\n\nBelieve\n\\(\\infty\\)\n\\(f_1\\)\n\\(f_2\\)\n\\(\\infty\\)\n\n\nDon’t Believe\n\\(f_3\\)\n\\(f_4\\)\n\\(f_5\\)\n\\(f_6\\)"
+    "objectID": "slides/death.html#too-many-thinkers",
+    "href": "slides/death.html#too-many-thinkers",
+    "title": "Fearing Death",
+    "section": "Too Many Thinkers",
+    "text": "Too Many Thinkers\n\n\n\nArgument\n\n\n\nTT1. Animal is in your chair and is thinking.\nTT2. You are the only thing in your chair that is thinking.\nPC3. So you are Animal.\n\n\n\n\nObjections?\n\nobjections to TT1: maybe it is your soul, not animal, that thinks? Appeal to squirrels.\nobjections to TT2: maybe animal is thinking animal thoughts: food, etc; and you are thinking abstract thoughts. But you share a brain…"
   },
   {
-    "objectID": "slides/wager-activities.html#many-gods",
-    "href": "slides/wager-activities.html#many-gods",
-    "title": "The Wager: Review and Activities",
-    "section": "Many Gods",
-    "text": "Many Gods\n\n\n\n\nGod120%\nGod220%\nGod320%\nNo God40%\nExpected Utility\n\n\n\n\nBelieve in God1\n\\(\\infty\\)\n\\(f_1\\)\n\\(f_2\\)\n\\(f_3\\)\n\\(\\infty\\)\n\n\nBelieve in God2\n\\(f_4\\)\n\\(\\infty\\)\n\\(f_5\\)\n\\(f_6\\)\n\\(\\infty\\)\n\n\nBelieve in God3\n\\(f_7\\)\n\\(f_8\\)\n\\(\\infty\\)\n\\(f_9\\)\n\\(\\infty\\)\n\n\nDon’t Believe\n\\(f_{10}\\)\n\\(f_{11}\\)\n\\(f_{12}\\)\n\\(f_{13}\\)\n\\(f_{14}\\)"
+    "objectID": "slides/death.html#fd4",
+    "href": "slides/death.html#fd4",
+    "title": "Fearing Death",
+    "section": "FD4",
+    "text": "FD4\n\n\n\nArgument\n\n\n\nFD1. You cease to be conscious when you die.\nFD2. If you cease to be conscious when you die, then being dead is not bad for you.\nFD3. So, being dead is not bad for you.\nFD4. If being dead is not bad for you, then you should not fear death.\nFD5. So, you should not fear death."
   },
   {
-    "objectID": "slides/wager-activities.html#believing-isnt-voluntary",
-    "href": "slides/wager-activities.html#believing-isnt-voluntary",
-    "title": "The Wager: Review and Activities",
-    "section": "Believing isn’t Voluntary",
-    "text": "Believing isn’t Voluntary\nThe book argues that, even though belief isn’t voluntary, you can still adopt the strategy of trying to get yourself to believe: go to church, avoid spending time with atheists, pray, read religious texts, etc.\nOf course, if you try, there is a chance you will succeed and a chance you will fail:\n\n\n\n\nGod exists and you succeed25%\nGod exists and you fail25%\nGod doesn’t exist50%\nExpected Utility\n\n\n\n\nTry to Believe\n\\(\\infty\\)\n\\(f_1\\)\n\\(f_2\\)\n\\(\\infty\\)\n\n\n\nWhat is the expected utility if you don’t try?"
+    "objectID": "slides/death.html#irrational-fears",
+    "href": "slides/death.html#irrational-fears",
+    "title": "Fearing Death",
+    "section": "Irrational Fears",
+    "text": "Irrational Fears\n\nA tarantula crawls onto your hand. It’s unlikely to bite you, and even if it did, it actually wouldn’t be any more painful or harmful than an ordinary bee sting. But even knowing how harmless they are, you are still utterly terrified of the tarantula crawling onto you."
   },
   {
-    "objectID": "slides/wager-activities.html#prompt",
-    "href": "slides/wager-activities.html#prompt",
-    "title": "The Wager: Review and Activities",
-    "section": "Prompt",
-    "text": "Prompt\nThis is not an essay. This is a thinking-through-writing exercise. I want you to write about whatever it is that you find most puzzling or confusing about the Argument for Betting on God. Try to put your puzzlement or confusion into words, as if you were explaining it to a classmate. If there is something you are struggling to understand, think about what it might mean or how it might work, and explain those different possibilities, and think about which, if any, seems promising."
+    "objectID": "slides/death.html#against-fearing-death-1",
+    "href": "slides/death.html#against-fearing-death-1",
+    "title": "Fearing Death",
+    "section": "Against Fearing Death",
+    "text": "Against Fearing Death\n\n\n\nArgument\n\n\n\nFD1. You cease to be conscious when you die.\nFD2. If you cease to be conscious when you die, then being dead is not bad for you.\nFD3. So, being dead is not bad for you.\nFD4. If being dead is not bad for you, then you should not fear death.\nFD5. So, you should not fear death.\n\n\n\n\n\nWhich premise(s), if any, are you still inclined to reject?\nAre you confident that you can reject that premise, in light of the further arguments raised?"
   },
   {
-    "objectID": "slides/wager-activities.html#gather-your-thoughts",
-    "href": "slides/wager-activities.html#gather-your-thoughts",
-    "title": "The Wager: Review and Activities",
-    "section": "Gather Your Thoughts",
-    "text": "Gather Your Thoughts\n\n\nThink about whatever it is that you find most puzzling or confusing about the argument. What do you find puzzling or confusing about it? Are there ways you might try to understand it? What are those? Why are they not quite working out?"
-  },
-  {
-    "objectID": "slides/wager-activities.html#share-your-thoughts",
-    "href": "slides/wager-activities.html#share-your-thoughts",
-    "title": "The Wager: Review and Activities",
-    "section": "Share Your Thoughts",
-    "text": "Share Your Thoughts\n\n\nTurn to someone, and share your thoughts."
-  },
-  {
-    "objectID": "slides/wager-activities.html#writing",
-    "href": "slides/wager-activities.html#writing",
-    "title": "The Wager: Review and Activities",
-    "section": "Writing",
-    "text": "Writing\n\n\nThis is not an essay. This is a thinking-through-writing exercise. I want you to write about whatever it is that you find most puzzling or confusing about the argument. Try to put your puzzlement or confusion into words, as if you were explaining it to a classmate. If there is something you are struggling to understand, think about what it might mean or how it might work, and explain those different possibilities, and think about which, if any, seems promising."
-  },
-  {
-    "objectID": "slides/wager-activities.html#sharing",
-    "href": "slides/wager-activities.html#sharing",
-    "title": "The Wager: Review and Activities",
-    "section": "Sharing",
-    "text": "Sharing\n\n\nSwap papers with someone. Read each other’s papers, then discuss."
+    "objectID": "slides/death.html#reflection-questions",
+    "href": "slides/death.html#reflection-questions",
+    "title": "Fearing Death",
+    "section": "Reflection Questions",
+    "text": "Reflection Questions\n\nCan you think of counterexamples to the hedonist principle HD*? Do your counterexamples support HD**?\nDoes HD* imply that being born into this world was bad for you? If so, can it be modified to avoid this implication?\nAre you convinced by the argument that you are Animal? How does such a view fare when it comes to body swap and fission cases?\nIs it rational to fear something because it’s bad for others? Should we fear death because (and only because) of how our deaths will affect other people?"
   },
   {
     "objectID": "slides/personal_identity.html#reminders",

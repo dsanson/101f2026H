@@ -22,7 +22,7 @@
 
   <meta name="author" content="David Sanson">
   <meta name="dcterms.date" content="2026-09-09">
-  <title>PHI 101-003 – Personal Identity</title>
+  <title>PHI 101-002 – Personal Identity</title>
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
@@ -145,16 +145,6 @@
   }
   </style>
   <style>
-  .reveal div.callout-example.callout {
-    border-left-color: purple;
-  }
-  .reveal div.callout-example.callout-style-default .callout-title {
-    background-color: rgb(from purple r g b / 13%);
-  }
-  .reveal div.callout-example.callout-style-default .callout-icon::before, .reveal div.callout-example.callout-titled .callout-icon::before {
-    content: '💭';
-    background-image: none;
-  }
   .reveal div.callout-argument.callout {
     border-left-color: yellow;
   }
@@ -165,10 +155,20 @@
     content: '🥊';
     background-image: none;
   }
+  .reveal div.callout-example.callout {
+    border-left-color: purple;
+  }
+  .reveal div.callout-example.callout-style-default .callout-title {
+    background-color: rgb(from purple r g b / 13%);
+  }
+  .reveal div.callout-example.callout-style-default .callout-icon::before, .reveal div.callout-example.callout-titled .callout-icon::before {
+    content: '💭';
+    background-image: none;
+  }
   </style>
-<meta property="og:title" content="Personal Identity – PHI 101-003">
-<meta property="og:site_name" content="PHI 101-003">
-<meta name="twitter:title" content="Personal Identity – PHI 101-003">
+<meta property="og:title" content="Personal Identity – PHI 101-002">
+<meta property="og:site_name" content="PHI 101-002">
+<meta name="twitter:title" content="Personal Identity – PHI 101-002">
 <meta name="twitter:card" content="summary">
 </head>
 <body class="quarto-light">
@@ -1544,7 +1544,7 @@ the left arm, left leg, left lung, left head, and so on.
         }
           var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
           var mailtoRegex = new RegExp(/^mailto:/);
-            var filterRegex = new RegExp("https:\/\/www\.davidsanson\.com\/101f2026H");
+            var filterRegex = new RegExp("https:\/\/www\.davidsanson\.com\/101f2026");
           var isInternal = (href) => {
               return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
           }
