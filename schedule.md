@@ -59,6 +59,7 @@ title: Schedule
   - [Slides](slides/death.md)
 
 - - W 9/23
+  - [Slides](slides/death-activities.qmd)
 
 - - []{rowspan=2} 7
   - M 9/28

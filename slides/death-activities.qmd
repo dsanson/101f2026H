@@ -1,0 +1,200 @@
+---
+title: "Still Fearing Death"
+date: 2026-09-23
+title-slide-attributes:
+  data-background-image: media/ossuary.jpg
+  data-background-size: cover
+  data-background-opacity: "0.9"
+include-in-header:
+  - text: |
+      <style>
+      #title-slide.quarto-title-block {
+        background-color: rgba(255, 255, 255, 0.8);
+        width: 50%;
+margin-right: 50%;
+      }
+      </style>
+
+
+---
+
+# Preliminaries
+
+## Reminders
+
+-   For next time, we are discussing Chapter 5, "No Freedom"
+-   I am working on your exams. I will return them with comments.
+
+# What is bad for you and what you should fear
+
+## Against Fearing Death
+
+::: {#argument-FD .argument}
+- (FD1) You cease to be conscious when you die.
+- (FD2) If you cease to be conscious when you die, then being dead is not bad
+  for you.
+- (FD3) So, being dead is not bad for you.
+- (FD4) If being dead is not bad for you, then you should not fear death.
+- (FD5) So, you should not fear death.
+:::
+
+# FD2: What is bad for you?
+
+## Hedonism
+
+HD
+:   Something is bad for you if and only if it's painful.
+
+HD\*
+:   Something is bad for you if and only if it results in more pain than you
+    would otherwise have had.
+
+HD\*\*
+:   Something is bad for you if and only if it results in more pain *or less
+    pleasure* than you would otherwise have had.
+
+## Argument from Hedonism
+
+::: {#argument-AH .argument}
+- (AH1) If you cease to be conscious when you die, then being dead doesn't
+  result in more pain than you would otherwise have had.
+- (HD\*) Something is bad for you if and only if it results in more pain than
+  you would otherwise have had.
+- (FD2) So, if you cease to be conscious when you die, then being dead isn't
+  bad for you.
+:::
+
+:::notes
+This argument fails if we replace HD\* with HD\*\*. Death can deprive you of future pleasures, even if it cannot cause future pains.
+:::
+
+## Pain and Pleasure
+
+-  Hedonism is a view about when something is *bad for you*. 
+-  Behind HD\* is the idea that anything that increases *bad things* (pain) is *bad for you*.
+-  Behind HD\*\* is the idea that anything that increases *bad things* (pain) or decreases *good things* (pleasure) is *bad for you*.
+-  Part of the issue here is: are bad and good two sides of the same coin, or are they independent variables?
+
+:::notes
+-   Draw a diagram, showing one axis, from worst to best.
+-   Draw a second diagram, showing two independent axes, one from more to less bad, the other from less to more good.
+:::
+
+# FD4: Irrational Fears
+
+## FD4
+
+::: {#argument-FD .argument}
+- (FD1) You cease to be conscious when you die.
+- (FD2) If you cease to be conscious when you die, then being dead is not bad
+  for you.
+- (FD3) So, being dead is not bad for you.
+- (FD4) **If being dead is not bad for you, then you should not fear death.**
+- (FD5) So, you should not fear death.
+:::
+
+## Irrational Fears
+
+> A tarantula crawls onto your hand. It's unlikely to bite you, and even if it
+did, it actually wouldn't be any more painful or harmful than an ordinary bee
+sting. But even knowing how harmless they are, you are still utterly
+terrified of the tarantula crawling onto you.
+
+---
+
+:::{.argument}
+
+- (RF1) Fear is rational if and only if it is proportionate to the risk.
+- (RF2) The risk is a function of (a) how likely something is to happen and (b) how bad it would be for you if it did.
+- (RF3) So, if something is not bad for you at all, then it is always irrational to fear it.
+- (RF4) So, if being dead is not bad for you at all, then it is irrational to fear death.
+- (RF5) You should not fear something if it is irrational to fear it.
+- (FD4) So, if being dead is not bad for you, then you should not fear death.
+:::
+
+:::notes
+get them to think about how *fear* interacts with the issue separating HD\* and HD\*\*. Should you *fear* missing out on future pleasures? Or should you only *fear* experiencing future pains?
+:::
+
+## Writing {.smaller}
+
+::: {#argument-FD .argument}
+- (FD1) You cease to be conscious when you die.
+- (FD2) If you cease to be conscious when you die, then being dead is not bad
+  for you.
+- (FD3) So, being dead is not bad for you.
+- (FD4) If being dead is not bad for you, then you should not fear death.
+- (FD5) So, you should not fear death.
+:::
+
+
+Prompt: Imagine that it is true that you cease to be conscious when you die. That is, grant, for the sake of argument, that FD1 is true.
+I want you, for the moment, to think about the consequences of that. Do you agree, with the rest of the argument, that if FD1 is true, it follows that you should not fear death? Specifically, do you agree that, when it comes to what you *should fear*, the only things you should fear are future pains, not the lost of future pleasures? Try to come up with an example that *does not involve death*, that can help us tease apart these two things: future pain and loss of future pleasure. And reflect on what you think we should say about examples like that.
+
+# Consciousness after Death
+
+## FD1
+
+::: {#argument-FD .argument}
+- (FD1) **You cease to be conscious when you die.**
+- (FD2) If you cease to be conscious when you die, then being dead is not bad
+  for you.
+- (FD3) So, being dead is not bad for you.
+- (FD4) If being dead is not bad for you, then you should not fear death.
+- (FD5) So, you should not fear death.
+:::
+
+## Against Post-Mortem Consciousness
+
+Right where you are, there is a living, breathing,
+flesh-and-blood human animal. For simplicity, I'll refer to it as 'Animal'.
+
+::: {#argument-PC .argument}
+
+- (PC1) If Animal ceases to be conscious when you die *and* you are Animal,
+  then you cease to be conscious when you die.
+- (PC2) Animal ceases to be conscious when you die.
+- (PC3) You are Animal.
+- (FD1) So, you cease to be conscious when you die.
+
+:::
+
+:::notes
+Note how 'you are animal' relates to 'you are your body' and 'you are your mind' from last chapter.
+:::
+
+## Too Many Thinkers
+
+::: {#argument-TT .argument}
+- (TT1) Animal is in your chair and is thinking.
+- (TT2) You are the only thing in your chair that is thinking.
+- (PC3) So you are Animal.
+:::
+
+## Writing {.smaller}
+
+::: {#argument-TT .argument}
+- (TT1) Animal is in your chair and is thinking.
+- (TT2) You are the only thing in your chair that is thinking.
+- (PC3) So you are Animal.
+:::
+
+Prompt: What is the best objection to this argument? In thinking about this, remember the issues raised
+in the previous chapter. If you are Animal, what does that imply about body swap and fission cases? How does the "same animal" view 
+compare to the "same body", "same soul", and "psychological descendent" views? Do those views also face a "too many thinkers" problem?
+
+
+
+# Reflection Questions
+
+## From the Book
+
+1.  Can you think of counterexamples to the hedonist principle HD\*? Do your counterexamples support HD\*\*?
+2.  Does HD\*  imply that being
+    born into this world was bad for you? If so, can it
+    be modified to avoid this implication?
+3.  Are you convinced by the argument that you
+    are Animal? How does such a view fare when it comes to body swap and fission cases?
+4.  Is it rational to fear something because it's bad for *others*? Should we fear death because
+    (and only because) of how our deaths will affect other people?
+
