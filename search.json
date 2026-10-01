@@ -1,5 +1,12 @@
 [
   {
+    "objectID": "schedule.html",
+    "href": "schedule.html",
+    "title": "Schedule",
+    "section": "",
+    "text": "Week\nDate\nTopic\nReading\nSlides\n\n\n\n\n 1\nM 8/17\nWelcome!\n\n\n\n\nW 8/19\nArguments and Thought Experiments\nIntroduction\n\n\n\n 2\nM 8/24\n The Problem of Evil\n Can God Allow Suffering?\nSlides\n\n\nW 8/26\nSlides\n\n\n 3\nM 8/31\n Pascal’s Wager\n Why You Should Bet on God\nSlides\n\n\nW 9/2\nSlides\n\n\n 4\nM 9/7\nLabor Day — No Class\n\n\n\n\nW 9/9\n Personal Identity\n What Makes You You\nSlides\n\n\n 5\nM 9/14\nSlides\n\n\nW 9/16\nMidterm 1\n\n\n\n\n 6\nM 9/21\n Death\n Don’t Fear the Reaper\nSlides\n\n\nW 9/23\nSlides\n\n\n 7\nM 9/28\n Free Will\n No Freedom\nSlides\n\n\nW 9/30\nSlides\n\n\n 8\nM 10/5\n Skepticism\n You Know Nothing\n\n\n\nW 10/7\n\n\n\n 9\nM 10/12\n Political Authority\n Against Prisons and Taxes\n\n\n\nW 10/14\n\n\n\n 10\nM 10/19\nTBD\n\n\n\n\nW 10/21\nMidterm 2\n\n\n\n\n 11\nM 10/26\n Abortion\n The Ethics of Abortion\n\n\n\nW 10/28\n\n\n\n 12\nM 11/2\n Eating Animals\n Eating Animals is Immoral\n\n\n\nW 11/4\n\n\n\n 13\nM 11/9\n Utilitarianism\n What Makes Things Right\n\n\n\nW 11/11\n\n\n\n 14\nM 11/16\nTBD by class\n\n\n\n\nW 11/18\nTBD by class\n\n\n\n\n  \nM 11/23\n Thanksgiving Break — No Class\n  \n  \n\n\nW 11/25\n\n\n 15\nM 11/30\nTBD by class\n\n\n\n\nW 12/2\nTBD by class\n\n\n\n\n Final\nM 12/7 – 12/12\nDate and time of final exam TBD by registrar"
+  },
+  {
     "objectID": "syllabus.html",
     "href": "syllabus.html",
     "title": "Syllabus: Basic Issues in Philosophy (PHI 101.003, Honors)",
@@ -91,81 +98,466 @@
     "text": "Permission Required to Record\nStudents who wish to use phones or other audio or video devices to record classroom lectures/discussions or take photographs must obtain written permission from the instructor except with an approved accommodation from Student Access and Accommodations Services. Approved recordings are to be used solely for the purposes of individual or group study with other students enrolled in the class. They may not be reproduced, shared with those not enrolled in the class, or uploaded to publicly accessible web environments. Violation of this classroom rule may result in referral to the Student Conduct and Community Responsibilities (SCCR) office for disciplinary action."
   },
   {
-    "objectID": "slides/evil.html#reminders",
-    "href": "slides/evil.html#reminders",
-    "title": "The Problem of Evil",
+    "objectID": "slides/freedom-2.html#reminders",
+    "href": "slides/freedom-2.html#reminders",
+    "title": "Still no Free Will",
     "section": "Reminders",
-    "text": "Reminders\n\n\nFor today, the reading was Chapter 1, “Can God Allow Suffering?”\nNo new reading for Wednesday.\nYou should re-read the chapter after today’s lecture."
+    "text": "Reminders\n\nNext time: “You know nothing”\nI was not quite able to get all the exams done. So they will be returned on Monday."
   },
   {
-    "objectID": "slides/evil.html#how-to-read-and-engage",
-    "href": "slides/evil.html#how-to-read-and-engage",
-    "title": "The Problem of Evil",
-    "section": "How to Read and Engage",
-    "text": "How to Read and Engage\n\nRead actively, not passively.\n“It made sense” is a sign that you did not really engage.\n“I disagree because…” is a sign that you did engage.\n“I agree even though…” is also a sign that you engaged."
+    "objectID": "slides/freedom-2.html#reflection-questions",
+    "href": "slides/freedom-2.html#reflection-questions",
+    "title": "Still no Free Will",
+    "section": "Reflection Questions",
+    "text": "Reflection Questions\n\nPremise DS1 of the Desire Argument says that what you choose to do is always determined by your desires. But isn’t what you choose to do also at least partly determined by your beliefs? For instance, whether your desire for Taco Bell causes you to go to Taco Bell depends in part on whether you believe that Taco Bell is open for business. Can this observation about the influence of beliefs be used to challenge to Desire Argument?\nCan the Argument from Undesired Actions be defended against the objections raised? Are there better examples of undesired actions, which escape the objections?"
   },
   {
-    "objectID": "slides/evil.html#outline-of-the-chapter",
-    "href": "slides/evil.html#outline-of-the-chapter",
-    "title": "The Problem of Evil",
-    "section": "Outline of the Chapter",
-    "text": "Outline of the Chapter\n\nA thought experiment (“Nornia”) and an analogy.\nThe Argument from Suffering and an objection.\nThe Argument from Pointless Suffering.\n\nObjections:\n\nAppreciated Goods;\nCharacter Building;\nFree Will;\nHidden Reasons."
+    "objectID": "slides/freedom-2.html#the-desire-argument",
+    "href": "slides/freedom-2.html#the-desire-argument",
+    "title": "Still no Free Will",
+    "section": "The Desire Argument",
+    "text": "The Desire Argument\n\n\n\nArgument\n\n\n\nDS1. What you choose to do is always determined by your desires.\nDS2. What desires you have is not something that is in your control.\nDS3. So, what you choose to do is always determined by something you can’t control.\nDS4. If what you choose to do is always determined by something you can’t control, then you never act freely.\nDS5. So, you never act freely."
   },
   {
-    "objectID": "slides/evil.html#the-nornia-analogy",
-    "href": "slides/evil.html#the-nornia-analogy",
-    "title": "The Problem of Evil",
-    "section": "The Nornia Analogy",
-    "text": "The Nornia Analogy\n\n\n\nNORNIA\n\n\nImagine that you are a tourist, visiting the distant country of Nornia. You see some wondrous sights: stunning skyscrapers, beautiful parks, galleries full of masterpieces. You also see extreme poverty and injustice, poorly designed highways, grossly corrupt government agencies, innocent people serving life sentences in prison, and many other terrible things. After seeing all this, suppose you are told that Nornia is run by a wise and compassionate ruler with limitless power, who keeps careful track of everything that goes on in his country.\n\n\n\n\nDo you believe that Nornia is run by such a ruler?"
+    "objectID": "slides/freedom-2.html#against-ds1",
+    "href": "slides/freedom-2.html#against-ds1",
+    "title": "Still no Free Will",
+    "section": "Against DS1",
+    "text": "Against DS1\nSuppose your alarm goes off early in the morning, waking you up for your 8am class. Your bed is so cozy; your hangover, so vicious. There is no part of you that wants to get out of bed. And yet, somehow, you drag yourself out of bed and get to class.\n\n\n\nThe Argument from Undesired Action\n\n\n\nUA1. Your desire to stay in bed was stronger than your desire to get out of bed.\nUA2. If your desire to stay in bed was stronger than your desire to get out of bed, then what you choose to do is not always determined by your desires.\nUA3. So, what you choose to do is not always determined by your desires.\n\n\n\n\n\nUA2 is false. There are other desires in play here."
   },
   {
-    "objectID": "slides/evil.html#the-argument-from-suffering",
-    "href": "slides/evil.html#the-argument-from-suffering",
-    "title": "The Problem of Evil",
-    "section": "The Argument from Suffering",
-    "text": "The Argument from Suffering\n\n\n\nArgument\n\n\n\nAS1. There is suffering in the world.\nAS2. If there is suffering in the world, then God does not exist.\nAS3. So, God does not exist\n\n\n\n\n\nThis argument form is called Modus Ponens:\n\n\n\nModus Ponens\n\n\n\nIf P, then Q.\nP.\nSo, Q."
+    "objectID": "slides/freedom-2.html#against-d2",
+    "href": "slides/freedom-2.html#against-d2",
+    "title": "Still no Free Will",
+    "section": "Against D2",
+    "text": "Against D2\n\n\n\nThe Argument from Desire-Defeating Action\n\n\n\nDD1. Some of your desires can be changed by performing desire-defeating actions.\nDD2. If some of your desires can be changed by performing desire-defeating actions, then you can control some your desires.\nDD3. So, you can control some of your desires.\n\n\n\n\n\nDD2 is false. Your deicsion to perform d-d action is itself determined by desires."
   },
   {
-    "objectID": "slides/evil.html#the-argument-from-pointless-suffering",
-    "href": "slides/evil.html#the-argument-from-pointless-suffering",
-    "title": "The Problem of Evil",
-    "section": "The Argument from Pointless Suffering",
-    "text": "The Argument from Pointless Suffering\n\n\n\nArgument\n\n\n\nPS1. There is pointless suffering in the world\nPS2. If there is pointless suffering in the world, then there is no omnibeing.\nPS3. So, there is no omnibeing.\n\n\n\n\n\nWe concede the objection to the original Argument from Suffering.\nPointless suffering is suffering that does not serve some greater purpose: it is not the inevitable consequence of some greater good, and it does not bring out some greater good.\n\n\nObjections?\n\nAnticipated objections to PS1:\n\nMaybe all suffering in the world does have a point?\nCan’t have good without having bad, for some generic reason about the nature of opposites.\nCan’t appreciate good things without experiencing some bad things.\nSuffering builds character.\nSuffering is an unavoidable consequence of free will\nSuffering is an avoidable consequence of free will, but avoiding it is on us, not God.\nThere are hidden reasons we are unable to understand."
+    "objectID": "slides/freedom-2.html#reflection-questions-1",
+    "href": "slides/freedom-2.html#reflection-questions-1",
+    "title": "Still no Free Will",
+    "section": "Reflection Questions",
+    "text": "Reflection Questions\n\nPremise DM5 of the Doomed Regardless Argument says that every action is either determined to happen or random. Is there really no middle ground?\nCan the HYPNOTIC BACKUP case cannot be revised to serve as a counterexample to DT3* of the Argument from Determined Decisions?"
   },
   {
-    "objectID": "slides/evil.html#the-appreciated-goods-defense",
-    "href": "slides/evil.html#the-appreciated-goods-defense",
-    "title": "The Problem of Evil",
-    "section": "The Appreciated Goods Defense",
-    "text": "The Appreciated Goods Defense\n\nPS1 is false: all suffering has a point.\nThe point of suffering is that it allows us to appreciate good things.\n\n\nFirst Reply:\n\nImagine a being that never suffers, but experiences greater and greater pleasure over time. This being can appreciate how much better things are now than they were in the past, but never suffers."
+    "objectID": "slides/freedom-2.html#determinism",
+    "href": "slides/freedom-2.html#determinism",
+    "title": "Still no Free Will",
+    "section": "Determinism",
+    "text": "Determinism\n\nDeterminism\n\nEverything that’s happening now and that will happen in the future was already guaranteed to happen by things that happened in the distant past."
   },
   {
-    "objectID": "slides/evil.html#the-character-building-defense",
-    "href": "slides/evil.html#the-character-building-defense",
-    "title": "The Problem of Evil",
-    "section": "The Character Building Defense",
-    "text": "The Character Building Defense\n\nPS1 is false: all suffering has a point.\nThe point of suffering is to build character: courage, empathy, loyalty, perseverance, self-control, forgiveness, and trustworthiness.\n\n\nReply: Not all suffering builds character: consider soldiers who develop not courage but debilitating PTSD; consider someone tortured and killed, before they have any chance to develop perseverance from the experience.\n\n\nwithout suffering, there is no danger. Without facing danger, cannot develop courage.\nWithout profound acts of betrayal, there could be no profound acts of forgiveness.\nWithout the horrors and hardships of war, no one could reach the levels of courage and selflessness that soldiers attain.\nSince these sufferings are necessary in order to have the best kind of world—one with courageous and forgiving people—we can see why God would allow them.\nchronic back pain: perseverance.\nbrutal winters: endurance."
+    "objectID": "slides/freedom-2.html#the-argument-from-determinism",
+    "href": "slides/freedom-2.html#the-argument-from-determinism",
+    "title": "Still no Free Will",
+    "section": "The Argument from Determinism",
+    "text": "The Argument from Determinism\n\n\n\nArgument\n\n\n\nDT1. Determinism is true.\nDT2. If determinism is true, then you are never able to do otherwise.\nDT3. If you are never able to do otherwise, then none of your actions are free.\nDT4. So, none of your actions are free.\n\n\n\n\n\nWhy DT1? Physics. Why DT2? Consequence Argument."
   },
   {
-    "objectID": "slides/evil.html#the-free-will-defense",
-    "href": "slides/evil.html#the-free-will-defense",
-    "title": "The Problem of Evil",
-    "section": "The Free Will Defense",
-    "text": "The Free Will Defense\n\nPS1 is false: all suffering has a point.\nSuffering is an inevitable consequence of free will, and free will is very valuable.\n\nReplies:\n\nNot all suffering is caused by humans: disease, scarcity, natural disasters, animal-caused suffering.\nGod could discretely intervene to prevent the worst human-caused suffering: genocide, terrorist attacks, etc. A loving parent gives their toddler some freedom, but still takes away the chainsaw.\nThere are reasons to worry that the existence of an omniscient God is incompatible with free will: if God already knows what you will do, doesn’t that imply that it is already settled that you will do it, and so you couldn’t choose to do otherwise?"
+    "objectID": "slides/freedom-2.html#dt1-and-the-doomed-regardless-argument",
+    "href": "slides/freedom-2.html#dt1-and-the-doomed-regardless-argument",
+    "title": "Still no Free Will",
+    "section": "DT1 and the Doomed Regardless Argument",
+    "text": "DT1 and the Doomed Regardless Argument\n\n\n\nArgument\n\n\n\nDM1. If an action is determined to happen, then you couldn’t have done otherwise.\nDM2. If you couldn’t have done otherwise, then the action is not free.\nDM3. So, if an action is determined to happen, then it is not free.\nDM4. If an action happens randomly, then it is not free.\nDM5. Every action you perform is either determined to happen or happens randomly.\nDM6. So, none of your actions are free."
   },
   {
-    "objectID": "slides/evil.html#the-hidden-reasons-defense",
-    "href": "slides/evil.html#the-hidden-reasons-defense",
-    "title": "The Problem of Evil",
-    "section": "The Hidden Reasons Defense",
-    "text": "The Hidden Reasons Defense\n\nPS1 is false: all suffering has a point.\nAs finite beings in an infinite universe, we should not expect to be able to know or understand what the point of this suffering is—the reasons for it are hidden to us.\n\nReply: It is possible that there is some unfathomable divine plan, and all suffering has a hidden reason that we cannot understand. We cannot be 100% certain that this is not the case. But we have no reason at all to think that it is the case."
+    "objectID": "slides/freedom-2.html#dt2-and-the-consequence-argument",
+    "href": "slides/freedom-2.html#dt2-and-the-consequence-argument",
+    "title": "Still no Free Will",
+    "section": "DT2 and the Consequence Argument",
+    "text": "DT2 and the Consequence Argument\n\n\n\nArgument\n\n\n\nCQ1. If determinism is true, then what you do is always a consequence of the laws of nature and the distant past.\nCQ2. You have no control over the laws of nature or the distant past\nCQ3. So, if determinism is true, then what you do is always a consequence of things over which you have no control.\nCQ4. If what you do is always a consequence of things over which you have no control, then you are never able to do otherwise\nDT2. So, if determinism is true, you are never able to do otherwise."
   },
   {
-    "objectID": "slides/evil.html#the-argument-for-disbelief",
-    "href": "slides/evil.html#the-argument-for-disbelief",
-    "title": "The Problem of Evil",
-    "section": "The Argument for Disbelief",
-    "text": "The Argument for Disbelief\n\n\n\nThe Argument for Disbelief\n\n\n\nDB1. You should not believe that all the suffering in Nornia is necessary for some unknown greater good that its ruler has in mind.\nDB2. If you should not believe that all the suffering in Nornia is necessary for some unknown greater good that its ruler has in mind, then you should not believe that all the suffering in the actual world is necessary for some unknown greater good that an omnibeing has in mind.\nDB3. So, you should not believe that all the suffering in the actual world is necessary for some unknown greater good that an omnibeing has in mind.\n\n\n\n\nObjections?"
+    "objectID": "slides/freedom-2.html#against-dt3-hypnotic-backup",
+    "href": "slides/freedom-2.html#against-dt3-hypnotic-backup",
+    "title": "Still no Free Will",
+    "section": "Against DT3: HYPNOTIC BACKUP",
+    "text": "Against DT3: HYPNOTIC BACKUP\n\n\n\nArgument\n\n\n\nDT3. If you are never able to do otherwise, then none of your actions are free.\n\n\n\n\n\n\n\nExample\n\n\nTia the master hypnotist is on the run from the law and hires Clay to tackle any cop who turns up. Concerned that Clay might betray her, Tia gives Clay an irresistible post-hypnotic suggestion to tackle any cop he sees, but which will kick in only if she triggers it by shouting Abracadabra! When Kabir the cop arrives on the scene, Tia keeps a watchful eye on Clay to see if he’s going to back out. But Clay comes through: he decides to tackle Kabir all on his own, without Tia having to trigger the post-hypnotic suggestion that would have forced him to tackle Kabir."
+  },
+  {
+    "objectID": "slides/freedom-2.html#the-argument-from-determined-decision",
+    "href": "slides/freedom-2.html#the-argument-from-determined-decision",
+    "title": "Still no Free Will",
+    "section": "The Argument from Determined Decision",
+    "text": "The Argument from Determined Decision\n\n\n\nArgument\n\n\n\nDT1. Determinism is true.\nDT2*. If determinism is true, then you are never able to decide to do otherwise.\nDT3*. If you are never able to decide to do otherwise, then none of your actions are free.\nDT4. So, none of your actions are free."
+  },
+  {
+    "objectID": "slides/freedom.html#reminders",
+    "href": "slides/freedom.html#reminders",
+    "title": "Free Will",
+    "section": "Reminders",
+    "text": "Reminders\n\nFor today and next time, we are discussing Chapter 5, “No Freedom”\nI am working on your exams. I will return them with comments."
+  },
+  {
+    "objectID": "slides/freedom.html#the-argument-for-freedom",
+    "href": "slides/freedom.html#the-argument-for-freedom",
+    "title": "Free Will",
+    "section": "The Argument for Freedom",
+    "text": "The Argument for Freedom\n\n\n\nArgument\n\n\n\nFR1. Sometimes you perform an action after deciding to perform that action.\nFR2. If one performs an action after deciding to perform it, then one performs that action freely.\nFR3. So some of your actions are performed freely."
+  },
+  {
+    "objectID": "slides/freedom.html#evaluating-fr2",
+    "href": "slides/freedom.html#evaluating-fr2",
+    "title": "Free Will",
+    "section": "Evaluating FR2",
+    "text": "Evaluating FR2\n\n\n\nArgument\n\n\n\nFR2. If one performs an action after deciding to perform it, then one\n\n\n\n\n\n\n\nHYPNOTIC ACTION\n\n\nTia is on the run from the law and knows the cops are hot on her trail. She is also a master hypnotist. As she passes Jordan on the street, she hypnotizes him and plants an irresistible post-hypnotic suggestion: whenever he hears someone shout Freeze! he will fall into a hypnotic trance and tackle the person who said it. Just then, Kabir the cop arrives on the scene, sees Tia, shouts Freeze!, and Jordan tackles him."
+  },
+  {
+    "objectID": "slides/freedom.html#evaluating-fr2-1",
+    "href": "slides/freedom.html#evaluating-fr2-1",
+    "title": "Free Will",
+    "section": "Evaluating FR2",
+    "text": "Evaluating FR2\n\n\n\nArgument\n\n\n\nFR2. If one performs an action after deciding to perform it, then one\n\n\n\n\n\n\n\nHYPNOTIC DECISION\n\n\nTia is on the run from the law and knows the cops are hot on her trail. She is also a master hypnotist. As she passes Colton on the street, she hypnotizes him and plants an irresistible post-hypnotic suggestion: whenever he hears someone shout Freeze! he will grow very angry with the person, decide to tackle them, and then tackle them. Just then, Kabir the cop arrives on the scene, sees Tia, and shouts Freeze! As a result of the hypnotic suggestion, Colton gets angry at Kabir, consciously decides to tackle him, and then tackles him."
+  },
+  {
+    "objectID": "slides/freedom.html#the-desire-argument",
+    "href": "slides/freedom.html#the-desire-argument",
+    "title": "Free Will",
+    "section": "The Desire Argument",
+    "text": "The Desire Argument\n\n\n\nArgument\n\n\n\nDS1. What you choose to do is always determined by your desires.\nDS2. What desires you have is not something that is in your control.\nDS3. So, what you choose to do is always determined by something you can’t control.\nDS4. If what you choose to do is always determined by something you can’t control, then you never act freely.\nDS5. So, you never act freely.\n\n\n\n\n\nD4 is motivated by HYPNOTIC DECISION."
+  },
+  {
+    "objectID": "slides/freedom.html#against-ds1",
+    "href": "slides/freedom.html#against-ds1",
+    "title": "Free Will",
+    "section": "Against DS1",
+    "text": "Against DS1\nSuppose your alarm goes off early in the morning, waking you up for your 8am class. Your bed is so cozy; your hangover, so vicious. There is no part of you that wants to get out of bed. And yet, somehow, you drag yourself out of bed and get to class.\n\n\n\nThe Argument from Undesired Action\n\n\n\nUA1. Your desire to stay in bed was stronger than your desire to get out of bed.\nUA2. If your desire to stay in bed was stronger than your desire to get out of bed, then what you choose to do is not always determined by your desires.\nUA3. So, what you choose to do is not always determined by your desires.\n\n\n\n\n\nUA2 is false. There are other desires in play here."
+  },
+  {
+    "objectID": "slides/freedom.html#against-d2",
+    "href": "slides/freedom.html#against-d2",
+    "title": "Free Will",
+    "section": "Against D2",
+    "text": "Against D2\n\n\n\nArgument\n\n\n\nDS2. You can’t control your desires.\n\n\n\n\nEven if I didn’t choose my desires, I can take steps to change them. So I have indirect control over them."
+  },
+  {
+    "objectID": "slides/freedom.html#determinism",
+    "href": "slides/freedom.html#determinism",
+    "title": "Free Will",
+    "section": "Determinism",
+    "text": "Determinism\n\nDeterminism\n\nEverything that’s happening now and that will happen in the future was already guaranteed to happen by things that happened in the distant past."
+  },
+  {
+    "objectID": "slides/freedom.html#the-argument-from-determinism",
+    "href": "slides/freedom.html#the-argument-from-determinism",
+    "title": "Free Will",
+    "section": "The Argument from Determinism",
+    "text": "The Argument from Determinism\n\n\n\nArgument\n\n\n\nDT1. Determinism is true.\nDT2. If determinism is true, then you are never able to do otherwise.\nDT3. If you are never able to do otherwise, then none of your actions are free.\nDT4. So, none of your actions are free.\n\n\n\n\n\nWhy DT1? Physics. Why DT2? Consequence Argument."
+  },
+  {
+    "objectID": "slides/freedom.html#dt1-and-the-doomed-regardless-argument",
+    "href": "slides/freedom.html#dt1-and-the-doomed-regardless-argument",
+    "title": "Free Will",
+    "section": "DT1 and the Doomed Regardless Argument",
+    "text": "DT1 and the Doomed Regardless Argument\n\n\n\nArgument\n\n\n\nDM1. If an action is determined to happen, then you couldn’t have done otherwise.\nDM2. If you couldn’t have done otherwise, then the action is not free.\nDM3. So, if an action is determined to happen, then it is not free.\nDM4. If an action happens randomly, then it is not free.\nDM5. Every action you perform is either determined to happen or happens randomly.\nDM6. So, none of your actions are free."
+  },
+  {
+    "objectID": "slides/freedom.html#dt2-and-the-consequence-argument",
+    "href": "slides/freedom.html#dt2-and-the-consequence-argument",
+    "title": "Free Will",
+    "section": "DT2 and the Consequence Argument",
+    "text": "DT2 and the Consequence Argument\n\n\n\nArgument\n\n\n\nCQ1. If determinism is true, then what you do is always a consequence of the laws of nature and the distant past.\nCQ2. You have no control over the laws of nature or the distant past\nCQ3. So, if determinism is true, then what you do is always a consequence of things over which you have no control.\nCQ4. If what you do is always a consequence of things over which you have no control, then you are never able to do otherwise\nDT2. So, if determinism is true, you are never able to do otherwise."
+  },
+  {
+    "objectID": "slides/freedom.html#against-dt3-hypnotic-backup",
+    "href": "slides/freedom.html#against-dt3-hypnotic-backup",
+    "title": "Free Will",
+    "section": "Against DT3: HYPNOTIC BACKUP",
+    "text": "Against DT3: HYPNOTIC BACKUP\n\n\n\nArgument\n\n\n\nDT3. If you are never able to do otherwise, then none of your actions are free.\n\n\n\n\n\n\n\nExample\n\n\nTia the master hypnotist is on the run from the law and hires Clay to tackle any cop who turns up. Concerned that Clay might betray her, Tia gives Clay an irresistible post-hypnotic suggestion to tackle any cop he sees, but which will kick in only if she triggers it by shouting Abracadabra! When Kabir the cop arrives on the scene, Tia keeps a watchful eye on Clay to see if he’s going to back out. But Clay comes through: he decides to tackle Kabir all on his own, without Tia having to trigger the post-hypnotic suggestion that would have forced him to tackle Kabir."
+  },
+  {
+    "objectID": "slides/freedom.html#the-argument-from-determined-decision",
+    "href": "slides/freedom.html#the-argument-from-determined-decision",
+    "title": "Free Will",
+    "section": "The Argument from Determined Decision",
+    "text": "The Argument from Determined Decision\n\n\n\nArgument\n\n\n\nDT1. Determinism is true.\nDT2*. If determinism is true, then you are never able to decide to do otherwise.\nDT3*. If you are never able to decide to do otherwise, then none of your actions are free.\nDT4. So, none of your actions are free."
+  },
+  {
+    "objectID": "slides/freedom.html#reflection-questions",
+    "href": "slides/freedom.html#reflection-questions",
+    "title": "Free Will",
+    "section": "Reflection Questions",
+    "text": "Reflection Questions\n\nPremise DS1 of the Desire Argument says that what you choose to do is always determined by your desires. But isn’t what you choose to do also at least partly determined by your beliefs? For instance, whether your desire for Taco Bell causes you to go to Taco Bell depends in part on whether you believe that Taco Bell is open for business. Can this observation about the influence of beliefs be used to challenge to Desire Argument?\nCan the Argument from Undesired Actions be defended against the objections raised? Are there better examples of undesired actions, which escape the objections?\nPremise DM5 of the Doomed Regardless Argument says that every action is either determined to happen or random. Is there really no middle ground?\nCan the HYPNOTIC BACKUP case cannot be revised to serve as a counterexample to DT3* of the Argument from Determined Decisions?"
+  },
+  {
+    "objectID": "slides/personal_identity-activities.html#reminders",
+    "href": "slides/personal_identity-activities.html#reminders",
+    "title": "Personal Identity: Assessing the Options",
+    "section": "Reminders",
+    "text": "Reminders\n\nFor today, we are still discussing Chapter 3, “What Makes You You?”\nNext time, Wednesday, Sep 16th, is our first midterm.\nClosed book, closed notes, no devices\nBring a bluebook and a pen or pencil"
+  },
+  {
+    "objectID": "slides/personal_identity-activities.html#how-to-prepare-for-the-midterm",
+    "href": "slides/personal_identity-activities.html#how-to-prepare-for-the-midterm",
+    "title": "Personal Identity: Assessing the Options",
+    "section": "How to Prepare for the Midterm",
+    "text": "How to Prepare for the Midterm\n\nReview the slides and your notes (you have been taking notes?)\nReview the readings\nI expect you to know the main arguments we have discussed:\n\nnot just “be vaguely aware of them”\nbe able to actually re-present them, premise by premise."
+  },
+  {
+    "objectID": "slides/personal_identity-activities.html#physical-accounts",
+    "href": "slides/personal_identity-activities.html#physical-accounts",
+    "title": "Personal Identity: Assessing the Options",
+    "section": "Physical Accounts",
+    "text": "Physical Accounts\n\nThe Fingerprints Account\n\n\\(A\\) at time \\(t\\) is the same person as \\(B\\) at time \\(t^*\\) if and only if \\(A\\) and \\(B\\) have indistinguishable fingerprints.\n\nThe DNA Account\n\n\\(A\\) at \\(t\\) is the same person as \\(B\\) at \\(t^*\\) if and only if \\(A\\) and \\(B\\) have indistinguishable DNA.\n\nThe Same Body Account\n\n\\(A\\) at \\(t\\) is the same person as \\(B\\) at \\(t^*\\) if and only if \\(A\\) has the same body as \\(B\\)."
+  },
+  {
+    "objectID": "slides/personal_identity-activities.html#psychological-accounts",
+    "href": "slides/personal_identity-activities.html#psychological-accounts",
+    "title": "Personal Identity: Assessing the Options",
+    "section": "Psychological Accounts",
+    "text": "Psychological Accounts\n\nThe Psychological Matching Account\n\nA$ at \\(t\\) is the same person as \\(B\\) at \\(t^*\\) if and only if \\(A\\)’s psychological features are exactly the same as \\(B\\)’s psychological features.\n\nThe Psychological Overlap Account\n\n\\(A\\) at \\(t\\) is the same person as \\(B\\) at \\(t^*\\) if and only if \\(A\\)’s psychological features are mostly the same as \\(B\\)’s psychological features.\n\nThe Psychological Descendant Account\n\n\\(A\\) at \\(t\\) is the same person as \\(B\\) at \\(t^*\\) if and only if \\(A\\) is either a psychological ancestor or a psychological descendant of \\(B\\)."
+  },
+  {
+    "objectID": "slides/personal_identity-activities.html#objections-to-same-body-account",
+    "href": "slides/personal_identity-activities.html#objections-to-same-body-account",
+    "title": "Personal Identity: Assessing the Options",
+    "section": "Objections to Same Body Account",
+    "text": "Objections to Same Body Account"
+  },
+  {
+    "objectID": "slides/personal_identity-activities.html#the-conjoined-twins-argument",
+    "href": "slides/personal_identity-activities.html#the-conjoined-twins-argument",
+    "title": "Personal Identity: Assessing the Options",
+    "section": "The Conjoined Twins Argument",
+    "text": "The Conjoined Twins Argument\n\n\n\nArgument\n\n\n\nCT1. If the Same Body Account is true, then either Abby and Brittany have different bodies or Abby and Brittany are the same person.\nCT2. Abby and Brittany have the same body.\nCT3. Abby and Brittany are not the same person.\nCT4. So, the Same Body Account is false.\n\n\n\n\n\ndefense of CT2: there is no way to divide their shared body into two bodies that respects the fact that, e.g., they both have a liver."
+  },
+  {
+    "objectID": "slides/personal_identity-activities.html#defense-of-ct3-not-same-person",
+    "href": "slides/personal_identity-activities.html#defense-of-ct3-not-same-person",
+    "title": "Personal Identity: Assessing the Options",
+    "section": "Defense of CT3: not same person",
+    "text": "Defense of CT3: not same person\n\n\n\nCONJOINED DRAMA\n\n\nAbby is dating Arie. Brittany is secretly in love with Arie and has always been jealous of their relationship. One night, while Abby is sleeping, Brittany confesses her feelings to Arie, and Arie kisses her. Later, when Abby finds out, she strangles Brittany.\n\n\n\n\n\n\nArgument\n\n\n\nIf Abby and Brittany are one person, then no cheating occurred, and Abby didn’t kill anyone, she just removed one of her two heads.\nCheating did occur, and Abby did kill someone.\nSo Abby and Brittany are not one person, but two."
+  },
+  {
+    "objectID": "slides/personal_identity-activities.html#the-body-swap-argument",
+    "href": "slides/personal_identity-activities.html#the-body-swap-argument",
+    "title": "Personal Identity: Assessing the Options",
+    "section": "The Body Swap Argument",
+    "text": "The Body Swap Argument\n\n\n\nFreaky Friday\n\n\nOn Friday morning, something happens. The person in Anna’s body looks in the mirror in disbelief. “Why,” she thinks to herself, “am I in my teenage daughter’s body?” Meanwhile, the person in Tess’s body looks in the mirror in horror. “Why,” she thinks to herself, “am I in my mom’s middle-aged body?”\n\n\n\n\nThe person who looks in the mirror and asks, “Why am I in my teenage daughter’s body?” is the Mom, Tess, not the daughter, Anna.\nSo, the person in the teenage body before is Anna, the person in the teenage body after is Tess.\nSo the Same Body Account is false."
+  },
+  {
+    "objectID": "slides/personal_identity-activities.html#the-body-swap-argument-and-pda",
+    "href": "slides/personal_identity-activities.html#the-body-swap-argument-and-pda",
+    "title": "Personal Identity: Assessing the Options",
+    "section": "The Body Swap Argument and PDA",
+    "text": "The Body Swap Argument and PDA\nFREAKY FRIDAY is just one example among many. Can you think of other cases in which a person switches bodies?\n\n\nstar trek"
+  },
+  {
+    "objectID": "slides/personal_identity-activities.html#an-argument-for-pda",
+    "href": "slides/personal_identity-activities.html#an-argument-for-pda",
+    "title": "Personal Identity: Assessing the Options",
+    "section": "An Argument for PDA",
+    "text": "An Argument for PDA\n\n\n\nArgument\n\n\n\nPD1. The Psychological Descendant Account fits best with our intuitions about cases.\nPD2. We should accept the theory that fits best with our intuitions about cases.\nPD3. So, we should accept the PDA."
+  },
+  {
+    "objectID": "slides/personal_identity-activities.html#souls",
+    "href": "slides/personal_identity-activities.html#souls",
+    "title": "Personal Identity: Assessing the Options",
+    "section": "Souls?",
+    "text": "Souls?\n\nThe Same Soul Account\n\n\\(A\\) at \\(t\\) is the same person as \\(B\\) at \\(t^*\\) if and only if \\(A\\) has the same soul as \\(B\\).\n\n\nQuestion: What does the Soul Account say about FREAKY FRIDAY?"
+  },
+  {
+    "objectID": "slides/personal_identity-activities.html#what-is-a-soul",
+    "href": "slides/personal_identity-activities.html#what-is-a-soul",
+    "title": "Personal Identity: Assessing the Options",
+    "section": "What is a Soul?",
+    "text": "What is a Soul?\nA soul is an immaterial part of you—traditionally, the part responsible for your ability to think, and the part responsible for your ability to survive death.\nThe belief in souls is called Dualism—there are two fundamentally different kinds of substance in the world: material and immaterial.\nMaterialists reject Dualism, holding there are only material substances, and so there are no souls."
+  },
+  {
+    "objectID": "slides/personal_identity-activities.html#souls-and-persons",
+    "href": "slides/personal_identity-activities.html#souls-and-persons",
+    "title": "Personal Identity: Assessing the Options",
+    "section": "Souls and Persons",
+    "text": "Souls and Persons\n\n\n\nBlank Slate Reincarnation\n\n\nThe gods run a soul-cleaning shop. It works kind of like a laundry mat. When you die, your soul is sent to the shop, where it waits is turn to go through a soul-cleaning machine. This machine washes the soul clean of all lingering psychological remnants of its previous incarnation. Once clean, the soul is sent back into the world, where it enters the body of a newborn.\n\n\n\nYou share a part with the newborn. But are you the same person as the newborn?"
+  },
+  {
+    "objectID": "slides/personal_identity-activities.html#bodies-souls-and-pda",
+    "href": "slides/personal_identity-activities.html#bodies-souls-and-pda",
+    "title": "Personal Identity: Assessing the Options",
+    "section": "Bodies, Souls, and PDA",
+    "text": "Bodies, Souls, and PDA\nSo, to reiterate:\n\n\n\nArgument\n\n\n\nIP1. The Psychological Descendant Account fits best with our intuitions about cases.\nIP2. We should accept the theory that fits best with our intuitions about cases.\nIP3. So, we should accept the PDA."
+  },
+  {
+    "objectID": "slides/personal_identity-activities.html#objections-to-the-psychological-descendant-account",
+    "href": "slides/personal_identity-activities.html#objections-to-the-psychological-descendant-account",
+    "title": "Personal Identity: Assessing the Options",
+    "section": "Objections to the Psychological Descendant Account",
+    "text": "Objections to the Psychological Descendant Account"
+  },
+  {
+    "objectID": "slides/personal_identity-activities.html#amnesia",
+    "href": "slides/personal_identity-activities.html#amnesia",
+    "title": "Personal Identity: Assessing the Options",
+    "section": "Amnesia",
+    "text": "Amnesia\n\n\n\nTOTAL AMNESIA\n\n\nJiwoo is stranded on a deserted island. Adding injury to insult, a coconut fell on Jiwoo’s head at noon today, instantly resulting in total amnesia. She can’t remember how she got on the island or anything else about her past. She can’t even remember her own name.\n\n\n\nWhat does the PDA say about this case? Do you agree?"
+  },
+  {
+    "objectID": "slides/personal_identity-activities.html#blackout",
+    "href": "slides/personal_identity-activities.html#blackout",
+    "title": "Personal Identity: Assessing the Options",
+    "section": "Blackout",
+    "text": "Blackout\n\n\n\nTOTAL BLACKOUT\n\n\nMinjun is stranded on a deserted island. Adding injury to insult, a coconut fell on Minjun’s head at noon today, temporarily knocking him unconscious. While unconscious, he is not dreaming, nor does he have any thoughts or experiences or any physical sensations whatsoever. He is completely blacked out. When he finally awakens hours later, it will feel as if no time has passed.\n\n\n\nWhat does the PDA say about this case? Do you agree?"
+  },
+  {
+    "objectID": "slides/personal_identity-activities.html#fission",
+    "href": "slides/personal_identity-activities.html#fission",
+    "title": "Personal Identity: Assessing the Options",
+    "section": "Fission",
+    "text": "Fission\n\n\n\nDOUBLE TROUBLE\n\n\nRachel uploads JoJo’s neural states to Chad’s brain, and also accidentally uploads them to Alex’s brain as well. As a result, both the person with Chad’s original body and the person with Alex’s original body wake up and say ‘My name is JoJo’. Both can tell you all about JoJo’s past; neither can tell you anything about Chad or Alex’s past. She also obliterates JoJo’s original body.\n\n\n\nWhat does the Same Body Account say about this case? What does the Soul Account say? What does the PDA account say?\n\nDraw a diagram. Label the people before the rewiring as ‘JoJo’, ‘Chad’, and ‘Alex’. Then label the people after as ‘A’ and ‘B’."
+  },
+  {
+    "objectID": "slides/personal_identity-activities.html#identity-death-and-survival",
+    "href": "slides/personal_identity-activities.html#identity-death-and-survival",
+    "title": "Personal Identity: Assessing the Options",
+    "section": "Identity, Death, and Survival",
+    "text": "Identity, Death, and Survival\nSuppose Jojo agreed to be part of Rachel’s experiment because she had terminal cancer. And suppose Rachel uploaded Jojo’s states to both Chad’s brain and Alex’s brain because the procedure only works half the time, and she wanted to increase Jojo’s chances of survival.\nDoes this seem right to you?\n\nIf Jojo’s states are successfully uploaded to Chad’s brain (but not Alex’s) Jojo survives.\nIf Jojo’s states are successfully uploaded to Alex’s brain (but not Chads’s) Jojo survives.\nIf Jojo’s states are successfully uploaded to both Alex and Chad’s brain, Jojo does not survive."
+  },
+  {
+    "objectID": "slides/wager.html#reminders",
+    "href": "slides/wager.html#reminders",
+    "title": "The Wager",
+    "section": "Reminders",
+    "text": "Reminders\n\n\nReturn paragraphs (no comments; didn’t read them; happy to talk about them with you)\nFor today, the reading was Chapter 2, “Why You Should Bet on God”\nNo new reading for Wednesday.\nYou should re-read the chapter after today’s lecture."
+  },
+  {
+    "objectID": "slides/wager.html#the-happiness-argument",
+    "href": "slides/wager.html#the-happiness-argument",
+    "title": "The Wager",
+    "section": "The Happiness Argument",
+    "text": "The Happiness Argument\n\n\n\nArgument\n\n\n\nGH1. You will be happier if you believe in God than if you don’t.\nGH2. You should believe whatever will make you happier.\nGH3. So, you should believe in God.\n\n\n\n\nA pragmatic argument for belief offers a reason to believe something that is not about whether it is true or false.\n\nDefense of GH1:\n\nWe live in a religious society.\nNonbelievers are surrounded by believers who consider nonbelievers immoral and untrustworthy (polls regularly show that the majority of Americans think atheists are worse than rapists).\nOne of the primary forms of community is your church.\nThese things are liable to make you less happy."
+  },
+  {
+    "objectID": "slides/wager.html#the-argument-for-betting-on-god",
+    "href": "slides/wager.html#the-argument-for-betting-on-god",
+    "title": "The Wager",
+    "section": "The Argument for Betting on God",
+    "text": "The Argument for Betting on God\n\n\n\nArgument\n\n\n\nBG1. One should always choose the option with the greatest expected utility.\nBG2. Believing in God has a greater expected utility than not believing in God.\nBG3. So you should believe in God.\n\n\n\n\nWhat is expected utility?"
+  },
+  {
+    "objectID": "slides/wager.html#insurance-costs",
+    "href": "slides/wager.html#insurance-costs",
+    "title": "The Wager",
+    "section": "Insurance Costs",
+    "text": "Insurance Costs\nI offer you a deal:\n\nYou pay me $200.\nIf your laptop breaks in the next year, I will pay you $100 (which you can, if you wish, use to help fix or replace it).\n\nShould you take this deal?\n\n\nWhat if the price was $100? $50? $10? $1?\ninvite the students to play around with the price and payout.\ninvite them to articulate the point that the likelihood that your laptop will break is relevant."
+  },
+  {
+    "objectID": "slides/wager.html#uncertain-benefits",
+    "href": "slides/wager.html#uncertain-benefits",
+    "title": "The Wager",
+    "section": "Uncertain Benefits",
+    "text": "Uncertain Benefits\n\nWhen a benefit is uncertain, the actual value of that benefit depends on how likely you are to receive it.\nWe measure likelihood by assigning probabilities:\n\na probability of 0 means it absolutely won’t happen.\na probability of .5 means it has a 50% chance of happening.\na probability of 1 means it absolutely will happen."
+  },
+  {
+    "objectID": "slides/wager.html#expected-utility-1",
+    "href": "slides/wager.html#expected-utility-1",
+    "title": "The Wager",
+    "section": "Expected Utility",
+    "text": "Expected Utility\n\nExpected Utility is a mathematical measurement of this: multiply the value of the benefit by the probability—represented as a number between 0 and 1—of receiving it\nSuppose your laptop has a 5% chance of breaking in the next year. Then the expected utility of my payout is:\n\nExpected Utility of Sanson’s Laptop Insurance\n\n$100 \\(\\times\\) .05 = $5\n\n\nSo, if you pay $5 for my insurance, you can expect, on average, to get $5 back."
+  },
+  {
+    "objectID": "slides/wager.html#factors-that-matter",
+    "href": "slides/wager.html#factors-that-matter",
+    "title": "The Wager",
+    "section": "Factors that Matter",
+    "text": "Factors that Matter\nWhen you make a decision, you need to consider:\n\neach action available to you.\nfor each action, every possible outcome.\nfor each outcome, both its value to you should it occur and the likelihood of that it will occur.\n\nTo keep track of all this, we can use a decision matrix."
+  },
+  {
+    "objectID": "slides/wager.html#decision-matrix-for-laptop-insurance",
+    "href": "slides/wager.html#decision-matrix-for-laptop-insurance",
+    "title": "The Wager",
+    "section": "Decision Matrix for Laptop Insurance",
+    "text": "Decision Matrix for Laptop Insurance\nShould you pay $5 for my $100 insurance policy?\n\n\n\n\nLaptop breaks (5%)\nLaptop doesn’t break (95%)\nExpected Utility\n\n\n\n\nBuy Insurance\n+95\n-5\n?\n\n\n\nWe calculate the Expected Utility by taking the sum of the value of each outcome times its probability:\n\\[(95 \\times .05) + (-5 \\times .95)\\]"
+  },
+  {
+    "objectID": "slides/wager.html#decision-matrix-for-laptop-insurance-1",
+    "href": "slides/wager.html#decision-matrix-for-laptop-insurance-1",
+    "title": "The Wager",
+    "section": "Decision Matrix for Laptop Insurance",
+    "text": "Decision Matrix for Laptop Insurance\nInstead of holding onto the $5, you could invest in GameStop…\n\n\n\n\nLaptop breaks and GameStop crashes (2%)\nLaptop breaks and GameStop holds steady (2%)\nLaptop breaks and GameStop goes to the moon (1%)\nLaptop doesn’t break and GameStop crashes (38%)\nLaptop doesn’t break and GameStop holds steady (38%)\nLaptop doesn’t break and GameStop goes to the moon (19%)\nExpected Utility\n\n\n\n\nBuy Insurance\n?\n?\n?\n?\n?\n?\n?\n\n\nHold your cash\n?\n?\n?\n?\n?\n?\n?\n\n\nInvest in GameStop\n?\n?\n?\n?\n?\n?\n?\n\n\n\n\nNeed more columns:\n\nLaptop breaks and GameStop crashes\nLaptop breaks and GameStop goes to the moon\nLaptop doesn’t break and Gamestop crashes\nLaptop doesn’t break and GameStop goes to the moon\n\nProbability of combined independent outcomes is the product of probability of each."
+  },
+  {
+    "objectID": "slides/wager.html#the-argument-for-betting-on-god-1",
+    "href": "slides/wager.html#the-argument-for-betting-on-god-1",
+    "title": "The Wager",
+    "section": "The Argument for Betting on God",
+    "text": "The Argument for Betting on God\n\n\n\nArgument\n\n\n\nBG1. One should always choose the option with the greatest expected utility.\nBG2. Believing in God has a greater expected utility than not believing in God.\nBG3. So you should believe in God.\n\n\n\n\nWhy believe (BG2)?"
+  },
+  {
+    "objectID": "slides/wager.html#decision-matrix-for-believing-in-god",
+    "href": "slides/wager.html#decision-matrix-for-believing-in-god",
+    "title": "The Wager",
+    "section": "Decision Matrix for Believing in God",
+    "text": "Decision Matrix for Believing in God\n\n\n\n\nGod (?%)\nNo God (?%)\nExpected Utility\n\n\n\n\nBelieve\n?\n?\n?\n\n\nDon’t\n?\n?\n?\n\n\n\n\n\nStart by setting probabilities at 50%.\nStart by setting the payouts at all finite values.\nChange the probabilities to lower probability that God exists. Note that, if it gets low enough, believe in God loses.\nChange payout for believing in God to infinity."
+  },
+  {
+    "objectID": "slides/wager.html#objections-discussed-in-the-chapter",
+    "href": "slides/wager.html#objections-discussed-in-the-chapter",
+    "title": "The Wager",
+    "section": "Objections Discussed in the Chapter",
+    "text": "Objections Discussed in the Chapter\n\nDoes an infinite good even make sense?\nHow do we know the probabilities?\nMaybe believing in God isn’t enough?\nDo we know that the value of salvation is infinite?\nBelief in which God?\nBelief isn’t voluntary."
+  },
+  {
+    "objectID": "slides/wager.html#does-an-infinite-good-even-make-sense",
+    "href": "slides/wager.html#does-an-infinite-good-even-make-sense",
+    "title": "The Wager",
+    "section": "Does an infinite good even make sense?",
+    "text": "Does an infinite good even make sense?\nYes, it does. Access to unlimited donuts is better than access to a finite number of donuts."
+  },
+  {
+    "objectID": "slides/wager.html#how-do-we-know-the-probabilities",
+    "href": "slides/wager.html#how-do-we-know-the-probabilities",
+    "title": "The Wager",
+    "section": "How do we know the probabilities?",
+    "text": "How do we know the probabilities?\n\nThe probabilities don’t matter!\nAs long as the probability that God exists is some finite positive number, no matter how small, the expected utility of believing in God will be infinite."
+  },
+  {
+    "objectID": "slides/wager.html#maybe-believing-in-god-isnt-enough",
+    "href": "slides/wager.html#maybe-believing-in-god-isnt-enough",
+    "title": "The Wager",
+    "section": "Maybe believing in God isn’t enough?",
+    "text": "Maybe believing in God isn’t enough?\n\n\n\n\nGod (?%)\nNo God (?%)\nExpected Utility\n\n\n\n\nBelieve and Be Good\n\\(\\infty\\)\n?\n?\n\n\nBelieve and Be Bad\n?\n?\n?\n\n\nDon’t Believe and Be Good\n?\n?\n?\n\n\nDon’t Believe and Be Bad\n?\n?\n?"
+  },
+  {
+    "objectID": "slides/wager.html#do-we-know-that-the-value-of-salvation-is-infinite",
+    "href": "slides/wager.html#do-we-know-that-the-value-of-salvation-is-infinite",
+    "title": "The Wager",
+    "section": "Do we know that the value of salvation is infinite?",
+    "text": "Do we know that the value of salvation is infinite?\n\n\n\n\nGenerous God(?%)\nStingy God(?%)\nNo God (?%)\nExpected Utility\n\n\n\n\nBelieve\n\\(\\infty\\)\n?\n?\n?\n\n\nDon’t Believe\n?\n?\n?\n?"
+  },
+  {
+    "objectID": "slides/wager.html#belief-in-which-god",
+    "href": "slides/wager.html#belief-in-which-god",
+    "title": "The Wager",
+    "section": "Belief in which God?",
+    "text": "Belief in which God?\n\n\n\n\nChristian God(?%)\nYahweh (but not Jesus)(?%)\nZeus(?%)\nNo God (?%)\nExpected Utility\n\n\n\n\nBelieve in Christian God\n\\(\\infty\\)\n?\n?\n?\n?\n\n\nBelieve in Yahweh\n?\n\\(\\infty\\)\n?\n?\n?\n\n\nBelieve in Zeus\n?\n?\n\\(\\infty\\)\n?\n?\n\n\nDon’t Believe\n?\n?\n?\n?\n?\n\n\n\nThis yields a three-way tie. Still, the matrix shows that it is better to believe that some God exists than not."
+  },
+  {
+    "objectID": "slides/wager.html#belief-isnt-voluntary",
+    "href": "slides/wager.html#belief-isnt-voluntary",
+    "title": "The Wager",
+    "section": "Belief isn’t Voluntary",
+    "text": "Belief isn’t Voluntary\nI will give you $10 if you believe that there is a sheep in the room, standing next to me.\n\nAssume I can read your mind, so I know whether or not you really believe it.\nCan you collect the $10?"
+  },
+  {
+    "objectID": "slides/wager.html#the-argument-for-trying-to-believe",
+    "href": "slides/wager.html#the-argument-for-trying-to-believe",
+    "title": "The Wager",
+    "section": "The Argument for Trying to Believe",
+    "text": "The Argument for Trying to Believe\n\n\n\nArgument\n\n\n\nTB1. One should always choose the option with the greatest expected utility.\nTB2. Making an effort to believe in God has greater expected utility than not making an effort to believe in God.\nTB3. So, one should make an effort to believe in God."
+  },
+  {
+    "objectID": "slides/wager.html#decision-matrix-for-trying-to-believe",
+    "href": "slides/wager.html#decision-matrix-for-trying-to-believe",
+    "title": "The Wager",
+    "section": "Decision Matrix for Trying to Believe",
+    "text": "Decision Matrix for Trying to Believe\n\n\n\n\nGod exists?\nGod doesn’t exist?\nExpected Utility\n\n\n\n\nTry to Believe\n?\n?\n?\n\n\nDon’t Try to Believe\n?\n?\n?\n\n\n\nBut this doesn’t work. The outcome depends on whether or not you succeed at believing."
+  },
+  {
+    "objectID": "slides/wager.html#decision-matrix-for-trying-to-believe-1",
+    "href": "slides/wager.html#decision-matrix-for-trying-to-believe-1",
+    "title": "The Wager",
+    "section": "Decision Matrix for Trying to Believe",
+    "text": "Decision Matrix for Trying to Believe\n\n\n\n\nGod + belief?\nGod + no belief?\nno God + belief?\nno God + no belief?\nExpected Utility\n\n\n\n\nTry to Believe\n?\n?\n?\n?\n?\n\n\nDon’t Try\n?\n?\n?\n?\n?\n\n\n\n‘God’ is short for ‘God exists’; ‘no God’ for ‘God does not exist’. ‘belief’ is short for ‘you end up believing God exists’; ‘no belief’ is short for ‘you end up not believing that God exists’.\nNotice that there is a non-zero probability that you end up believing in God even if you don’t try. That is interesting."
   },
   {
     "objectID": "slides/personal_identity.html#reminders",
@@ -392,6 +784,83 @@
     "text": "The Same Soul Account\n\n\\(A\\) at \\(t\\) is the same person as \\(B\\) at \\(t^*\\) if and only if\n\n\\(A\\) has the same soul as \\(B\\).\n\n\nTwo interpretations:\n\nYou are your soul.\n\nbut then, soul-talk is just person-talk, and this account is uninformative.\n\nYour soul is not you, but an immaterial part of you.\n\nbut then, how can we ever know whether or not \\(A\\) at \\(t\\) and \\(A\\) at \\(t^*\\) have the same soul?\n\n\n\n\nsuggest soul swap cases where psych continuity doesn’t follow the soul.\nlead them to the view that the soul is what accounts for psych continuity."
   },
   {
+    "objectID": "slides/evil.html#reminders",
+    "href": "slides/evil.html#reminders",
+    "title": "The Problem of Evil",
+    "section": "Reminders",
+    "text": "Reminders\n\n\nFor today, the reading was Chapter 1, “Can God Allow Suffering?”\nNo new reading for Wednesday.\nYou should re-read the chapter after today’s lecture."
+  },
+  {
+    "objectID": "slides/evil.html#how-to-read-and-engage",
+    "href": "slides/evil.html#how-to-read-and-engage",
+    "title": "The Problem of Evil",
+    "section": "How to Read and Engage",
+    "text": "How to Read and Engage\n\nRead actively, not passively.\n“It made sense” is a sign that you did not really engage.\n“I disagree because…” is a sign that you did engage.\n“I agree even though…” is also a sign that you engaged."
+  },
+  {
+    "objectID": "slides/evil.html#outline-of-the-chapter",
+    "href": "slides/evil.html#outline-of-the-chapter",
+    "title": "The Problem of Evil",
+    "section": "Outline of the Chapter",
+    "text": "Outline of the Chapter\n\nA thought experiment (“Nornia”) and an analogy.\nThe Argument from Suffering and an objection.\nThe Argument from Pointless Suffering.\n\nObjections:\n\nAppreciated Goods;\nCharacter Building;\nFree Will;\nHidden Reasons."
+  },
+  {
+    "objectID": "slides/evil.html#the-nornia-analogy",
+    "href": "slides/evil.html#the-nornia-analogy",
+    "title": "The Problem of Evil",
+    "section": "The Nornia Analogy",
+    "text": "The Nornia Analogy\n\n\n\nNORNIA\n\n\nImagine that you are a tourist, visiting the distant country of Nornia. You see some wondrous sights: stunning skyscrapers, beautiful parks, galleries full of masterpieces. You also see extreme poverty and injustice, poorly designed highways, grossly corrupt government agencies, innocent people serving life sentences in prison, and many other terrible things. After seeing all this, suppose you are told that Nornia is run by a wise and compassionate ruler with limitless power, who keeps careful track of everything that goes on in his country.\n\n\n\n\nDo you believe that Nornia is run by such a ruler?"
+  },
+  {
+    "objectID": "slides/evil.html#the-argument-from-suffering",
+    "href": "slides/evil.html#the-argument-from-suffering",
+    "title": "The Problem of Evil",
+    "section": "The Argument from Suffering",
+    "text": "The Argument from Suffering\n\n\n\nArgument\n\n\n\nAS1. There is suffering in the world.\nAS2. If there is suffering in the world, then God does not exist.\nAS3. So, God does not exist\n\n\n\n\n\nThis argument form is called Modus Ponens:\n\n\n\nModus Ponens\n\n\n\nIf P, then Q.\nP.\nSo, Q."
+  },
+  {
+    "objectID": "slides/evil.html#the-argument-from-pointless-suffering",
+    "href": "slides/evil.html#the-argument-from-pointless-suffering",
+    "title": "The Problem of Evil",
+    "section": "The Argument from Pointless Suffering",
+    "text": "The Argument from Pointless Suffering\n\n\n\nArgument\n\n\n\nPS1. There is pointless suffering in the world\nPS2. If there is pointless suffering in the world, then there is no omnibeing.\nPS3. So, there is no omnibeing.\n\n\n\n\n\nWe concede the objection to the original Argument from Suffering.\nPointless suffering is suffering that does not serve some greater purpose: it is not the inevitable consequence of some greater good, and it does not bring out some greater good.\n\n\nObjections?\n\nAnticipated objections to PS1:\n\nMaybe all suffering in the world does have a point?\nCan’t have good without having bad, for some generic reason about the nature of opposites.\nCan’t appreciate good things without experiencing some bad things.\nSuffering builds character.\nSuffering is an unavoidable consequence of free will\nSuffering is an avoidable consequence of free will, but avoiding it is on us, not God.\nThere are hidden reasons we are unable to understand."
+  },
+  {
+    "objectID": "slides/evil.html#the-appreciated-goods-defense",
+    "href": "slides/evil.html#the-appreciated-goods-defense",
+    "title": "The Problem of Evil",
+    "section": "The Appreciated Goods Defense",
+    "text": "The Appreciated Goods Defense\n\nPS1 is false: all suffering has a point.\nThe point of suffering is that it allows us to appreciate good things.\n\n\nFirst Reply:\n\nImagine a being that never suffers, but experiences greater and greater pleasure over time. This being can appreciate how much better things are now than they were in the past, but never suffers."
+  },
+  {
+    "objectID": "slides/evil.html#the-character-building-defense",
+    "href": "slides/evil.html#the-character-building-defense",
+    "title": "The Problem of Evil",
+    "section": "The Character Building Defense",
+    "text": "The Character Building Defense\n\nPS1 is false: all suffering has a point.\nThe point of suffering is to build character: courage, empathy, loyalty, perseverance, self-control, forgiveness, and trustworthiness.\n\n\nReply: Not all suffering builds character: consider soldiers who develop not courage but debilitating PTSD; consider someone tortured and killed, before they have any chance to develop perseverance from the experience.\n\n\nwithout suffering, there is no danger. Without facing danger, cannot develop courage.\nWithout profound acts of betrayal, there could be no profound acts of forgiveness.\nWithout the horrors and hardships of war, no one could reach the levels of courage and selflessness that soldiers attain.\nSince these sufferings are necessary in order to have the best kind of world—one with courageous and forgiving people—we can see why God would allow them.\nchronic back pain: perseverance.\nbrutal winters: endurance."
+  },
+  {
+    "objectID": "slides/evil.html#the-free-will-defense",
+    "href": "slides/evil.html#the-free-will-defense",
+    "title": "The Problem of Evil",
+    "section": "The Free Will Defense",
+    "text": "The Free Will Defense\n\nPS1 is false: all suffering has a point.\nSuffering is an inevitable consequence of free will, and free will is very valuable.\n\nReplies:\n\nNot all suffering is caused by humans: disease, scarcity, natural disasters, animal-caused suffering.\nGod could discretely intervene to prevent the worst human-caused suffering: genocide, terrorist attacks, etc. A loving parent gives their toddler some freedom, but still takes away the chainsaw.\nThere are reasons to worry that the existence of an omniscient God is incompatible with free will: if God already knows what you will do, doesn’t that imply that it is already settled that you will do it, and so you couldn’t choose to do otherwise?"
+  },
+  {
+    "objectID": "slides/evil.html#the-hidden-reasons-defense",
+    "href": "slides/evil.html#the-hidden-reasons-defense",
+    "title": "The Problem of Evil",
+    "section": "The Hidden Reasons Defense",
+    "text": "The Hidden Reasons Defense\n\nPS1 is false: all suffering has a point.\nAs finite beings in an infinite universe, we should not expect to be able to know or understand what the point of this suffering is—the reasons for it are hidden to us.\n\nReply: It is possible that there is some unfathomable divine plan, and all suffering has a hidden reason that we cannot understand. We cannot be 100% certain that this is not the case. But we have no reason at all to think that it is the case."
+  },
+  {
+    "objectID": "slides/evil.html#the-argument-for-disbelief",
+    "href": "slides/evil.html#the-argument-for-disbelief",
+    "title": "The Problem of Evil",
+    "section": "The Argument for Disbelief",
+    "text": "The Argument for Disbelief\n\n\n\nThe Argument for Disbelief\n\n\n\nDB1. You should not believe that all the suffering in Nornia is necessary for some unknown greater good that its ruler has in mind.\nDB2. If you should not believe that all the suffering in Nornia is necessary for some unknown greater good that its ruler has in mind, then you should not believe that all the suffering in the actual world is necessary for some unknown greater good that an omnibeing has in mind.\nDB3. So, you should not believe that all the suffering in the actual world is necessary for some unknown greater good that an omnibeing has in mind.\n\n\n\n\nObjections?"
+  },
+  {
     "objectID": "slides/death.html#reminders",
     "href": "slides/death.html#reminders",
     "title": "Fearing Death",
@@ -504,172 +973,95 @@
     "text": "Reflection Questions\n\nCan you think of counterexamples to the hedonist principle HD*? Do your counterexamples support HD**?\nDoes HD* imply that being born into this world was bad for you? If so, can it be modified to avoid this implication?\nAre you convinced by the argument that you are Animal? How does such a view fare when it comes to body swap and fission cases?\nIs it rational to fear something because it’s bad for others? Should we fear death because (and only because) of how our deaths will affect other people?"
   },
   {
-    "objectID": "slides/wager.html#reminders",
-    "href": "slides/wager.html#reminders",
-    "title": "The Wager",
+    "objectID": "slides/death-activities.html#reminders",
+    "href": "slides/death-activities.html#reminders",
+    "title": "Still Fearing Death",
     "section": "Reminders",
-    "text": "Reminders\n\n\nReturn paragraphs (no comments; didn’t read them; happy to talk about them with you)\nFor today, the reading was Chapter 2, “Why You Should Bet on God”\nNo new reading for Wednesday.\nYou should re-read the chapter after today’s lecture."
+    "text": "Reminders\n\nFor next time, we are discussing Chapter 5, “No Freedom”\nI am working on your exams. I will return them with comments."
   },
   {
-    "objectID": "slides/wager.html#the-happiness-argument",
-    "href": "slides/wager.html#the-happiness-argument",
-    "title": "The Wager",
-    "section": "The Happiness Argument",
-    "text": "The Happiness Argument\n\n\n\nArgument\n\n\n\nGH1. You will be happier if you believe in God than if you don’t.\nGH2. You should believe whatever will make you happier.\nGH3. So, you should believe in God.\n\n\n\n\nA pragmatic argument for belief offers a reason to believe something that is not about whether it is true or false.\n\nDefense of GH1:\n\nWe live in a religious society.\nNonbelievers are surrounded by believers who consider nonbelievers immoral and untrustworthy (polls regularly show that the majority of Americans think atheists are worse than rapists).\nOne of the primary forms of community is your church.\nThese things are liable to make you less happy."
+    "objectID": "slides/death-activities.html#against-fearing-death",
+    "href": "slides/death-activities.html#against-fearing-death",
+    "title": "Still Fearing Death",
+    "section": "Against Fearing Death",
+    "text": "Against Fearing Death\n\n\n\nArgument\n\n\n\nFD1. You cease to be conscious when you die.\nFD2. If you cease to be conscious when you die, then being dead is not bad for you.\nFD3. So, being dead is not bad for you.\nFD4. If being dead is not bad for you, then you should not fear death.\nFD5. So, you should not fear death."
   },
   {
-    "objectID": "slides/wager.html#the-argument-for-betting-on-god",
-    "href": "slides/wager.html#the-argument-for-betting-on-god",
-    "title": "The Wager",
-    "section": "The Argument for Betting on God",
-    "text": "The Argument for Betting on God\n\n\n\nArgument\n\n\n\nBG1. One should always choose the option with the greatest expected utility.\nBG2. Believing in God has a greater expected utility than not believing in God.\nBG3. So you should believe in God.\n\n\n\n\nWhat is expected utility?"
+    "objectID": "slides/death-activities.html#hedonism",
+    "href": "slides/death-activities.html#hedonism",
+    "title": "Still Fearing Death",
+    "section": "Hedonism",
+    "text": "Hedonism\n\nHD\n\nSomething is bad for you if and only if it’s painful.\n\nHD*\n\nSomething is bad for you if and only if it results in more pain than you would otherwise have had.\n\nHD**\n\nSomething is bad for you if and only if it results in more pain or less pleasure than you would otherwise have had."
   },
   {
-    "objectID": "slides/wager.html#insurance-costs",
-    "href": "slides/wager.html#insurance-costs",
-    "title": "The Wager",
-    "section": "Insurance Costs",
-    "text": "Insurance Costs\nI offer you a deal:\n\nYou pay me $200.\nIf your laptop breaks in the next year, I will pay you $100 (which you can, if you wish, use to help fix or replace it).\n\nShould you take this deal?\n\n\nWhat if the price was $100? $50? $10? $1?\ninvite the students to play around with the price and payout.\ninvite them to articulate the point that the likelihood that your laptop will break is relevant."
+    "objectID": "slides/death-activities.html#argument-from-hedonism",
+    "href": "slides/death-activities.html#argument-from-hedonism",
+    "title": "Still Fearing Death",
+    "section": "Argument from Hedonism",
+    "text": "Argument from Hedonism\n\n\n\nArgument\n\n\n\nAH1. If you cease to be conscious when you die, then being dead doesn’t result in more pain than you would otherwise have had.\nHD*. Something is bad for you if and only if it results in more pain than you would otherwise have had.\nFD2. So, if you cease to be conscious when you die, then being dead isn’t bad for you.\n\n\n\n\n\nThis argument fails if we replace HD* with HD**. Death can deprive you of future pleasures, even if it cannot cause future pains."
   },
   {
-    "objectID": "slides/wager.html#uncertain-benefits",
-    "href": "slides/wager.html#uncertain-benefits",
-    "title": "The Wager",
-    "section": "Uncertain Benefits",
-    "text": "Uncertain Benefits\n\nWhen a benefit is uncertain, the actual value of that benefit depends on how likely you are to receive it.\nWe measure likelihood by assigning probabilities:\n\na probability of 0 means it absolutely won’t happen.\na probability of .5 means it has a 50% chance of happening.\na probability of 1 means it absolutely will happen."
+    "objectID": "slides/death-activities.html#pain-and-pleasure",
+    "href": "slides/death-activities.html#pain-and-pleasure",
+    "title": "Still Fearing Death",
+    "section": "Pain and Pleasure",
+    "text": "Pain and Pleasure\n\nHedonism is a view about when something is bad for you.\nBehind HD* is the idea that anything that increases bad things (pain) is bad for you.\nBehind HD** is the idea that anything that increases bad things (pain) or decreases good things (pleasure) is bad for you.\nPart of the issue here is: are bad and good two sides of the same coin, or are they independent variables?\n\n\n\nDraw a diagram, showing one axis, from worst to best.\nDraw a second diagram, showing two independent axes, one from more to less bad, the other from less to more good."
   },
   {
-    "objectID": "slides/wager.html#expected-utility-1",
-    "href": "slides/wager.html#expected-utility-1",
-    "title": "The Wager",
-    "section": "Expected Utility",
-    "text": "Expected Utility\n\nExpected Utility is a mathematical measurement of this: multiply the value of the benefit by the probability—represented as a number between 0 and 1—of receiving it\nSuppose your laptop has a 5% chance of breaking in the next year. Then the expected utility of my payout is:\n\nExpected Utility of Sanson’s Laptop Insurance\n\n$100 \\(\\times\\) .05 = $5\n\n\nSo, if you pay $5 for my insurance, you can expect, on average, to get $5 back."
+    "objectID": "slides/death-activities.html#fd4",
+    "href": "slides/death-activities.html#fd4",
+    "title": "Still Fearing Death",
+    "section": "FD4",
+    "text": "FD4\n\n\n\nArgument\n\n\n\nFD1. You cease to be conscious when you die.\nFD2. If you cease to be conscious when you die, then being dead is not bad for you.\nFD3. So, being dead is not bad for you.\nFD4. If being dead is not bad for you, then you should not fear death.\nFD5. So, you should not fear death."
   },
   {
-    "objectID": "slides/wager.html#factors-that-matter",
-    "href": "slides/wager.html#factors-that-matter",
-    "title": "The Wager",
-    "section": "Factors that Matter",
-    "text": "Factors that Matter\nWhen you make a decision, you need to consider:\n\neach action available to you.\nfor each action, every possible outcome.\nfor each outcome, both its value to you should it occur and the likelihood of that it will occur.\n\nTo keep track of all this, we can use a decision matrix."
+    "objectID": "slides/death-activities.html#irrational-fears",
+    "href": "slides/death-activities.html#irrational-fears",
+    "title": "Still Fearing Death",
+    "section": "Irrational Fears",
+    "text": "Irrational Fears\n\nA tarantula crawls onto your hand. It’s unlikely to bite you, and even if it did, it actually wouldn’t be any more painful or harmful than an ordinary bee sting. But even knowing how harmless they are, you are still utterly terrified of the tarantula crawling onto you."
   },
   {
-    "objectID": "slides/wager.html#decision-matrix-for-laptop-insurance",
-    "href": "slides/wager.html#decision-matrix-for-laptop-insurance",
-    "title": "The Wager",
-    "section": "Decision Matrix for Laptop Insurance",
-    "text": "Decision Matrix for Laptop Insurance\nShould you pay $5 for my $100 insurance policy?\n\n\n\n\nLaptop breaks (5%)\nLaptop doesn’t break (95%)\nExpected Utility\n\n\n\n\nBuy Insurance\n+95\n-5\n?\n\n\n\nWe calculate the Expected Utility by taking the sum of the value of each outcome times its probability:\n\\[(95 \\times .05) + (-5 \\times .95)\\]"
+    "objectID": "slides/death-activities.html#writing",
+    "href": "slides/death-activities.html#writing",
+    "title": "Still Fearing Death",
+    "section": "Writing",
+    "text": "Writing\n\n\n\nArgument\n\n\n\nFD1. You cease to be conscious when you die.\nFD2. If you cease to be conscious when you die, then being dead is not bad for you.\nFD3. So, being dead is not bad for you.\nFD4. If being dead is not bad for you, then you should not fear death.\nFD5. So, you should not fear death.\n\n\n\n\nPrompt: Imagine that it is true that you cease to be conscious when you die. That is, grant, for the sake of argument, that FD1 is true. I want you, for the moment, to think about the consequences of that. Do you agree, with the rest of the argument, that if FD1 is true, it follows that you should not fear death? Specifically, do you agree that, when it comes to what you should fear, the only things you should fear are future pains, not the lost of future pleasures? Try to come up with an example that does not involve death, that can help us tease apart these two things: future pain and loss of future pleasure. And reflect on what you think we should say about examples like that."
   },
   {
-    "objectID": "slides/wager.html#decision-matrix-for-laptop-insurance-1",
-    "href": "slides/wager.html#decision-matrix-for-laptop-insurance-1",
-    "title": "The Wager",
-    "section": "Decision Matrix for Laptop Insurance",
-    "text": "Decision Matrix for Laptop Insurance\nInstead of holding onto the $5, you could invest in GameStop…\n\n\n\n\nLaptop breaks and GameStop crashes (2%)\nLaptop breaks and GameStop holds steady (2%)\nLaptop breaks and GameStop goes to the moon (1%)\nLaptop doesn’t break and GameStop crashes (38%)\nLaptop doesn’t break and GameStop holds steady (38%)\nLaptop doesn’t break and GameStop goes to the moon (19%)\nExpected Utility\n\n\n\n\nBuy Insurance\n?\n?\n?\n?\n?\n?\n?\n\n\nHold your cash\n?\n?\n?\n?\n?\n?\n?\n\n\nInvest in GameStop\n?\n?\n?\n?\n?\n?\n?\n\n\n\n\nNeed more columns:\n\nLaptop breaks and GameStop crashes\nLaptop breaks and GameStop goes to the moon\nLaptop doesn’t break and Gamestop crashes\nLaptop doesn’t break and GameStop goes to the moon\n\nProbability of combined independent outcomes is the product of probability of each."
+    "objectID": "slides/death-activities.html#fd1",
+    "href": "slides/death-activities.html#fd1",
+    "title": "Still Fearing Death",
+    "section": "FD1",
+    "text": "FD1\n\n\n\nArgument\n\n\n\nFD1. You cease to be conscious when you die.\nFD2. If you cease to be conscious when you die, then being dead is not bad for you.\nFD3. So, being dead is not bad for you.\nFD4. If being dead is not bad for you, then you should not fear death.\nFD5. So, you should not fear death."
   },
   {
-    "objectID": "slides/wager.html#the-argument-for-betting-on-god-1",
-    "href": "slides/wager.html#the-argument-for-betting-on-god-1",
-    "title": "The Wager",
-    "section": "The Argument for Betting on God",
-    "text": "The Argument for Betting on God\n\n\n\nArgument\n\n\n\nBG1. One should always choose the option with the greatest expected utility.\nBG2. Believing in God has a greater expected utility than not believing in God.\nBG3. So you should believe in God.\n\n\n\n\nWhy believe (BG2)?"
+    "objectID": "slides/death-activities.html#against-post-mortem-consciousness",
+    "href": "slides/death-activities.html#against-post-mortem-consciousness",
+    "title": "Still Fearing Death",
+    "section": "Against Post-Mortem Consciousness",
+    "text": "Against Post-Mortem Consciousness\nRight where you are, there is a living, breathing, flesh-and-blood human animal. For simplicity, I’ll refer to it as ‘Animal’.\n\n\n\nArgument\n\n\n\nPC1. If Animal ceases to be conscious when you die and you are Animal, then you cease to be conscious when you die.\nPC2. Animal ceases to be conscious when you die.\nPC3. You are Animal.\nFD1. So, you cease to be conscious when you die.\n\n\n\n\n\nNote how ‘you are animal’ relates to ‘you are your body’ and ‘you are your mind’ from last chapter."
   },
   {
-    "objectID": "slides/wager.html#decision-matrix-for-believing-in-god",
-    "href": "slides/wager.html#decision-matrix-for-believing-in-god",
-    "title": "The Wager",
-    "section": "Decision Matrix for Believing in God",
-    "text": "Decision Matrix for Believing in God\n\n\n\n\nGod (?%)\nNo God (?%)\nExpected Utility\n\n\n\n\nBelieve\n?\n?\n?\n\n\nDon’t\n?\n?\n?\n\n\n\n\n\nStart by setting probabilities at 50%.\nStart by setting the payouts at all finite values.\nChange the probabilities to lower probability that God exists. Note that, if it gets low enough, believe in God loses.\nChange payout for believing in God to infinity."
+    "objectID": "slides/death-activities.html#too-many-thinkers",
+    "href": "slides/death-activities.html#too-many-thinkers",
+    "title": "Still Fearing Death",
+    "section": "Too Many Thinkers",
+    "text": "Too Many Thinkers\n\n\n\nArgument\n\n\n\nTT1. Animal is in your chair and is thinking.\nTT2. You are the only thing in your chair that is thinking.\nPC3. So you are Animal."
   },
   {
-    "objectID": "slides/wager.html#objections-discussed-in-the-chapter",
-    "href": "slides/wager.html#objections-discussed-in-the-chapter",
-    "title": "The Wager",
-    "section": "Objections Discussed in the Chapter",
-    "text": "Objections Discussed in the Chapter\n\nDoes an infinite good even make sense?\nHow do we know the probabilities?\nMaybe believing in God isn’t enough?\nDo we know that the value of salvation is infinite?\nBelief in which God?\nBelief isn’t voluntary."
+    "objectID": "slides/death-activities.html#writing-1",
+    "href": "slides/death-activities.html#writing-1",
+    "title": "Still Fearing Death",
+    "section": "Writing",
+    "text": "Writing\n\n\n\nArgument\n\n\n\nTT1. Animal is in your chair and is thinking.\nTT2. You are the only thing in your chair that is thinking.\nPC3. So you are Animal.\n\n\n\n\nPrompt: What is the best objection to this argument? In thinking about this, remember the issues raised in the previous chapter. If you are Animal, what does that imply about body swap and fission cases? How does the “same animal” view compare to the “same body”, “same soul”, and “psychological descendent” views? Do those views also face a “too many thinkers” problem?"
   },
   {
-    "objectID": "slides/wager.html#does-an-infinite-good-even-make-sense",
-    "href": "slides/wager.html#does-an-infinite-good-even-make-sense",
-    "title": "The Wager",
-    "section": "Does an infinite good even make sense?",
-    "text": "Does an infinite good even make sense?\nYes, it does. Access to unlimited donuts is better than access to a finite number of donuts."
-  },
-  {
-    "objectID": "slides/wager.html#how-do-we-know-the-probabilities",
-    "href": "slides/wager.html#how-do-we-know-the-probabilities",
-    "title": "The Wager",
-    "section": "How do we know the probabilities?",
-    "text": "How do we know the probabilities?\n\nThe probabilities don’t matter!\nAs long as the probability that God exists is some finite positive number, no matter how small, the expected utility of believing in God will be infinite."
-  },
-  {
-    "objectID": "slides/wager.html#maybe-believing-in-god-isnt-enough",
-    "href": "slides/wager.html#maybe-believing-in-god-isnt-enough",
-    "title": "The Wager",
-    "section": "Maybe believing in God isn’t enough?",
-    "text": "Maybe believing in God isn’t enough?\n\n\n\n\nGod (?%)\nNo God (?%)\nExpected Utility\n\n\n\n\nBelieve and Be Good\n\\(\\infty\\)\n?\n?\n\n\nBelieve and Be Bad\n?\n?\n?\n\n\nDon’t Believe and Be Good\n?\n?\n?\n\n\nDon’t Believe and Be Bad\n?\n?\n?"
-  },
-  {
-    "objectID": "slides/wager.html#do-we-know-that-the-value-of-salvation-is-infinite",
-    "href": "slides/wager.html#do-we-know-that-the-value-of-salvation-is-infinite",
-    "title": "The Wager",
-    "section": "Do we know that the value of salvation is infinite?",
-    "text": "Do we know that the value of salvation is infinite?\n\n\n\n\nGenerous God(?%)\nStingy God(?%)\nNo God (?%)\nExpected Utility\n\n\n\n\nBelieve\n\\(\\infty\\)\n?\n?\n?\n\n\nDon’t Believe\n?\n?\n?\n?"
-  },
-  {
-    "objectID": "slides/wager.html#belief-in-which-god",
-    "href": "slides/wager.html#belief-in-which-god",
-    "title": "The Wager",
-    "section": "Belief in which God?",
-    "text": "Belief in which God?\n\n\n\n\nChristian God(?%)\nYahweh (but not Jesus)(?%)\nZeus(?%)\nNo God (?%)\nExpected Utility\n\n\n\n\nBelieve in Christian God\n\\(\\infty\\)\n?\n?\n?\n?\n\n\nBelieve in Yahweh\n?\n\\(\\infty\\)\n?\n?\n?\n\n\nBelieve in Zeus\n?\n?\n\\(\\infty\\)\n?\n?\n\n\nDon’t Believe\n?\n?\n?\n?\n?\n\n\n\nThis yields a three-way tie. Still, the matrix shows that it is better to believe that some God exists than not."
-  },
-  {
-    "objectID": "slides/wager.html#belief-isnt-voluntary",
-    "href": "slides/wager.html#belief-isnt-voluntary",
-    "title": "The Wager",
-    "section": "Belief isn’t Voluntary",
-    "text": "Belief isn’t Voluntary\nI will give you $10 if you believe that there is a sheep in the room, standing next to me.\n\nAssume I can read your mind, so I know whether or not you really believe it.\nCan you collect the $10?"
-  },
-  {
-    "objectID": "slides/wager.html#the-argument-for-trying-to-believe",
-    "href": "slides/wager.html#the-argument-for-trying-to-believe",
-    "title": "The Wager",
-    "section": "The Argument for Trying to Believe",
-    "text": "The Argument for Trying to Believe\n\n\n\nArgument\n\n\n\nTB1. One should always choose the option with the greatest expected utility.\nTB2. Making an effort to believe in God has greater expected utility than not making an effort to believe in God.\nTB3. So, one should make an effort to believe in God."
-  },
-  {
-    "objectID": "slides/wager.html#decision-matrix-for-trying-to-believe",
-    "href": "slides/wager.html#decision-matrix-for-trying-to-believe",
-    "title": "The Wager",
-    "section": "Decision Matrix for Trying to Believe",
-    "text": "Decision Matrix for Trying to Believe\n\n\n\n\nGod exists?\nGod doesn’t exist?\nExpected Utility\n\n\n\n\nTry to Believe\n?\n?\n?\n\n\nDon’t Try to Believe\n?\n?\n?\n\n\n\nBut this doesn’t work. The outcome depends on whether or not you succeed at believing."
-  },
-  {
-    "objectID": "slides/wager.html#decision-matrix-for-trying-to-believe-1",
-    "href": "slides/wager.html#decision-matrix-for-trying-to-believe-1",
-    "title": "The Wager",
-    "section": "Decision Matrix for Trying to Believe",
-    "text": "Decision Matrix for Trying to Believe\n\n\n\n\nGod + belief?\nGod + no belief?\nno God + belief?\nno God + no belief?\nExpected Utility\n\n\n\n\nTry to Believe\n?\n?\n?\n?\n?\n\n\nDon’t Try\n?\n?\n?\n?\n?\n\n\n\n‘God’ is short for ‘God exists’; ‘no God’ for ‘God does not exist’. ‘belief’ is short for ‘you end up believing God exists’; ‘no belief’ is short for ‘you end up not believing that God exists’.\nNotice that there is a non-zero probability that you end up believing in God even if you don’t try. That is interesting."
-  },
-  {
-    "objectID": "schedule.html",
-    "href": "schedule.html",
-    "title": "Schedule",
-    "section": "",
-    "text": "Week\nDate\nTopic\nReading\nSlides\n\n\n\n\n 1\nM 8/17\nWelcome!\n\n\n\n\nW 8/19\nArguments and Thought Experiments\nIntroduction\n\n\n\n 2\nM 8/24\n The Problem of Evil\n Can God Allow Suffering?\nSlides\n\n\nW 8/26\nSlides\n\n\n 3\nM 8/31\n Pascal’s Wager\n Why You Should Bet on God\nSlides\n\n\nW 9/2\nSlides\n\n\n 4\nM 9/7\nLabor Day — No Class\n\n\n\n\nW 9/9\n Personal Identity\n What Makes You You\nSlides\n\n\n 5\nM 9/14\nSlides\n\n\nW 9/16\nMidterm 1\n\n\n\n\n 6\nM 9/21\n Death\n Don’t Fear the Reaper\nSlides\n\n\nW 9/23\nSlides\n\n\n 7\nM 9/28\n Free Will\n No Freedom\n\n\n\nW 9/30\n\n\n\n 8\nM 10/5\n Skepticism\n You Know Nothing\n\n\n\nW 10/7\n\n\n\n 9\nM 10/12\n Political Authority\n Against Prisons and Taxes\n\n\n\nW 10/14\n\n\n\n 10\nM 10/19\nTBD\n\n\n\n\nW 10/21\nMidterm 2\n\n\n\n\n 11\nM 10/26\n Abortion\n The Ethics of Abortion\n\n\n\nW 10/28\n\n\n\n 12\nM 11/2\n Eating Animals\n Eating Animals is Immoral\n\n\n\nW 11/4\n\n\n\n 13\nM 11/9\n Utilitarianism\n What Makes Things Right\n\n\n\nW 11/11\n\n\n\n 14\nM 11/16\nTBD by class\n\n\n\n\nW 11/18\nTBD by class\n\n\n\n\n  \nM 11/23\n Thanksgiving Break — No Class\n  \n  \n\n\nW 11/25\n\n\n 15\nM 11/30\nTBD by class\n\n\n\n\nW 12/2\nTBD by class\n\n\n\n\n Final\nM 12/7 – 12/12\nDate and time of final exam TBD by registrar"
-  },
-  {
-    "objectID": "403.html",
-    "href": "403.html",
-    "title": "Access Forbidden!",
-    "section": "",
-    "text": "This is, but is not for you. Not all being is for browsing."
-  },
-  {
-    "objectID": "403.html#error",
-    "href": "403.html#error",
-    "title": "Access Forbidden!",
-    "section": "",
-    "text": "This is, but is not for you. Not all being is for browsing."
+    "objectID": "slides/death-activities.html#from-the-book",
+    "href": "slides/death-activities.html#from-the-book",
+    "title": "Still Fearing Death",
+    "section": "From the Book",
+    "text": "From the Book\n\nCan you think of counterexamples to the hedonist principle HD*? Do your counterexamples support HD**?\nDoes HD* imply that being born into this world was bad for you? If so, can it be modified to avoid this implication?\nAre you convinced by the argument that you are Animal? How does such a view fare when it comes to body swap and fission cases?\nIs it rational to fear something because it’s bad for others? Should we fear death because (and only because) of how our deaths will affect other people?"
   },
   {
     "objectID": "slides/wager-activities.html#reminders",
@@ -803,230 +1195,6 @@
     "title": "The Wager: Review and Activities",
     "section": "Sharing",
     "text": "Sharing\n\n\nSwap papers with someone. Read each other’s papers, then discuss."
-  },
-  {
-    "objectID": "slides/personal_identity-activities.html#reminders",
-    "href": "slides/personal_identity-activities.html#reminders",
-    "title": "Personal Identity: Assessing the Options",
-    "section": "Reminders",
-    "text": "Reminders\n\nFor today, we are still discussing Chapter 3, “What Makes You You?”\nNext time, Wednesday, Sep 16th, is our first midterm.\nClosed book, closed notes, no devices\nBring a bluebook and a pen or pencil"
-  },
-  {
-    "objectID": "slides/personal_identity-activities.html#how-to-prepare-for-the-midterm",
-    "href": "slides/personal_identity-activities.html#how-to-prepare-for-the-midterm",
-    "title": "Personal Identity: Assessing the Options",
-    "section": "How to Prepare for the Midterm",
-    "text": "How to Prepare for the Midterm\n\nReview the slides and your notes (you have been taking notes?)\nReview the readings\nI expect you to know the main arguments we have discussed:\n\nnot just “be vaguely aware of them”\nbe able to actually re-present them, premise by premise."
-  },
-  {
-    "objectID": "slides/personal_identity-activities.html#physical-accounts",
-    "href": "slides/personal_identity-activities.html#physical-accounts",
-    "title": "Personal Identity: Assessing the Options",
-    "section": "Physical Accounts",
-    "text": "Physical Accounts\n\nThe Fingerprints Account\n\n\\(A\\) at time \\(t\\) is the same person as \\(B\\) at time \\(t^*\\) if and only if \\(A\\) and \\(B\\) have indistinguishable fingerprints.\n\nThe DNA Account\n\n\\(A\\) at \\(t\\) is the same person as \\(B\\) at \\(t^*\\) if and only if \\(A\\) and \\(B\\) have indistinguishable DNA.\n\nThe Same Body Account\n\n\\(A\\) at \\(t\\) is the same person as \\(B\\) at \\(t^*\\) if and only if \\(A\\) has the same body as \\(B\\)."
-  },
-  {
-    "objectID": "slides/personal_identity-activities.html#psychological-accounts",
-    "href": "slides/personal_identity-activities.html#psychological-accounts",
-    "title": "Personal Identity: Assessing the Options",
-    "section": "Psychological Accounts",
-    "text": "Psychological Accounts\n\nThe Psychological Matching Account\n\nA$ at \\(t\\) is the same person as \\(B\\) at \\(t^*\\) if and only if \\(A\\)’s psychological features are exactly the same as \\(B\\)’s psychological features.\n\nThe Psychological Overlap Account\n\n\\(A\\) at \\(t\\) is the same person as \\(B\\) at \\(t^*\\) if and only if \\(A\\)’s psychological features are mostly the same as \\(B\\)’s psychological features.\n\nThe Psychological Descendant Account\n\n\\(A\\) at \\(t\\) is the same person as \\(B\\) at \\(t^*\\) if and only if \\(A\\) is either a psychological ancestor or a psychological descendant of \\(B\\)."
-  },
-  {
-    "objectID": "slides/personal_identity-activities.html#objections-to-same-body-account",
-    "href": "slides/personal_identity-activities.html#objections-to-same-body-account",
-    "title": "Personal Identity: Assessing the Options",
-    "section": "Objections to Same Body Account",
-    "text": "Objections to Same Body Account"
-  },
-  {
-    "objectID": "slides/personal_identity-activities.html#the-conjoined-twins-argument",
-    "href": "slides/personal_identity-activities.html#the-conjoined-twins-argument",
-    "title": "Personal Identity: Assessing the Options",
-    "section": "The Conjoined Twins Argument",
-    "text": "The Conjoined Twins Argument\n\n\n\nArgument\n\n\n\nCT1. If the Same Body Account is true, then either Abby and Brittany have different bodies or Abby and Brittany are the same person.\nCT2. Abby and Brittany have the same body.\nCT3. Abby and Brittany are not the same person.\nCT4. So, the Same Body Account is false.\n\n\n\n\n\ndefense of CT2: there is no way to divide their shared body into two bodies that respects the fact that, e.g., they both have a liver."
-  },
-  {
-    "objectID": "slides/personal_identity-activities.html#defense-of-ct3-not-same-person",
-    "href": "slides/personal_identity-activities.html#defense-of-ct3-not-same-person",
-    "title": "Personal Identity: Assessing the Options",
-    "section": "Defense of CT3: not same person",
-    "text": "Defense of CT3: not same person\n\n\n\nCONJOINED DRAMA\n\n\nAbby is dating Arie. Brittany is secretly in love with Arie and has always been jealous of their relationship. One night, while Abby is sleeping, Brittany confesses her feelings to Arie, and Arie kisses her. Later, when Abby finds out, she strangles Brittany.\n\n\n\n\n\n\nArgument\n\n\n\nIf Abby and Brittany are one person, then no cheating occurred, and Abby didn’t kill anyone, she just removed one of her two heads.\nCheating did occur, and Abby did kill someone.\nSo Abby and Brittany are not one person, but two."
-  },
-  {
-    "objectID": "slides/personal_identity-activities.html#the-body-swap-argument",
-    "href": "slides/personal_identity-activities.html#the-body-swap-argument",
-    "title": "Personal Identity: Assessing the Options",
-    "section": "The Body Swap Argument",
-    "text": "The Body Swap Argument\n\n\n\nFreaky Friday\n\n\nOn Friday morning, something happens. The person in Anna’s body looks in the mirror in disbelief. “Why,” she thinks to herself, “am I in my teenage daughter’s body?” Meanwhile, the person in Tess’s body looks in the mirror in horror. “Why,” she thinks to herself, “am I in my mom’s middle-aged body?”\n\n\n\n\nThe person who looks in the mirror and asks, “Why am I in my teenage daughter’s body?” is the Mom, Tess, not the daughter, Anna.\nSo, the person in the teenage body before is Anna, the person in the teenage body after is Tess.\nSo the Same Body Account is false."
-  },
-  {
-    "objectID": "slides/personal_identity-activities.html#the-body-swap-argument-and-pda",
-    "href": "slides/personal_identity-activities.html#the-body-swap-argument-and-pda",
-    "title": "Personal Identity: Assessing the Options",
-    "section": "The Body Swap Argument and PDA",
-    "text": "The Body Swap Argument and PDA\nFREAKY FRIDAY is just one example among many. Can you think of other cases in which a person switches bodies?\n\n\nstar trek"
-  },
-  {
-    "objectID": "slides/personal_identity-activities.html#an-argument-for-pda",
-    "href": "slides/personal_identity-activities.html#an-argument-for-pda",
-    "title": "Personal Identity: Assessing the Options",
-    "section": "An Argument for PDA",
-    "text": "An Argument for PDA\n\n\n\nArgument\n\n\n\nPD1. The Psychological Descendant Account fits best with our intuitions about cases.\nPD2. We should accept the theory that fits best with our intuitions about cases.\nPD3. So, we should accept the PDA."
-  },
-  {
-    "objectID": "slides/personal_identity-activities.html#souls",
-    "href": "slides/personal_identity-activities.html#souls",
-    "title": "Personal Identity: Assessing the Options",
-    "section": "Souls?",
-    "text": "Souls?\n\nThe Same Soul Account\n\n\\(A\\) at \\(t\\) is the same person as \\(B\\) at \\(t^*\\) if and only if \\(A\\) has the same soul as \\(B\\).\n\n\nQuestion: What does the Soul Account say about FREAKY FRIDAY?"
-  },
-  {
-    "objectID": "slides/personal_identity-activities.html#what-is-a-soul",
-    "href": "slides/personal_identity-activities.html#what-is-a-soul",
-    "title": "Personal Identity: Assessing the Options",
-    "section": "What is a Soul?",
-    "text": "What is a Soul?\nA soul is an immaterial part of you—traditionally, the part responsible for your ability to think, and the part responsible for your ability to survive death.\nThe belief in souls is called Dualism—there are two fundamentally different kinds of substance in the world: material and immaterial.\nMaterialists reject Dualism, holding there are only material substances, and so there are no souls."
-  },
-  {
-    "objectID": "slides/personal_identity-activities.html#souls-and-persons",
-    "href": "slides/personal_identity-activities.html#souls-and-persons",
-    "title": "Personal Identity: Assessing the Options",
-    "section": "Souls and Persons",
-    "text": "Souls and Persons\n\n\n\nBlank Slate Reincarnation\n\n\nThe gods run a soul-cleaning shop. It works kind of like a laundry mat. When you die, your soul is sent to the shop, where it waits is turn to go through a soul-cleaning machine. This machine washes the soul clean of all lingering psychological remnants of its previous incarnation. Once clean, the soul is sent back into the world, where it enters the body of a newborn.\n\n\n\nYou share a part with the newborn. But are you the same person as the newborn?"
-  },
-  {
-    "objectID": "slides/personal_identity-activities.html#bodies-souls-and-pda",
-    "href": "slides/personal_identity-activities.html#bodies-souls-and-pda",
-    "title": "Personal Identity: Assessing the Options",
-    "section": "Bodies, Souls, and PDA",
-    "text": "Bodies, Souls, and PDA\nSo, to reiterate:\n\n\n\nArgument\n\n\n\nIP1. The Psychological Descendant Account fits best with our intuitions about cases.\nIP2. We should accept the theory that fits best with our intuitions about cases.\nIP3. So, we should accept the PDA."
-  },
-  {
-    "objectID": "slides/personal_identity-activities.html#objections-to-the-psychological-descendant-account",
-    "href": "slides/personal_identity-activities.html#objections-to-the-psychological-descendant-account",
-    "title": "Personal Identity: Assessing the Options",
-    "section": "Objections to the Psychological Descendant Account",
-    "text": "Objections to the Psychological Descendant Account"
-  },
-  {
-    "objectID": "slides/personal_identity-activities.html#amnesia",
-    "href": "slides/personal_identity-activities.html#amnesia",
-    "title": "Personal Identity: Assessing the Options",
-    "section": "Amnesia",
-    "text": "Amnesia\n\n\n\nTOTAL AMNESIA\n\n\nJiwoo is stranded on a deserted island. Adding injury to insult, a coconut fell on Jiwoo’s head at noon today, instantly resulting in total amnesia. She can’t remember how she got on the island or anything else about her past. She can’t even remember her own name.\n\n\n\nWhat does the PDA say about this case? Do you agree?"
-  },
-  {
-    "objectID": "slides/personal_identity-activities.html#blackout",
-    "href": "slides/personal_identity-activities.html#blackout",
-    "title": "Personal Identity: Assessing the Options",
-    "section": "Blackout",
-    "text": "Blackout\n\n\n\nTOTAL BLACKOUT\n\n\nMinjun is stranded on a deserted island. Adding injury to insult, a coconut fell on Minjun’s head at noon today, temporarily knocking him unconscious. While unconscious, he is not dreaming, nor does he have any thoughts or experiences or any physical sensations whatsoever. He is completely blacked out. When he finally awakens hours later, it will feel as if no time has passed.\n\n\n\nWhat does the PDA say about this case? Do you agree?"
-  },
-  {
-    "objectID": "slides/personal_identity-activities.html#fission",
-    "href": "slides/personal_identity-activities.html#fission",
-    "title": "Personal Identity: Assessing the Options",
-    "section": "Fission",
-    "text": "Fission\n\n\n\nDOUBLE TROUBLE\n\n\nRachel uploads JoJo’s neural states to Chad’s brain, and also accidentally uploads them to Alex’s brain as well. As a result, both the person with Chad’s original body and the person with Alex’s original body wake up and say ‘My name is JoJo’. Both can tell you all about JoJo’s past; neither can tell you anything about Chad or Alex’s past. She also obliterates JoJo’s original body.\n\n\n\nWhat does the Same Body Account say about this case? What does the Soul Account say? What does the PDA account say?\n\nDraw a diagram. Label the people before the rewiring as ‘JoJo’, ‘Chad’, and ‘Alex’. Then label the people after as ‘A’ and ‘B’."
-  },
-  {
-    "objectID": "slides/personal_identity-activities.html#identity-death-and-survival",
-    "href": "slides/personal_identity-activities.html#identity-death-and-survival",
-    "title": "Personal Identity: Assessing the Options",
-    "section": "Identity, Death, and Survival",
-    "text": "Identity, Death, and Survival\nSuppose Jojo agreed to be part of Rachel’s experiment because she had terminal cancer. And suppose Rachel uploaded Jojo’s states to both Chad’s brain and Alex’s brain because the procedure only works half the time, and she wanted to increase Jojo’s chances of survival.\nDoes this seem right to you?\n\nIf Jojo’s states are successfully uploaded to Chad’s brain (but not Alex’s) Jojo survives.\nIf Jojo’s states are successfully uploaded to Alex’s brain (but not Chads’s) Jojo survives.\nIf Jojo’s states are successfully uploaded to both Alex and Chad’s brain, Jojo does not survive."
-  },
-  {
-    "objectID": "slides/death-activities.html#reminders",
-    "href": "slides/death-activities.html#reminders",
-    "title": "Still Fearing Death",
-    "section": "Reminders",
-    "text": "Reminders\n\nFor next time, we are discussing Chapter 5, “No Freedom”\nI am working on your exams. I will return them with comments."
-  },
-  {
-    "objectID": "slides/death-activities.html#against-fearing-death",
-    "href": "slides/death-activities.html#against-fearing-death",
-    "title": "Still Fearing Death",
-    "section": "Against Fearing Death",
-    "text": "Against Fearing Death\n\n\n\nArgument\n\n\n\nFD1. You cease to be conscious when you die.\nFD2. If you cease to be conscious when you die, then being dead is not bad for you.\nFD3. So, being dead is not bad for you.\nFD4. If being dead is not bad for you, then you should not fear death.\nFD5. So, you should not fear death."
-  },
-  {
-    "objectID": "slides/death-activities.html#hedonism",
-    "href": "slides/death-activities.html#hedonism",
-    "title": "Still Fearing Death",
-    "section": "Hedonism",
-    "text": "Hedonism\n\nHD\n\nSomething is bad for you if and only if it’s painful.\n\nHD*\n\nSomething is bad for you if and only if it results in more pain than you would otherwise have had.\n\nHD**\n\nSomething is bad for you if and only if it results in more pain or less pleasure than you would otherwise have had."
-  },
-  {
-    "objectID": "slides/death-activities.html#argument-from-hedonism",
-    "href": "slides/death-activities.html#argument-from-hedonism",
-    "title": "Still Fearing Death",
-    "section": "Argument from Hedonism",
-    "text": "Argument from Hedonism\n\n\n\nArgument\n\n\n\nAH1. If you cease to be conscious when you die, then being dead doesn’t result in more pain than you would otherwise have had.\nHD*. Something is bad for you if and only if it results in more pain than you would otherwise have had.\nFD2. So, if you cease to be conscious when you die, then being dead isn’t bad for you.\n\n\n\n\n\nThis argument fails if we replace HD* with HD**. Death can deprive you of future pleasures, even if it cannot cause future pains."
-  },
-  {
-    "objectID": "slides/death-activities.html#pain-and-pleasure",
-    "href": "slides/death-activities.html#pain-and-pleasure",
-    "title": "Still Fearing Death",
-    "section": "Pain and Pleasure",
-    "text": "Pain and Pleasure\n\nHedonism is a view about when something is bad for you.\nBehind HD* is the idea that anything that increases bad things (pain) is bad for you.\nBehind HD** is the idea that anything that increases bad things (pain) or decreases good things (pleasure) is bad for you.\nPart of the issue here is: are bad and good two sides of the same coin, or are they independent variables?\n\n\n\nDraw a diagram, showing one axis, from worst to best.\nDraw a second diagram, showing two independent axes, one from more to less bad, the other from less to more good."
-  },
-  {
-    "objectID": "slides/death-activities.html#fd4",
-    "href": "slides/death-activities.html#fd4",
-    "title": "Still Fearing Death",
-    "section": "FD4",
-    "text": "FD4\n\n\n\nArgument\n\n\n\nFD1. You cease to be conscious when you die.\nFD2. If you cease to be conscious when you die, then being dead is not bad for you.\nFD3. So, being dead is not bad for you.\nFD4. If being dead is not bad for you, then you should not fear death.\nFD5. So, you should not fear death."
-  },
-  {
-    "objectID": "slides/death-activities.html#irrational-fears",
-    "href": "slides/death-activities.html#irrational-fears",
-    "title": "Still Fearing Death",
-    "section": "Irrational Fears",
-    "text": "Irrational Fears\n\nA tarantula crawls onto your hand. It’s unlikely to bite you, and even if it did, it actually wouldn’t be any more painful or harmful than an ordinary bee sting. But even knowing how harmless they are, you are still utterly terrified of the tarantula crawling onto you."
-  },
-  {
-    "objectID": "slides/death-activities.html#writing",
-    "href": "slides/death-activities.html#writing",
-    "title": "Still Fearing Death",
-    "section": "Writing",
-    "text": "Writing\n\n\n\nArgument\n\n\n\nFD1. You cease to be conscious when you die.\nFD2. If you cease to be conscious when you die, then being dead is not bad for you.\nFD3. So, being dead is not bad for you.\nFD4. If being dead is not bad for you, then you should not fear death.\nFD5. So, you should not fear death.\n\n\n\n\nPrompt: Imagine that it is true that you cease to be conscious when you die. That is, grant, for the sake of argument, that FD1 is true. I want you, for the moment, to think about the consequences of that. Do you agree, with the rest of the argument, that if FD1 is true, it follows that you should not fear death? Specifically, do you agree that, when it comes to what you should fear, the only things you should fear are future pains, not the lost of future pleasures? Try to come up with an example that does not involve death, that can help us tease apart these two things: future pain and loss of future pleasure. And reflect on what you think we should say about examples like that."
-  },
-  {
-    "objectID": "slides/death-activities.html#fd1",
-    "href": "slides/death-activities.html#fd1",
-    "title": "Still Fearing Death",
-    "section": "FD1",
-    "text": "FD1\n\n\n\nArgument\n\n\n\nFD1. You cease to be conscious when you die.\nFD2. If you cease to be conscious when you die, then being dead is not bad for you.\nFD3. So, being dead is not bad for you.\nFD4. If being dead is not bad for you, then you should not fear death.\nFD5. So, you should not fear death."
-  },
-  {
-    "objectID": "slides/death-activities.html#against-post-mortem-consciousness",
-    "href": "slides/death-activities.html#against-post-mortem-consciousness",
-    "title": "Still Fearing Death",
-    "section": "Against Post-Mortem Consciousness",
-    "text": "Against Post-Mortem Consciousness\nRight where you are, there is a living, breathing, flesh-and-blood human animal. For simplicity, I’ll refer to it as ‘Animal’.\n\n\n\nArgument\n\n\n\nPC1. If Animal ceases to be conscious when you die and you are Animal, then you cease to be conscious when you die.\nPC2. Animal ceases to be conscious when you die.\nPC3. You are Animal.\nFD1. So, you cease to be conscious when you die.\n\n\n\n\n\nNote how ‘you are animal’ relates to ‘you are your body’ and ‘you are your mind’ from last chapter."
-  },
-  {
-    "objectID": "slides/death-activities.html#too-many-thinkers",
-    "href": "slides/death-activities.html#too-many-thinkers",
-    "title": "Still Fearing Death",
-    "section": "Too Many Thinkers",
-    "text": "Too Many Thinkers\n\n\n\nArgument\n\n\n\nTT1. Animal is in your chair and is thinking.\nTT2. You are the only thing in your chair that is thinking.\nPC3. So you are Animal."
-  },
-  {
-    "objectID": "slides/death-activities.html#writing-1",
-    "href": "slides/death-activities.html#writing-1",
-    "title": "Still Fearing Death",
-    "section": "Writing",
-    "text": "Writing\n\n\n\nArgument\n\n\n\nTT1. Animal is in your chair and is thinking.\nTT2. You are the only thing in your chair that is thinking.\nPC3. So you are Animal.\n\n\n\n\nPrompt: What is the best objection to this argument? In thinking about this, remember the issues raised in the previous chapter. If you are Animal, what does that imply about body swap and fission cases? How does the “same animal” view compare to the “same body”, “same soul”, and “psychological descendent” views? Do those views also face a “too many thinkers” problem?"
-  },
-  {
-    "objectID": "slides/death-activities.html#from-the-book",
-    "href": "slides/death-activities.html#from-the-book",
-    "title": "Still Fearing Death",
-    "section": "From the Book",
-    "text": "From the Book\n\nCan you think of counterexamples to the hedonist principle HD*? Do your counterexamples support HD**?\nDoes HD* imply that being born into this world was bad for you? If so, can it be modified to avoid this implication?\nAre you convinced by the argument that you are Animal? How does such a view fare when it comes to body swap and fission cases?\nIs it rational to fear something because it’s bad for others? Should we fear death because (and only because) of how our deaths will affect other people?"
   },
   {
     "objectID": "slides/evil-activities.html#reminders",
@@ -1174,5 +1342,19 @@
     "title": "Basic Issues in Philosophy",
     "section": "",
     "text": "This is the course website for:\n\nPHI 101-003 [Honors]\n\nMW 3:35PM – 4:50PM, Stevenson Hall 0229.\n\n\nI will not be using Canvas. To keep on top of readings and assignments, you need to check the schedule, come to class, and pay attention to in-class announcements. If you are worried about your grade, you can either calculate it for yourself or come to my office hours and ask me.\n\n    \n    \n  \n\n\n\n\n\n\nJoseph Badger, “Portrait of Two Children”, ca. 1760"
+  },
+  {
+    "objectID": "403.html",
+    "href": "403.html",
+    "title": "Access Forbidden!",
+    "section": "",
+    "text": "This is, but is not for you. Not all being is for browsing."
+  },
+  {
+    "objectID": "403.html#error",
+    "href": "403.html#error",
+    "title": "Access Forbidden!",
+    "section": "",
+    "text": "This is, but is not for you. Not all being is for browsing."
   }
 ]
