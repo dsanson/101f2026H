@@ -65,8 +65,10 @@ title: Schedule
   - M 9/28
   - []{rowspan=2} Free Will
   - []{rowspan=2} [No Freedom](https://www.davidsanson.com/learning-from-arguments-remix/no-freedom.html)
+  - [Slides](slides/freedom.md)
 
 - - W 9/30
+  - [Slides](slides/freedom-2.md)
 
 - - []{rowspan=2} 8
   - M 10/5
