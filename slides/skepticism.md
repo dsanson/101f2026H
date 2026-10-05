@@ -92,42 +92,6 @@ I converted these letter grades into 25 point scores using the following scale:
 
 I appreciated those who answered these. Especially those of you who answered 10---the invitation to share your own thoughts! Pretty much everyone who said anything here got 5 points.
 
-## Statistics
-
--  Highest: 101
--  Lowest: 41
--  Average: 71.33
--  Median: 72
-
-:::notes
-That is a low median. There were a lot of lost points on short answer questions. The essay grading scale is slightly skewed because of whole numbers: a C is 18/25 = 72%, instead of 75%.
-:::
-
----
-
--   Above 90: 4
--   Between 80 and 90: 3
--   Between 70 and 80: 9
--   Between 60 and 79: 4
--   Between 50 and 60: 4
--   Between 40 and 50: 3
-
-## Adjustment
-
-As a minimal "curve", I will, when calculating course grades, add 5 points to your score. This will shift the median up to 77 and the average to 76.33.
-
----
-
--   Above 90: 5
--   Between 80 and 90: 6
--   Between 70 and 80: 8
--   Between 60 and 79: 3
--   Between 50 and 60: 4
--   Between 40 and 50: 1
-
-
-
-
 # Knowledge of the Future
 
 ## Reflection Questions {.smaller}
