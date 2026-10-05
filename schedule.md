@@ -74,6 +74,7 @@ title: Schedule
   - M 10/5
   - []{rowspan=2} Skepticism
   - []{rowspan=2} [You Know Nothing](https://www.davidsanson.com/learning-from-arguments-remix/skepticism.html)
+  - [Slides](slides/skepticism.md)
 
 - - W 10/7
 
