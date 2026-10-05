@@ -784,6 +784,104 @@
     "text": "The Same Soul Account\n\n\\(A\\) at \\(t\\) is the same person as \\(B\\) at \\(t^*\\) if and only if\n\n\\(A\\) has the same soul as \\(B\\).\n\n\nTwo interpretations:\n\nYou are your soul.\n\nbut then, soul-talk is just person-talk, and this account is uninformative.\n\nYour soul is not you, but an immaterial part of you.\n\nbut then, how can we ever know whether or not \\(A\\) at \\(t\\) and \\(A\\) at \\(t^*\\) have the same soul?\n\n\n\n\nsuggest soul swap cases where psych continuity doesn’t follow the soul.\nlead them to the view that the soul is what accounts for psych continuity."
   },
   {
+    "objectID": "slides/skepticism.html#reminders",
+    "href": "slides/skepticism.html#reminders",
+    "title": "You Know Nothing",
+    "section": "Reminders",
+    "text": "Reminders\n\nWe are discussing “You know nothing”.\nI want to divide things up differently this week:\n\nToday: you cannot know about the future\nWednesday: you cannot know about the present\n\nWill return exams at end of class."
+  },
+  {
+    "objectID": "slides/skepticism.html#short-answer",
+    "href": "slides/skepticism.html#short-answer",
+    "title": "You Know Nothing",
+    "section": "Short Answer",
+    "text": "Short Answer\n5 questions \\(\\times\\) 5 points each.\nSome common errors:\n\ngiving all three omnis when asked to define just one: 1/5\ngiving two out of three (including the correct one): 3/5\nomniscience is the science of everything: 0/5"
+  },
+  {
+    "objectID": "slides/skepticism.html#essays",
+    "href": "slides/skepticism.html#essays",
+    "title": "You Know Nothing",
+    "section": "Essays",
+    "text": "Essays\nI graded essays using letter grades. Here is my rough intuitive scale:\n\n\n\nGrade\nAssessment\n\n\n\n\nA\nNice clean clear answer.\n\n\nB\nMuddled. Some serious mistakes. But not completely confused\n\n\nC\nShows some knowledge of topic, but very confused.\n\n\nD\nBarely on topic.\n\n\nF/0\nNo answer. Or completely off topic."
+  },
+  {
+    "objectID": "slides/skepticism.html#bonus-questions",
+    "href": "slides/skepticism.html#bonus-questions",
+    "title": "You Know Nothing",
+    "section": "Bonus Questions",
+    "text": "Bonus Questions\nI appreciated those who answered these. Especially those of you who answered 10—the invitation to share your own thoughts! Pretty much everyone who said anything here got 5 points."
+  },
+  {
+    "objectID": "slides/skepticism.html#reflection-questions",
+    "href": "slides/skepticism.html#reflection-questions",
+    "title": "You Know Nothing",
+    "section": "Reflection Questions",
+    "text": "Reflection Questions\n\nThe argument that FLP is unjustified turns on the claim that induction and direct observation are the only ways of knowing about the world. Is that true? When a detective solves a crime unlike any crime she’s ever seen before, is she using resources other than induction and direct observation? If so, how might that help with resisting the argument?\nI say that the argument that you do not know that the sun will rise in the west tonight extends to all of your beliefs about the future. Is that true? Can it be used to undermine the belief that 1+1 will still be equal to 2 tomorrow? If not, why not?\nCan you think of a way of modifying some of the arguments from this chapter to produce an argument that we can’t know anything about the past? (Or anything about the present not around here?)\nI argued that no one knows anything about the world. Are my arguments self-defeating? Can they also be used to show that I don’t know that no one knows anything about the world? If so, is that a problem? If not, why not?"
+  },
+  {
+    "objectID": "slides/skepticism.html#direct-observation",
+    "href": "slides/skepticism.html#direct-observation",
+    "title": "You Know Nothing",
+    "section": "Direct Observation",
+    "text": "Direct Observation\nUsing your sense organs to obtain information that is immediately available to you about your surrounding environment.\n\nWhat are some things you know by DO? Some things you know, but not by DO?"
+  },
+  {
+    "objectID": "slides/skepticism.html#induction",
+    "href": "slides/skepticism.html#induction",
+    "title": "You Know Nothing",
+    "section": "Induction",
+    "text": "Induction\nInduction is when you reason from a regularity in what you have directly observed to a conclusion about things that you have not directly observed."
+  },
+  {
+    "objectID": "slides/skepticism.html#induction-1",
+    "href": "slides/skepticism.html#induction-1",
+    "title": "You Know Nothing",
+    "section": "Induction",
+    "text": "Induction\n\n\n\nArgument\n\n\n\nIn the past, the sun has always set in the west (direct observation)\nSo, the sun will set in the west tonight. (not directly observed)\n\n\n\n\n\nIs this a good inference? Can we improve it by appeal to astronomy?"
+  },
+  {
+    "objectID": "slides/skepticism.html#flp",
+    "href": "slides/skepticism.html#flp",
+    "title": "You Know Nothing",
+    "section": "FLP",
+    "text": "FLP\n\nFuture Like Past (FLP)\n\nFuture states of the world will be like past states of the world.\n\n\nIf you didn’t believe something like FLP, then you wouldn’t think that facts about your past observations gave you any evidence for claims about the future.\n\nInduction—at least, future-oriented induction—seems to presuppose FLP."
+  },
+  {
+    "objectID": "slides/skepticism.html#against-knowing-the-future",
+    "href": "slides/skepticism.html#against-knowing-the-future",
+    "title": "You Know Nothing",
+    "section": "Against Knowing the Future",
+    "text": "Against Knowing the Future\n\n\n\nArgument\n\n\n\nKF1. If you are not justified in believing that FLP is true, then your belief that the sun will set in the west tomorrow is unjustified.\nKF2. You are not justified in believing that FLP is true.\nKF3. So, your belief that the sun will set in the west tomorrow is unjustified.\nKF4. If your belief that the sun will set in the west tomorrow is unjustified, then you don’t know that the sun will set in the west tomorrow.\nKF5. So, you don’t know that the sun will set in the west tomorrow.\n\n\n\n\n\nThis generalizes to any belief about the future. All of your beliefs about how things will be in the future are unjustified. You don’t know what’s going to happen one year from now, one hour from now, or even one second from now."
+  },
+  {
+    "objectID": "slides/skepticism.html#knowledge-and-justification",
+    "href": "slides/skepticism.html#knowledge-and-justification",
+    "title": "You Know Nothing",
+    "section": "Knowledge and Justification",
+    "text": "Knowledge and Justification\n\n\n\nArgument\n\n\n\nKF4. If your belief that the sun will set in the west tomorrow is unjustified, then you don’t know that the sun will set in the west tomorrow.\n\n\n\n\nWhat is the difference between a belief that happens to be true and knowledge?\n\n\nlucky guesses: urn examples.\ndo you believe that there are snakes in Hawaii?\nconfidently bad at math example"
+  },
+  {
+    "objectID": "slides/skepticism.html#kf1-and-flp",
+    "href": "slides/skepticism.html#kf1-and-flp",
+    "title": "You Know Nothing",
+    "section": "KF1 and FLP",
+    "text": "KF1 and FLP\n\n\n\nThe Faulty Foundation Argument\n\n\n\nFF1. Your belief that the sun will set in the west tomorrow is based on FLP.\nFF2. If a belief is based on something that you aren’t justified in believing, then that belief itself is unjustified.\nKF1. So, if you are not justified in believing that FLP is true, then your belief that the sun will set in the west tomorrow is unjustified.\n\n\n\n\n\nif they get hung up on ways that the future won’t resemble the past:\n\n\nFuture Like Past in Expected Ways (FLP*)\n\nFuture states of the world will be like past states of the world except in respects in which we can expect them to differ.\n\n\n\nIf they are wondering about FF2, give them power pose:\n\n\n\nPOWER POSE\n\n\nJared is getting ready for a job interview, and thinks it will help his chances if he spends five minutes “power posing” in front of the mirror. When his fiancée Ashley asks him why he thinks that will help, Jared tells her that scientists have shown that power posing releases performance-enhancing hormones into your bloodstream. Skeptical, Ashley does some Googling and informs Jared that the power-posing study has been completely discredited and is now widely regarded as “pseudo-science.”"
+  },
+  {
+    "objectID": "slides/skepticism.html#kf2-and-trouble-for-flp",
+    "href": "slides/skepticism.html#kf2-and-trouble-for-flp",
+    "title": "You Know Nothing",
+    "section": "KF2 and trouble for FLP",
+    "text": "KF2 and trouble for FLP\n\n\n\nFLP is Unjustified\n\n\n\nUJ1. If your belief in FLP is justified, then it is either justified by direct observation or by inductive reasoning.\nUJ2. Your belief in FLP isn’t justified by direct observation.\nUJ3. Your belief in FLP isn’t justified by inductive reasoning.\nKF2. So, your belief in FLP is unjustified.\n\n\n\n\n\nThe key here is UJ3.\nUJ1: There are other sources of knowledge—introspection, mathematical proof. But these won’t get you knowledge of the external world.\nUJ2: You cannot directly observe the future.\nRefection question:\n\nThe argument turns on the claim that induction and direct observation are the only ways of knowing about the world. Is that true? When a detective solves a crime unlike any crime she’s ever seen before, is she using resources other than induction and direct observation? If so, how might that help with resisting the argument?"
+  },
+  {
+    "objectID": "slides/skepticism.html#the-anti-circularity-argument-for-uj3",
+    "href": "slides/skepticism.html#the-anti-circularity-argument-for-uj3",
+    "title": "You Know Nothing",
+    "section": "The Anti-Circularity Argument for UJ3",
+    "text": "The Anti-Circularity Argument for UJ3\n\n\n\nArgument\n\n\n\nAC1. All inductive reasoning about the future assumes the truth of FLP.\nAC2. If all inductive reasoning about the future assumes the truth of FLP, then any inductive reasoning about FLP is circular.\nAC3. No belief can be justified by circular reasoning.\nUJ3. So, FLP isn’t justified by inductive reasoning.\n\n\n\n\n\nAC2: Circularity: when the conclusion also appears as a premise.\nAC3: Using the Magic 8-Ball to check whether the Magic 8-Ball can be trusted. Asking ChatGPT if what it just said is actually true."
+  },
+  {
     "objectID": "slides/evil.html#reminders",
     "href": "slides/evil.html#reminders",
     "title": "The Problem of Evil",
