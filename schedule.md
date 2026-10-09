@@ -77,6 +77,7 @@ title: Schedule
   - [Slides](slides/skepticism.md)
 
 - - W 10/7
+  - [Slides](slides/skepticism-dreams.md)
 
 - - []{rowspan=2} 9
   - M 10/12
