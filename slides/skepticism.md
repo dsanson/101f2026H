@@ -2,7 +2,7 @@
 title: "You Know Nothing"
 date: 2026-10-05
 # title-slide-attributes:
-#   data-background-image: media/fork-in-path.jpg
+#   data-background-image: media/odd_you_know_nothing_jon_snow.png
 #   data-background-size: cover
 #   data-background-opacity: "0.9"
 include-in-header:

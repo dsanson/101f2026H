@@ -83,6 +83,7 @@ title: Schedule
   - M 10/12
   - []{rowspan=2} Political Authority
   - []{rowspan=2} [Against Prisons and Taxes](https://www.davidsanson.com/learning-from-arguments-remix/coercion.html)
+  - [Slides](slides/coercion.md)
 
 - - W 10/14
 
