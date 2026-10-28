@@ -98,6 +98,7 @@ title: Schedule
   - M 10/26
   - []{rowspan=2} Abortion
   - []{rowspan=2} [The Ethics of Abortion](https://www.davidsanson.com/learning-from-arguments-remix/abortion.html)
+  - [Slides](slides/abortion.md)
 
 - - W 10/28
 
