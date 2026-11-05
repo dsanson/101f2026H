@@ -106,6 +106,7 @@ title: Schedule
   - M 11/2
   - []{rowspan=2} Eating Animals 
   - []{rowspan=2} [Eating Animals is Immoral](https://www.davidsanson.com/learning-from-arguments-remix/eating-animals.html)
+  - [Slides](slides/meat.md)
 
 - - W 11/4
 
