@@ -385,823 +385,102 @@
     "text": "Decision Matrix for Trying to Believe\n\n\n\n\nGod + belief?\nGod + no belief?\nno God + belief?\nno God + no belief?\nExpected Utility\n\n\n\n\nTry to Believe\n?\n?\n?\n?\n?\n\n\nDon’t Try\n?\n?\n?\n?\n?\n\n\n\n‘God’ is short for ‘God exists’; ‘no God’ for ‘God does not exist’. ‘belief’ is short for ‘you end up believing God exists’; ‘no belief’ is short for ‘you end up not believing that God exists’.\nNotice that there is a non-zero probability that you end up believing in God even if you don’t try. That is interesting."
   },
   {
-    "objectID": "slides/death.html#reminders",
-    "href": "slides/death.html#reminders",
-    "title": "Fearing Death",
+    "objectID": "slides/skepticism.html#reminders",
+    "href": "slides/skepticism.html#reminders",
+    "title": "You Know Nothing",
     "section": "Reminders",
-    "text": "Reminders\n\nFor today and next time, we are discussing Chapter 4, “Don’t Fear the Reaper”\nI am working on your exams. I will return them with comments."
+    "text": "Reminders\n\nWe are discussing “You know nothing”.\nI want to divide things up differently this week:\n\nToday: you cannot know about the future\nWednesday: you cannot know about the present\n\nWill return exams at end of class."
   },
   {
-    "objectID": "slides/death.html#against-fearing-death",
-    "href": "slides/death.html#against-fearing-death",
-    "title": "Fearing Death",
-    "section": "Against Fearing Death",
-    "text": "Against Fearing Death\n\n\n\nArgument\n\n\n\nFD1. You cease to be conscious when you die.\nFD2. If you cease to be conscious when you die, then being dead is not bad for you.\nFD3. So, being dead is not bad for you.\nFD4. If being dead is not bad for you, then you should not fear death.\nFD5. So, you should not fear death.\n\n\n\n\n(We’ve talked about this one before!)\n\nGive them a chance to provide objections. Locate each objection."
+    "objectID": "slides/skepticism.html#short-answer",
+    "href": "slides/skepticism.html#short-answer",
+    "title": "You Know Nothing",
+    "section": "Short Answer",
+    "text": "Short Answer\n5 questions \\(\\times\\) 5 points each.\nSome common errors:\n\ngiving all three omnis when asked to define just one: 1/5\ngiving two out of three (including the correct one): 3/5\nomniscience is the science of everything: 0/5"
   },
   {
-    "objectID": "slides/death.html#fd2",
-    "href": "slides/death.html#fd2",
-    "title": "Fearing Death",
-    "section": "FD2",
-    "text": "FD2\n\n\n\nArgument\n\n\n\nFD1. You cease to be conscious when you die.\nFD2. If you cease to be conscious when you die, then being dead is not bad for you.\nFD3. So, being dead is not bad for you.\nFD4. If being dead is not bad for you, then you should not fear death.\nFD5. So, you should not fear death."
+    "objectID": "slides/skepticism.html#essays",
+    "href": "slides/skepticism.html#essays",
+    "title": "You Know Nothing",
+    "section": "Essays",
+    "text": "Essays\nI graded essays using letter grades. Here is my rough intuitive scale:\n\n\n\nGrade\nAssessment\n\n\n\n\nA\nNice clean clear answer.\n\n\nB\nMuddled. Some serious mistakes. But not completely confused\n\n\nC\nShows some knowledge of topic, but very confused.\n\n\nD\nBarely on topic.\n\n\nF/0\nNo answer. Or completely off topic."
   },
   {
-    "objectID": "slides/death.html#hedonism",
-    "href": "slides/death.html#hedonism",
-    "title": "Fearing Death",
-    "section": "Hedonism",
-    "text": "Hedonism\n\nHD\n\nSomething is bad for you if and only if it’s painful.\n\n\n\n‘Painful’ should be understood in a broad sense, to include psychological and emotional pain, in addition to physical pain and discomfort.\n\nCounterexamples?\n\n\neating a whole large pizza in one sitting is bad for you.\ndeep tissue massage is painful, but not bad for you."
+    "objectID": "slides/skepticism.html#bonus-questions",
+    "href": "slides/skepticism.html#bonus-questions",
+    "title": "You Know Nothing",
+    "section": "Bonus Questions",
+    "text": "Bonus Questions\nI appreciated those who answered these. Especially those of you who answered 10—the invitation to share your own thoughts! Pretty much everyone who said anything here got 5 points."
   },
   {
-    "objectID": "slides/death.html#hedonism-1",
-    "href": "slides/death.html#hedonism-1",
-    "title": "Fearing Death",
-    "section": "Hedonism*",
-    "text": "Hedonism*\n\nHD*\n\nSomething is bad for you if and only if it results in more pain than you would otherwise have had.\n\n\nCounterexamples?"
-  },
-  {
-    "objectID": "slides/death.html#argument-from-hedonism",
-    "href": "slides/death.html#argument-from-hedonism",
-    "title": "Fearing Death",
-    "section": "Argument from Hedonism",
-    "text": "Argument from Hedonism\n\n\n\nArgument\n\n\n\nAH1. If you cease to be conscious when you die, then being dead doesn’t result in more pain than you would otherwise have had.\nHD*. Something is bad for you if and only if it results in more pain than you would otherwise have had.\nFD2. So, if you cease to be conscious when you die, then being dead isn’t bad for you.\n\n\n\n\nObjections?\n\nexpect objections to focus on HD*."
-  },
-  {
-    "objectID": "slides/death.html#objections-to-hd-from-the-book",
-    "href": "slides/death.html#objections-to-hd-from-the-book",
-    "title": "Fearing Death",
-    "section": "Objections to HD* from the Book",
-    "text": "Objections to HD* from the Book\n\nCongenital analgesia\n\nA condition which involves the inability to experience physical pain.\n\n\n\n\n\nArgument\n\n\n\nCA1. Someone who suffers from congenital analgesia cannot feel any pain.\nCA2. So, if HD* is true, nothing can ever be bad for such a person.\nCA3. But things can be bad for such a person.\nCA4. So, HD* is false.\n\n\n\n\nObjections?\n\nreply from the book: ‘pain’ includes psychological and emotional pain, and those suffering from congential analgesia can still suffer these kinds of pain."
-  },
-  {
-    "objectID": "slides/death.html#hedonism-2",
-    "href": "slides/death.html#hedonism-2",
-    "title": "Fearing Death",
-    "section": "Hedonism**",
-    "text": "Hedonism**\n\nHD**\n\nSomething is bad for you if and only if it results in more pain or less pleasure than you would otherwise have had.\n\n\nThis would undermine the Argument from Hedonism: death can deprive you of future pleasure, even if it cannot cause future pain."
-  },
-  {
-    "objectID": "slides/death.html#fd1",
-    "href": "slides/death.html#fd1",
-    "title": "Fearing Death",
-    "section": "FD1",
-    "text": "FD1\n\n\n\nArgument\n\n\n\nFD1. You cease to be conscious when you die.\nFD2. If you cease to be conscious when you die, then being dead is not bad for you.\nFD3. So, being dead is not bad for you.\nFD4. If being dead is not bad for you, then you should not fear death.\nFD5. So, you should not fear death."
-  },
-  {
-    "objectID": "slides/death.html#you-and-animal",
-    "href": "slides/death.html#you-and-animal",
-    "title": "Fearing Death",
-    "section": "You and Animal",
-    "text": "You and Animal\nRight where you are, there is a living, breathing, flesh-and-blood human animal. For simplicity, I’ll refer to it as ‘Animal’."
-  },
-  {
-    "objectID": "slides/death.html#against-post-mortem-consciousness",
-    "href": "slides/death.html#against-post-mortem-consciousness",
-    "title": "Fearing Death",
-    "section": "Against Post-Mortem Consciousness",
-    "text": "Against Post-Mortem Consciousness\n\n\n\nArgument\n\n\n\nPC1. If Animal ceases to be conscious when you die and you are Animal, then you cease to be conscious when you die.\nPC2. Animal ceases to be conscious when you die.\nPC3. You are Animal.\nFD1. So, you cease to be conscious when you die.\n\n\n\n\nObjections?\n\nNote how ‘you are animal’ relates to ‘you are your body’ and ‘you are your mind’ from last chapter."
-  },
-  {
-    "objectID": "slides/death.html#too-many-thinkers",
-    "href": "slides/death.html#too-many-thinkers",
-    "title": "Fearing Death",
-    "section": "Too Many Thinkers",
-    "text": "Too Many Thinkers\n\n\n\nArgument\n\n\n\nTT1. Animal is in your chair and is thinking.\nTT2. You are the only thing in your chair that is thinking.\nPC3. So you are Animal.\n\n\n\n\nObjections?\n\nobjections to TT1: maybe it is your soul, not animal, that thinks? Appeal to squirrels.\nobjections to TT2: maybe animal is thinking animal thoughts: food, etc; and you are thinking abstract thoughts. But you share a brain…"
-  },
-  {
-    "objectID": "slides/death.html#fd4",
-    "href": "slides/death.html#fd4",
-    "title": "Fearing Death",
-    "section": "FD4",
-    "text": "FD4\n\n\n\nArgument\n\n\n\nFD1. You cease to be conscious when you die.\nFD2. If you cease to be conscious when you die, then being dead is not bad for you.\nFD3. So, being dead is not bad for you.\nFD4. If being dead is not bad for you, then you should not fear death.\nFD5. So, you should not fear death."
-  },
-  {
-    "objectID": "slides/death.html#irrational-fears",
-    "href": "slides/death.html#irrational-fears",
-    "title": "Fearing Death",
-    "section": "Irrational Fears",
-    "text": "Irrational Fears\n\nA tarantula crawls onto your hand. It’s unlikely to bite you, and even if it did, it actually wouldn’t be any more painful or harmful than an ordinary bee sting. But even knowing how harmless they are, you are still utterly terrified of the tarantula crawling onto you."
-  },
-  {
-    "objectID": "slides/death.html#against-fearing-death-1",
-    "href": "slides/death.html#against-fearing-death-1",
-    "title": "Fearing Death",
-    "section": "Against Fearing Death",
-    "text": "Against Fearing Death\n\n\n\nArgument\n\n\n\nFD1. You cease to be conscious when you die.\nFD2. If you cease to be conscious when you die, then being dead is not bad for you.\nFD3. So, being dead is not bad for you.\nFD4. If being dead is not bad for you, then you should not fear death.\nFD5. So, you should not fear death.\n\n\n\n\n\nWhich premise(s), if any, are you still inclined to reject?\nAre you confident that you can reject that premise, in light of the further arguments raised?"
-  },
-  {
-    "objectID": "slides/death.html#reflection-questions",
-    "href": "slides/death.html#reflection-questions",
-    "title": "Fearing Death",
+    "objectID": "slides/skepticism.html#reflection-questions",
+    "href": "slides/skepticism.html#reflection-questions",
+    "title": "You Know Nothing",
     "section": "Reflection Questions",
-    "text": "Reflection Questions\n\nCan you think of counterexamples to the hedonist principle HD*? Do your counterexamples support HD**?\nDoes HD* imply that being born into this world was bad for you? If so, can it be modified to avoid this implication?\nAre you convinced by the argument that you are Animal? How does such a view fare when it comes to body swap and fission cases?\nIs it rational to fear something because it’s bad for others? Should we fear death because (and only because) of how our deaths will affect other people?"
+    "text": "Reflection Questions\n\nThe argument that FLP is unjustified turns on the claim that induction and direct observation are the only ways of knowing about the world. Is that true? When a detective solves a crime unlike any crime she’s ever seen before, is she using resources other than induction and direct observation? If so, how might that help with resisting the argument?\nI say that the argument that you do not know that the sun will rise in the west tonight extends to all of your beliefs about the future. Is that true? Can it be used to undermine the belief that 1+1 will still be equal to 2 tomorrow? If not, why not?\nCan you think of a way of modifying some of the arguments from this chapter to produce an argument that we can’t know anything about the past? (Or anything about the present not around here?)\nI argued that no one knows anything about the world. Are my arguments self-defeating? Can they also be used to show that I don’t know that no one knows anything about the world? If so, is that a problem? If not, why not?"
   },
   {
-    "objectID": "slides/freedom.html#reminders",
-    "href": "slides/freedom.html#reminders",
-    "title": "Free Will",
-    "section": "Reminders",
-    "text": "Reminders\n\nFor today and next time, we are discussing Chapter 5, “No Freedom”\nI am working on your exams. I will return them with comments."
+    "objectID": "slides/skepticism.html#direct-observation",
+    "href": "slides/skepticism.html#direct-observation",
+    "title": "You Know Nothing",
+    "section": "Direct Observation",
+    "text": "Direct Observation\nUsing your sense organs to obtain information that is immediately available to you about your surrounding environment.\n\nWhat are some things you know by DO? Some things you know, but not by DO?"
   },
   {
-    "objectID": "slides/freedom.html#the-argument-for-freedom",
-    "href": "slides/freedom.html#the-argument-for-freedom",
-    "title": "Free Will",
-    "section": "The Argument for Freedom",
-    "text": "The Argument for Freedom\n\n\n\nArgument\n\n\n\nFR1. Sometimes you perform an action after deciding to perform that action.\nFR2. If one performs an action after deciding to perform it, then one performs that action freely.\nFR3. So some of your actions are performed freely."
+    "objectID": "slides/skepticism.html#induction",
+    "href": "slides/skepticism.html#induction",
+    "title": "You Know Nothing",
+    "section": "Induction",
+    "text": "Induction\nInduction is when you reason from a regularity in what you have directly observed to a conclusion about things that you have not directly observed."
   },
   {
-    "objectID": "slides/freedom.html#evaluating-fr2",
-    "href": "slides/freedom.html#evaluating-fr2",
-    "title": "Free Will",
-    "section": "Evaluating FR2",
-    "text": "Evaluating FR2\n\n\n\nArgument\n\n\n\nFR2. If one performs an action after deciding to perform it, then one\n\n\n\n\n\n\n\nHYPNOTIC ACTION\n\n\nTia is on the run from the law and knows the cops are hot on her trail. She is also a master hypnotist. As she passes Jordan on the street, she hypnotizes him and plants an irresistible post-hypnotic suggestion: whenever he hears someone shout Freeze! he will fall into a hypnotic trance and tackle the person who said it. Just then, Kabir the cop arrives on the scene, sees Tia, shouts Freeze!, and Jordan tackles him."
+    "objectID": "slides/skepticism.html#induction-1",
+    "href": "slides/skepticism.html#induction-1",
+    "title": "You Know Nothing",
+    "section": "Induction",
+    "text": "Induction\n\n\n\nArgument\n\n\n\nIn the past, the sun has always set in the west (direct observation)\nSo, the sun will set in the west tonight. (not directly observed)\n\n\n\n\n\nIs this a good inference? Can we improve it by appeal to astronomy?"
   },
   {
-    "objectID": "slides/freedom.html#evaluating-fr2-1",
-    "href": "slides/freedom.html#evaluating-fr2-1",
-    "title": "Free Will",
-    "section": "Evaluating FR2",
-    "text": "Evaluating FR2\n\n\n\nArgument\n\n\n\nFR2. If one performs an action after deciding to perform it, then one\n\n\n\n\n\n\n\nHYPNOTIC DECISION\n\n\nTia is on the run from the law and knows the cops are hot on her trail. She is also a master hypnotist. As she passes Colton on the street, she hypnotizes him and plants an irresistible post-hypnotic suggestion: whenever he hears someone shout Freeze! he will grow very angry with the person, decide to tackle them, and then tackle them. Just then, Kabir the cop arrives on the scene, sees Tia, and shouts Freeze! As a result of the hypnotic suggestion, Colton gets angry at Kabir, consciously decides to tackle him, and then tackles him."
+    "objectID": "slides/skepticism.html#flp",
+    "href": "slides/skepticism.html#flp",
+    "title": "You Know Nothing",
+    "section": "FLP",
+    "text": "FLP\n\nFuture Like Past (FLP)\n\nFuture states of the world will be like past states of the world.\n\n\nIf you didn’t believe something like FLP, then you wouldn’t think that facts about your past observations gave you any evidence for claims about the future.\n\nInduction—at least, future-oriented induction—seems to presuppose FLP."
   },
   {
-    "objectID": "slides/freedom.html#the-desire-argument",
-    "href": "slides/freedom.html#the-desire-argument",
-    "title": "Free Will",
-    "section": "The Desire Argument",
-    "text": "The Desire Argument\n\n\n\nArgument\n\n\n\nDS1. What you choose to do is always determined by your desires.\nDS2. What desires you have is not something that is in your control.\nDS3. So, what you choose to do is always determined by something you can’t control.\nDS4. If what you choose to do is always determined by something you can’t control, then you never act freely.\nDS5. So, you never act freely.\n\n\n\n\n\nD4 is motivated by HYPNOTIC DECISION."
-  },
-  {
-    "objectID": "slides/freedom.html#against-ds1",
-    "href": "slides/freedom.html#against-ds1",
-    "title": "Free Will",
-    "section": "Against DS1",
-    "text": "Against DS1\nSuppose your alarm goes off early in the morning, waking you up for your 8am class. Your bed is so cozy; your hangover, so vicious. There is no part of you that wants to get out of bed. And yet, somehow, you drag yourself out of bed and get to class.\n\n\n\nThe Argument from Undesired Action\n\n\n\nUA1. Your desire to stay in bed was stronger than your desire to get out of bed.\nUA2. If your desire to stay in bed was stronger than your desire to get out of bed, then what you choose to do is not always determined by your desires.\nUA3. So, what you choose to do is not always determined by your desires.\n\n\n\n\n\nUA2 is false. There are other desires in play here."
-  },
-  {
-    "objectID": "slides/freedom.html#against-d2",
-    "href": "slides/freedom.html#against-d2",
-    "title": "Free Will",
-    "section": "Against D2",
-    "text": "Against D2\n\n\n\nArgument\n\n\n\nDS2. You can’t control your desires.\n\n\n\n\nEven if I didn’t choose my desires, I can take steps to change them. So I have indirect control over them."
-  },
-  {
-    "objectID": "slides/freedom.html#determinism",
-    "href": "slides/freedom.html#determinism",
-    "title": "Free Will",
-    "section": "Determinism",
-    "text": "Determinism\n\nDeterminism\n\nEverything that’s happening now and that will happen in the future was already guaranteed to happen by things that happened in the distant past."
-  },
-  {
-    "objectID": "slides/freedom.html#the-argument-from-determinism",
-    "href": "slides/freedom.html#the-argument-from-determinism",
-    "title": "Free Will",
-    "section": "The Argument from Determinism",
-    "text": "The Argument from Determinism\n\n\n\nArgument\n\n\n\nDT1. Determinism is true.\nDT2. If determinism is true, then you are never able to do otherwise.\nDT3. If you are never able to do otherwise, then none of your actions are free.\nDT4. So, none of your actions are free.\n\n\n\n\n\nWhy DT1? Physics. Why DT2? Consequence Argument."
-  },
-  {
-    "objectID": "slides/freedom.html#dt1-and-the-doomed-regardless-argument",
-    "href": "slides/freedom.html#dt1-and-the-doomed-regardless-argument",
-    "title": "Free Will",
-    "section": "DT1 and the Doomed Regardless Argument",
-    "text": "DT1 and the Doomed Regardless Argument\n\n\n\nArgument\n\n\n\nDM1. If an action is determined to happen, then you couldn’t have done otherwise.\nDM2. If you couldn’t have done otherwise, then the action is not free.\nDM3. So, if an action is determined to happen, then it is not free.\nDM4. If an action happens randomly, then it is not free.\nDM5. Every action you perform is either determined to happen or happens randomly.\nDM6. So, none of your actions are free."
-  },
-  {
-    "objectID": "slides/freedom.html#dt2-and-the-consequence-argument",
-    "href": "slides/freedom.html#dt2-and-the-consequence-argument",
-    "title": "Free Will",
-    "section": "DT2 and the Consequence Argument",
-    "text": "DT2 and the Consequence Argument\n\n\n\nArgument\n\n\n\nCQ1. If determinism is true, then what you do is always a consequence of the laws of nature and the distant past.\nCQ2. You have no control over the laws of nature or the distant past\nCQ3. So, if determinism is true, then what you do is always a consequence of things over which you have no control.\nCQ4. If what you do is always a consequence of things over which you have no control, then you are never able to do otherwise\nDT2. So, if determinism is true, you are never able to do otherwise."
-  },
-  {
-    "objectID": "slides/freedom.html#against-dt3-hypnotic-backup",
-    "href": "slides/freedom.html#against-dt3-hypnotic-backup",
-    "title": "Free Will",
-    "section": "Against DT3: HYPNOTIC BACKUP",
-    "text": "Against DT3: HYPNOTIC BACKUP\n\n\n\nArgument\n\n\n\nDT3. If you are never able to do otherwise, then none of your actions are free.\n\n\n\n\n\n\n\nExample\n\n\nTia the master hypnotist is on the run from the law and hires Clay to tackle any cop who turns up. Concerned that Clay might betray her, Tia gives Clay an irresistible post-hypnotic suggestion to tackle any cop he sees, but which will kick in only if she triggers it by shouting Abracadabra! When Kabir the cop arrives on the scene, Tia keeps a watchful eye on Clay to see if he’s going to back out. But Clay comes through: he decides to tackle Kabir all on his own, without Tia having to trigger the post-hypnotic suggestion that would have forced him to tackle Kabir."
-  },
-  {
-    "objectID": "slides/freedom.html#the-argument-from-determined-decision",
-    "href": "slides/freedom.html#the-argument-from-determined-decision",
-    "title": "Free Will",
-    "section": "The Argument from Determined Decision",
-    "text": "The Argument from Determined Decision\n\n\n\nArgument\n\n\n\nDT1. Determinism is true.\nDT2*. If determinism is true, then you are never able to decide to do otherwise.\nDT3*. If you are never able to decide to do otherwise, then none of your actions are free.\nDT4. So, none of your actions are free."
-  },
-  {
-    "objectID": "slides/freedom.html#reflection-questions",
-    "href": "slides/freedom.html#reflection-questions",
-    "title": "Free Will",
-    "section": "Reflection Questions",
-    "text": "Reflection Questions\n\nPremise DS1 of the Desire Argument says that what you choose to do is always determined by your desires. But isn’t what you choose to do also at least partly determined by your beliefs? For instance, whether your desire for Taco Bell causes you to go to Taco Bell depends in part on whether you believe that Taco Bell is open for business. Can this observation about the influence of beliefs be used to challenge to Desire Argument?\nCan the Argument from Undesired Actions be defended against the objections raised? Are there better examples of undesired actions, which escape the objections?\nPremise DM5 of the Doomed Regardless Argument says that every action is either determined to happen or random. Is there really no middle ground?\nCan the HYPNOTIC BACKUP case cannot be revised to serve as a counterexample to DT3* of the Argument from Determined Decisions?"
-  },
-  {
-    "objectID": "slides/skepticism-dreams.html#reminders",
-    "href": "slides/skepticism-dreams.html#reminders",
-    "title": "You Know Nothing: Dreaming",
-    "section": "Reminders",
-    "text": "Reminders\n\nWe are discussing the second part of “You know nothing”.\nI divided things up differently this week:\n\nMonday: you cannot know about the future\nWednesday: you cannot know about the present\n\nI returned exams on Monday. You can pick yours up at the end of class."
-  },
-  {
-    "objectID": "slides/skepticism-dreams.html#induction-and-flp",
-    "href": "slides/skepticism-dreams.html#induction-and-flp",
-    "title": "You Know Nothing: Dreaming",
-    "section": "Induction and FLP",
-    "text": "Induction and FLP\n\n\n\nArgument\n\n\n\nIn the past, the sun has always set in the west.\nSo, the sun will set in the west tonight.\n\n\n\n\n\nFuture Like Past (FLP)\n\nFuture states of the world will be like past states of the world.\n\n\nWithout FLP, (1) would not be evidence for (2)."
-  },
-  {
-    "objectID": "slides/skepticism-dreams.html#against-knowing-the-future",
-    "href": "slides/skepticism-dreams.html#against-knowing-the-future",
-    "title": "You Know Nothing: Dreaming",
+    "objectID": "slides/skepticism.html#against-knowing-the-future",
+    "href": "slides/skepticism.html#against-knowing-the-future",
+    "title": "You Know Nothing",
     "section": "Against Knowing the Future",
-    "text": "Against Knowing the Future\n\n\n\nArgument\n\n\n\nKF1. If you are not justified in believing that FLP is true, then your belief that the sun will set in the west tomorrow is unjustified.\nKF2. You are not justified in believing that FLP is true.\nKF3. So, your belief that the sun will set in the west tomorrow is unjustified.\nKF4. If your belief that the sun will set in the west tomorrow is unjustified, then you don’t know that the sun will set in the west tomorrow.\nKF5. So, you don’t know that the sun will set in the west tomorrow.\n\n\n\n\n\nKF4: Knowledge requires justification. You are justified in believing something when you have a good reason to believe it.\nKF1: Your belief that the sun will set in the west tomorrow is based on FLP."
+    "text": "Against Knowing the Future\n\n\n\nArgument\n\n\n\nKF1. If you are not justified in believing that FLP is true, then your belief that the sun will set in the west tomorrow is unjustified.\nKF2. You are not justified in believing that FLP is true.\nKF3. So, your belief that the sun will set in the west tomorrow is unjustified.\nKF4. If your belief that the sun will set in the west tomorrow is unjustified, then you don’t know that the sun will set in the west tomorrow.\nKF5. So, you don’t know that the sun will set in the west tomorrow.\n\n\n\n\n\nThis generalizes to any belief about the future. All of your beliefs about how things will be in the future are unjustified. You don’t know what’s going to happen one year from now, one hour from now, or even one second from now."
   },
   {
-    "objectID": "slides/skepticism-dreams.html#kf2-your-belief-in-flp-is-unjustified",
-    "href": "slides/skepticism-dreams.html#kf2-your-belief-in-flp-is-unjustified",
-    "title": "You Know Nothing: Dreaming",
-    "section": "KF2: Your belief in FLP is unjustified",
-    "text": "KF2: Your belief in FLP is unjustified\n\n\n\nArgument\n\n\n\nUJ1. If your belief in FLP is justified, then it is either justified by direct observation or by inductive reasoning.\nUJ2. Your belief in FLP isn’t justified by direct observation.\nUJ3. Your belief in FLP isn’t justified by inductive reasoning.\nKF2. So, your belief in FLP is unjustified.\n\n\n\n\n\nUJ1: There are other sources of knowledge—introspection, mathematical proof. But these won’t get you knowledge of the external world.\nUJ2: You cannot directly observe the future."
+    "objectID": "slides/skepticism.html#knowledge-and-justification",
+    "href": "slides/skepticism.html#knowledge-and-justification",
+    "title": "You Know Nothing",
+    "section": "Knowledge and Justification",
+    "text": "Knowledge and Justification\n\n\n\nArgument\n\n\n\nKF4. If your belief that the sun will set in the west tomorrow is unjustified, then you don’t know that the sun will set in the west tomorrow.\n\n\n\n\nWhat is the difference between a belief that happens to be true and knowledge?\n\n\nlucky guesses: urn examples.\ndo you believe that there are snakes in Hawaii?\nconfidently bad at math example"
   },
   {
-    "objectID": "slides/skepticism-dreams.html#uj3-and-circularity",
-    "href": "slides/skepticism-dreams.html#uj3-and-circularity",
-    "title": "You Know Nothing: Dreaming",
-    "section": "UJ3 and Circularity",
-    "text": "UJ3 and Circularity\n\n\n\nArgument\n\n\n\nAC1. All inductive reasoning about the future assumes the truth of FLP.\nAC2. If all inductive reasoning about the future assumes the truth of FLP, then any inductive reasoning about FLP is circular.\nAC3. No belief can be justified by circular reasoning.\nUJ3. So, FLP isn’t justified by inductive reasoning."
+    "objectID": "slides/skepticism.html#kf1-and-flp",
+    "href": "slides/skepticism.html#kf1-and-flp",
+    "title": "You Know Nothing",
+    "section": "KF1 and FLP",
+    "text": "KF1 and FLP\n\n\n\nThe Faulty Foundation Argument\n\n\n\nFF1. Your belief that the sun will set in the west tomorrow is based on FLP.\nFF2. If a belief is based on something that you aren’t justified in believing, then that belief itself is unjustified.\nKF1. So, if you are not justified in believing that FLP is true, then your belief that the sun will set in the west tomorrow is unjustified.\n\n\n\n\n\nif they get hung up on ways that the future won’t resemble the past:\n\n\nFuture Like Past in Expected Ways (FLP*)\n\nFuture states of the world will be like past states of the world except in respects in which we can expect them to differ.\n\n\n\nIf they are wondering about FF2, give them power pose:\n\n\n\nPOWER POSE\n\n\nJared is getting ready for a job interview, and thinks it will help his chances if he spends five minutes “power posing” in front of the mirror. When his fiancée Ashley asks him why he thinks that will help, Jared tells her that scientists have shown that power posing releases performance-enhancing hormones into your bloodstream. Skeptical, Ashley does some Googling and informs Jared that the power-posing study has been completely discredited and is now widely regarded as “pseudo-science.”"
   },
   {
-    "objectID": "slides/skepticism-dreams.html#dreaming",
-    "href": "slides/skepticism-dreams.html#dreaming",
-    "title": "You Know Nothing: Dreaming",
-    "section": "Dreaming",
-    "text": "Dreaming\n\n\nThe Dreaming Hypothesis (TDH)\n\nYou are currently lying down in bed dreaming about being in philosophy class."
+    "objectID": "slides/skepticism.html#kf2-and-trouble-for-flp",
+    "href": "slides/skepticism.html#kf2-and-trouble-for-flp",
+    "title": "You Know Nothing",
+    "section": "KF2 and trouble for FLP",
+    "text": "KF2 and trouble for FLP\n\n\n\nFLP is Unjustified\n\n\n\nUJ1. If your belief in FLP is justified, then it is either justified by direct observation or by inductive reasoning.\nUJ2. Your belief in FLP isn’t justified by direct observation.\nUJ3. Your belief in FLP isn’t justified by inductive reasoning.\nKF2. So, your belief in FLP is unjustified.\n\n\n\n\n\nThe key here is UJ3.\nUJ1: There are other sources of knowledge—introspection, mathematical proof. But these won’t get you knowledge of the external world.\nUJ2: You cannot directly observe the future.\nRefection question:\n\nThe argument turns on the claim that induction and direct observation are the only ways of knowing about the world. Is that true? When a detective solves a crime unlike any crime she’s ever seen before, is she using resources other than induction and direct observation? If so, how might that help with resisting the argument?"
   },
   {
-    "objectID": "slides/skepticism-dreams.html#the-dreaming-argument",
-    "href": "slides/skepticism-dreams.html#the-dreaming-argument",
-    "title": "You Know Nothing: Dreaming",
-    "section": "The Dreaming Argument",
-    "text": "The Dreaming Argument\n\n\n\nArgument\n\n\n\nDR1. If you have no way of knowing that TDH is false, then you don’t know that you’re sitting down reading.\nDR2. You have no way of knowing that TDH is false.\nDR3. So you don’t know that you’re sitting down reading."
-  },
-  {
-    "objectID": "slides/skepticism-dreams.html#the-competing-hypotheses-argument",
-    "href": "slides/skepticism-dreams.html#the-competing-hypotheses-argument",
-    "title": "You Know Nothing: Dreaming",
-    "section": "The Competing Hypotheses Argument",
-    "text": "The Competing Hypotheses Argument\n\n\n\nArgument\n\n\n\nCH1. One knows a certain thing only if one has some way of knowing that all competing hypotheses are false.\nCH2. TDH is a hypothesis that competes with your belief that you’re sitting down reading.\nDR1. So, if you have no way of knowing that TDH is false, then you don’t know that you’re sitting down reading.\n\n\n\n\n\nCH1: You don’t know that the bird you see is a hawk if you cannot rule out the hypothesis that it is an eagle or a falcon."
-  },
-  {
-    "objectID": "slides/skepticism-dreams.html#the-argument-from-deduction",
-    "href": "slides/skepticism-dreams.html#the-argument-from-deduction",
-    "title": "You Know Nothing: Dreaming",
-    "section": "The Argument from Deduction",
-    "text": "The Argument from Deduction\n\n\n\nArgument\n\n\n\nDE1. If you know you’re sitting down reading, then you can deduce that TDH is false from things you know.\nDE2. If you can deduce something from things you know, then you have a way of knowing that thing.\nDE3. So, if you know you’re sitting down reading, then you have a way of knowing that TDH is false."
-  },
-  {
-    "objectID": "slides/skepticism-dreams.html#deducing-that-tdh-is-false",
-    "href": "slides/skepticism-dreams.html#deducing-that-tdh-is-false",
-    "title": "You Know Nothing: Dreaming",
-    "section": "Deducing that TDH is false",
-    "text": "Deducing that TDH is false\n\nI’m sitting down reading.\nIf I’m sitting down reading, then I’m sitting.\nIf I’m sitting, then I’m not lying down.\nIf I’m not lying down, then I’m not lying down dreaming.\nIf I’m not lying down dreaming, then TDH is false.\nSo, TDH is false."
-  },
-  {
-    "objectID": "slides/skepticism-dreams.html#contraposition-dr1-and-de3",
-    "href": "slides/skepticism-dreams.html#contraposition-dr1-and-de3",
-    "title": "You Know Nothing: Dreaming",
-    "section": "Contraposition: DR1 and DE3",
-    "text": "Contraposition: DR1 and DE3\nThese are equivalent, because ‘if P then Q’ is equivalent to ‘if not Q then not P’:\n\n\n\nArgument\n\n\n\nDE3. If you know you’re sitting down reading, then you have a way of knowing that TDH is false.\nDR1. If you have no way of knowing that TDH is false, then you don’t know that you’re sitting down reading.\n\n\n\n\n\n\nIf you live in Normal, then you live in Illinois.\nIf you live in Illinois then you live in Normal.\nIf you don’t live in Illinois, then you don’t live in Normal.\nIf you don’t live in Normal then you don’t live in Illinois."
-  },
-  {
-    "objectID": "slides/skepticism-dreams.html#the-dreaming-argument-1",
-    "href": "slides/skepticism-dreams.html#the-dreaming-argument-1",
-    "title": "You Know Nothing: Dreaming",
-    "section": "The Dreaming Argument",
-    "text": "The Dreaming Argument\n\n\n\nArgument\n\n\n\nDR1. If you have no way of knowing that TDH is false, then you don’t know that you’re sitting down reading.\nDR2. You have no way of knowing that TDH is false.\nDR3. So you don’t know that you’re sitting down reading."
-  },
-  {
-    "objectID": "slides/skepticism-dreams.html#the-no-evidence-argument",
-    "href": "slides/skepticism-dreams.html#the-no-evidence-argument",
-    "title": "You Know Nothing: Dreaming",
-    "section": "The No Evidence Argument",
-    "text": "The No Evidence Argument\n\n\n\nArgument\n\n\n\nNE1. If you have no evidence against something, then you have no way of knowing it’s false.\nNE2. You have no evidence against TDH.\nDR2. So, you have no way of knowing that TDH is false.\n\n\n\n\n\nencourage discussion of the idea that there might be tests for whether or not you are dreaming."
-  },
-  {
-    "objectID": "slides/skepticism-dreams.html#the-no-useful-tests-argument",
-    "href": "slides/skepticism-dreams.html#the-no-useful-tests-argument",
-    "title": "You Know Nothing: Dreaming",
-    "section": "The No Useful Tests Argument",
-    "text": "The No Useful Tests Argument\n\n\n\nArgument\n\n\n\nNU1. If you don’t know that a dreaming test is reliable, then you can’t know whether you’re dreaming by using it.\nNU2. You can never know that a dreaming test is reliable.\nNU3. So, you can never know whether you’re dreaming by using a dreaming test.\n\n\n\n\n\nNU1: Spinning top example from Inception. If you don’t know this is a good test, you cannot know your not dreaming by using it.\nNU2: All the apparent past evidence you might have that the test is reliable could have happened in a dream!"
-  },
-  {
-    "objectID": "slides/evil-activities.html#reminders",
-    "href": "slides/evil-activities.html#reminders",
-    "title": "The Problem of Evil",
-    "section": "Reminders",
-    "text": "Reminders\n\n\nFor today, we are continuing our examination of the arguments from Chapter 1, “Can God Allow Suffering?”\nFor next week, read Chapter 2, “Why You Should Bet on God.”\nRemember, your goal should be, after reading, to be able to articulate claims like,\n\n“I disagree because…” is a sign that you did engage.\n“I agree even though…” is also a sign that you engaged."
-  },
-  {
-    "objectID": "slides/evil-activities.html#the-argument-from-pointless-suffering",
-    "href": "slides/evil-activities.html#the-argument-from-pointless-suffering",
-    "title": "The Problem of Evil",
-    "section": "The Argument from Pointless Suffering",
-    "text": "The Argument from Pointless Suffering\n\n\n\nArgument\n\n\n\nPS1. There is pointless suffering in the world\nPS2. If there is pointless suffering in the world, then there is no omnibeing.\nPS3. So, there is no omnibeing.\n\n\n\n\n\nFour objections to PS1: Appreciated Goods, Building Character, Free Will, Hidden Reasons."
-  },
-  {
-    "objectID": "slides/evil-activities.html#appreciated-goods",
-    "href": "slides/evil-activities.html#appreciated-goods",
-    "title": "The Problem of Evil",
-    "section": "Appreciated Goods",
-    "text": "Appreciated Goods\n\nPS1 is false. The point of suffering is that it allows us to appreciate good things.\nFirst objection: someone who experiences less pleasure and then a lot more pleasure can appreciate how much better the greater pleasure is, without ever suffering.\nSecond objection: We endure more suffering than is needed to appreciate good things.\n\n\n\novercast day vs. midwestern winter\nsore back vs. chronic back pain"
-  },
-  {
-    "objectID": "slides/evil-activities.html#building-character",
-    "href": "slides/evil-activities.html#building-character",
-    "title": "The Problem of Evil",
-    "section": "Building Character",
-    "text": "Building Character\n\nPS1 is false. The point of suffering is to build character (courage, empathy, loyalty, perseverance, self-control, forgiveness, trustworthiness, …)\nObjection: Not all suffering builds character.\n\n\n\nwithout suffering, there is no danger. Without facing danger, cannot develop courage.\nWithout profound acts of betrayal, there could be no profound acts of forgiveness.\nWithout the horrors and hardships of war, no one could reach the levels of courage and selflessness that soldiers attain.\nSince these sufferings are necessary in order to have the best kind of world—one with courageous and forgiving people—we can see why God would allow them.\n\nBut:\n\nsoliders who develop PTSD instead of courage.\ntorture followed by death without chance to build character."
-  },
-  {
-    "objectID": "slides/evil-activities.html#free-will",
-    "href": "slides/evil-activities.html#free-will",
-    "title": "The Problem of Evil",
-    "section": "Free Will",
-    "text": "Free Will\n\nPS1 is false. Suffering is an inevitable consequence of free will, and the value free will outweighs the badness of suffering.\nFirst objection: Not all suffering: disease, natural disaster, wolves.\nSecond objection: Why couldn’t God intervene to block the worst consequences of free will? (Toddler, chainsaw)\nThird objection: If God is omniscient, we don’t have free will anyway."
-  },
-  {
-    "objectID": "slides/evil-activities.html#hidden-reasons",
-    "href": "slides/evil-activities.html#hidden-reasons",
-    "title": "The Problem of Evil",
-    "section": "Hidden Reasons",
-    "text": "Hidden Reasons\n\nPS1 is false. All suffering serves a greater purpose, but often that purpose is hidden to us.\nObjection: This is possible—we cannot rule it out with 100% certainty. But it is wildly implausible, and something you should not believe. (Nornia analogy)"
-  },
-  {
-    "objectID": "slides/evil-activities.html#an-all-but-omnibeing",
-    "href": "slides/evil-activities.html#an-all-but-omnibeing",
-    "title": "The Problem of Evil",
-    "section": "An All-But-Omnibeing?",
-    "text": "An All-But-Omnibeing?\n\nPerhaps God is not an omnibeing.\nPerhaps an omnibeing is impossible?\n\nno one can bring about someone else’s free choice;\nno one can know what that free choice will be before it is made;\nmorality requires compromises (e.g., between justice and forgiveness).\n\nPerhaps God is an all-but-omnibeing: someone very very powerful, who knows everything that can be known, and is very very good…"
-  },
-  {
-    "objectID": "slides/evil-activities.html#a-revised-argument",
-    "href": "slides/evil-activities.html#a-revised-argument",
-    "title": "The Problem of Evil",
-    "section": "A Revised Argument",
-    "text": "A Revised Argument\n\n\n\nArgument\n\n\n\nPV1. There is pointless suffering in the world that an all-but-omnibeing could have prevented.\nPV2. If there is pointless suffering in the world of this sort, then there is no all-but-omnibeing.\nPV3. So, there is no all-but-omnibeing.\n\n\n\n\nPV1 is harder to defend than PS1. The idea behind PV1 is that, even if an all-but-omnibeing cannot prevent all pointless suffering, there is some pointless suffering in our world that they could have and should have prevented."
-  },
-  {
-    "objectID": "slides/evil-activities.html#overview-of-writing-exercise",
-    "href": "slides/evil-activities.html#overview-of-writing-exercise",
-    "title": "The Problem of Evil",
-    "section": "Overview of Writing Exercise",
-    "text": "Overview of Writing Exercise\n\nSpend a moment gathering your thoughts.\nShare your thoughts with someone else.\nSpend ten minutes writing up your thoughts in a paragraph.\nShare what you have written and get/give constructive feedback.\nRevise.\nShare what you have written to get/give critical feedback."
-  },
-  {
-    "objectID": "slides/evil-activities.html#gather-your-thoughts",
-    "href": "slides/evil-activities.html#gather-your-thoughts",
-    "title": "The Problem of Evil",
-    "section": "Gather Your Thoughts",
-    "text": "Gather Your Thoughts\n\n\nWhat do you see as the strongest possible objection to the Argument from Pointless Suffering? Which premise should someone who believes in an omnibeing (or an all-but-omnibeing) deny, and why? Is your objection the same as one of the four discussed? If so, how do you respond to the objection(s) from the book? If not, what objections do you anticipate?\n(You can do this in your head, or you can jot down notes for yourself.)"
-  },
-  {
-    "objectID": "slides/evil-activities.html#share-your-thoughts",
-    "href": "slides/evil-activities.html#share-your-thoughts",
-    "title": "The Problem of Evil",
-    "section": "Share Your Thoughts",
-    "text": "Share Your Thoughts\n\n\nTurn to someone sitting next to you, compare notes, and discuss. (If needed, three of you should form a group of three.) Don’t let one person dominate. Be sure that each person gets a chance to share their thoughts."
-  },
-  {
-    "objectID": "slides/evil-activities.html#put-your-thoughts-in-writing",
-    "href": "slides/evil-activities.html#put-your-thoughts-in-writing",
-    "title": "The Problem of Evil",
-    "section": "Put Your Thoughts in Writing",
-    "text": "Put Your Thoughts in Writing\n\n\nWrite a short argumentative paragraph, in which you state your objection as clearly as possible, present the strongest anticipated response to your objection, and explain why you think that response does not work.\nIf you have time, revise your paragraph for clarity and concision: omit needless words; try to say exactly what you mean; explain everything as explicitly as possible."
-  },
-  {
-    "objectID": "slides/evil-activities.html#share-your-writing",
-    "href": "slides/evil-activities.html#share-your-writing",
-    "title": "The Problem of Evil",
-    "section": "Share Your Writing",
-    "text": "Share Your Writing\n\n\nTurn to somebody else sitting near you, and exchange essays. (If our number is odd, three of you need to do a three-way share: A shares with B, B with C, and C with A.)\nAs you read your peer’s writing, focus first on understanding and constructive ideas. If there is something you don’t understand, or find unclear, mark it as unclear. If you have an idea about how they could develop their point further, jot it down. Avoid, for the moment, raising objections."
-  },
-  {
-    "objectID": "slides/evil-activities.html#receive-feedback",
-    "href": "slides/evil-activities.html#receive-feedback",
-    "title": "The Problem of Evil",
-    "section": "Receive Feedback",
-    "text": "Receive Feedback\n\n\nPass the papers back to their authors. Pick one author to “go first”. Share your feedback with the author and discuss for one minute. Then switch roles for the second minute. If you are in a three-way share, switch roles after 45 seconds, and then again at 1 minute and 30 seconds."
-  },
-  {
-    "objectID": "slides/evil-activities.html#revise",
-    "href": "slides/evil-activities.html#revise",
-    "title": "The Problem of Evil",
-    "section": "Revise",
-    "text": "Revise\n\n\nRevise your writing in light of the feedback you just received."
-  },
-  {
-    "objectID": "slides/evil-activities.html#share-your-revisions",
-    "href": "slides/evil-activities.html#share-your-revisions",
-    "title": "The Problem of Evil",
-    "section": "Share Your Revisions",
-    "text": "Share Your Revisions\n\n\nTurn to somebody else sitting near you, and exchange essays. (If needed, some other group of three should do a three-way share this time.)\nThis time, I want you to focus on objections. Think about what your peer is arguing, and try to come up with at least two possible objections. Think about which of those objections you think is the strongest."
-  },
-  {
-    "objectID": "slides/evil-activities.html#share-objections",
-    "href": "slides/evil-activities.html#share-objections",
-    "title": "The Problem of Evil",
-    "section": "Share Objections",
-    "text": "Share Objections\n\n\nPass the papers back to their authors. Pick one author to “go first”. Share your objections with the author. Discuss. After two minutes, switch roles. If you are in a three-way share, switch roles after 1 minute and 30 seconds, and again after 3 minutes."
-  },
-  {
-    "objectID": "slides/evil-activities.html#open-share",
-    "href": "slides/evil-activities.html#open-share",
-    "title": "The Problem of Evil",
-    "section": "Open Share",
-    "text": "Open Share\n\nWhat did you learn about the problem of evil? Thoughts now about which objection(s) seem most promising?\nHow did the writing process work? Examples of especially useful or unexpected feedback? Were there things that only became clear to you when you tried to write things down?\nWere there problems with the process? Are there guardrails we should agree to for future exercises to mitigate those problems?"
-  },
-  {
-    "objectID": "slides/evil-activities.html#private-share",
-    "href": "slides/evil-activities.html#private-share",
-    "title": "The Problem of Evil",
-    "section": "Private Share",
-    "text": "Private Share\nWrite up a short reflection on where you stand now, after the exercise, compared to where you were before the exercise."
-  },
-  {
-    "objectID": "slides/evil-activities.html#turn-in-your-work",
-    "href": "slides/evil-activities.html#turn-in-your-work",
-    "title": "The Problem of Evil",
-    "section": "Turn in your Work",
-    "text": "Turn in your Work\n\nMake sure to put your name at the top!"
-  },
-  {
-    "objectID": "syllabus.html",
-    "href": "syllabus.html",
-    "title": "Syllabus: Basic Issues in Philosophy (PHI 101.003, Honors)",
-    "section": "",
-    "text": "Instructor\n\nDavid Sanson\n\nOffice\n\nStevenson 341\n\n\n\n\nClass Meetings\n\nMW 3:35PM – 4:50PM, Stevenson 0229\n\nOffice Hours\n\nM noon–1:00PM; W 11:00AM–noon"
-  },
-  {
-    "objectID": "syllabus.html#basic-information",
-    "href": "syllabus.html#basic-information",
-    "title": "Syllabus: Basic Issues in Philosophy (PHI 101.003, Honors)",
-    "section": "",
-    "text": "Instructor\n\nDavid Sanson\n\nOffice\n\nStevenson 341\n\n\n\n\nClass Meetings\n\nMW 3:35PM – 4:50PM, Stevenson 0229\n\nOffice Hours\n\nM noon–1:00PM; W 11:00AM–noon"
-  },
-  {
-    "objectID": "syllabus.html#course-description",
-    "href": "syllabus.html#course-description",
-    "title": "Syllabus: Basic Issues in Philosophy (PHI 101.003, Honors)",
-    "section": "Course Description",
-    "text": "Course Description\nThis is a course about doing philosophy. We will spend the next 15 weeks doing philosophy together. Topics we will cover include: the existence of God, the nature of the self, death, free will, our knowledge of external world, the justification of political authority, the morality of abortion, the morality of eating meat, and the relationship between happiness, doing what is good, and doing what it is right. I have left space for additional topics at the end of the term. We will decide together what other topics we want to cover.\nThis is also an “honors” section. That means that our class size is a bit smaller, so I can give each of you a bit more attention. It also means that I expect a bit more from you than I expect from a typical ISU student. I am not going to assign you more work, but I expect you to do more with the work assigned. Hopefully, our our discussions will reflect this, and we will be able, collectively, to dig deeper into the material than would be possible in a non-honors section."
-  },
-  {
-    "objectID": "syllabus.html#why-bother-doing-philosophy",
-    "href": "syllabus.html#why-bother-doing-philosophy",
-    "title": "Syllabus: Basic Issues in Philosophy (PHI 101.003, Honors)",
-    "section": "Why bother doing philosophy?",
-    "text": "Why bother doing philosophy?\nPhilosophy tackles basic questions about existence, identity, knowledge, and value. These questions are important, but they are also hard to approach and hard to answer. Other fields balk at these questions or approach them obliquely. In Philosophy, we learn to face them head on.\nIt turns out that doing this is one of the best ways to train your mind to think clearly and carefully about hard problems. If you want to learn how to think clearly and carefully about hard quantitative problems, you should take more math classes. But if you want to learn how to think clearly and carefully about hard non-quantitative problems, you should study philosophy.\nWhat I am describing here is not an abstract academic skill. Studying philosophy will make you better at thinking about anything than most other people, and this has enormous practical value. Contrary to the “flipping burgers” stereotype, philosophy majors, on average, make better money than other humanities majors, and better money than most “applied” majors as well (sort by “Mid-Career Median Salary”). Philosophy is one of the most “AI-proof” majors. And Philosophy majors routinely outperform other majors on graduate entrance exams, including the GRE (graduate school), LSAT (law school), MCAT (medical school), and GMAT (business school). Turns out that being good at thinking about stuff is useful no matter how you hope to sell your labor in the future.\nBut what I am describing here are not (just) “transferable job skills”. To quote Ángel Pinillos (Philosophy, Arizona State University), “The Honest Case for the Humanities”:\n\nYou will, at some point, need to advocate for your child at her school. You will need to read a teacher’s email carefully enough to notice what it is and is not saying, and write a response that is firm without being inflammatory, and recognize when an administrator is performing concern rather than offering it. You will need to talk to a doctor about a parent’s care, or your own, and follow an argument about risk and tradeoff that the doctor is making quickly and imperfectly, and ask the question that exposes the assumption the doctor has not examined. You will need to understand the context of someone who grew up in a place very different from you, with radically different values and experiences. You will need to read a contract. You will need to read a ballot measure. You will need to argue, in public or in private, for the candidate or the policy you believe in, and you will need to do this against people who are themselves trained, motivated and may not have your best interest at heart.\nThese are not the higher reaches of the soul. They are not transcendental encounters with truth and beauty. They are ordinary citizenship and ordinary parenthood and ordinary adulthood, and they have material consequences — for your kid, for your parent, for your community, for the decisions that get made about you when you are not in the room.\n\nStudying Philosophy teaches these skills better than anything else in the university curriculum."
-  },
-  {
-    "objectID": "syllabus.html#learning-from-arguments",
-    "href": "syllabus.html#learning-from-arguments",
-    "title": "Syllabus: Basic Issues in Philosophy (PHI 101.003, Honors)",
-    "section": "Learning from Arguments",
-    "text": "Learning from Arguments\nOur textbook is a free, online, open-source text, Learning from Arguments.\nThe book is opinionated, but the opinions are not the opinions of the author. Each chapter presents, as clearly and powerfully as possible, an argument for a controversial philosophical position: The first presents an argument that God does not exist; the second, an argument that you should believe in God; the third, that you are neither your body nor your mind; the fourth, that you shouldn’t fear death; the fifth, that we do not have free will; the sixth, that we know nothing about the external world; the seventh, that no government has the right to tax or incarcerate its citizens; the eighth, that abortion is morally wrong; the ninth, that eating meat is morally wrong; and the tenth chapter defends Utilitarianism—the idea that what makes an action right or wrong is ultimately a matter of how much it increases or decreases our overall happiness.\nThe point here is not to convince you of each these positions. Nor is the point to “spark debate” by “playing devil’s advocate”.\nThe point is to present you with the strongest and clearest possible argument for each position. Your job, as a reader, is to think carefully and hard about these arguments. If you think they go wrong, your job is to figure out and articulate how they go wrong. Through this process, you will gain deeper insight into what you believe and why you believe it, and you will gain better understanding of the underlying philosophical puzzles and problems that might lead to disagreement on these issues."
-  },
-  {
-    "objectID": "syllabus.html#schedule",
-    "href": "syllabus.html#schedule",
-    "title": "Syllabus: Basic Issues in Philosophy (PHI 101.003, Honors)",
-    "section": "Schedule",
-    "text": "Schedule\nIn a typical week, I will ask you to read one chapter from the textbook. I will spend part of Monday’s class lecturing on the material from that chapter, before opening things up to discussion and in-class activities, focused primarily on understanding the arguments from the chapter. After class, you should then re-read that chapter, and think more about the issues it raises in light of the class lecture and discussion. On Wednesday, we will continue our discussion, shifting our focus from the task of understanding the arguments to the task of articulating objections and alternatives to the position defended in the text."
-  },
-  {
-    "objectID": "syllabus.html#grades",
-    "href": "syllabus.html#grades",
-    "title": "Syllabus: Basic Issues in Philosophy (PHI 101.003, Honors)",
-    "section": "Grades",
-    "text": "Grades\nYour grade for this course is based on three graded exams—two midterms and a final—and an indeterminate number of ungraded pass/fail in-class writing exercises. Each exam is worth 25% of your grade, so, together, the exams make up 75% of your grade. In-class exercises make up the remaining 25%.\n\nExams\nExams are in-class, handwritten, closed book and closed notes, and comprise a mix of short answer and essay questions. You can find the dates for the midterms on the course schedule. The date and time of the final exam is has not yet been fixed: the registrar sets these dates for all of your classes at some point later in the term.\nMidterms will be returned to you with comments, a score, and a letter grade. The first midterm will cover material from the first third of the class; the second midterm, material from the second third. The final exam will be cumulative, but weighted toward material from the last third of the class.\n\n\nIn-class Exercises\nClasses will often include in-class exercises. These exercises are not announced ahead of time: they flow from whatever it is we are doing that day, and are closely tied to the readings, lecture, and discussion. They are turned in and graded pass/fail. Failed exercises will be returned with a brief comment explaining why what was done was not sufficient to receive a pass.\nMissed in-class exercises cannot be made up. An in-class exercise missed due to an excused absence does not count against your grade.\n\n\nCalculating Your Grade\nBecause each exam is worth 25% of your course grade, and the exercises are also worth 25%, you can calculate your course grade by taking the average of each of your these grades:\n\\[\n\\mathrm{Course\\ \\%} = \\dfrac{\\mathrm{Exercises\\ \\%} + \\mathrm{Midterm\\ \\%} + \\mathrm{Midterm\\ \\%} + \\mathrm{Final\\ \\%}}{4}\n\\tag{1}\\]\nYou can also use this formula to answer questions like, “How well do I have to do on the final to get an A?”\n\\[\n\\mathrm{93\\%} \\ge \\dfrac{\\mathrm{Exercises\\ \\%} + \\mathrm{Midterm\\ \\%} + \\mathrm{Midterm\\ \\%} + \\mathrm{?\\ \\%}}{4}\n\\tag{2}\\]\nAnd, if you want to calculate your “grade so far”, you can simply take the average of your current exercises percentage and whatever midterms are completed. For example, if you have received grades for the two midterms but have not yet taken the final:\n\\[\n\\mathrm{Grade\\ so\\ far\\ \\%} = \\dfrac{\\mathrm{Exercises\\ so\\ far\\ \\%} + \\mathrm{Midterm\\ \\%} + \\mathrm{Midterm\\ \\%}}{3}\n\\tag{3}\\]\nTo do these calculations, you need to know the percentage of exercises you have passed and the letter grade you received on each exam and how to convert that letter grade to a percentage. You also need to know how to convert that calculated percentage into a course letter grade.\nUse Table 1 to convert your exam letter grades into percentages, and use Table 2 to convert the average percentage back into a letter grade. Note that I will not typically use the percentages in Table 2 when assigning letter grades for the exams. Instead, I will apply a more flexible and generous conversion scale that reflects my judgment of what grade a given exam score deserves, given the construction of the exam, my scoring system, and the class’s overall performance. (This is one thing professors sometimes mean when they say that they say that the exams will be “graded on a curve.”) So when it comes to exams, what matters for your course grade is the letter grade you receive, not your numeric score or percentage.\n\n\n\nTable 1: Converting Letter Grades to Percentages\n\n\n\n\n\nLetter Grade\nPercentage\n\n\n\n\nA\n95%\n\n\nA-\n91.5%\n\n\nB+\n88.5%\n\n\nB\n85%\n\n\nB-\n81.5%\n\n\nC+\n78.5%\n\n\nC\n75%\n\n\nC-\n71.5%\n\n\nD+\n68.5%\n\n\nD\n65%\n\n\nD-\n61.5%\n\n\nF\n0%\n\n\n\n\n\n\n\n\n\nTable 2: Converting Percentages to Letter Grades\n\n\n\n\n\nPercentage Complete\nLetter Grade\n\n\n\n\n93% and above\nA\n\n\n90% and above\nA-\n\n\n87% and above\nB+\n\n\n83% and above\nB\n\n\n80% and above\nB-\n\n\n77% and above\nC+\n\n\n73% and above\nC\n\n\n70% and above\nC-\n\n\n67% and above\nD+\n\n\n63% and above\nD\n\n\n60% and above\nD-\n\n\nbelow 60%\nF"
-  },
-  {
-    "objectID": "syllabus.html#attendance",
-    "href": "syllabus.html#attendance",
-    "title": "Syllabus: Basic Issues in Philosophy (PHI 101.003, Honors)",
-    "section": "Attendance",
-    "text": "Attendance\nYou are responsible for attending class and completing all assigned academic work. You should familiarize yourself with University policy to understand which absences are excused and which are not. If you need advice on how to manage an extended absence or want notification of your absence sent to your instructors, contact the Dean of Students Office."
-  },
-  {
-    "objectID": "syllabus.html#consequences-of-absence",
-    "href": "syllabus.html#consequences-of-absence",
-    "title": "Syllabus: Basic Issues in Philosophy (PHI 101.003, Honors)",
-    "section": "Consequences of Absence",
-    "text": "Consequences of Absence\nFormally, absence will impact your grade by depriving you of the opportunity to complete in-class exercises. Informally, absence deprives you of the opportunity to learn from lecture, discussion, and in-class exercises."
-  },
-  {
-    "objectID": "syllabus.html#accommodations",
-    "href": "syllabus.html#accommodations",
-    "title": "Syllabus: Basic Issues in Philosophy (PHI 101.003, Honors)",
-    "section": "Accommodations",
-    "text": "Accommodations\nAny student needing to arrange a reasonable accommodation for a documented disability and/or medical/mental health condition should contact Student Access and Accommodation Services at 308 Fell Hall, Office Phone (309) 438-5853, Video Phone (309) 319-7682 or visit the website at &lt;StudentAccess.IllinoisState.edu&gt;.\nI am also open to arranging reasonable accommodation regardless of documentation. If there is something that would help you, ask."
-  },
-  {
-    "objectID": "syllabus.html#academic-integrity",
-    "href": "syllabus.html#academic-integrity",
-    "title": "Syllabus: Basic Issues in Philosophy (PHI 101.003, Honors)",
-    "section": "Academic Integrity",
-    "text": "Academic Integrity\nYou are expected to be honest in all academic work, consistent with the academic integrity policy as outlined in the Code of Student Conduct and any additional syllabus language. All work is to be appropriately cited when it is borrowed, directly or indirectly, from another source. Unauthorized and/or unacknowledged collaboration on any work, or the presentation of someone else’s work as your own, is a form of academic dishonesty under the Code of Student Conduct.\nContent generated by an Artificial Intelligence third-party service or site (AI-generated content) without proper authorization and attribution is a form of academic dishonesty. If you are unsure about whether something used in your work requires attribution, please reach out to me to discuss it as soon as possible. Allegations of academic dishonesty will be referred to Student Conduct and Community Responsibilities, for review under the Student Code of Conduct. Students found responsible for academic dishonesty may also be assigned a grade penalty by the instructor."
-  },
-  {
-    "objectID": "syllabus.html#generative-ai-use-not-permitted",
-    "href": "syllabus.html#generative-ai-use-not-permitted",
-    "title": "Syllabus: Basic Issues in Philosophy (PHI 101.003, Honors)",
-    "section": "Generative AI Use Not Permitted",
-    "text": "Generative AI Use Not Permitted\nIn this course, the use of generative AI tools such as ChatGPT, Microsoft Copilot, Adobe Firefly, Google AI Mode, or Apple Intelligence is not permitted to support the completion of any assigned work. This includes, but is not limited to, using generative AI tools to ideate, pre-plan, edit, translate, or otherwise create original material you claim to be solely your creation. Use of a generative AI tool to complete assigned work in whole or in part may be referred under the Code of Student Conduct academic dishonesty provisions for further action by the Dean of Students Office."
-  },
-  {
-    "objectID": "syllabus.html#permission-required-to-record",
-    "href": "syllabus.html#permission-required-to-record",
-    "title": "Syllabus: Basic Issues in Philosophy (PHI 101.003, Honors)",
-    "section": "Permission Required to Record",
-    "text": "Permission Required to Record\nStudents who wish to use phones or other audio or video devices to record classroom lectures/discussions or take photographs must obtain written permission from the instructor except with an approved accommodation from Student Access and Accommodations Services. Approved recordings are to be used solely for the purposes of individual or group study with other students enrolled in the class. They may not be reproduced, shared with those not enrolled in the class, or uploaded to publicly accessible web environments. Violation of this classroom rule may result in referral to the Student Conduct and Community Responsibilities (SCCR) office for disciplinary action."
-  },
-  {
-    "objectID": "schedule.html",
-    "href": "schedule.html",
-    "title": "Schedule",
-    "section": "",
-    "text": "Week\nDate\nTopic\nReading\nSlides\n\n\n\n\n 1\nM 8/17\nWelcome!\n\n\n\n\nW 8/19\nArguments and Thought Experiments\nIntroduction\n\n\n\n 2\nM 8/24\n The Problem of Evil\n Can God Allow Suffering?\nSlides\n\n\nW 8/26\nSlides\n\n\n 3\nM 8/31\n Pascal’s Wager\n Why You Should Bet on God\nSlides\n\n\nW 9/2\nSlides\n\n\n 4\nM 9/7\nLabor Day — No Class\n\n\n\n\nW 9/9\n Personal Identity\n What Makes You You\nSlides\n\n\n 5\nM 9/14\nSlides\n\n\nW 9/16\nMidterm 1\n\n\n\n\n 6\nM 9/21\n Death\n Don’t Fear the Reaper\nSlides\n\n\nW 9/23\nSlides\n\n\n 7\nM 9/28\n Free Will\n No Freedom\nSlides\n\n\nW 9/30\nSlides\n\n\n 8\nM 10/5\n Skepticism\n You Know Nothing\nSlides\n\n\nW 10/7\nSlides\n\n\n 9\nM 10/12\n Political Authority\n Against Prisons and Taxes\nSlides\n\n\nW 10/14\n\n\n\n 10\nM 10/19\nTBD\n\n\n\n\nW 10/21\nMidterm 2\n\n\n\n\n 11\nM 10/26\n Abortion\n The Ethics of Abortion\nSlides\n\n\nW 10/28\n\n\n\n 12\nM 11/2\n Eating Animals\n Eating Animals is Immoral\nSlides\n\n\nW 11/4\n\n\n\n 13\nM 11/9\n Utilitarianism\n What Makes Things Right\n\n\n\nW 11/11\n\n\n\n 14\nM 11/16\nTBD by class\n\n\n\n\nW 11/18\nTBD by class\n\n\n\n\n  \nM 11/23\n Thanksgiving Break — No Class\n  \n  \n\n\nW 11/25\n\n\n 15\nM 11/30\nTBD by class\n\n\n\n\nW 12/2\nTBD by class\n\n\n\n\n Final\nM 12/7 – 12/12\nDate and time of final exam TBD by registrar"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Basic Issues in Philosophy",
-    "section": "",
-    "text": "This is the course website for:\n\nPHI 101-003 [Honors]\n\nMW 3:35PM – 4:50PM, Stevenson Hall 0229.\n\n\nI will not be using Canvas. To keep on top of readings and assignments, you need to check the schedule, come to class, and pay attention to in-class announcements. If you are worried about your grade, you can either calculate it for yourself or come to my office hours and ask me.\n\n    \n    \n  \n\n\n\n\n\n\nJoseph Badger, “Portrait of Two Children”, ca. 1760"
-  },
-  {
-    "objectID": "slides/personal_identity-activities.html#reminders",
-    "href": "slides/personal_identity-activities.html#reminders",
-    "title": "Personal Identity: Assessing the Options",
-    "section": "Reminders",
-    "text": "Reminders\n\nFor today, we are still discussing Chapter 3, “What Makes You You?”\nNext time, Wednesday, Sep 16th, is our first midterm.\nClosed book, closed notes, no devices\nBring a bluebook and a pen or pencil"
-  },
-  {
-    "objectID": "slides/personal_identity-activities.html#how-to-prepare-for-the-midterm",
-    "href": "slides/personal_identity-activities.html#how-to-prepare-for-the-midterm",
-    "title": "Personal Identity: Assessing the Options",
-    "section": "How to Prepare for the Midterm",
-    "text": "How to Prepare for the Midterm\n\nReview the slides and your notes (you have been taking notes?)\nReview the readings\nI expect you to know the main arguments we have discussed:\n\nnot just “be vaguely aware of them”\nbe able to actually re-present them, premise by premise."
-  },
-  {
-    "objectID": "slides/personal_identity-activities.html#physical-accounts",
-    "href": "slides/personal_identity-activities.html#physical-accounts",
-    "title": "Personal Identity: Assessing the Options",
-    "section": "Physical Accounts",
-    "text": "Physical Accounts\n\nThe Fingerprints Account\n\n\\(A\\) at time \\(t\\) is the same person as \\(B\\) at time \\(t^*\\) if and only if \\(A\\) and \\(B\\) have indistinguishable fingerprints.\n\nThe DNA Account\n\n\\(A\\) at \\(t\\) is the same person as \\(B\\) at \\(t^*\\) if and only if \\(A\\) and \\(B\\) have indistinguishable DNA.\n\nThe Same Body Account\n\n\\(A\\) at \\(t\\) is the same person as \\(B\\) at \\(t^*\\) if and only if \\(A\\) has the same body as \\(B\\)."
-  },
-  {
-    "objectID": "slides/personal_identity-activities.html#psychological-accounts",
-    "href": "slides/personal_identity-activities.html#psychological-accounts",
-    "title": "Personal Identity: Assessing the Options",
-    "section": "Psychological Accounts",
-    "text": "Psychological Accounts\n\nThe Psychological Matching Account\n\nA$ at \\(t\\) is the same person as \\(B\\) at \\(t^*\\) if and only if \\(A\\)’s psychological features are exactly the same as \\(B\\)’s psychological features.\n\nThe Psychological Overlap Account\n\n\\(A\\) at \\(t\\) is the same person as \\(B\\) at \\(t^*\\) if and only if \\(A\\)’s psychological features are mostly the same as \\(B\\)’s psychological features.\n\nThe Psychological Descendant Account\n\n\\(A\\) at \\(t\\) is the same person as \\(B\\) at \\(t^*\\) if and only if \\(A\\) is either a psychological ancestor or a psychological descendant of \\(B\\)."
-  },
-  {
-    "objectID": "slides/personal_identity-activities.html#objections-to-same-body-account",
-    "href": "slides/personal_identity-activities.html#objections-to-same-body-account",
-    "title": "Personal Identity: Assessing the Options",
-    "section": "Objections to Same Body Account",
-    "text": "Objections to Same Body Account"
-  },
-  {
-    "objectID": "slides/personal_identity-activities.html#the-conjoined-twins-argument",
-    "href": "slides/personal_identity-activities.html#the-conjoined-twins-argument",
-    "title": "Personal Identity: Assessing the Options",
-    "section": "The Conjoined Twins Argument",
-    "text": "The Conjoined Twins Argument\n\n\n\nArgument\n\n\n\nCT1. If the Same Body Account is true, then either Abby and Brittany have different bodies or Abby and Brittany are the same person.\nCT2. Abby and Brittany have the same body.\nCT3. Abby and Brittany are not the same person.\nCT4. So, the Same Body Account is false.\n\n\n\n\n\ndefense of CT2: there is no way to divide their shared body into two bodies that respects the fact that, e.g., they both have a liver."
-  },
-  {
-    "objectID": "slides/personal_identity-activities.html#defense-of-ct3-not-same-person",
-    "href": "slides/personal_identity-activities.html#defense-of-ct3-not-same-person",
-    "title": "Personal Identity: Assessing the Options",
-    "section": "Defense of CT3: not same person",
-    "text": "Defense of CT3: not same person\n\n\n\nCONJOINED DRAMA\n\n\nAbby is dating Arie. Brittany is secretly in love with Arie and has always been jealous of their relationship. One night, while Abby is sleeping, Brittany confesses her feelings to Arie, and Arie kisses her. Later, when Abby finds out, she strangles Brittany.\n\n\n\n\n\n\nArgument\n\n\n\nIf Abby and Brittany are one person, then no cheating occurred, and Abby didn’t kill anyone, she just removed one of her two heads.\nCheating did occur, and Abby did kill someone.\nSo Abby and Brittany are not one person, but two."
-  },
-  {
-    "objectID": "slides/personal_identity-activities.html#the-body-swap-argument",
-    "href": "slides/personal_identity-activities.html#the-body-swap-argument",
-    "title": "Personal Identity: Assessing the Options",
-    "section": "The Body Swap Argument",
-    "text": "The Body Swap Argument\n\n\n\nFreaky Friday\n\n\nOn Friday morning, something happens. The person in Anna’s body looks in the mirror in disbelief. “Why,” she thinks to herself, “am I in my teenage daughter’s body?” Meanwhile, the person in Tess’s body looks in the mirror in horror. “Why,” she thinks to herself, “am I in my mom’s middle-aged body?”\n\n\n\n\nThe person who looks in the mirror and asks, “Why am I in my teenage daughter’s body?” is the Mom, Tess, not the daughter, Anna.\nSo, the person in the teenage body before is Anna, the person in the teenage body after is Tess.\nSo the Same Body Account is false."
-  },
-  {
-    "objectID": "slides/personal_identity-activities.html#the-body-swap-argument-and-pda",
-    "href": "slides/personal_identity-activities.html#the-body-swap-argument-and-pda",
-    "title": "Personal Identity: Assessing the Options",
-    "section": "The Body Swap Argument and PDA",
-    "text": "The Body Swap Argument and PDA\nFREAKY FRIDAY is just one example among many. Can you think of other cases in which a person switches bodies?\n\n\nstar trek"
-  },
-  {
-    "objectID": "slides/personal_identity-activities.html#an-argument-for-pda",
-    "href": "slides/personal_identity-activities.html#an-argument-for-pda",
-    "title": "Personal Identity: Assessing the Options",
-    "section": "An Argument for PDA",
-    "text": "An Argument for PDA\n\n\n\nArgument\n\n\n\nPD1. The Psychological Descendant Account fits best with our intuitions about cases.\nPD2. We should accept the theory that fits best with our intuitions about cases.\nPD3. So, we should accept the PDA."
-  },
-  {
-    "objectID": "slides/personal_identity-activities.html#souls",
-    "href": "slides/personal_identity-activities.html#souls",
-    "title": "Personal Identity: Assessing the Options",
-    "section": "Souls?",
-    "text": "Souls?\n\nThe Same Soul Account\n\n\\(A\\) at \\(t\\) is the same person as \\(B\\) at \\(t^*\\) if and only if \\(A\\) has the same soul as \\(B\\).\n\n\nQuestion: What does the Soul Account say about FREAKY FRIDAY?"
-  },
-  {
-    "objectID": "slides/personal_identity-activities.html#what-is-a-soul",
-    "href": "slides/personal_identity-activities.html#what-is-a-soul",
-    "title": "Personal Identity: Assessing the Options",
-    "section": "What is a Soul?",
-    "text": "What is a Soul?\nA soul is an immaterial part of you—traditionally, the part responsible for your ability to think, and the part responsible for your ability to survive death.\nThe belief in souls is called Dualism—there are two fundamentally different kinds of substance in the world: material and immaterial.\nMaterialists reject Dualism, holding there are only material substances, and so there are no souls."
-  },
-  {
-    "objectID": "slides/personal_identity-activities.html#souls-and-persons",
-    "href": "slides/personal_identity-activities.html#souls-and-persons",
-    "title": "Personal Identity: Assessing the Options",
-    "section": "Souls and Persons",
-    "text": "Souls and Persons\n\n\n\nBlank Slate Reincarnation\n\n\nThe gods run a soul-cleaning shop. It works kind of like a laundry mat. When you die, your soul is sent to the shop, where it waits is turn to go through a soul-cleaning machine. This machine washes the soul clean of all lingering psychological remnants of its previous incarnation. Once clean, the soul is sent back into the world, where it enters the body of a newborn.\n\n\n\nYou share a part with the newborn. But are you the same person as the newborn?"
-  },
-  {
-    "objectID": "slides/personal_identity-activities.html#bodies-souls-and-pda",
-    "href": "slides/personal_identity-activities.html#bodies-souls-and-pda",
-    "title": "Personal Identity: Assessing the Options",
-    "section": "Bodies, Souls, and PDA",
-    "text": "Bodies, Souls, and PDA\nSo, to reiterate:\n\n\n\nArgument\n\n\n\nIP1. The Psychological Descendant Account fits best with our intuitions about cases.\nIP2. We should accept the theory that fits best with our intuitions about cases.\nIP3. So, we should accept the PDA."
-  },
-  {
-    "objectID": "slides/personal_identity-activities.html#objections-to-the-psychological-descendant-account",
-    "href": "slides/personal_identity-activities.html#objections-to-the-psychological-descendant-account",
-    "title": "Personal Identity: Assessing the Options",
-    "section": "Objections to the Psychological Descendant Account",
-    "text": "Objections to the Psychological Descendant Account"
-  },
-  {
-    "objectID": "slides/personal_identity-activities.html#amnesia",
-    "href": "slides/personal_identity-activities.html#amnesia",
-    "title": "Personal Identity: Assessing the Options",
-    "section": "Amnesia",
-    "text": "Amnesia\n\n\n\nTOTAL AMNESIA\n\n\nJiwoo is stranded on a deserted island. Adding injury to insult, a coconut fell on Jiwoo’s head at noon today, instantly resulting in total amnesia. She can’t remember how she got on the island or anything else about her past. She can’t even remember her own name.\n\n\n\nWhat does the PDA say about this case? Do you agree?"
-  },
-  {
-    "objectID": "slides/personal_identity-activities.html#blackout",
-    "href": "slides/personal_identity-activities.html#blackout",
-    "title": "Personal Identity: Assessing the Options",
-    "section": "Blackout",
-    "text": "Blackout\n\n\n\nTOTAL BLACKOUT\n\n\nMinjun is stranded on a deserted island. Adding injury to insult, a coconut fell on Minjun’s head at noon today, temporarily knocking him unconscious. While unconscious, he is not dreaming, nor does he have any thoughts or experiences or any physical sensations whatsoever. He is completely blacked out. When he finally awakens hours later, it will feel as if no time has passed.\n\n\n\nWhat does the PDA say about this case? Do you agree?"
-  },
-  {
-    "objectID": "slides/personal_identity-activities.html#fission",
-    "href": "slides/personal_identity-activities.html#fission",
-    "title": "Personal Identity: Assessing the Options",
-    "section": "Fission",
-    "text": "Fission\n\n\n\nDOUBLE TROUBLE\n\n\nRachel uploads JoJo’s neural states to Chad’s brain, and also accidentally uploads them to Alex’s brain as well. As a result, both the person with Chad’s original body and the person with Alex’s original body wake up and say ‘My name is JoJo’. Both can tell you all about JoJo’s past; neither can tell you anything about Chad or Alex’s past. She also obliterates JoJo’s original body.\n\n\n\nWhat does the Same Body Account say about this case? What does the Soul Account say? What does the PDA account say?\n\nDraw a diagram. Label the people before the rewiring as ‘JoJo’, ‘Chad’, and ‘Alex’. Then label the people after as ‘A’ and ‘B’."
-  },
-  {
-    "objectID": "slides/personal_identity-activities.html#identity-death-and-survival",
-    "href": "slides/personal_identity-activities.html#identity-death-and-survival",
-    "title": "Personal Identity: Assessing the Options",
-    "section": "Identity, Death, and Survival",
-    "text": "Identity, Death, and Survival\nSuppose Jojo agreed to be part of Rachel’s experiment because she had terminal cancer. And suppose Rachel uploaded Jojo’s states to both Chad’s brain and Alex’s brain because the procedure only works half the time, and she wanted to increase Jojo’s chances of survival.\nDoes this seem right to you?\n\nIf Jojo’s states are successfully uploaded to Chad’s brain (but not Alex’s) Jojo survives.\nIf Jojo’s states are successfully uploaded to Alex’s brain (but not Chads’s) Jojo survives.\nIf Jojo’s states are successfully uploaded to both Alex and Chad’s brain, Jojo does not survive."
-  },
-  {
-    "objectID": "slides/wager-activities.html#reminders",
-    "href": "slides/wager-activities.html#reminders",
-    "title": "The Wager: Review and Activities",
-    "section": "Reminders",
-    "text": "Reminders\n\n\nI have your paragraphs from last week if you haven’t picked them up yet (no comments)\nFor today, we continue to discuss Chapter 2, “Why You Should Bet on God”\nNo class on Monday (Labor Day)\nFor next Wednesday, the reading is Chapter 3, “What Makes You You?”"
-  },
-  {
-    "objectID": "slides/wager-activities.html#expected-utility",
-    "href": "slides/wager-activities.html#expected-utility",
-    "title": "The Wager: Review and Activities",
-    "section": "Expected Utility",
-    "text": "Expected Utility\nThe Expected Utility of an outcome is the value of that outcome multiplied by its probability:\n\nIf a raffle gives you a 1% chance of winning $100, the expected utility of playing is $100 \\(\\times\\) 0.01 = $1.\nIf you pay $1 for a ticket:\n\n99 out of 100 times you will be out $1.\nBut 1 out 100 times you will be up $99."
-  },
-  {
-    "objectID": "slides/wager-activities.html#mega-millions",
-    "href": "slides/wager-activities.html#mega-millions",
-    "title": "The Wager: Review and Activities",
-    "section": "Mega Millions",
-    "text": "Mega Millions\n\nThe current cash jackpot for the “Mega Millions” lottery is $68.9 million and the odds of winning are 1 in 290,472,336. A ticket costs $5. Is that a good deal?"
-  },
-  {
-    "objectID": "slides/wager-activities.html#decision-matrices",
-    "href": "slides/wager-activities.html#decision-matrices",
-    "title": "The Wager: Review and Activities",
-    "section": "Decision Matrices",
-    "text": "Decision Matrices\nYou should choose the action that maximizes your expected utility. To figure out what action this is, you need to consider:\n\neach action available to you,\nand, for each action, each possible outcome of that action,\nand, for each outcome, its expected utility (that is, its value times its probability)"
-  },
-  {
-    "objectID": "slides/wager-activities.html#plea-bargain-or-trial",
-    "href": "slides/wager-activities.html#plea-bargain-or-trial",
-    "title": "The Wager: Review and Activities",
-    "section": "Plea Bargain or Trial?",
-    "text": "Plea Bargain or Trial?\n\n\n\n\nwin50%\nlose50%\nExpected Utility\n\n\n\n\nfight it\n0 years\n-15 years\n?\n\n\ntake the plea\n-5 years\n-5 years\n?\n\n\n\nYou have been arrested and charged with a crime that carries a 15 year sentence. You can take a plea deal and get that reduced to 5 years, or you can fight it in court. Your lawyer tells you your chances in court are a toss up. Calculate the expected utilities. What should you do?"
-  },
-  {
-    "objectID": "slides/wager-activities.html#el-abuelo-esta-loco",
-    "href": "slides/wager-activities.html#el-abuelo-esta-loco",
-    "title": "The Wager: Review and Activities",
-    "section": "El Abuelo Esta Loco",
-    "text": "El Abuelo Esta Loco\n\n\nYou want to watch the 1967 live-action film The Gnome-Mobile. You can stream it for $4. Or you can download a pirated copy. There is a one in a million chance you will get caught, and you live in a country with draconian anti-piracy laws, so if you do get caught, you will be fined $100,000.\nCreate a decision matrix and calculate the expected utility of each possible action. What should you do?"
-  },
-  {
-    "objectID": "slides/wager-activities.html#the-argument-for-betting-on-god",
-    "href": "slides/wager-activities.html#the-argument-for-betting-on-god",
-    "title": "The Wager: Review and Activities",
-    "section": "The Argument for Betting on God",
-    "text": "The Argument for Betting on God\n\n\n\n\nGod (\\(p_1\\))\nNo God (\\(p_2\\))\nExpected Utility\n\n\n\n\nBelieve\n\\(\\infty\\)\n\\(f_1\\)\n\\(\\infty\\)\n\n\nDon’t\n\\(f_2\\)\n\\(f_3\\)\n\\(f_4\\)\n\n\n\n\n\n\nArgument\n\n\n\nBG1. One should always choose the option with the greatest expected utility.\nBG2. Believing in God has a greater expected utility than not believing in God.\nBG3. So you should believe in God."
-  },
-  {
-    "objectID": "slides/wager-activities.html#believing-in-god",
-    "href": "slides/wager-activities.html#believing-in-god",
-    "title": "The Wager: Review and Activities",
-    "section": "Believing in God",
-    "text": "Believing in God\n\n\n\n\nGod (\\(p_1\\))\nNo God (\\(p_2\\))\nExpected Utility\n\n\n\n\nBelieve\n\\(\\infty\\)\n\\(f_1\\)\n\\(\\infty\\)\n\n\nDon’t\n\\(f_2\\)\n\\(f_3\\)\n\\(f_4\\)\n\n\n\nObjections:\n\n\n\nInfinite good doesn’t make sense.\nThe probabilities are unknowable.\nBelieving in God isn’t enough to get heaven.\n\n\n\nThe rewards of heaven could finite.\nThere are many Gods.\nBelief isn’t voluntary."
-  },
-  {
-    "objectID": "slides/wager-activities.html#infinite-goods",
-    "href": "slides/wager-activities.html#infinite-goods",
-    "title": "The Wager: Review and Activities",
-    "section": "Infinite Goods?",
-    "text": "Infinite Goods?\n\nSuppose you’re choosing between two offers for free movie tickets. One gives you free entry to twenty movies. The other gives you limitless free entry: no matter how many times you go for free, you can always go for free again. Do you throw your hands up and say “How could I possibly decide?? It makes no sense to talk about limitless tickets!” No, you accept the second offer. And it makes perfect sense why you would: because the second offer, despite involving an infinite quantity, gives you more of a good thing than the first.\n\n\nIf your capacity to enjoy goods is finite, then receiving more goods than can possibly enjoy is not better for you.\nFor many goods, the more goods of that type you enjoy, the less value each one has.\n\nA yacht would make me happier. A second would also increase my happiness, but by a bit less.\nLet \\(y\\) be the boost from the first yacht, and suppose each additional yacht boosts my happiness by half as much as the one before:\n\\[y + \\frac{y}{2} + \\frac{y}{4} + \\frac{y}{8} + \\frac{y}{16} ... = 2y\\]\nThe benefit of infinitely many yachts is not \\(\\infty\\), but just \\(2y\\)."
-  },
-  {
-    "objectID": "slides/wager-activities.html#unknowable-odds",
-    "href": "slides/wager-activities.html#unknowable-odds",
-    "title": "The Wager: Review and Activities",
-    "section": "Unknowable Odds",
-    "text": "Unknowable Odds\n\n\n\n\nGod (\\(p_1\\))\nNo God (\\(p_2\\))\nExpected Utility\n\n\n\n\nBelieve\n\\(\\infty\\)\n\\(f_1\\)\n\\(\\infty\\)\n\n\nDon’t\n\\(f_2\\)\n\\(f_3\\)\n\\(f_4\\)\n\n\n\nHow do we assign probabilities \\(p_1\\) and \\(p_2\\)?"
-  },
-  {
-    "objectID": "slides/wager-activities.html#other-conditions",
-    "href": "slides/wager-activities.html#other-conditions",
-    "title": "The Wager: Review and Activities",
-    "section": "Other Conditions",
-    "text": "Other Conditions\n\n\n\n\nGod (\\(p_1\\))\nNo God (\\(p_2\\))\nExpected Utility\n\n\n\n\nBelieve and Pray\n\\(\\infty\\)\n\\(f_1\\)\n\\(\\infty\\)\n\n\nBelieve and Don’t Pray\n\\(f_2\\)\n\\(f_3\\)\n\\(f_4\\)\n\n\nDon’t Believe or Pray\n\\(f_5\\)\n\\(f_6\\)\n\\(f_7\\)"
-  },
-  {
-    "objectID": "slides/wager-activities.html#stingy-god",
-    "href": "slides/wager-activities.html#stingy-god",
-    "title": "The Wager: Review and Activities",
-    "section": "Stingy God",
-    "text": "Stingy God\n\n\n\n\nGenerous God25%\nStingy God25%\nNo God 50%\nExpected Utility\n\n\n\n\nBelieve\n\\(\\infty\\)\n\\(f_1\\)\n\\(f_2\\)\n\\(\\infty\\)\n\n\nDon’t Believe\n\\(f_3\\)\n\\(f_4\\)\n\\(f_5\\)\n\\(f_6\\)"
-  },
-  {
-    "objectID": "slides/wager-activities.html#many-gods",
-    "href": "slides/wager-activities.html#many-gods",
-    "title": "The Wager: Review and Activities",
-    "section": "Many Gods",
-    "text": "Many Gods\n\n\n\n\nGod120%\nGod220%\nGod320%\nNo God40%\nExpected Utility\n\n\n\n\nBelieve in God1\n\\(\\infty\\)\n\\(f_1\\)\n\\(f_2\\)\n\\(f_3\\)\n\\(\\infty\\)\n\n\nBelieve in God2\n\\(f_4\\)\n\\(\\infty\\)\n\\(f_5\\)\n\\(f_6\\)\n\\(\\infty\\)\n\n\nBelieve in God3\n\\(f_7\\)\n\\(f_8\\)\n\\(\\infty\\)\n\\(f_9\\)\n\\(\\infty\\)\n\n\nDon’t Believe\n\\(f_{10}\\)\n\\(f_{11}\\)\n\\(f_{12}\\)\n\\(f_{13}\\)\n\\(f_{14}\\)"
-  },
-  {
-    "objectID": "slides/wager-activities.html#believing-isnt-voluntary",
-    "href": "slides/wager-activities.html#believing-isnt-voluntary",
-    "title": "The Wager: Review and Activities",
-    "section": "Believing isn’t Voluntary",
-    "text": "Believing isn’t Voluntary\nThe book argues that, even though belief isn’t voluntary, you can still adopt the strategy of trying to get yourself to believe: go to church, avoid spending time with atheists, pray, read religious texts, etc.\nOf course, if you try, there is a chance you will succeed and a chance you will fail:\n\n\n\n\nGod exists and you succeed25%\nGod exists and you fail25%\nGod doesn’t exist50%\nExpected Utility\n\n\n\n\nTry to Believe\n\\(\\infty\\)\n\\(f_1\\)\n\\(f_2\\)\n\\(\\infty\\)\n\n\n\nWhat is the expected utility if you don’t try?"
-  },
-  {
-    "objectID": "slides/wager-activities.html#prompt",
-    "href": "slides/wager-activities.html#prompt",
-    "title": "The Wager: Review and Activities",
-    "section": "Prompt",
-    "text": "Prompt\nThis is not an essay. This is a thinking-through-writing exercise. I want you to write about whatever it is that you find most puzzling or confusing about the Argument for Betting on God. Try to put your puzzlement or confusion into words, as if you were explaining it to a classmate. If there is something you are struggling to understand, think about what it might mean or how it might work, and explain those different possibilities, and think about which, if any, seems promising."
-  },
-  {
-    "objectID": "slides/wager-activities.html#gather-your-thoughts",
-    "href": "slides/wager-activities.html#gather-your-thoughts",
-    "title": "The Wager: Review and Activities",
-    "section": "Gather Your Thoughts",
-    "text": "Gather Your Thoughts\n\n\nThink about whatever it is that you find most puzzling or confusing about the argument. What do you find puzzling or confusing about it? Are there ways you might try to understand it? What are those? Why are they not quite working out?"
-  },
-  {
-    "objectID": "slides/wager-activities.html#share-your-thoughts",
-    "href": "slides/wager-activities.html#share-your-thoughts",
-    "title": "The Wager: Review and Activities",
-    "section": "Share Your Thoughts",
-    "text": "Share Your Thoughts\n\n\nTurn to someone, and share your thoughts."
-  },
-  {
-    "objectID": "slides/wager-activities.html#writing",
-    "href": "slides/wager-activities.html#writing",
-    "title": "The Wager: Review and Activities",
-    "section": "Writing",
-    "text": "Writing\n\n\nThis is not an essay. This is a thinking-through-writing exercise. I want you to write about whatever it is that you find most puzzling or confusing about the argument. Try to put your puzzlement or confusion into words, as if you were explaining it to a classmate. If there is something you are struggling to understand, think about what it might mean or how it might work, and explain those different possibilities, and think about which, if any, seems promising."
-  },
-  {
-    "objectID": "slides/wager-activities.html#sharing",
-    "href": "slides/wager-activities.html#sharing",
-    "title": "The Wager: Review and Activities",
-    "section": "Sharing",
-    "text": "Sharing\n\n\nSwap papers with someone. Read each other’s papers, then discuss."
+    "objectID": "slides/skepticism.html#the-anti-circularity-argument-for-uj3",
+    "href": "slides/skepticism.html#the-anti-circularity-argument-for-uj3",
+    "title": "You Know Nothing",
+    "section": "The Anti-Circularity Argument for UJ3",
+    "text": "The Anti-Circularity Argument for UJ3\n\n\n\nArgument\n\n\n\nAC1. All inductive reasoning about the future assumes the truth of FLP.\nAC2. If all inductive reasoning about the future assumes the truth of FLP, then any inductive reasoning about FLP is circular.\nAC3. No belief can be justified by circular reasoning.\nUJ3. So, FLP isn’t justified by inductive reasoning.\n\n\n\n\n\nAC2: Circularity: when the conclusion also appears as a premise.\nAC3: Using the Magic 8-Ball to check whether the Magic 8-Ball can be trusted. Asking ChatGPT if what it just said is actually true."
   },
   {
     "objectID": "slides/personal_identity.html#reminders",
@@ -1428,102 +707,949 @@
     "text": "The Same Soul Account\n\n\\(A\\) at \\(t\\) is the same person as \\(B\\) at \\(t^*\\) if and only if\n\n\\(A\\) has the same soul as \\(B\\).\n\n\nTwo interpretations:\n\nYou are your soul.\n\nbut then, soul-talk is just person-talk, and this account is uninformative.\n\nYour soul is not you, but an immaterial part of you.\n\nbut then, how can we ever know whether or not \\(A\\) at \\(t\\) and \\(A\\) at \\(t^*\\) have the same soul?\n\n\n\n\nsuggest soul swap cases where psych continuity doesn’t follow the soul.\nlead them to the view that the soul is what accounts for psych continuity."
   },
   {
-    "objectID": "slides/skepticism.html#reminders",
-    "href": "slides/skepticism.html#reminders",
-    "title": "You Know Nothing",
+    "objectID": "slides/wager-activities.html#reminders",
+    "href": "slides/wager-activities.html#reminders",
+    "title": "The Wager: Review and Activities",
     "section": "Reminders",
-    "text": "Reminders\n\nWe are discussing “You know nothing”.\nI want to divide things up differently this week:\n\nToday: you cannot know about the future\nWednesday: you cannot know about the present\n\nWill return exams at end of class."
+    "text": "Reminders\n\n\nI have your paragraphs from last week if you haven’t picked them up yet (no comments)\nFor today, we continue to discuss Chapter 2, “Why You Should Bet on God”\nNo class on Monday (Labor Day)\nFor next Wednesday, the reading is Chapter 3, “What Makes You You?”"
   },
   {
-    "objectID": "slides/skepticism.html#short-answer",
-    "href": "slides/skepticism.html#short-answer",
-    "title": "You Know Nothing",
-    "section": "Short Answer",
-    "text": "Short Answer\n5 questions \\(\\times\\) 5 points each.\nSome common errors:\n\ngiving all three omnis when asked to define just one: 1/5\ngiving two out of three (including the correct one): 3/5\nomniscience is the science of everything: 0/5"
+    "objectID": "slides/wager-activities.html#expected-utility",
+    "href": "slides/wager-activities.html#expected-utility",
+    "title": "The Wager: Review and Activities",
+    "section": "Expected Utility",
+    "text": "Expected Utility\nThe Expected Utility of an outcome is the value of that outcome multiplied by its probability:\n\nIf a raffle gives you a 1% chance of winning $100, the expected utility of playing is $100 \\(\\times\\) 0.01 = $1.\nIf you pay $1 for a ticket:\n\n99 out of 100 times you will be out $1.\nBut 1 out 100 times you will be up $99."
   },
   {
-    "objectID": "slides/skepticism.html#essays",
-    "href": "slides/skepticism.html#essays",
-    "title": "You Know Nothing",
-    "section": "Essays",
-    "text": "Essays\nI graded essays using letter grades. Here is my rough intuitive scale:\n\n\n\nGrade\nAssessment\n\n\n\n\nA\nNice clean clear answer.\n\n\nB\nMuddled. Some serious mistakes. But not completely confused\n\n\nC\nShows some knowledge of topic, but very confused.\n\n\nD\nBarely on topic.\n\n\nF/0\nNo answer. Or completely off topic."
+    "objectID": "slides/wager-activities.html#mega-millions",
+    "href": "slides/wager-activities.html#mega-millions",
+    "title": "The Wager: Review and Activities",
+    "section": "Mega Millions",
+    "text": "Mega Millions\n\nThe current cash jackpot for the “Mega Millions” lottery is $68.9 million and the odds of winning are 1 in 290,472,336. A ticket costs $5. Is that a good deal?"
   },
   {
-    "objectID": "slides/skepticism.html#bonus-questions",
-    "href": "slides/skepticism.html#bonus-questions",
-    "title": "You Know Nothing",
-    "section": "Bonus Questions",
-    "text": "Bonus Questions\nI appreciated those who answered these. Especially those of you who answered 10—the invitation to share your own thoughts! Pretty much everyone who said anything here got 5 points."
+    "objectID": "slides/wager-activities.html#decision-matrices",
+    "href": "slides/wager-activities.html#decision-matrices",
+    "title": "The Wager: Review and Activities",
+    "section": "Decision Matrices",
+    "text": "Decision Matrices\nYou should choose the action that maximizes your expected utility. To figure out what action this is, you need to consider:\n\neach action available to you,\nand, for each action, each possible outcome of that action,\nand, for each outcome, its expected utility (that is, its value times its probability)"
   },
   {
-    "objectID": "slides/skepticism.html#reflection-questions",
-    "href": "slides/skepticism.html#reflection-questions",
-    "title": "You Know Nothing",
-    "section": "Reflection Questions",
-    "text": "Reflection Questions\n\nThe argument that FLP is unjustified turns on the claim that induction and direct observation are the only ways of knowing about the world. Is that true? When a detective solves a crime unlike any crime she’s ever seen before, is she using resources other than induction and direct observation? If so, how might that help with resisting the argument?\nI say that the argument that you do not know that the sun will rise in the west tonight extends to all of your beliefs about the future. Is that true? Can it be used to undermine the belief that 1+1 will still be equal to 2 tomorrow? If not, why not?\nCan you think of a way of modifying some of the arguments from this chapter to produce an argument that we can’t know anything about the past? (Or anything about the present not around here?)\nI argued that no one knows anything about the world. Are my arguments self-defeating? Can they also be used to show that I don’t know that no one knows anything about the world? If so, is that a problem? If not, why not?"
+    "objectID": "slides/wager-activities.html#plea-bargain-or-trial",
+    "href": "slides/wager-activities.html#plea-bargain-or-trial",
+    "title": "The Wager: Review and Activities",
+    "section": "Plea Bargain or Trial?",
+    "text": "Plea Bargain or Trial?\n\n\n\n\nwin50%\nlose50%\nExpected Utility\n\n\n\n\nfight it\n0 years\n-15 years\n?\n\n\ntake the plea\n-5 years\n-5 years\n?\n\n\n\nYou have been arrested and charged with a crime that carries a 15 year sentence. You can take a plea deal and get that reduced to 5 years, or you can fight it in court. Your lawyer tells you your chances in court are a toss up. Calculate the expected utilities. What should you do?"
   },
   {
-    "objectID": "slides/skepticism.html#direct-observation",
-    "href": "slides/skepticism.html#direct-observation",
-    "title": "You Know Nothing",
-    "section": "Direct Observation",
-    "text": "Direct Observation\nUsing your sense organs to obtain information that is immediately available to you about your surrounding environment.\n\nWhat are some things you know by DO? Some things you know, but not by DO?"
+    "objectID": "slides/wager-activities.html#el-abuelo-esta-loco",
+    "href": "slides/wager-activities.html#el-abuelo-esta-loco",
+    "title": "The Wager: Review and Activities",
+    "section": "El Abuelo Esta Loco",
+    "text": "El Abuelo Esta Loco\n\n\nYou want to watch the 1967 live-action film The Gnome-Mobile. You can stream it for $4. Or you can download a pirated copy. There is a one in a million chance you will get caught, and you live in a country with draconian anti-piracy laws, so if you do get caught, you will be fined $100,000.\nCreate a decision matrix and calculate the expected utility of each possible action. What should you do?"
   },
   {
-    "objectID": "slides/skepticism.html#induction",
-    "href": "slides/skepticism.html#induction",
-    "title": "You Know Nothing",
-    "section": "Induction",
-    "text": "Induction\nInduction is when you reason from a regularity in what you have directly observed to a conclusion about things that you have not directly observed."
+    "objectID": "slides/wager-activities.html#the-argument-for-betting-on-god",
+    "href": "slides/wager-activities.html#the-argument-for-betting-on-god",
+    "title": "The Wager: Review and Activities",
+    "section": "The Argument for Betting on God",
+    "text": "The Argument for Betting on God\n\n\n\n\nGod (\\(p_1\\))\nNo God (\\(p_2\\))\nExpected Utility\n\n\n\n\nBelieve\n\\(\\infty\\)\n\\(f_1\\)\n\\(\\infty\\)\n\n\nDon’t\n\\(f_2\\)\n\\(f_3\\)\n\\(f_4\\)\n\n\n\n\n\n\nArgument\n\n\n\nBG1. One should always choose the option with the greatest expected utility.\nBG2. Believing in God has a greater expected utility than not believing in God.\nBG3. So you should believe in God."
   },
   {
-    "objectID": "slides/skepticism.html#induction-1",
-    "href": "slides/skepticism.html#induction-1",
-    "title": "You Know Nothing",
-    "section": "Induction",
-    "text": "Induction\n\n\n\nArgument\n\n\n\nIn the past, the sun has always set in the west (direct observation)\nSo, the sun will set in the west tonight. (not directly observed)\n\n\n\n\n\nIs this a good inference? Can we improve it by appeal to astronomy?"
+    "objectID": "slides/wager-activities.html#believing-in-god",
+    "href": "slides/wager-activities.html#believing-in-god",
+    "title": "The Wager: Review and Activities",
+    "section": "Believing in God",
+    "text": "Believing in God\n\n\n\n\nGod (\\(p_1\\))\nNo God (\\(p_2\\))\nExpected Utility\n\n\n\n\nBelieve\n\\(\\infty\\)\n\\(f_1\\)\n\\(\\infty\\)\n\n\nDon’t\n\\(f_2\\)\n\\(f_3\\)\n\\(f_4\\)\n\n\n\nObjections:\n\n\n\nInfinite good doesn’t make sense.\nThe probabilities are unknowable.\nBelieving in God isn’t enough to get heaven.\n\n\n\nThe rewards of heaven could finite.\nThere are many Gods.\nBelief isn’t voluntary."
   },
   {
-    "objectID": "slides/skepticism.html#flp",
-    "href": "slides/skepticism.html#flp",
-    "title": "You Know Nothing",
-    "section": "FLP",
-    "text": "FLP\n\nFuture Like Past (FLP)\n\nFuture states of the world will be like past states of the world.\n\n\nIf you didn’t believe something like FLP, then you wouldn’t think that facts about your past observations gave you any evidence for claims about the future.\n\nInduction—at least, future-oriented induction—seems to presuppose FLP."
+    "objectID": "slides/wager-activities.html#infinite-goods",
+    "href": "slides/wager-activities.html#infinite-goods",
+    "title": "The Wager: Review and Activities",
+    "section": "Infinite Goods?",
+    "text": "Infinite Goods?\n\nSuppose you’re choosing between two offers for free movie tickets. One gives you free entry to twenty movies. The other gives you limitless free entry: no matter how many times you go for free, you can always go for free again. Do you throw your hands up and say “How could I possibly decide?? It makes no sense to talk about limitless tickets!” No, you accept the second offer. And it makes perfect sense why you would: because the second offer, despite involving an infinite quantity, gives you more of a good thing than the first.\n\n\nIf your capacity to enjoy goods is finite, then receiving more goods than can possibly enjoy is not better for you.\nFor many goods, the more goods of that type you enjoy, the less value each one has.\n\nA yacht would make me happier. A second would also increase my happiness, but by a bit less.\nLet \\(y\\) be the boost from the first yacht, and suppose each additional yacht boosts my happiness by half as much as the one before:\n\\[y + \\frac{y}{2} + \\frac{y}{4} + \\frac{y}{8} + \\frac{y}{16} ... = 2y\\]\nThe benefit of infinitely many yachts is not \\(\\infty\\), but just \\(2y\\)."
   },
   {
-    "objectID": "slides/skepticism.html#against-knowing-the-future",
-    "href": "slides/skepticism.html#against-knowing-the-future",
-    "title": "You Know Nothing",
+    "objectID": "slides/wager-activities.html#unknowable-odds",
+    "href": "slides/wager-activities.html#unknowable-odds",
+    "title": "The Wager: Review and Activities",
+    "section": "Unknowable Odds",
+    "text": "Unknowable Odds\n\n\n\n\nGod (\\(p_1\\))\nNo God (\\(p_2\\))\nExpected Utility\n\n\n\n\nBelieve\n\\(\\infty\\)\n\\(f_1\\)\n\\(\\infty\\)\n\n\nDon’t\n\\(f_2\\)\n\\(f_3\\)\n\\(f_4\\)\n\n\n\nHow do we assign probabilities \\(p_1\\) and \\(p_2\\)?"
+  },
+  {
+    "objectID": "slides/wager-activities.html#other-conditions",
+    "href": "slides/wager-activities.html#other-conditions",
+    "title": "The Wager: Review and Activities",
+    "section": "Other Conditions",
+    "text": "Other Conditions\n\n\n\n\nGod (\\(p_1\\))\nNo God (\\(p_2\\))\nExpected Utility\n\n\n\n\nBelieve and Pray\n\\(\\infty\\)\n\\(f_1\\)\n\\(\\infty\\)\n\n\nBelieve and Don’t Pray\n\\(f_2\\)\n\\(f_3\\)\n\\(f_4\\)\n\n\nDon’t Believe or Pray\n\\(f_5\\)\n\\(f_6\\)\n\\(f_7\\)"
+  },
+  {
+    "objectID": "slides/wager-activities.html#stingy-god",
+    "href": "slides/wager-activities.html#stingy-god",
+    "title": "The Wager: Review and Activities",
+    "section": "Stingy God",
+    "text": "Stingy God\n\n\n\n\nGenerous God25%\nStingy God25%\nNo God 50%\nExpected Utility\n\n\n\n\nBelieve\n\\(\\infty\\)\n\\(f_1\\)\n\\(f_2\\)\n\\(\\infty\\)\n\n\nDon’t Believe\n\\(f_3\\)\n\\(f_4\\)\n\\(f_5\\)\n\\(f_6\\)"
+  },
+  {
+    "objectID": "slides/wager-activities.html#many-gods",
+    "href": "slides/wager-activities.html#many-gods",
+    "title": "The Wager: Review and Activities",
+    "section": "Many Gods",
+    "text": "Many Gods\n\n\n\n\nGod120%\nGod220%\nGod320%\nNo God40%\nExpected Utility\n\n\n\n\nBelieve in God1\n\\(\\infty\\)\n\\(f_1\\)\n\\(f_2\\)\n\\(f_3\\)\n\\(\\infty\\)\n\n\nBelieve in God2\n\\(f_4\\)\n\\(\\infty\\)\n\\(f_5\\)\n\\(f_6\\)\n\\(\\infty\\)\n\n\nBelieve in God3\n\\(f_7\\)\n\\(f_8\\)\n\\(\\infty\\)\n\\(f_9\\)\n\\(\\infty\\)\n\n\nDon’t Believe\n\\(f_{10}\\)\n\\(f_{11}\\)\n\\(f_{12}\\)\n\\(f_{13}\\)\n\\(f_{14}\\)"
+  },
+  {
+    "objectID": "slides/wager-activities.html#believing-isnt-voluntary",
+    "href": "slides/wager-activities.html#believing-isnt-voluntary",
+    "title": "The Wager: Review and Activities",
+    "section": "Believing isn’t Voluntary",
+    "text": "Believing isn’t Voluntary\nThe book argues that, even though belief isn’t voluntary, you can still adopt the strategy of trying to get yourself to believe: go to church, avoid spending time with atheists, pray, read religious texts, etc.\nOf course, if you try, there is a chance you will succeed and a chance you will fail:\n\n\n\n\nGod exists and you succeed25%\nGod exists and you fail25%\nGod doesn’t exist50%\nExpected Utility\n\n\n\n\nTry to Believe\n\\(\\infty\\)\n\\(f_1\\)\n\\(f_2\\)\n\\(\\infty\\)\n\n\n\nWhat is the expected utility if you don’t try?"
+  },
+  {
+    "objectID": "slides/wager-activities.html#prompt",
+    "href": "slides/wager-activities.html#prompt",
+    "title": "The Wager: Review and Activities",
+    "section": "Prompt",
+    "text": "Prompt\nThis is not an essay. This is a thinking-through-writing exercise. I want you to write about whatever it is that you find most puzzling or confusing about the Argument for Betting on God. Try to put your puzzlement or confusion into words, as if you were explaining it to a classmate. If there is something you are struggling to understand, think about what it might mean or how it might work, and explain those different possibilities, and think about which, if any, seems promising."
+  },
+  {
+    "objectID": "slides/wager-activities.html#gather-your-thoughts",
+    "href": "slides/wager-activities.html#gather-your-thoughts",
+    "title": "The Wager: Review and Activities",
+    "section": "Gather Your Thoughts",
+    "text": "Gather Your Thoughts\n\n\nThink about whatever it is that you find most puzzling or confusing about the argument. What do you find puzzling or confusing about it? Are there ways you might try to understand it? What are those? Why are they not quite working out?"
+  },
+  {
+    "objectID": "slides/wager-activities.html#share-your-thoughts",
+    "href": "slides/wager-activities.html#share-your-thoughts",
+    "title": "The Wager: Review and Activities",
+    "section": "Share Your Thoughts",
+    "text": "Share Your Thoughts\n\n\nTurn to someone, and share your thoughts."
+  },
+  {
+    "objectID": "slides/wager-activities.html#writing",
+    "href": "slides/wager-activities.html#writing",
+    "title": "The Wager: Review and Activities",
+    "section": "Writing",
+    "text": "Writing\n\n\nThis is not an essay. This is a thinking-through-writing exercise. I want you to write about whatever it is that you find most puzzling or confusing about the argument. Try to put your puzzlement or confusion into words, as if you were explaining it to a classmate. If there is something you are struggling to understand, think about what it might mean or how it might work, and explain those different possibilities, and think about which, if any, seems promising."
+  },
+  {
+    "objectID": "slides/wager-activities.html#sharing",
+    "href": "slides/wager-activities.html#sharing",
+    "title": "The Wager: Review and Activities",
+    "section": "Sharing",
+    "text": "Sharing\n\n\nSwap papers with someone. Read each other’s papers, then discuss."
+  },
+  {
+    "objectID": "slides/personal_identity-activities.html#reminders",
+    "href": "slides/personal_identity-activities.html#reminders",
+    "title": "Personal Identity: Assessing the Options",
+    "section": "Reminders",
+    "text": "Reminders\n\nFor today, we are still discussing Chapter 3, “What Makes You You?”\nNext time, Wednesday, Sep 16th, is our first midterm.\nClosed book, closed notes, no devices\nBring a bluebook and a pen or pencil"
+  },
+  {
+    "objectID": "slides/personal_identity-activities.html#how-to-prepare-for-the-midterm",
+    "href": "slides/personal_identity-activities.html#how-to-prepare-for-the-midterm",
+    "title": "Personal Identity: Assessing the Options",
+    "section": "How to Prepare for the Midterm",
+    "text": "How to Prepare for the Midterm\n\nReview the slides and your notes (you have been taking notes?)\nReview the readings\nI expect you to know the main arguments we have discussed:\n\nnot just “be vaguely aware of them”\nbe able to actually re-present them, premise by premise."
+  },
+  {
+    "objectID": "slides/personal_identity-activities.html#physical-accounts",
+    "href": "slides/personal_identity-activities.html#physical-accounts",
+    "title": "Personal Identity: Assessing the Options",
+    "section": "Physical Accounts",
+    "text": "Physical Accounts\n\nThe Fingerprints Account\n\n\\(A\\) at time \\(t\\) is the same person as \\(B\\) at time \\(t^*\\) if and only if \\(A\\) and \\(B\\) have indistinguishable fingerprints.\n\nThe DNA Account\n\n\\(A\\) at \\(t\\) is the same person as \\(B\\) at \\(t^*\\) if and only if \\(A\\) and \\(B\\) have indistinguishable DNA.\n\nThe Same Body Account\n\n\\(A\\) at \\(t\\) is the same person as \\(B\\) at \\(t^*\\) if and only if \\(A\\) has the same body as \\(B\\)."
+  },
+  {
+    "objectID": "slides/personal_identity-activities.html#psychological-accounts",
+    "href": "slides/personal_identity-activities.html#psychological-accounts",
+    "title": "Personal Identity: Assessing the Options",
+    "section": "Psychological Accounts",
+    "text": "Psychological Accounts\n\nThe Psychological Matching Account\n\nA$ at \\(t\\) is the same person as \\(B\\) at \\(t^*\\) if and only if \\(A\\)’s psychological features are exactly the same as \\(B\\)’s psychological features.\n\nThe Psychological Overlap Account\n\n\\(A\\) at \\(t\\) is the same person as \\(B\\) at \\(t^*\\) if and only if \\(A\\)’s psychological features are mostly the same as \\(B\\)’s psychological features.\n\nThe Psychological Descendant Account\n\n\\(A\\) at \\(t\\) is the same person as \\(B\\) at \\(t^*\\) if and only if \\(A\\) is either a psychological ancestor or a psychological descendant of \\(B\\)."
+  },
+  {
+    "objectID": "slides/personal_identity-activities.html#objections-to-same-body-account",
+    "href": "slides/personal_identity-activities.html#objections-to-same-body-account",
+    "title": "Personal Identity: Assessing the Options",
+    "section": "Objections to Same Body Account",
+    "text": "Objections to Same Body Account"
+  },
+  {
+    "objectID": "slides/personal_identity-activities.html#the-conjoined-twins-argument",
+    "href": "slides/personal_identity-activities.html#the-conjoined-twins-argument",
+    "title": "Personal Identity: Assessing the Options",
+    "section": "The Conjoined Twins Argument",
+    "text": "The Conjoined Twins Argument\n\n\n\nArgument\n\n\n\nCT1. If the Same Body Account is true, then either Abby and Brittany have different bodies or Abby and Brittany are the same person.\nCT2. Abby and Brittany have the same body.\nCT3. Abby and Brittany are not the same person.\nCT4. So, the Same Body Account is false.\n\n\n\n\n\ndefense of CT2: there is no way to divide their shared body into two bodies that respects the fact that, e.g., they both have a liver."
+  },
+  {
+    "objectID": "slides/personal_identity-activities.html#defense-of-ct3-not-same-person",
+    "href": "slides/personal_identity-activities.html#defense-of-ct3-not-same-person",
+    "title": "Personal Identity: Assessing the Options",
+    "section": "Defense of CT3: not same person",
+    "text": "Defense of CT3: not same person\n\n\n\nCONJOINED DRAMA\n\n\nAbby is dating Arie. Brittany is secretly in love with Arie and has always been jealous of their relationship. One night, while Abby is sleeping, Brittany confesses her feelings to Arie, and Arie kisses her. Later, when Abby finds out, she strangles Brittany.\n\n\n\n\n\n\nArgument\n\n\n\nIf Abby and Brittany are one person, then no cheating occurred, and Abby didn’t kill anyone, she just removed one of her two heads.\nCheating did occur, and Abby did kill someone.\nSo Abby and Brittany are not one person, but two."
+  },
+  {
+    "objectID": "slides/personal_identity-activities.html#the-body-swap-argument",
+    "href": "slides/personal_identity-activities.html#the-body-swap-argument",
+    "title": "Personal Identity: Assessing the Options",
+    "section": "The Body Swap Argument",
+    "text": "The Body Swap Argument\n\n\n\nFreaky Friday\n\n\nOn Friday morning, something happens. The person in Anna’s body looks in the mirror in disbelief. “Why,” she thinks to herself, “am I in my teenage daughter’s body?” Meanwhile, the person in Tess’s body looks in the mirror in horror. “Why,” she thinks to herself, “am I in my mom’s middle-aged body?”\n\n\n\n\nThe person who looks in the mirror and asks, “Why am I in my teenage daughter’s body?” is the Mom, Tess, not the daughter, Anna.\nSo, the person in the teenage body before is Anna, the person in the teenage body after is Tess.\nSo the Same Body Account is false."
+  },
+  {
+    "objectID": "slides/personal_identity-activities.html#the-body-swap-argument-and-pda",
+    "href": "slides/personal_identity-activities.html#the-body-swap-argument-and-pda",
+    "title": "Personal Identity: Assessing the Options",
+    "section": "The Body Swap Argument and PDA",
+    "text": "The Body Swap Argument and PDA\nFREAKY FRIDAY is just one example among many. Can you think of other cases in which a person switches bodies?\n\n\nstar trek"
+  },
+  {
+    "objectID": "slides/personal_identity-activities.html#an-argument-for-pda",
+    "href": "slides/personal_identity-activities.html#an-argument-for-pda",
+    "title": "Personal Identity: Assessing the Options",
+    "section": "An Argument for PDA",
+    "text": "An Argument for PDA\n\n\n\nArgument\n\n\n\nPD1. The Psychological Descendant Account fits best with our intuitions about cases.\nPD2. We should accept the theory that fits best with our intuitions about cases.\nPD3. So, we should accept the PDA."
+  },
+  {
+    "objectID": "slides/personal_identity-activities.html#souls",
+    "href": "slides/personal_identity-activities.html#souls",
+    "title": "Personal Identity: Assessing the Options",
+    "section": "Souls?",
+    "text": "Souls?\n\nThe Same Soul Account\n\n\\(A\\) at \\(t\\) is the same person as \\(B\\) at \\(t^*\\) if and only if \\(A\\) has the same soul as \\(B\\).\n\n\nQuestion: What does the Soul Account say about FREAKY FRIDAY?"
+  },
+  {
+    "objectID": "slides/personal_identity-activities.html#what-is-a-soul",
+    "href": "slides/personal_identity-activities.html#what-is-a-soul",
+    "title": "Personal Identity: Assessing the Options",
+    "section": "What is a Soul?",
+    "text": "What is a Soul?\nA soul is an immaterial part of you—traditionally, the part responsible for your ability to think, and the part responsible for your ability to survive death.\nThe belief in souls is called Dualism—there are two fundamentally different kinds of substance in the world: material and immaterial.\nMaterialists reject Dualism, holding there are only material substances, and so there are no souls."
+  },
+  {
+    "objectID": "slides/personal_identity-activities.html#souls-and-persons",
+    "href": "slides/personal_identity-activities.html#souls-and-persons",
+    "title": "Personal Identity: Assessing the Options",
+    "section": "Souls and Persons",
+    "text": "Souls and Persons\n\n\n\nBlank Slate Reincarnation\n\n\nThe gods run a soul-cleaning shop. It works kind of like a laundry mat. When you die, your soul is sent to the shop, where it waits is turn to go through a soul-cleaning machine. This machine washes the soul clean of all lingering psychological remnants of its previous incarnation. Once clean, the soul is sent back into the world, where it enters the body of a newborn.\n\n\n\nYou share a part with the newborn. But are you the same person as the newborn?"
+  },
+  {
+    "objectID": "slides/personal_identity-activities.html#bodies-souls-and-pda",
+    "href": "slides/personal_identity-activities.html#bodies-souls-and-pda",
+    "title": "Personal Identity: Assessing the Options",
+    "section": "Bodies, Souls, and PDA",
+    "text": "Bodies, Souls, and PDA\nSo, to reiterate:\n\n\n\nArgument\n\n\n\nIP1. The Psychological Descendant Account fits best with our intuitions about cases.\nIP2. We should accept the theory that fits best with our intuitions about cases.\nIP3. So, we should accept the PDA."
+  },
+  {
+    "objectID": "slides/personal_identity-activities.html#objections-to-the-psychological-descendant-account",
+    "href": "slides/personal_identity-activities.html#objections-to-the-psychological-descendant-account",
+    "title": "Personal Identity: Assessing the Options",
+    "section": "Objections to the Psychological Descendant Account",
+    "text": "Objections to the Psychological Descendant Account"
+  },
+  {
+    "objectID": "slides/personal_identity-activities.html#amnesia",
+    "href": "slides/personal_identity-activities.html#amnesia",
+    "title": "Personal Identity: Assessing the Options",
+    "section": "Amnesia",
+    "text": "Amnesia\n\n\n\nTOTAL AMNESIA\n\n\nJiwoo is stranded on a deserted island. Adding injury to insult, a coconut fell on Jiwoo’s head at noon today, instantly resulting in total amnesia. She can’t remember how she got on the island or anything else about her past. She can’t even remember her own name.\n\n\n\nWhat does the PDA say about this case? Do you agree?"
+  },
+  {
+    "objectID": "slides/personal_identity-activities.html#blackout",
+    "href": "slides/personal_identity-activities.html#blackout",
+    "title": "Personal Identity: Assessing the Options",
+    "section": "Blackout",
+    "text": "Blackout\n\n\n\nTOTAL BLACKOUT\n\n\nMinjun is stranded on a deserted island. Adding injury to insult, a coconut fell on Minjun’s head at noon today, temporarily knocking him unconscious. While unconscious, he is not dreaming, nor does he have any thoughts or experiences or any physical sensations whatsoever. He is completely blacked out. When he finally awakens hours later, it will feel as if no time has passed.\n\n\n\nWhat does the PDA say about this case? Do you agree?"
+  },
+  {
+    "objectID": "slides/personal_identity-activities.html#fission",
+    "href": "slides/personal_identity-activities.html#fission",
+    "title": "Personal Identity: Assessing the Options",
+    "section": "Fission",
+    "text": "Fission\n\n\n\nDOUBLE TROUBLE\n\n\nRachel uploads JoJo’s neural states to Chad’s brain, and also accidentally uploads them to Alex’s brain as well. As a result, both the person with Chad’s original body and the person with Alex’s original body wake up and say ‘My name is JoJo’. Both can tell you all about JoJo’s past; neither can tell you anything about Chad or Alex’s past. She also obliterates JoJo’s original body.\n\n\n\nWhat does the Same Body Account say about this case? What does the Soul Account say? What does the PDA account say?\n\nDraw a diagram. Label the people before the rewiring as ‘JoJo’, ‘Chad’, and ‘Alex’. Then label the people after as ‘A’ and ‘B’."
+  },
+  {
+    "objectID": "slides/personal_identity-activities.html#identity-death-and-survival",
+    "href": "slides/personal_identity-activities.html#identity-death-and-survival",
+    "title": "Personal Identity: Assessing the Options",
+    "section": "Identity, Death, and Survival",
+    "text": "Identity, Death, and Survival\nSuppose Jojo agreed to be part of Rachel’s experiment because she had terminal cancer. And suppose Rachel uploaded Jojo’s states to both Chad’s brain and Alex’s brain because the procedure only works half the time, and she wanted to increase Jojo’s chances of survival.\nDoes this seem right to you?\n\nIf Jojo’s states are successfully uploaded to Chad’s brain (but not Alex’s) Jojo survives.\nIf Jojo’s states are successfully uploaded to Alex’s brain (but not Chads’s) Jojo survives.\nIf Jojo’s states are successfully uploaded to both Alex and Chad’s brain, Jojo does not survive."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Basic Issues in Philosophy",
+    "section": "",
+    "text": "This is the course website for:\n\nPHI 101-003 [Honors]\n\nMW 3:35PM – 4:50PM, Stevenson Hall 0229.\n\n\nI will not be using Canvas. To keep on top of readings and assignments, you need to check the schedule, come to class, and pay attention to in-class announcements. If you are worried about your grade, you can either calculate it for yourself or come to my office hours and ask me.\n\n    \n    \n  \n\n\n\n\n\n\nJoseph Badger, “Portrait of Two Children”, ca. 1760"
+  },
+  {
+    "objectID": "schedule.html",
+    "href": "schedule.html",
+    "title": "Schedule",
+    "section": "",
+    "text": "Week\nDate\nTopic\nReading\nSlides\n\n\n\n\n 1\nM 8/17\nWelcome!\n\n\n\n\nW 8/19\nArguments and Thought Experiments\nIntroduction\n\n\n\n 2\nM 8/24\n The Problem of Evil\n Can God Allow Suffering?\nSlides\n\n\nW 8/26\nSlides\n\n\n 3\nM 8/31\n Pascal’s Wager\n Why You Should Bet on God\nSlides\n\n\nW 9/2\nSlides\n\n\n 4\nM 9/7\nLabor Day — No Class\n\n\n\n\nW 9/9\n Personal Identity\n What Makes You You\nSlides\n\n\n 5\nM 9/14\nSlides\n\n\nW 9/16\nMidterm 1\n\n\n\n\n 6\nM 9/21\n Death\n Don’t Fear the Reaper\nSlides\n\n\nW 9/23\nSlides\n\n\n 7\nM 9/28\n Free Will\n No Freedom\nSlides\n\n\nW 9/30\nSlides\n\n\n 8\nM 10/5\n Skepticism\n You Know Nothing\nSlides\n\n\nW 10/7\nSlides\n\n\n 9\nM 10/12\n Political Authority\n Against Prisons and Taxes\nSlides\n\n\nW 10/14\n\n\n\n 10\nM 10/19\nTBD\n\n\n\n\nW 10/21\nMidterm 2\n\n\n\n\n 11\nM 10/26\n Abortion\n The Ethics of Abortion\nSlides\n\n\nW 10/28\n\n\n\n 12\nM 11/2\n Eating Animals\n Eating Animals is Immoral\nSlides\n\n\nW 11/4\n\n\n\n 13\nM 11/9\n Utilitarianism\n What Makes Things Right\n\n\n\nW 11/11\n\n\n\n 14\nM 11/16\nTBD by class\n\n\n\n\nW 11/18\nTBD by class\n\n\n\n\n  \nM 11/23\n Thanksgiving Break — No Class\n  \n  \n\n\nW 11/25\n\n\n 15\nM 11/30\nTBD by class\n\n\n\n\nW 12/2\nTBD by class\n\n\n\n\n Final\nM 12/7 – 12/12\nDate and time of final exam TBD by registrar"
+  },
+  {
+    "objectID": "syllabus.html",
+    "href": "syllabus.html",
+    "title": "Syllabus: Basic Issues in Philosophy (PHI 101.003, Honors)",
+    "section": "",
+    "text": "Instructor\n\nDavid Sanson\n\nOffice\n\nStevenson 341\n\n\n\n\nClass Meetings\n\nMW 3:35PM – 4:50PM, Stevenson 0229\n\nOffice Hours\n\nM noon–1:00PM; W 11:00AM–noon"
+  },
+  {
+    "objectID": "syllabus.html#basic-information",
+    "href": "syllabus.html#basic-information",
+    "title": "Syllabus: Basic Issues in Philosophy (PHI 101.003, Honors)",
+    "section": "",
+    "text": "Instructor\n\nDavid Sanson\n\nOffice\n\nStevenson 341\n\n\n\n\nClass Meetings\n\nMW 3:35PM – 4:50PM, Stevenson 0229\n\nOffice Hours\n\nM noon–1:00PM; W 11:00AM–noon"
+  },
+  {
+    "objectID": "syllabus.html#course-description",
+    "href": "syllabus.html#course-description",
+    "title": "Syllabus: Basic Issues in Philosophy (PHI 101.003, Honors)",
+    "section": "Course Description",
+    "text": "Course Description\nThis is a course about doing philosophy. We will spend the next 15 weeks doing philosophy together. Topics we will cover include: the existence of God, the nature of the self, death, free will, our knowledge of external world, the justification of political authority, the morality of abortion, the morality of eating meat, and the relationship between happiness, doing what is good, and doing what it is right. I have left space for additional topics at the end of the term. We will decide together what other topics we want to cover.\nThis is also an “honors” section. That means that our class size is a bit smaller, so I can give each of you a bit more attention. It also means that I expect a bit more from you than I expect from a typical ISU student. I am not going to assign you more work, but I expect you to do more with the work assigned. Hopefully, our our discussions will reflect this, and we will be able, collectively, to dig deeper into the material than would be possible in a non-honors section."
+  },
+  {
+    "objectID": "syllabus.html#why-bother-doing-philosophy",
+    "href": "syllabus.html#why-bother-doing-philosophy",
+    "title": "Syllabus: Basic Issues in Philosophy (PHI 101.003, Honors)",
+    "section": "Why bother doing philosophy?",
+    "text": "Why bother doing philosophy?\nPhilosophy tackles basic questions about existence, identity, knowledge, and value. These questions are important, but they are also hard to approach and hard to answer. Other fields balk at these questions or approach them obliquely. In Philosophy, we learn to face them head on.\nIt turns out that doing this is one of the best ways to train your mind to think clearly and carefully about hard problems. If you want to learn how to think clearly and carefully about hard quantitative problems, you should take more math classes. But if you want to learn how to think clearly and carefully about hard non-quantitative problems, you should study philosophy.\nWhat I am describing here is not an abstract academic skill. Studying philosophy will make you better at thinking about anything than most other people, and this has enormous practical value. Contrary to the “flipping burgers” stereotype, philosophy majors, on average, make better money than other humanities majors, and better money than most “applied” majors as well (sort by “Mid-Career Median Salary”). Philosophy is one of the most “AI-proof” majors. And Philosophy majors routinely outperform other majors on graduate entrance exams, including the GRE (graduate school), LSAT (law school), MCAT (medical school), and GMAT (business school). Turns out that being good at thinking about stuff is useful no matter how you hope to sell your labor in the future.\nBut what I am describing here are not (just) “transferable job skills”. To quote Ángel Pinillos (Philosophy, Arizona State University), “The Honest Case for the Humanities”:\n\nYou will, at some point, need to advocate for your child at her school. You will need to read a teacher’s email carefully enough to notice what it is and is not saying, and write a response that is firm without being inflammatory, and recognize when an administrator is performing concern rather than offering it. You will need to talk to a doctor about a parent’s care, or your own, and follow an argument about risk and tradeoff that the doctor is making quickly and imperfectly, and ask the question that exposes the assumption the doctor has not examined. You will need to understand the context of someone who grew up in a place very different from you, with radically different values and experiences. You will need to read a contract. You will need to read a ballot measure. You will need to argue, in public or in private, for the candidate or the policy you believe in, and you will need to do this against people who are themselves trained, motivated and may not have your best interest at heart.\nThese are not the higher reaches of the soul. They are not transcendental encounters with truth and beauty. They are ordinary citizenship and ordinary parenthood and ordinary adulthood, and they have material consequences — for your kid, for your parent, for your community, for the decisions that get made about you when you are not in the room.\n\nStudying Philosophy teaches these skills better than anything else in the university curriculum."
+  },
+  {
+    "objectID": "syllabus.html#learning-from-arguments",
+    "href": "syllabus.html#learning-from-arguments",
+    "title": "Syllabus: Basic Issues in Philosophy (PHI 101.003, Honors)",
+    "section": "Learning from Arguments",
+    "text": "Learning from Arguments\nOur textbook is a free, online, open-source text, Learning from Arguments.\nThe book is opinionated, but the opinions are not the opinions of the author. Each chapter presents, as clearly and powerfully as possible, an argument for a controversial philosophical position: The first presents an argument that God does not exist; the second, an argument that you should believe in God; the third, that you are neither your body nor your mind; the fourth, that you shouldn’t fear death; the fifth, that we do not have free will; the sixth, that we know nothing about the external world; the seventh, that no government has the right to tax or incarcerate its citizens; the eighth, that abortion is morally wrong; the ninth, that eating meat is morally wrong; and the tenth chapter defends Utilitarianism—the idea that what makes an action right or wrong is ultimately a matter of how much it increases or decreases our overall happiness.\nThe point here is not to convince you of each these positions. Nor is the point to “spark debate” by “playing devil’s advocate”.\nThe point is to present you with the strongest and clearest possible argument for each position. Your job, as a reader, is to think carefully and hard about these arguments. If you think they go wrong, your job is to figure out and articulate how they go wrong. Through this process, you will gain deeper insight into what you believe and why you believe it, and you will gain better understanding of the underlying philosophical puzzles and problems that might lead to disagreement on these issues."
+  },
+  {
+    "objectID": "syllabus.html#schedule",
+    "href": "syllabus.html#schedule",
+    "title": "Syllabus: Basic Issues in Philosophy (PHI 101.003, Honors)",
+    "section": "Schedule",
+    "text": "Schedule\nIn a typical week, I will ask you to read one chapter from the textbook. I will spend part of Monday’s class lecturing on the material from that chapter, before opening things up to discussion and in-class activities, focused primarily on understanding the arguments from the chapter. After class, you should then re-read that chapter, and think more about the issues it raises in light of the class lecture and discussion. On Wednesday, we will continue our discussion, shifting our focus from the task of understanding the arguments to the task of articulating objections and alternatives to the position defended in the text."
+  },
+  {
+    "objectID": "syllabus.html#grades",
+    "href": "syllabus.html#grades",
+    "title": "Syllabus: Basic Issues in Philosophy (PHI 101.003, Honors)",
+    "section": "Grades",
+    "text": "Grades\nYour grade for this course is based on three graded exams—two midterms and a final—and an indeterminate number of ungraded pass/fail in-class writing exercises. Each exam is worth 25% of your grade, so, together, the exams make up 75% of your grade. In-class exercises make up the remaining 25%.\n\nExams\nExams are in-class, handwritten, closed book and closed notes, and comprise a mix of short answer and essay questions. You can find the dates for the midterms on the course schedule. The date and time of the final exam is has not yet been fixed: the registrar sets these dates for all of your classes at some point later in the term.\nMidterms will be returned to you with comments, a score, and a letter grade. The first midterm will cover material from the first third of the class; the second midterm, material from the second third. The final exam will be cumulative, but weighted toward material from the last third of the class.\n\n\nIn-class Exercises\nClasses will often include in-class exercises. These exercises are not announced ahead of time: they flow from whatever it is we are doing that day, and are closely tied to the readings, lecture, and discussion. They are turned in and graded pass/fail. Failed exercises will be returned with a brief comment explaining why what was done was not sufficient to receive a pass.\nMissed in-class exercises cannot be made up. An in-class exercise missed due to an excused absence does not count against your grade.\n\n\nCalculating Your Grade\nBecause each exam is worth 25% of your course grade, and the exercises are also worth 25%, you can calculate your course grade by taking the average of each of your these grades:\n\\[\n\\mathrm{Course\\ \\%} = \\dfrac{\\mathrm{Exercises\\ \\%} + \\mathrm{Midterm\\ \\%} + \\mathrm{Midterm\\ \\%} + \\mathrm{Final\\ \\%}}{4}\n\\tag{1}\\]\nYou can also use this formula to answer questions like, “How well do I have to do on the final to get an A?”\n\\[\n\\mathrm{93\\%} \\ge \\dfrac{\\mathrm{Exercises\\ \\%} + \\mathrm{Midterm\\ \\%} + \\mathrm{Midterm\\ \\%} + \\mathrm{?\\ \\%}}{4}\n\\tag{2}\\]\nAnd, if you want to calculate your “grade so far”, you can simply take the average of your current exercises percentage and whatever midterms are completed. For example, if you have received grades for the two midterms but have not yet taken the final:\n\\[\n\\mathrm{Grade\\ so\\ far\\ \\%} = \\dfrac{\\mathrm{Exercises\\ so\\ far\\ \\%} + \\mathrm{Midterm\\ \\%} + \\mathrm{Midterm\\ \\%}}{3}\n\\tag{3}\\]\nTo do these calculations, you need to know the percentage of exercises you have passed and the letter grade you received on each exam and how to convert that letter grade to a percentage. You also need to know how to convert that calculated percentage into a course letter grade.\nUse Table 1 to convert your exam letter grades into percentages, and use Table 2 to convert the average percentage back into a letter grade. Note that I will not typically use the percentages in Table 2 when assigning letter grades for the exams. Instead, I will apply a more flexible and generous conversion scale that reflects my judgment of what grade a given exam score deserves, given the construction of the exam, my scoring system, and the class’s overall performance. (This is one thing professors sometimes mean when they say that they say that the exams will be “graded on a curve.”) So when it comes to exams, what matters for your course grade is the letter grade you receive, not your numeric score or percentage.\n\n\n\nTable 1: Converting Letter Grades to Percentages\n\n\n\n\n\nLetter Grade\nPercentage\n\n\n\n\nA\n95%\n\n\nA-\n91.5%\n\n\nB+\n88.5%\n\n\nB\n85%\n\n\nB-\n81.5%\n\n\nC+\n78.5%\n\n\nC\n75%\n\n\nC-\n71.5%\n\n\nD+\n68.5%\n\n\nD\n65%\n\n\nD-\n61.5%\n\n\nF\n0%\n\n\n\n\n\n\n\n\n\nTable 2: Converting Percentages to Letter Grades\n\n\n\n\n\nPercentage Complete\nLetter Grade\n\n\n\n\n93% and above\nA\n\n\n90% and above\nA-\n\n\n87% and above\nB+\n\n\n83% and above\nB\n\n\n80% and above\nB-\n\n\n77% and above\nC+\n\n\n73% and above\nC\n\n\n70% and above\nC-\n\n\n67% and above\nD+\n\n\n63% and above\nD\n\n\n60% and above\nD-\n\n\nbelow 60%\nF"
+  },
+  {
+    "objectID": "syllabus.html#attendance",
+    "href": "syllabus.html#attendance",
+    "title": "Syllabus: Basic Issues in Philosophy (PHI 101.003, Honors)",
+    "section": "Attendance",
+    "text": "Attendance\nYou are responsible for attending class and completing all assigned academic work. You should familiarize yourself with University policy to understand which absences are excused and which are not. If you need advice on how to manage an extended absence or want notification of your absence sent to your instructors, contact the Dean of Students Office."
+  },
+  {
+    "objectID": "syllabus.html#consequences-of-absence",
+    "href": "syllabus.html#consequences-of-absence",
+    "title": "Syllabus: Basic Issues in Philosophy (PHI 101.003, Honors)",
+    "section": "Consequences of Absence",
+    "text": "Consequences of Absence\nFormally, absence will impact your grade by depriving you of the opportunity to complete in-class exercises. Informally, absence deprives you of the opportunity to learn from lecture, discussion, and in-class exercises."
+  },
+  {
+    "objectID": "syllabus.html#accommodations",
+    "href": "syllabus.html#accommodations",
+    "title": "Syllabus: Basic Issues in Philosophy (PHI 101.003, Honors)",
+    "section": "Accommodations",
+    "text": "Accommodations\nAny student needing to arrange a reasonable accommodation for a documented disability and/or medical/mental health condition should contact Student Access and Accommodation Services at 308 Fell Hall, Office Phone (309) 438-5853, Video Phone (309) 319-7682 or visit the website at &lt;StudentAccess.IllinoisState.edu&gt;.\nI am also open to arranging reasonable accommodation regardless of documentation. If there is something that would help you, ask."
+  },
+  {
+    "objectID": "syllabus.html#academic-integrity",
+    "href": "syllabus.html#academic-integrity",
+    "title": "Syllabus: Basic Issues in Philosophy (PHI 101.003, Honors)",
+    "section": "Academic Integrity",
+    "text": "Academic Integrity\nYou are expected to be honest in all academic work, consistent with the academic integrity policy as outlined in the Code of Student Conduct and any additional syllabus language. All work is to be appropriately cited when it is borrowed, directly or indirectly, from another source. Unauthorized and/or unacknowledged collaboration on any work, or the presentation of someone else’s work as your own, is a form of academic dishonesty under the Code of Student Conduct.\nContent generated by an Artificial Intelligence third-party service or site (AI-generated content) without proper authorization and attribution is a form of academic dishonesty. If you are unsure about whether something used in your work requires attribution, please reach out to me to discuss it as soon as possible. Allegations of academic dishonesty will be referred to Student Conduct and Community Responsibilities, for review under the Student Code of Conduct. Students found responsible for academic dishonesty may also be assigned a grade penalty by the instructor."
+  },
+  {
+    "objectID": "syllabus.html#generative-ai-use-not-permitted",
+    "href": "syllabus.html#generative-ai-use-not-permitted",
+    "title": "Syllabus: Basic Issues in Philosophy (PHI 101.003, Honors)",
+    "section": "Generative AI Use Not Permitted",
+    "text": "Generative AI Use Not Permitted\nIn this course, the use of generative AI tools such as ChatGPT, Microsoft Copilot, Adobe Firefly, Google AI Mode, or Apple Intelligence is not permitted to support the completion of any assigned work. This includes, but is not limited to, using generative AI tools to ideate, pre-plan, edit, translate, or otherwise create original material you claim to be solely your creation. Use of a generative AI tool to complete assigned work in whole or in part may be referred under the Code of Student Conduct academic dishonesty provisions for further action by the Dean of Students Office."
+  },
+  {
+    "objectID": "syllabus.html#permission-required-to-record",
+    "href": "syllabus.html#permission-required-to-record",
+    "title": "Syllabus: Basic Issues in Philosophy (PHI 101.003, Honors)",
+    "section": "Permission Required to Record",
+    "text": "Permission Required to Record\nStudents who wish to use phones or other audio or video devices to record classroom lectures/discussions or take photographs must obtain written permission from the instructor except with an approved accommodation from Student Access and Accommodations Services. Approved recordings are to be used solely for the purposes of individual or group study with other students enrolled in the class. They may not be reproduced, shared with those not enrolled in the class, or uploaded to publicly accessible web environments. Violation of this classroom rule may result in referral to the Student Conduct and Community Responsibilities (SCCR) office for disciplinary action."
+  },
+  {
+    "objectID": "slides/evil-activities.html#reminders",
+    "href": "slides/evil-activities.html#reminders",
+    "title": "The Problem of Evil",
+    "section": "Reminders",
+    "text": "Reminders\n\n\nFor today, we are continuing our examination of the arguments from Chapter 1, “Can God Allow Suffering?”\nFor next week, read Chapter 2, “Why You Should Bet on God.”\nRemember, your goal should be, after reading, to be able to articulate claims like,\n\n“I disagree because…” is a sign that you did engage.\n“I agree even though…” is also a sign that you engaged."
+  },
+  {
+    "objectID": "slides/evil-activities.html#the-argument-from-pointless-suffering",
+    "href": "slides/evil-activities.html#the-argument-from-pointless-suffering",
+    "title": "The Problem of Evil",
+    "section": "The Argument from Pointless Suffering",
+    "text": "The Argument from Pointless Suffering\n\n\n\nArgument\n\n\n\nPS1. There is pointless suffering in the world\nPS2. If there is pointless suffering in the world, then there is no omnibeing.\nPS3. So, there is no omnibeing.\n\n\n\n\n\nFour objections to PS1: Appreciated Goods, Building Character, Free Will, Hidden Reasons."
+  },
+  {
+    "objectID": "slides/evil-activities.html#appreciated-goods",
+    "href": "slides/evil-activities.html#appreciated-goods",
+    "title": "The Problem of Evil",
+    "section": "Appreciated Goods",
+    "text": "Appreciated Goods\n\nPS1 is false. The point of suffering is that it allows us to appreciate good things.\nFirst objection: someone who experiences less pleasure and then a lot more pleasure can appreciate how much better the greater pleasure is, without ever suffering.\nSecond objection: We endure more suffering than is needed to appreciate good things.\n\n\n\novercast day vs. midwestern winter\nsore back vs. chronic back pain"
+  },
+  {
+    "objectID": "slides/evil-activities.html#building-character",
+    "href": "slides/evil-activities.html#building-character",
+    "title": "The Problem of Evil",
+    "section": "Building Character",
+    "text": "Building Character\n\nPS1 is false. The point of suffering is to build character (courage, empathy, loyalty, perseverance, self-control, forgiveness, trustworthiness, …)\nObjection: Not all suffering builds character.\n\n\n\nwithout suffering, there is no danger. Without facing danger, cannot develop courage.\nWithout profound acts of betrayal, there could be no profound acts of forgiveness.\nWithout the horrors and hardships of war, no one could reach the levels of courage and selflessness that soldiers attain.\nSince these sufferings are necessary in order to have the best kind of world—one with courageous and forgiving people—we can see why God would allow them.\n\nBut:\n\nsoliders who develop PTSD instead of courage.\ntorture followed by death without chance to build character."
+  },
+  {
+    "objectID": "slides/evil-activities.html#free-will",
+    "href": "slides/evil-activities.html#free-will",
+    "title": "The Problem of Evil",
+    "section": "Free Will",
+    "text": "Free Will\n\nPS1 is false. Suffering is an inevitable consequence of free will, and the value free will outweighs the badness of suffering.\nFirst objection: Not all suffering: disease, natural disaster, wolves.\nSecond objection: Why couldn’t God intervene to block the worst consequences of free will? (Toddler, chainsaw)\nThird objection: If God is omniscient, we don’t have free will anyway."
+  },
+  {
+    "objectID": "slides/evil-activities.html#hidden-reasons",
+    "href": "slides/evil-activities.html#hidden-reasons",
+    "title": "The Problem of Evil",
+    "section": "Hidden Reasons",
+    "text": "Hidden Reasons\n\nPS1 is false. All suffering serves a greater purpose, but often that purpose is hidden to us.\nObjection: This is possible—we cannot rule it out with 100% certainty. But it is wildly implausible, and something you should not believe. (Nornia analogy)"
+  },
+  {
+    "objectID": "slides/evil-activities.html#an-all-but-omnibeing",
+    "href": "slides/evil-activities.html#an-all-but-omnibeing",
+    "title": "The Problem of Evil",
+    "section": "An All-But-Omnibeing?",
+    "text": "An All-But-Omnibeing?\n\nPerhaps God is not an omnibeing.\nPerhaps an omnibeing is impossible?\n\nno one can bring about someone else’s free choice;\nno one can know what that free choice will be before it is made;\nmorality requires compromises (e.g., between justice and forgiveness).\n\nPerhaps God is an all-but-omnibeing: someone very very powerful, who knows everything that can be known, and is very very good…"
+  },
+  {
+    "objectID": "slides/evil-activities.html#a-revised-argument",
+    "href": "slides/evil-activities.html#a-revised-argument",
+    "title": "The Problem of Evil",
+    "section": "A Revised Argument",
+    "text": "A Revised Argument\n\n\n\nArgument\n\n\n\nPV1. There is pointless suffering in the world that an all-but-omnibeing could have prevented.\nPV2. If there is pointless suffering in the world of this sort, then there is no all-but-omnibeing.\nPV3. So, there is no all-but-omnibeing.\n\n\n\n\nPV1 is harder to defend than PS1. The idea behind PV1 is that, even if an all-but-omnibeing cannot prevent all pointless suffering, there is some pointless suffering in our world that they could have and should have prevented."
+  },
+  {
+    "objectID": "slides/evil-activities.html#overview-of-writing-exercise",
+    "href": "slides/evil-activities.html#overview-of-writing-exercise",
+    "title": "The Problem of Evil",
+    "section": "Overview of Writing Exercise",
+    "text": "Overview of Writing Exercise\n\nSpend a moment gathering your thoughts.\nShare your thoughts with someone else.\nSpend ten minutes writing up your thoughts in a paragraph.\nShare what you have written and get/give constructive feedback.\nRevise.\nShare what you have written to get/give critical feedback."
+  },
+  {
+    "objectID": "slides/evil-activities.html#gather-your-thoughts",
+    "href": "slides/evil-activities.html#gather-your-thoughts",
+    "title": "The Problem of Evil",
+    "section": "Gather Your Thoughts",
+    "text": "Gather Your Thoughts\n\n\nWhat do you see as the strongest possible objection to the Argument from Pointless Suffering? Which premise should someone who believes in an omnibeing (or an all-but-omnibeing) deny, and why? Is your objection the same as one of the four discussed? If so, how do you respond to the objection(s) from the book? If not, what objections do you anticipate?\n(You can do this in your head, or you can jot down notes for yourself.)"
+  },
+  {
+    "objectID": "slides/evil-activities.html#share-your-thoughts",
+    "href": "slides/evil-activities.html#share-your-thoughts",
+    "title": "The Problem of Evil",
+    "section": "Share Your Thoughts",
+    "text": "Share Your Thoughts\n\n\nTurn to someone sitting next to you, compare notes, and discuss. (If needed, three of you should form a group of three.) Don’t let one person dominate. Be sure that each person gets a chance to share their thoughts."
+  },
+  {
+    "objectID": "slides/evil-activities.html#put-your-thoughts-in-writing",
+    "href": "slides/evil-activities.html#put-your-thoughts-in-writing",
+    "title": "The Problem of Evil",
+    "section": "Put Your Thoughts in Writing",
+    "text": "Put Your Thoughts in Writing\n\n\nWrite a short argumentative paragraph, in which you state your objection as clearly as possible, present the strongest anticipated response to your objection, and explain why you think that response does not work.\nIf you have time, revise your paragraph for clarity and concision: omit needless words; try to say exactly what you mean; explain everything as explicitly as possible."
+  },
+  {
+    "objectID": "slides/evil-activities.html#share-your-writing",
+    "href": "slides/evil-activities.html#share-your-writing",
+    "title": "The Problem of Evil",
+    "section": "Share Your Writing",
+    "text": "Share Your Writing\n\n\nTurn to somebody else sitting near you, and exchange essays. (If our number is odd, three of you need to do a three-way share: A shares with B, B with C, and C with A.)\nAs you read your peer’s writing, focus first on understanding and constructive ideas. If there is something you don’t understand, or find unclear, mark it as unclear. If you have an idea about how they could develop their point further, jot it down. Avoid, for the moment, raising objections."
+  },
+  {
+    "objectID": "slides/evil-activities.html#receive-feedback",
+    "href": "slides/evil-activities.html#receive-feedback",
+    "title": "The Problem of Evil",
+    "section": "Receive Feedback",
+    "text": "Receive Feedback\n\n\nPass the papers back to their authors. Pick one author to “go first”. Share your feedback with the author and discuss for one minute. Then switch roles for the second minute. If you are in a three-way share, switch roles after 45 seconds, and then again at 1 minute and 30 seconds."
+  },
+  {
+    "objectID": "slides/evil-activities.html#revise",
+    "href": "slides/evil-activities.html#revise",
+    "title": "The Problem of Evil",
+    "section": "Revise",
+    "text": "Revise\n\n\nRevise your writing in light of the feedback you just received."
+  },
+  {
+    "objectID": "slides/evil-activities.html#share-your-revisions",
+    "href": "slides/evil-activities.html#share-your-revisions",
+    "title": "The Problem of Evil",
+    "section": "Share Your Revisions",
+    "text": "Share Your Revisions\n\n\nTurn to somebody else sitting near you, and exchange essays. (If needed, some other group of three should do a three-way share this time.)\nThis time, I want you to focus on objections. Think about what your peer is arguing, and try to come up with at least two possible objections. Think about which of those objections you think is the strongest."
+  },
+  {
+    "objectID": "slides/evil-activities.html#share-objections",
+    "href": "slides/evil-activities.html#share-objections",
+    "title": "The Problem of Evil",
+    "section": "Share Objections",
+    "text": "Share Objections\n\n\nPass the papers back to their authors. Pick one author to “go first”. Share your objections with the author. Discuss. After two minutes, switch roles. If you are in a three-way share, switch roles after 1 minute and 30 seconds, and again after 3 minutes."
+  },
+  {
+    "objectID": "slides/evil-activities.html#open-share",
+    "href": "slides/evil-activities.html#open-share",
+    "title": "The Problem of Evil",
+    "section": "Open Share",
+    "text": "Open Share\n\nWhat did you learn about the problem of evil? Thoughts now about which objection(s) seem most promising?\nHow did the writing process work? Examples of especially useful or unexpected feedback? Were there things that only became clear to you when you tried to write things down?\nWere there problems with the process? Are there guardrails we should agree to for future exercises to mitigate those problems?"
+  },
+  {
+    "objectID": "slides/evil-activities.html#private-share",
+    "href": "slides/evil-activities.html#private-share",
+    "title": "The Problem of Evil",
+    "section": "Private Share",
+    "text": "Private Share\nWrite up a short reflection on where you stand now, after the exercise, compared to where you were before the exercise."
+  },
+  {
+    "objectID": "slides/evil-activities.html#turn-in-your-work",
+    "href": "slides/evil-activities.html#turn-in-your-work",
+    "title": "The Problem of Evil",
+    "section": "Turn in your Work",
+    "text": "Turn in your Work\n\nMake sure to put your name at the top!"
+  },
+  {
+    "objectID": "slides/skepticism-dreams.html#reminders",
+    "href": "slides/skepticism-dreams.html#reminders",
+    "title": "You Know Nothing: Dreaming",
+    "section": "Reminders",
+    "text": "Reminders\n\nWe are discussing the second part of “You know nothing”.\nI divided things up differently this week:\n\nMonday: you cannot know about the future\nWednesday: you cannot know about the present\n\nI returned exams on Monday. You can pick yours up at the end of class."
+  },
+  {
+    "objectID": "slides/skepticism-dreams.html#induction-and-flp",
+    "href": "slides/skepticism-dreams.html#induction-and-flp",
+    "title": "You Know Nothing: Dreaming",
+    "section": "Induction and FLP",
+    "text": "Induction and FLP\n\n\n\nArgument\n\n\n\nIn the past, the sun has always set in the west.\nSo, the sun will set in the west tonight.\n\n\n\n\n\nFuture Like Past (FLP)\n\nFuture states of the world will be like past states of the world.\n\n\nWithout FLP, (1) would not be evidence for (2)."
+  },
+  {
+    "objectID": "slides/skepticism-dreams.html#against-knowing-the-future",
+    "href": "slides/skepticism-dreams.html#against-knowing-the-future",
+    "title": "You Know Nothing: Dreaming",
     "section": "Against Knowing the Future",
-    "text": "Against Knowing the Future\n\n\n\nArgument\n\n\n\nKF1. If you are not justified in believing that FLP is true, then your belief that the sun will set in the west tomorrow is unjustified.\nKF2. You are not justified in believing that FLP is true.\nKF3. So, your belief that the sun will set in the west tomorrow is unjustified.\nKF4. If your belief that the sun will set in the west tomorrow is unjustified, then you don’t know that the sun will set in the west tomorrow.\nKF5. So, you don’t know that the sun will set in the west tomorrow.\n\n\n\n\n\nThis generalizes to any belief about the future. All of your beliefs about how things will be in the future are unjustified. You don’t know what’s going to happen one year from now, one hour from now, or even one second from now."
+    "text": "Against Knowing the Future\n\n\n\nArgument\n\n\n\nKF1. If you are not justified in believing that FLP is true, then your belief that the sun will set in the west tomorrow is unjustified.\nKF2. You are not justified in believing that FLP is true.\nKF3. So, your belief that the sun will set in the west tomorrow is unjustified.\nKF4. If your belief that the sun will set in the west tomorrow is unjustified, then you don’t know that the sun will set in the west tomorrow.\nKF5. So, you don’t know that the sun will set in the west tomorrow.\n\n\n\n\n\nKF4: Knowledge requires justification. You are justified in believing something when you have a good reason to believe it.\nKF1: Your belief that the sun will set in the west tomorrow is based on FLP."
   },
   {
-    "objectID": "slides/skepticism.html#knowledge-and-justification",
-    "href": "slides/skepticism.html#knowledge-and-justification",
-    "title": "You Know Nothing",
-    "section": "Knowledge and Justification",
-    "text": "Knowledge and Justification\n\n\n\nArgument\n\n\n\nKF4. If your belief that the sun will set in the west tomorrow is unjustified, then you don’t know that the sun will set in the west tomorrow.\n\n\n\n\nWhat is the difference between a belief that happens to be true and knowledge?\n\n\nlucky guesses: urn examples.\ndo you believe that there are snakes in Hawaii?\nconfidently bad at math example"
+    "objectID": "slides/skepticism-dreams.html#kf2-your-belief-in-flp-is-unjustified",
+    "href": "slides/skepticism-dreams.html#kf2-your-belief-in-flp-is-unjustified",
+    "title": "You Know Nothing: Dreaming",
+    "section": "KF2: Your belief in FLP is unjustified",
+    "text": "KF2: Your belief in FLP is unjustified\n\n\n\nArgument\n\n\n\nUJ1. If your belief in FLP is justified, then it is either justified by direct observation or by inductive reasoning.\nUJ2. Your belief in FLP isn’t justified by direct observation.\nUJ3. Your belief in FLP isn’t justified by inductive reasoning.\nKF2. So, your belief in FLP is unjustified.\n\n\n\n\n\nUJ1: There are other sources of knowledge—introspection, mathematical proof. But these won’t get you knowledge of the external world.\nUJ2: You cannot directly observe the future."
   },
   {
-    "objectID": "slides/skepticism.html#kf1-and-flp",
-    "href": "slides/skepticism.html#kf1-and-flp",
-    "title": "You Know Nothing",
-    "section": "KF1 and FLP",
-    "text": "KF1 and FLP\n\n\n\nThe Faulty Foundation Argument\n\n\n\nFF1. Your belief that the sun will set in the west tomorrow is based on FLP.\nFF2. If a belief is based on something that you aren’t justified in believing, then that belief itself is unjustified.\nKF1. So, if you are not justified in believing that FLP is true, then your belief that the sun will set in the west tomorrow is unjustified.\n\n\n\n\n\nif they get hung up on ways that the future won’t resemble the past:\n\n\nFuture Like Past in Expected Ways (FLP*)\n\nFuture states of the world will be like past states of the world except in respects in which we can expect them to differ.\n\n\n\nIf they are wondering about FF2, give them power pose:\n\n\n\nPOWER POSE\n\n\nJared is getting ready for a job interview, and thinks it will help his chances if he spends five minutes “power posing” in front of the mirror. When his fiancée Ashley asks him why he thinks that will help, Jared tells her that scientists have shown that power posing releases performance-enhancing hormones into your bloodstream. Skeptical, Ashley does some Googling and informs Jared that the power-posing study has been completely discredited and is now widely regarded as “pseudo-science.”"
+    "objectID": "slides/skepticism-dreams.html#uj3-and-circularity",
+    "href": "slides/skepticism-dreams.html#uj3-and-circularity",
+    "title": "You Know Nothing: Dreaming",
+    "section": "UJ3 and Circularity",
+    "text": "UJ3 and Circularity\n\n\n\nArgument\n\n\n\nAC1. All inductive reasoning about the future assumes the truth of FLP.\nAC2. If all inductive reasoning about the future assumes the truth of FLP, then any inductive reasoning about FLP is circular.\nAC3. No belief can be justified by circular reasoning.\nUJ3. So, FLP isn’t justified by inductive reasoning."
   },
   {
-    "objectID": "slides/skepticism.html#kf2-and-trouble-for-flp",
-    "href": "slides/skepticism.html#kf2-and-trouble-for-flp",
-    "title": "You Know Nothing",
-    "section": "KF2 and trouble for FLP",
-    "text": "KF2 and trouble for FLP\n\n\n\nFLP is Unjustified\n\n\n\nUJ1. If your belief in FLP is justified, then it is either justified by direct observation or by inductive reasoning.\nUJ2. Your belief in FLP isn’t justified by direct observation.\nUJ3. Your belief in FLP isn’t justified by inductive reasoning.\nKF2. So, your belief in FLP is unjustified.\n\n\n\n\n\nThe key here is UJ3.\nUJ1: There are other sources of knowledge—introspection, mathematical proof. But these won’t get you knowledge of the external world.\nUJ2: You cannot directly observe the future.\nRefection question:\n\nThe argument turns on the claim that induction and direct observation are the only ways of knowing about the world. Is that true? When a detective solves a crime unlike any crime she’s ever seen before, is she using resources other than induction and direct observation? If so, how might that help with resisting the argument?"
+    "objectID": "slides/skepticism-dreams.html#dreaming",
+    "href": "slides/skepticism-dreams.html#dreaming",
+    "title": "You Know Nothing: Dreaming",
+    "section": "Dreaming",
+    "text": "Dreaming\n\n\nThe Dreaming Hypothesis (TDH)\n\nYou are currently lying down in bed dreaming about being in philosophy class."
   },
   {
-    "objectID": "slides/skepticism.html#the-anti-circularity-argument-for-uj3",
-    "href": "slides/skepticism.html#the-anti-circularity-argument-for-uj3",
-    "title": "You Know Nothing",
-    "section": "The Anti-Circularity Argument for UJ3",
-    "text": "The Anti-Circularity Argument for UJ3\n\n\n\nArgument\n\n\n\nAC1. All inductive reasoning about the future assumes the truth of FLP.\nAC2. If all inductive reasoning about the future assumes the truth of FLP, then any inductive reasoning about FLP is circular.\nAC3. No belief can be justified by circular reasoning.\nUJ3. So, FLP isn’t justified by inductive reasoning.\n\n\n\n\n\nAC2: Circularity: when the conclusion also appears as a premise.\nAC3: Using the Magic 8-Ball to check whether the Magic 8-Ball can be trusted. Asking ChatGPT if what it just said is actually true."
+    "objectID": "slides/skepticism-dreams.html#the-dreaming-argument",
+    "href": "slides/skepticism-dreams.html#the-dreaming-argument",
+    "title": "You Know Nothing: Dreaming",
+    "section": "The Dreaming Argument",
+    "text": "The Dreaming Argument\n\n\n\nArgument\n\n\n\nDR1. If you have no way of knowing that TDH is false, then you don’t know that you’re sitting down reading.\nDR2. You have no way of knowing that TDH is false.\nDR3. So you don’t know that you’re sitting down reading."
+  },
+  {
+    "objectID": "slides/skepticism-dreams.html#the-competing-hypotheses-argument",
+    "href": "slides/skepticism-dreams.html#the-competing-hypotheses-argument",
+    "title": "You Know Nothing: Dreaming",
+    "section": "The Competing Hypotheses Argument",
+    "text": "The Competing Hypotheses Argument\n\n\n\nArgument\n\n\n\nCH1. One knows a certain thing only if one has some way of knowing that all competing hypotheses are false.\nCH2. TDH is a hypothesis that competes with your belief that you’re sitting down reading.\nDR1. So, if you have no way of knowing that TDH is false, then you don’t know that you’re sitting down reading.\n\n\n\n\n\nCH1: You don’t know that the bird you see is a hawk if you cannot rule out the hypothesis that it is an eagle or a falcon."
+  },
+  {
+    "objectID": "slides/skepticism-dreams.html#the-argument-from-deduction",
+    "href": "slides/skepticism-dreams.html#the-argument-from-deduction",
+    "title": "You Know Nothing: Dreaming",
+    "section": "The Argument from Deduction",
+    "text": "The Argument from Deduction\n\n\n\nArgument\n\n\n\nDE1. If you know you’re sitting down reading, then you can deduce that TDH is false from things you know.\nDE2. If you can deduce something from things you know, then you have a way of knowing that thing.\nDE3. So, if you know you’re sitting down reading, then you have a way of knowing that TDH is false."
+  },
+  {
+    "objectID": "slides/skepticism-dreams.html#deducing-that-tdh-is-false",
+    "href": "slides/skepticism-dreams.html#deducing-that-tdh-is-false",
+    "title": "You Know Nothing: Dreaming",
+    "section": "Deducing that TDH is false",
+    "text": "Deducing that TDH is false\n\nI’m sitting down reading.\nIf I’m sitting down reading, then I’m sitting.\nIf I’m sitting, then I’m not lying down.\nIf I’m not lying down, then I’m not lying down dreaming.\nIf I’m not lying down dreaming, then TDH is false.\nSo, TDH is false."
+  },
+  {
+    "objectID": "slides/skepticism-dreams.html#contraposition-dr1-and-de3",
+    "href": "slides/skepticism-dreams.html#contraposition-dr1-and-de3",
+    "title": "You Know Nothing: Dreaming",
+    "section": "Contraposition: DR1 and DE3",
+    "text": "Contraposition: DR1 and DE3\nThese are equivalent, because ‘if P then Q’ is equivalent to ‘if not Q then not P’:\n\n\n\nArgument\n\n\n\nDE3. If you know you’re sitting down reading, then you have a way of knowing that TDH is false.\nDR1. If you have no way of knowing that TDH is false, then you don’t know that you’re sitting down reading.\n\n\n\n\n\n\nIf you live in Normal, then you live in Illinois.\nIf you live in Illinois then you live in Normal.\nIf you don’t live in Illinois, then you don’t live in Normal.\nIf you don’t live in Normal then you don’t live in Illinois."
+  },
+  {
+    "objectID": "slides/skepticism-dreams.html#the-dreaming-argument-1",
+    "href": "slides/skepticism-dreams.html#the-dreaming-argument-1",
+    "title": "You Know Nothing: Dreaming",
+    "section": "The Dreaming Argument",
+    "text": "The Dreaming Argument\n\n\n\nArgument\n\n\n\nDR1. If you have no way of knowing that TDH is false, then you don’t know that you’re sitting down reading.\nDR2. You have no way of knowing that TDH is false.\nDR3. So you don’t know that you’re sitting down reading."
+  },
+  {
+    "objectID": "slides/skepticism-dreams.html#the-no-evidence-argument",
+    "href": "slides/skepticism-dreams.html#the-no-evidence-argument",
+    "title": "You Know Nothing: Dreaming",
+    "section": "The No Evidence Argument",
+    "text": "The No Evidence Argument\n\n\n\nArgument\n\n\n\nNE1. If you have no evidence against something, then you have no way of knowing it’s false.\nNE2. You have no evidence against TDH.\nDR2. So, you have no way of knowing that TDH is false.\n\n\n\n\n\nencourage discussion of the idea that there might be tests for whether or not you are dreaming."
+  },
+  {
+    "objectID": "slides/skepticism-dreams.html#the-no-useful-tests-argument",
+    "href": "slides/skepticism-dreams.html#the-no-useful-tests-argument",
+    "title": "You Know Nothing: Dreaming",
+    "section": "The No Useful Tests Argument",
+    "text": "The No Useful Tests Argument\n\n\n\nArgument\n\n\n\nNU1. If you don’t know that a dreaming test is reliable, then you can’t know whether you’re dreaming by using it.\nNU2. You can never know that a dreaming test is reliable.\nNU3. So, you can never know whether you’re dreaming by using a dreaming test.\n\n\n\n\n\nNU1: Spinning top example from Inception. If you don’t know this is a good test, you cannot know your not dreaming by using it.\nNU2: All the apparent past evidence you might have that the test is reliable could have happened in a dream!"
+  },
+  {
+    "objectID": "slides/freedom.html#reminders",
+    "href": "slides/freedom.html#reminders",
+    "title": "Free Will",
+    "section": "Reminders",
+    "text": "Reminders\n\nFor today and next time, we are discussing Chapter 5, “No Freedom”\nI am working on your exams. I will return them with comments."
+  },
+  {
+    "objectID": "slides/freedom.html#the-argument-for-freedom",
+    "href": "slides/freedom.html#the-argument-for-freedom",
+    "title": "Free Will",
+    "section": "The Argument for Freedom",
+    "text": "The Argument for Freedom\n\n\n\nArgument\n\n\n\nFR1. Sometimes you perform an action after deciding to perform that action.\nFR2. If one performs an action after deciding to perform it, then one performs that action freely.\nFR3. So some of your actions are performed freely."
+  },
+  {
+    "objectID": "slides/freedom.html#evaluating-fr2",
+    "href": "slides/freedom.html#evaluating-fr2",
+    "title": "Free Will",
+    "section": "Evaluating FR2",
+    "text": "Evaluating FR2\n\n\n\nArgument\n\n\n\nFR2. If one performs an action after deciding to perform it, then one\n\n\n\n\n\n\n\nHYPNOTIC ACTION\n\n\nTia is on the run from the law and knows the cops are hot on her trail. She is also a master hypnotist. As she passes Jordan on the street, she hypnotizes him and plants an irresistible post-hypnotic suggestion: whenever he hears someone shout Freeze! he will fall into a hypnotic trance and tackle the person who said it. Just then, Kabir the cop arrives on the scene, sees Tia, shouts Freeze!, and Jordan tackles him."
+  },
+  {
+    "objectID": "slides/freedom.html#evaluating-fr2-1",
+    "href": "slides/freedom.html#evaluating-fr2-1",
+    "title": "Free Will",
+    "section": "Evaluating FR2",
+    "text": "Evaluating FR2\n\n\n\nArgument\n\n\n\nFR2. If one performs an action after deciding to perform it, then one\n\n\n\n\n\n\n\nHYPNOTIC DECISION\n\n\nTia is on the run from the law and knows the cops are hot on her trail. She is also a master hypnotist. As she passes Colton on the street, she hypnotizes him and plants an irresistible post-hypnotic suggestion: whenever he hears someone shout Freeze! he will grow very angry with the person, decide to tackle them, and then tackle them. Just then, Kabir the cop arrives on the scene, sees Tia, and shouts Freeze! As a result of the hypnotic suggestion, Colton gets angry at Kabir, consciously decides to tackle him, and then tackles him."
+  },
+  {
+    "objectID": "slides/freedom.html#the-desire-argument",
+    "href": "slides/freedom.html#the-desire-argument",
+    "title": "Free Will",
+    "section": "The Desire Argument",
+    "text": "The Desire Argument\n\n\n\nArgument\n\n\n\nDS1. What you choose to do is always determined by your desires.\nDS2. What desires you have is not something that is in your control.\nDS3. So, what you choose to do is always determined by something you can’t control.\nDS4. If what you choose to do is always determined by something you can’t control, then you never act freely.\nDS5. So, you never act freely.\n\n\n\n\n\nD4 is motivated by HYPNOTIC DECISION."
+  },
+  {
+    "objectID": "slides/freedom.html#against-ds1",
+    "href": "slides/freedom.html#against-ds1",
+    "title": "Free Will",
+    "section": "Against DS1",
+    "text": "Against DS1\nSuppose your alarm goes off early in the morning, waking you up for your 8am class. Your bed is so cozy; your hangover, so vicious. There is no part of you that wants to get out of bed. And yet, somehow, you drag yourself out of bed and get to class.\n\n\n\nThe Argument from Undesired Action\n\n\n\nUA1. Your desire to stay in bed was stronger than your desire to get out of bed.\nUA2. If your desire to stay in bed was stronger than your desire to get out of bed, then what you choose to do is not always determined by your desires.\nUA3. So, what you choose to do is not always determined by your desires.\n\n\n\n\n\nUA2 is false. There are other desires in play here."
+  },
+  {
+    "objectID": "slides/freedom.html#against-d2",
+    "href": "slides/freedom.html#against-d2",
+    "title": "Free Will",
+    "section": "Against D2",
+    "text": "Against D2\n\n\n\nArgument\n\n\n\nDS2. You can’t control your desires.\n\n\n\n\nEven if I didn’t choose my desires, I can take steps to change them. So I have indirect control over them."
+  },
+  {
+    "objectID": "slides/freedom.html#determinism",
+    "href": "slides/freedom.html#determinism",
+    "title": "Free Will",
+    "section": "Determinism",
+    "text": "Determinism\n\nDeterminism\n\nEverything that’s happening now and that will happen in the future was already guaranteed to happen by things that happened in the distant past."
+  },
+  {
+    "objectID": "slides/freedom.html#the-argument-from-determinism",
+    "href": "slides/freedom.html#the-argument-from-determinism",
+    "title": "Free Will",
+    "section": "The Argument from Determinism",
+    "text": "The Argument from Determinism\n\n\n\nArgument\n\n\n\nDT1. Determinism is true.\nDT2. If determinism is true, then you are never able to do otherwise.\nDT3. If you are never able to do otherwise, then none of your actions are free.\nDT4. So, none of your actions are free.\n\n\n\n\n\nWhy DT1? Physics. Why DT2? Consequence Argument."
+  },
+  {
+    "objectID": "slides/freedom.html#dt1-and-the-doomed-regardless-argument",
+    "href": "slides/freedom.html#dt1-and-the-doomed-regardless-argument",
+    "title": "Free Will",
+    "section": "DT1 and the Doomed Regardless Argument",
+    "text": "DT1 and the Doomed Regardless Argument\n\n\n\nArgument\n\n\n\nDM1. If an action is determined to happen, then you couldn’t have done otherwise.\nDM2. If you couldn’t have done otherwise, then the action is not free.\nDM3. So, if an action is determined to happen, then it is not free.\nDM4. If an action happens randomly, then it is not free.\nDM5. Every action you perform is either determined to happen or happens randomly.\nDM6. So, none of your actions are free."
+  },
+  {
+    "objectID": "slides/freedom.html#dt2-and-the-consequence-argument",
+    "href": "slides/freedom.html#dt2-and-the-consequence-argument",
+    "title": "Free Will",
+    "section": "DT2 and the Consequence Argument",
+    "text": "DT2 and the Consequence Argument\n\n\n\nArgument\n\n\n\nCQ1. If determinism is true, then what you do is always a consequence of the laws of nature and the distant past.\nCQ2. You have no control over the laws of nature or the distant past\nCQ3. So, if determinism is true, then what you do is always a consequence of things over which you have no control.\nCQ4. If what you do is always a consequence of things over which you have no control, then you are never able to do otherwise\nDT2. So, if determinism is true, you are never able to do otherwise."
+  },
+  {
+    "objectID": "slides/freedom.html#against-dt3-hypnotic-backup",
+    "href": "slides/freedom.html#against-dt3-hypnotic-backup",
+    "title": "Free Will",
+    "section": "Against DT3: HYPNOTIC BACKUP",
+    "text": "Against DT3: HYPNOTIC BACKUP\n\n\n\nArgument\n\n\n\nDT3. If you are never able to do otherwise, then none of your actions are free.\n\n\n\n\n\n\n\nExample\n\n\nTia the master hypnotist is on the run from the law and hires Clay to tackle any cop who turns up. Concerned that Clay might betray her, Tia gives Clay an irresistible post-hypnotic suggestion to tackle any cop he sees, but which will kick in only if she triggers it by shouting Abracadabra! When Kabir the cop arrives on the scene, Tia keeps a watchful eye on Clay to see if he’s going to back out. But Clay comes through: he decides to tackle Kabir all on his own, without Tia having to trigger the post-hypnotic suggestion that would have forced him to tackle Kabir."
+  },
+  {
+    "objectID": "slides/freedom.html#the-argument-from-determined-decision",
+    "href": "slides/freedom.html#the-argument-from-determined-decision",
+    "title": "Free Will",
+    "section": "The Argument from Determined Decision",
+    "text": "The Argument from Determined Decision\n\n\n\nArgument\n\n\n\nDT1. Determinism is true.\nDT2*. If determinism is true, then you are never able to decide to do otherwise.\nDT3*. If you are never able to decide to do otherwise, then none of your actions are free.\nDT4. So, none of your actions are free."
+  },
+  {
+    "objectID": "slides/freedom.html#reflection-questions",
+    "href": "slides/freedom.html#reflection-questions",
+    "title": "Free Will",
+    "section": "Reflection Questions",
+    "text": "Reflection Questions\n\nPremise DS1 of the Desire Argument says that what you choose to do is always determined by your desires. But isn’t what you choose to do also at least partly determined by your beliefs? For instance, whether your desire for Taco Bell causes you to go to Taco Bell depends in part on whether you believe that Taco Bell is open for business. Can this observation about the influence of beliefs be used to challenge to Desire Argument?\nCan the Argument from Undesired Actions be defended against the objections raised? Are there better examples of undesired actions, which escape the objections?\nPremise DM5 of the Doomed Regardless Argument says that every action is either determined to happen or random. Is there really no middle ground?\nCan the HYPNOTIC BACKUP case cannot be revised to serve as a counterexample to DT3* of the Argument from Determined Decisions?"
+  },
+  {
+    "objectID": "slides/death.html#reminders",
+    "href": "slides/death.html#reminders",
+    "title": "Fearing Death",
+    "section": "Reminders",
+    "text": "Reminders\n\nFor today and next time, we are discussing Chapter 4, “Don’t Fear the Reaper”\nI am working on your exams. I will return them with comments."
+  },
+  {
+    "objectID": "slides/death.html#against-fearing-death",
+    "href": "slides/death.html#against-fearing-death",
+    "title": "Fearing Death",
+    "section": "Against Fearing Death",
+    "text": "Against Fearing Death\n\n\n\nArgument\n\n\n\nFD1. You cease to be conscious when you die.\nFD2. If you cease to be conscious when you die, then being dead is not bad for you.\nFD3. So, being dead is not bad for you.\nFD4. If being dead is not bad for you, then you should not fear death.\nFD5. So, you should not fear death.\n\n\n\n\n(We’ve talked about this one before!)\n\nGive them a chance to provide objections. Locate each objection."
+  },
+  {
+    "objectID": "slides/death.html#fd2",
+    "href": "slides/death.html#fd2",
+    "title": "Fearing Death",
+    "section": "FD2",
+    "text": "FD2\n\n\n\nArgument\n\n\n\nFD1. You cease to be conscious when you die.\nFD2. If you cease to be conscious when you die, then being dead is not bad for you.\nFD3. So, being dead is not bad for you.\nFD4. If being dead is not bad for you, then you should not fear death.\nFD5. So, you should not fear death."
+  },
+  {
+    "objectID": "slides/death.html#hedonism",
+    "href": "slides/death.html#hedonism",
+    "title": "Fearing Death",
+    "section": "Hedonism",
+    "text": "Hedonism\n\nHD\n\nSomething is bad for you if and only if it’s painful.\n\n\n\n‘Painful’ should be understood in a broad sense, to include psychological and emotional pain, in addition to physical pain and discomfort.\n\nCounterexamples?\n\n\neating a whole large pizza in one sitting is bad for you.\ndeep tissue massage is painful, but not bad for you."
+  },
+  {
+    "objectID": "slides/death.html#hedonism-1",
+    "href": "slides/death.html#hedonism-1",
+    "title": "Fearing Death",
+    "section": "Hedonism*",
+    "text": "Hedonism*\n\nHD*\n\nSomething is bad for you if and only if it results in more pain than you would otherwise have had.\n\n\nCounterexamples?"
+  },
+  {
+    "objectID": "slides/death.html#argument-from-hedonism",
+    "href": "slides/death.html#argument-from-hedonism",
+    "title": "Fearing Death",
+    "section": "Argument from Hedonism",
+    "text": "Argument from Hedonism\n\n\n\nArgument\n\n\n\nAH1. If you cease to be conscious when you die, then being dead doesn’t result in more pain than you would otherwise have had.\nHD*. Something is bad for you if and only if it results in more pain than you would otherwise have had.\nFD2. So, if you cease to be conscious when you die, then being dead isn’t bad for you.\n\n\n\n\nObjections?\n\nexpect objections to focus on HD*."
+  },
+  {
+    "objectID": "slides/death.html#objections-to-hd-from-the-book",
+    "href": "slides/death.html#objections-to-hd-from-the-book",
+    "title": "Fearing Death",
+    "section": "Objections to HD* from the Book",
+    "text": "Objections to HD* from the Book\n\nCongenital analgesia\n\nA condition which involves the inability to experience physical pain.\n\n\n\n\n\nArgument\n\n\n\nCA1. Someone who suffers from congenital analgesia cannot feel any pain.\nCA2. So, if HD* is true, nothing can ever be bad for such a person.\nCA3. But things can be bad for such a person.\nCA4. So, HD* is false.\n\n\n\n\nObjections?\n\nreply from the book: ‘pain’ includes psychological and emotional pain, and those suffering from congential analgesia can still suffer these kinds of pain."
+  },
+  {
+    "objectID": "slides/death.html#hedonism-2",
+    "href": "slides/death.html#hedonism-2",
+    "title": "Fearing Death",
+    "section": "Hedonism**",
+    "text": "Hedonism**\n\nHD**\n\nSomething is bad for you if and only if it results in more pain or less pleasure than you would otherwise have had.\n\n\nThis would undermine the Argument from Hedonism: death can deprive you of future pleasure, even if it cannot cause future pain."
+  },
+  {
+    "objectID": "slides/death.html#fd1",
+    "href": "slides/death.html#fd1",
+    "title": "Fearing Death",
+    "section": "FD1",
+    "text": "FD1\n\n\n\nArgument\n\n\n\nFD1. You cease to be conscious when you die.\nFD2. If you cease to be conscious when you die, then being dead is not bad for you.\nFD3. So, being dead is not bad for you.\nFD4. If being dead is not bad for you, then you should not fear death.\nFD5. So, you should not fear death."
+  },
+  {
+    "objectID": "slides/death.html#you-and-animal",
+    "href": "slides/death.html#you-and-animal",
+    "title": "Fearing Death",
+    "section": "You and Animal",
+    "text": "You and Animal\nRight where you are, there is a living, breathing, flesh-and-blood human animal. For simplicity, I’ll refer to it as ‘Animal’."
+  },
+  {
+    "objectID": "slides/death.html#against-post-mortem-consciousness",
+    "href": "slides/death.html#against-post-mortem-consciousness",
+    "title": "Fearing Death",
+    "section": "Against Post-Mortem Consciousness",
+    "text": "Against Post-Mortem Consciousness\n\n\n\nArgument\n\n\n\nPC1. If Animal ceases to be conscious when you die and you are Animal, then you cease to be conscious when you die.\nPC2. Animal ceases to be conscious when you die.\nPC3. You are Animal.\nFD1. So, you cease to be conscious when you die.\n\n\n\n\nObjections?\n\nNote how ‘you are animal’ relates to ‘you are your body’ and ‘you are your mind’ from last chapter."
+  },
+  {
+    "objectID": "slides/death.html#too-many-thinkers",
+    "href": "slides/death.html#too-many-thinkers",
+    "title": "Fearing Death",
+    "section": "Too Many Thinkers",
+    "text": "Too Many Thinkers\n\n\n\nArgument\n\n\n\nTT1. Animal is in your chair and is thinking.\nTT2. You are the only thing in your chair that is thinking.\nPC3. So you are Animal.\n\n\n\n\nObjections?\n\nobjections to TT1: maybe it is your soul, not animal, that thinks? Appeal to squirrels.\nobjections to TT2: maybe animal is thinking animal thoughts: food, etc; and you are thinking abstract thoughts. But you share a brain…"
+  },
+  {
+    "objectID": "slides/death.html#fd4",
+    "href": "slides/death.html#fd4",
+    "title": "Fearing Death",
+    "section": "FD4",
+    "text": "FD4\n\n\n\nArgument\n\n\n\nFD1. You cease to be conscious when you die.\nFD2. If you cease to be conscious when you die, then being dead is not bad for you.\nFD3. So, being dead is not bad for you.\nFD4. If being dead is not bad for you, then you should not fear death.\nFD5. So, you should not fear death."
+  },
+  {
+    "objectID": "slides/death.html#irrational-fears",
+    "href": "slides/death.html#irrational-fears",
+    "title": "Fearing Death",
+    "section": "Irrational Fears",
+    "text": "Irrational Fears\n\nA tarantula crawls onto your hand. It’s unlikely to bite you, and even if it did, it actually wouldn’t be any more painful or harmful than an ordinary bee sting. But even knowing how harmless they are, you are still utterly terrified of the tarantula crawling onto you."
+  },
+  {
+    "objectID": "slides/death.html#against-fearing-death-1",
+    "href": "slides/death.html#against-fearing-death-1",
+    "title": "Fearing Death",
+    "section": "Against Fearing Death",
+    "text": "Against Fearing Death\n\n\n\nArgument\n\n\n\nFD1. You cease to be conscious when you die.\nFD2. If you cease to be conscious when you die, then being dead is not bad for you.\nFD3. So, being dead is not bad for you.\nFD4. If being dead is not bad for you, then you should not fear death.\nFD5. So, you should not fear death.\n\n\n\n\n\nWhich premise(s), if any, are you still inclined to reject?\nAre you confident that you can reject that premise, in light of the further arguments raised?"
+  },
+  {
+    "objectID": "slides/death.html#reflection-questions",
+    "href": "slides/death.html#reflection-questions",
+    "title": "Fearing Death",
+    "section": "Reflection Questions",
+    "text": "Reflection Questions\n\nCan you think of counterexamples to the hedonist principle HD*? Do your counterexamples support HD**?\nDoes HD* imply that being born into this world was bad for you? If so, can it be modified to avoid this implication?\nAre you convinced by the argument that you are Animal? How does such a view fare when it comes to body swap and fission cases?\nIs it rational to fear something because it’s bad for others? Should we fear death because (and only because) of how our deaths will affect other people?"
+  },
+  {
+    "objectID": "slides/utilitarianism.html#announcements",
+    "href": "slides/utilitarianism.html#announcements",
+    "title": "Utilitarianism",
+    "section": "Announcements",
+    "text": "Announcements\n\nWe need to decide on topics for the last two weeks.\nFinal Exam time: 3:35pm section:M 12/7, 10:00am–noon in this room.\nHow to find this info on my.illinoisstate.edu"
+  },
+  {
+    "objectID": "slides/utilitarianism.html#ideas",
+    "href": "slides/utilitarianism.html#ideas",
+    "title": "Utilitarianism",
+    "section": "Ideas?",
+    "text": "Ideas?\nPLEASE REMIND ME TO SAVE WHATEVER WE COME UP WITH!!!\n\n\nmoral relativism\ncultural appropriation\naesthetic taste\nhappiness and career choice\nimmoral art\nphilosophy of games\nbullshit\nwhat (if anything) gives life meaning?\ntime is not real\nchange is impossible: Zeno’s paradoxes\nIs virtual reality real?\nDoes AI understand what it is talking about?\nCan machines think?\nWould it be good or bad to be immortal?\nDivine foreknowledge and free will\nParadoxes of material constitution: heaps, Ship of Theseus, statue and clay, Tibbles and Tib"
+  },
+  {
+    "objectID": "slides/utilitarianism.html#what-we-seek",
+    "href": "slides/utilitarianism.html#what-we-seek",
+    "title": "Utilitarianism",
+    "section": "What We Seek",
+    "text": "What We Seek\n\nA perfectly general answer to the question of which things are right and wrong, an answer that identifies what makes right actions right and wrong actions wrong."
+  },
+  {
+    "objectID": "slides/utilitarianism.html#section",
+    "href": "slides/utilitarianism.html#section",
+    "title": "Utilitarianism",
+    "section": "",
+    "text": "Consequentialism\n\nWhat makes an act right or wrong is a matter of its consequences: a right act is one that has good results; a wrong act is one that has bad results.\n\n\n\nget them to think about the difference between ‘right’ and ‘good’ and ‘wrong’ and ‘bad’."
+  },
+  {
+    "objectID": "slides/utilitarianism.html#explaining-cases",
+    "href": "slides/utilitarianism.html#explaining-cases",
+    "title": "Utilitarianism",
+    "section": "Explaining Cases",
+    "text": "Explaining Cases\nCheating on your romantic partner is wrong. Why?\n\nBecause it leads to so much emotional pain, in exchange for a comparably small and short-lived amount of sexual gratification."
+  },
+  {
+    "objectID": "slides/utilitarianism.html#absurd-disconnect",
+    "href": "slides/utilitarianism.html#absurd-disconnect",
+    "title": "Utilitarianism",
+    "section": "Absurd Disconnect",
+    "text": "Absurd Disconnect\nSuppose AU is false. Then:\n\nSometimes, it is wrong to perform the best act—the act that makes the world a better place than any other available act.\nSometimes, it is right to perform a worse act—an act that makes the world worse than it would be if you had done something else.\n\nBut (1) and (2) are absurd. So AU is true."
+  },
+  {
+    "objectID": "slides/utilitarianism.html#egalitarianism",
+    "href": "slides/utilitarianism.html#egalitarianism",
+    "title": "Utilitarianism",
+    "section": "Egalitarianism",
+    "text": "Egalitarianism\nEveryone’s happiness counts equally.\nOppressive laws and practices—sexist, racist, homophobic, transphobic, etc.—have a dramatic negative effect on the happiness of the oppressed, and this outweighs any positive effect they have on the happiness of others—so they are therefore wrong.\n(Historically, Act Utilitarians have been important advocates for social reform.)"
+  },
+  {
+    "objectID": "slides/utilitarianism.html#subjectivity-relativity-and-objectivity",
+    "href": "slides/utilitarianism.html#subjectivity-relativity-and-objectivity",
+    "title": "Utilitarianism",
+    "section": "Subjectivity, Relativity, and Objectivity",
+    "text": "Subjectivity, Relativity, and Objectivity\nIt is a truism that morality is subjective and relative. But there is also pressure to think that some moral demands are objective and absolute. Act Utilitarianism can explain this."
+  },
+  {
+    "objectID": "slides/utilitarianism.html#subjectivity-and-relativity",
+    "href": "slides/utilitarianism.html#subjectivity-and-relativity",
+    "title": "Utilitarianism",
+    "section": "Subjectivity and Relativity",
+    "text": "Subjectivity and Relativity\nWhat makes you happy is subjective. Different people find pleasure in different things.\nSo morality is both subjective and relative: facts about what is right and wrong are relative to, and must respect, these subjective differences.\n\nTipping in Japan vs. US"
+  },
+  {
+    "objectID": "slides/utilitarianism.html#objectivity",
+    "href": "slides/utilitarianism.html#objectivity",
+    "title": "Utilitarianism",
+    "section": "Objectivity",
+    "text": "Objectivity\n\n\n\nCONDONED LOBOTOMIES\n\n\nThe leaders of a certain oppressive country instituted a law that requires all newborn girls to be lobotomized. Dissenters were lobotomized as well. After a few generations, there are no more dissenters. The men are all happy with the arrangement, and the women are all lobotomized and have no opinion on the matter.\n\n\n\nWhat matters for right and wrong is not what people believe makes them happy, but what actually makes them happy. So in this sense, right and wrong are objective."
+  },
+  {
+    "objectID": "slides/utilitarianism.html#section-1",
+    "href": "slides/utilitarianism.html#section-1",
+    "title": "Utilitarianism",
+    "section": "",
+    "text": "ORGAN DISTRIBUTION\n\n\nJonathan is a doctor, and his patient Nick is coming in for a routine physical. Looking over his past bloodwork, Jonathan realizes that Nick’s organs are an exact match for five patients in critical condition upstairs in the Intensive Care Unit. When Nick arrives, Jonathan kills him (painlessly), making it look like an accident. Since Nick is an organ donor, his body is rushed upstairs, and his heart, lungs, liver, and each of his kidneys are successfully transplanted into those five patients, saving their lives. No other organs arrived that day, and the five patients would have died had Jonathan not killed Nick for his organs. The five patients all go on to lead long, happy lives. No one ever finds out that Nick’s death was not an accident."
+  },
+  {
+    "objectID": "slides/utilitarianism.html#the-organ-distribution-argument",
+    "href": "slides/utilitarianism.html#the-organ-distribution-argument",
+    "title": "Utilitarianism",
+    "section": "The Organ Distribution Argument",
+    "text": "The Organ Distribution Argument\n\n\n\nArgument\n\n\n\nOD1. Killing Nick has a greater positive effect on overall levels of happiness than letting him live.\nOD2. If killing Nick has a greater positive effect on overall levels of happiness than letting him live, then: if act utilitarianism is true, then killing Nick was the right thing to do.\nOD3. Killing Nick was not the right thing to do.\nOD4. So, act utilitarianism is false.\n\n\n\n\nObjections?"
+  },
+  {
+    "objectID": "slides/utilitarianism.html#section-2",
+    "href": "slides/utilitarianism.html#section-2",
+    "title": "Utilitarianism",
+    "section": "",
+    "text": "Rule Utilitarianism\n\nPerforming a certain action is the right thing to do if and only if it is prescribed by the collection of rules that, if adopted, would have the greatest positive effect on overall levels of happiness\n\n\nMaybe we can explain why killing Nick was wrong by shifting to Rule Utilitarianism instead?"
+  },
+  {
+    "objectID": "slides/utilitarianism.html#rules-for-promising",
+    "href": "slides/utilitarianism.html#rules-for-promising",
+    "title": "Utilitarianism",
+    "section": "Rules for Promising",
+    "text": "Rules for Promising\n\nDon’t break a promise unless something more important comes up.\nDon’t ever break promises.\nDon’t break a promise unless you need to save someone who is having a heart attack by driving them to the hospital.\n\nAdopting rule (3) over rule (2) saves the man with the heart attack and avoids putting the whole institution of making promises at risk. So we should adopt (3). So it was right to break the promise."
+  },
+  {
+    "objectID": "slides/utilitarianism.html#rules-for-harvesting",
+    "href": "slides/utilitarianism.html#rules-for-harvesting",
+    "title": "Utilitarianism",
+    "section": "Rules for Harvesting",
+    "text": "Rules for Harvesting\n\nDon’t kill innocent patients unless by doing so I can save multiple lives.\nNever kill innocent patients.\nDon’t kill innocent patients unless nobody will ever find out and by doing so I can save multiple lives.\n\n(Secretly) adopting rule (3) saves the five and avoids scaring off patients from doctors. So should adopt rule (3) over rule (2). So it was right for the doctor to harvest Nick’s organs."
+  },
+  {
+    "objectID": "slides/utilitarianism.html#section-3",
+    "href": "slides/utilitarianism.html#section-3",
+    "title": "Utilitarianism",
+    "section": "",
+    "text": "Discuss.\nShould you go straight or divert the trolley to the left?"
+  },
+  {
+    "objectID": "slides/utilitarianism.html#the-trolley-argument",
+    "href": "slides/utilitarianism.html#the-trolley-argument",
+    "title": "Utilitarianism",
+    "section": "The Trolley Argument",
+    "text": "The Trolley Argument\n\n\n\nArgument\n\n\n\nTR1. If there is no morally relevant difference between two actions A and B, and A is the right thing to do, then B is the right thing to do.\nTR2. Diverting the trolley was the right thing to do.\nTR3. There is no morally relevant difference between diverting the trolley and killing the patient, Nick.\nTR4. So, killing Nick was the right thing to do.\n\n\n\n\nObjections?\n\nIf Corrine hadn’t swerved, she would have killed those five pledges.\nIf Jonathan hadn’t killed Nick, the five patients would have died, but he wouldn’t have killed them.\nKilling is worse than letting die."
+  },
+  {
+    "objectID": "slides/utilitarianism.html#section-4",
+    "href": "slides/utilitarianism.html#section-4",
+    "title": "Utilitarianism",
+    "section": "",
+    "text": "discuss"
   },
   {
     "objectID": "slides/abortion.html#announcements",
