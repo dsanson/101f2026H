@@ -114,6 +114,7 @@ title: Schedule
   - M 11/9
   - []{rowspan=2} Utilitarianism
   - []{rowspan=2} [What Makes Things Right](https://www.davidsanson.com/learning-from-arguments-remix/utilitarianism.html)
+  - [Slides](slides/utilitarianism.md)
 
 - - W 11/11
 
