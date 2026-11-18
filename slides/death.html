@@ -141,16 +141,6 @@
     background-color: rgba(255, 255, 255, 0.8);
     width: 50%;
   <style>
-  .reveal div.callout-argument.callout {
-    border-left-color: yellow;
-  }
-  .reveal div.callout-argument.callout-style-default .callout-title {
-    background-color: rgb(from yellow r g b / 13%);
-  }
-  .reveal div.callout-argument.callout-style-default .callout-icon::before, .reveal div.callout-argument.callout-titled .callout-icon::before {
-    content: '🥊';
-    background-image: none;
-  }
   .reveal div.callout-example.callout {
     border-left-color: purple;
   }
@@ -159,6 +149,16 @@
   }
   .reveal div.callout-example.callout-style-default .callout-icon::before, .reveal div.callout-example.callout-titled .callout-icon::before {
     content: '💭';
+    background-image: none;
+  }
+  .reveal div.callout-argument.callout {
+    border-left-color: yellow;
+  }
+  .reveal div.callout-argument.callout-style-default .callout-title {
+    background-color: rgb(from yellow r g b / 13%);
+  }
+  .reveal div.callout-argument.callout-style-default .callout-icon::before, .reveal div.callout-argument.callout-titled .callout-icon::before {
+    content: '🥊';
     background-image: none;
   }
   </style>
