@@ -1,21 +1,52 @@
 [
   {
-    "id": "korman2022",
+    "id": "adams1982",
     "author": [
       {
-        "family": "Korman",
-        "given": "Daniel"
+        "family": "Adams",
+        "given": "Douglas"
       }
     ],
-    "citation-key": "korman2022",
+    "citation-key": "adams1982",
+    "ISBN": "0-330-26738-8",
     "issued": {
       "date-parts": [
         [
-          "2022"
+          "1982"
         ]
       ]
     },
-    "title": "Learning from arguments: an introduction to philosophy",
+    "publisher": "Harmony Books",
+    "title": "Life, the universe and everything",
     "type": "book"
+  },
+  {
+    "id": "nagel1971",
+    "author": [
+      {
+        "family": "Nagel",
+        "given": "Thomas"
+      }
+    ],
+    "citation-key": "nagel1971",
+    "container-title": "The Journal of Philosophy",
+    "container-title-short": "J. Philos.",
+    "DOI": "10.2307/2024942",
+    "ISSN": "0022-362X",
+    "issue": "20",
+    "issued": {
+      "date-parts": [
+        [
+          "1971"
+        ]
+      ]
+    },
+    "page": "716–727",
+    "publisher": "Journal of Philosophy, Inc.",
+    "source": "JSTOR",
+    "title": "The absurd",
+    "type": "article-journal",
+    "URL": "https://www.jstor.org/stable/2024942",
+    "volume": "68"
   }
 ]
