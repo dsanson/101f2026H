@@ -120,7 +120,9 @@ title: Schedule
 
 - - []{rowspan=2} 14
   - M 11/16
-  - TBD by class
+  - Meaning of Life
+  - \ \ 
+  - [Slides](slides/meaning.md)
 
 - - W 11/18
   - TBD by class

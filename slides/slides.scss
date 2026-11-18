@@ -2,6 +2,9 @@
 
 .reveal .slides .center {
   text-align: center;
+  .callout, blockquote {
+    text-align: left;
+  }
 }
 
 .callout {
